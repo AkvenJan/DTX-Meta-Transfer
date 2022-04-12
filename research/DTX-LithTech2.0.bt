@@ -1,0 +1,66 @@
+LittleEndian();   
+     unsigned int   FileType;
+     int            Version;
+//-2 = DTX_VERSION_LT1
+//-3 = DTX_VERSION_LT15
+//-5 = DTX_VERSION_LT2
+
+     unsigned short Width;
+     unsigned short Height;
+     unsigned short NumberOfMipmaps;
+     unsigned short LightFlag;
+//0 = no light
+//1 = light parameter is used
+//Light is treated like a command string. If LightFlag equals 1, string is added to the end of the file starting with
+//LIGHTDEFS
+
+BitfieldDisablePadding();
+BitfieldLeftToRight();
+struct bits {
+    int Use4444in16bit:1;
+    int Flag2:1;
+    int Flag3:1;
+    int Flag4:1;
+    int Flag5:1; //always 1
+    int Flag6:1;
+    int Prefer16bit:1;
+    int FullBrights:1;
+    int Flag9:1;
+    int Flag10:1;
+    int Flag11:1;
+    int Flag12:1;
+    int Flag13:1;
+    int Flag14:1;
+    int Flag15:1;
+    int Use5551in16bit:1;
+};
+bits BitFlags;
+//Use4444 and Use5551 cannot be combined (cannot be both set to 1)
+//Prefer16bit, FullBrights and UseXXXX can be combined
+
+     unsigned short UNKNOWN1; //maybe another set of flags
+     int            UserFlags;
+     unsigned byte  Group;
+     byte           UNKNOWN2;
+     byte           BPP;
+//0 = 8 bit palette
+//1 = 8 bit
+//2 = 16 bit
+//3 = GL_RGBA, 32bit
+//4 = GL_COMPRESSED_RGBA_S3TC_DXT1_EXT
+//5 = GL_COMPRESSED_RGBA_S3TC_DXT3_EXT
+//6 = GL_COMPRESSED_RGBA_S3TC_DXT5_EXT
+//7 = 32 bit palette
+//NOLF use 3,4,5,6 formats
+
+     unsigned byte  NonS3TCOffset;
+     unsigned byte  UIMipmapOffset;
+     byte           UNKNOWN3;
+     float          DetailScale;
+//Detail Scale in DEDIT = DetailScale + 1
+     signed short   DetailAngle;
+     char           CommandStringBegin[128];
+//All the bytes behind the actual data of the Command String filled with 00 until the end of its 128 bytes
+//if first byte of the Command String is 00, it treats it as empty command string, the content of the remaining bytes
+//may be random, their value is irrelevant, but 128 bytes reserved anyway
+//After that goes actual image data, I didn't templated that
