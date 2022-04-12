@@ -1,0 +1,116 @@
+struct LTString
+{
+	ushort length;
+	char content[length];
+};
+
+struct Colour
+{
+	ubyte alpha;
+	ubyte red;
+	ubyte green;
+	ubyte blue;
+};
+
+struct Header
+{
+	uint unknown;
+	enum { DTX_VERSION=-2 } version;
+	ushort width;
+	ushort height;
+	ushort mipmap_count; // mip map count or bytes per pixel? always 4
+	ushort has_lights;
+	uint flags <format=hex>;
+	/*
+	DTX_FULLBRITE       (1<<0)  // This DTX has fullbrite colors (this means palette index 255 will be unaffected by lighting)
+	DTX_ALPHA_MASKS     (1<<1)  // This texture contains alpha masks
+	DTX_UNKNOWN         (1<<2)  // Unknown
+	DTX_UNKNOWN         (1<<3)  // Unknown, probably compatibility bit; seems to always be set
+	DTX_UNKNOWN         (1<<4)  // Unknown
+	DTX_DONT_MAP_MASTER (1<<5)  // Don't map to master palette
+	*/
+	uint surface_flags <format=hex>;
+	/*
+	enum SurfaceType from Blood 2's SharedDefs.h:
+
+	SURFTYPE_UNKNOWN = 0,  // Could be anything
+	SURFTYPE_STONE   = 10,  // Stone
+	SURFTYPE_METAL   = 20,  // Metal
+	SURFTYPE_WOOD    = 30,  // Wood
+	SURFTYPE_ENERGY  = 40,  // Energy (Force fields, etc)
+	SURFTYPE_GLASS   = 50,  // Glass
+	SURFTYPE_BUILDING= 60,
+	SURFTYPE_TERRAIN = 70,  // Dirt, ice, etc.
+	SURFTYPE_CLOTH   = 80,  // Cloth, carpet, furniture
+	SURFTYPE_PLASTIC = 90,
+	SURFTYPE_FLESH   = 100,
+	SURFTYPE_SKY     = 110,  // Sky textures
+	SURFTYPE_FIRETHROUGH = 120,  // Vector weapons can fire through
+	SURFTYPE_LIQUID  = 200,
+	SURFTYPE_MAX,
+	*/
+	ubyte group;
+	ubyte mipmaps_used_count; // 0 = 4?
+
+	// these alpha_ values are hints for the software renderer
+	ubyte alpha_cutoff; // seems to be limited to [128-255]
+	ubyte alpha_average;
+
+	uint unknown;
+	uint unknown;
+	ubyte unknown;
+	ubyte unknown;
+	ushort unknown;
+	ubyte unknown;
+	ubyte unknown;
+	ushort unknown;
+} header;
+
+Colour colours[256]; // no matter how many colours are used it always has 256 here
+
+local int i, x, y;
+for(i=0; i<header.mipmap_count; ++i)
+{
+	struct Pixels
+	{
+		for(y=0; y<header.height >> i; ++y)
+		{
+			for(x=0; x<header.width >> i; ++x)
+			{
+				ubyte pixels;
+			}
+		}
+	} mipmaps;
+}
+
+if (header.flags[0] & 2 /* DTX_ALPHA_MASKS */)
+{
+	for (i=0; i<header.mipmap_count; ++i)
+	{
+		struct AlphaMap
+		{
+			for(y=0; y<header.height >> i; ++y)
+			{
+				for(x=0; x<header.width/2 >> i; ++x) // div width by 2 because 4 bpp alpha
+				{
+					ubyte alpha : 4;
+					ubyte alpha : 4;
+				}
+			}
+		} alpha_maps;
+	}
+}
+
+if (header.has_lights)
+{
+	struct Lights
+	{
+		char LIGHTDEFS[];
+				char unknown[18]; // decompile suggests this might just be uninitialized memory
+		struct LTLongString
+		{
+			uint length;
+			char content[];
+		} string_;
+	} lights;
+}
