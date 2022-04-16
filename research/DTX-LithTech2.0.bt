@@ -1,14 +1,16 @@
 LittleEndian();   
-     unsigned int   FileType;
-     int            Version;
+     uint32   FileType;
+     enum { DTX_VERSION_LT1=-2, DTX_VERSION_LT15=-3,DTX_VERSION_LT2=-5} version;
 //-2 = DTX_VERSION_LT1
 //-3 = DTX_VERSION_LT15
 //-5 = DTX_VERSION_LT2
 
-     unsigned short Width;
-     unsigned short Height;
-     unsigned short NumberOfMipmaps;
-     unsigned short LightFlag;
+     uint16 Width;
+     uint16 Height;
+     uint16 NumberOfMipmaps;
+//Always 4 as DTX always hold all 4 mipmaps
+
+     uint16 LightFlag;
 //0 = no light
 //1 = light parameter is used
 //Light is treated like a command string. If LightFlag equals 1, string is added to the end of the file starting with
@@ -17,48 +19,55 @@ LittleEndian();
 BitfieldDisablePadding();
 BitfieldLeftToRight();
 struct bits {
-    int Use4444in16bit:1;
-    int Flag2:1;
-    int Flag3:1;
-    int Flag4:1;
-    int Flag5:1; //always 1
-    int Flag6:1;
-    int Prefer16bit:1;
-    int FullBrights:1;
-    int Flag9:1;
-    int Flag10:1;
-    int Flag11:1;
-    int Flag12:1;
-    int Flag13:1;
-    int Flag14:1;
-    int Flag15:1;
-    int Use5551in16bit:1;
+    int DTX_PREFER4444:1;     //DTX_PREFER4444 = If in 16-bit mode, use a 4444 texture for this
+    int DTX_NOSYSCACHE:1;     //DTX_NOSYSCACHE = tells it to not put the texture in the texture cache list
+    int DTX_FLAG2:1;          //Unknown
+    int DTX_FLAG3:1;          //Unknown
+    int DTX_SECTIONSFIXED:1;
+    // always 1
+    // The sections count was screwed up originally.  This flag is set
+    // in all the textures from now on when the count is fixed
+    int DTX_MIPSALLOCED:1;    //DTX_MIPSALLOCED = Used to make some of the tools stuff easier. This means each TextureMipData has its texture data allocated
+    int DTX_PREFER16BIT:1;    //DTX_PREFER16BIT = Use 16-bit, even if in 32-bit mode
+    int DTX_FULLBRITE:1;      //DTX_FULLBRITE = This DTX has fullbrite colors
+    int DTX_FLAG8:1;          //Unknown
+    int DTX_FLAG9:1;          //Unknown
+    int DTX_FLAG10:1;         //Unknown
+    int DTX_LUMBUMPMAP:1;     //DTX_LUMBUMPMAP = Bump mapped texture with luminance, this has 8 bits for luminance, U and V
+    int DTX_BUMPMAP:1;        //DTX_BUMPMAP = Bump mapped texture, this has 8 bit U and V components for the bump normal
+    int DTX_CUBEMAP:1;        //DTX_CUBEMAP = Cube environment map.  +x is stored in the normal data area, -x,+y,-y,+z,-z are stored in their own sections
+    int DTX_32BITSYSCOPY:1;   //DTX_32BITSYSCOPY = If there is a sys copy - don't convert it to device specific format (keep it 32 bit)
+    int DTX_PREFER5551:1;     //DTX_PREFER5551 = Use 5551 if 16-bit
 };
 bits BitFlags;
-//Use4444 and Use5551 cannot be combined (cannot be both set to 1)
-//Prefer16bit, FullBrights and UseXXXX can be combined
+//DTX_PREFER4444 and DTX_PREFER5551  cannot be combined (cannot be both set to 1)
+//DTX_PREFER16BIT, DTX_FULLBRITE and DTX_PREFER4444/DTX_PREFER5551 can be combined
 
-     unsigned short UNKNOWN1; //maybe another set of flags
-     int            UserFlags;
-     unsigned byte  Group;
-     byte           UNKNOWN2;
-     byte           BPP;
-//0 = 8 bit palette
-//1 = 8 bit
-//2 = 16 bit
-//3 = GL_RGBA, 32bit
-//4 = GL_COMPRESSED_RGBA_S3TC_DXT1_EXT
-//5 = GL_COMPRESSED_RGBA_S3TC_DXT3_EXT
-//6 = GL_COMPRESSED_RGBA_S3TC_DXT5_EXT
-//7 = 32 bit palette
-//NOLF use 3,4,5,6 formats
+     uint16 UNKNOWN1;              //maybe another set of flags, Flags that go on surfaces.
+     int32          UserFlags;
+     unsigned byte  TextureGroup;
+     byte           NumberOfMipmapsUsed;
+//0 = default value if all 4 mipmaps are used
+//1-3 = if custom number of used mipmaps is set
 
-     unsigned byte  NonS3TCOffset;
-     unsigned byte  UIMipmapOffset;
-     byte           UNKNOWN3;
+     enum <byte> {BPP_32=3, BPP_S3TC_DXT1=4, BPP_S3TC_DXT3=5, BPP_S3TC_DXT5=6} BPP;
+//0 = 8 bit palette, BPP_8P
+//1 = 8 bit, BPP_8
+//2 = 16 bit, BPP_16
+//3 = GL_RGBA, 32bit, BPP_32
+//4 = GL_COMPRESSED_RGBA_S3TC_DXT1_EXT, BPP_S3TC_DXT1
+//5 = GL_COMPRESSED_RGBA_S3TC_DXT3_EXT, BPP_S3TC_DXT3
+//6 = GL_COMPRESSED_RGBA_S3TC_DXT5_EXT, BPP_S3TC_DXT5
+//7 = 32 bit palette, BPP_32P
+//8 = 24 bit, BPP_24
+//NOLF uses 3,4,5,6 formats
+
+     unsigned byte  NonS3TCOffset;      //Mipmap offset if the card doesn't support S3TC compression.
+     unsigned byte  UIMipmapOffset;     //Mipmap offset applied to texture coords (so a 512 could be treated like a 256 or 128 texture in the editor).
+     byte           TexturePriority;    //Texture priority (default 0)
      float          DetailScale;
-//Detail Scale in DEDIT = DetailScale + 1
-     signed short   DetailAngle;
+//Detail Scale shown in Dedit = DetailScale + 1 (for example 5 in file is 6 in Dedit)
+     signed short   DetailAngle;        //Detail texture angle (integer degrees)
      char           CommandStringBegin[128];
 //All the bytes behind the actual data of the Command String filled with 00 until the end of its 128 bytes
 //if first byte of the Command String is 00, it treats it as empty command string, the content of the remaining bytes

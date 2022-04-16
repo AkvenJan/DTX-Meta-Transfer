@@ -15,7 +15,7 @@ struct Colour
 struct Header
 {
 	uint unknown;
-	enum { DTX_VERSION=-2 } version;
+    enum { DTX_VERSION_LT1=-2, DTX_VERSION_LT15=-3,DTX_VERSION_LT2=-5} version;
 	ushort width;
 	ushort height;
 	ushort mipmap_count; // mip map count or bytes per pixel? always 4
