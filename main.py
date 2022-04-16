@@ -71,6 +71,8 @@ if args.read:
     DTX_32BITSYSCOPY="DTX_32BITSYSCOPY " if int(DTX_FLAGS[14]) else ""
     DTX_PREFER5551="DTX_PREFER5551 " if int(DTX_FLAGS[15]) else ""
 
+    DTX_LIGHT_FLAG=int.from_bytes(byte[14:16], 'little', signed=False)
+
     print('Filename=' + args.input)
     print('DTX_VERSION=' + str(DTX_VERSION) )
     print('Size=' + str(DTX_WIDTCH) + 'x' + str(DTX_HEIGHT) )
@@ -85,3 +87,4 @@ if args.read:
     print('Detail Angle=' + str(DTX_DETAIL_ANGLE))
     print('Command String=' + DTX_COMMAND_STRING)
     print('DTX Flags=' + DTX_FLAGS + ": " + DTX_PREFER4444 + DTX_NOSYSCACHE + DTX_SECTIONSFIXED + DTX_MIPSALLOCED + DTX_PREFER16BIT + DTX_FULLBRITE + DTX_LUMBUMPMAP + DTX_BUMPMAP + DTX_CUBEMAP + DTX_32BITSYSCOPY + DTX_PREFER5551)
+    print('Light Flag=' + str(DTX_LIGHT_FLAG))
