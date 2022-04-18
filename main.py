@@ -1,90 +1,80 @@
 import argparse
 import sys
 import struct
+import io
 
-from sqlalchemy import null 
-
-# all the available arguments
+# Setting all the available arguments
 parser = argparse.ArgumentParser()
 parser.add_argument("-i", "--input", help="Path and file name of the input DTX to read meta from")
 parser.add_argument("-o","--output", help="Path and file name of the output DTX to transfer meto to")
 parser.add_argument("-r","--read", help="Option to just read the input file",action="store_true")
 args = parser.parse_args()
 
-# reading input file
+# Reading input file
 input_file=open(args.input, 'rb')
 
-# reading input file header in HEX format. Reading 164 bytes
-byte = input_file.read(164)
-    
-# printing whole input file in HEX format for tests
-print(byte)
+# Reading header of the file. Thanks to Amphos
+class DtxHeader(object):
+    def __init__(self): # called on creation, set up some sane defaults
+        self.filetype = 0
+        self.version = -5
+        self.width = -1
+        self.height = -1
+        self.mipmaps = 4
 
-# printing file type
-# If I say to read bytes from 3 and 4 (counting from 1), I need to set it as 2:4
-print(int.from_bytes(byte[0:4], 'little', signed=False))     #converting to int32
+    # Parsing the whole header like a stream of bytes using research for DTX v2
+    def parse(self, bytes_): # bytes_ is a byte stream, so it implicitly keeps place as you .read(n) from it
+        self.filetype = int.from_bytes(bytes_.read(4), 'little', signed=False)
+        self.version = int.from_bytes(bytes_.read(4), 'little', signed=True)
+        self.width = int.from_bytes(bytes_.read(2), 'little', signed=False)
+        self.height = int.from_bytes(bytes_.read(2), 'little', signed=False)
+        self.mipmaps_default = int.from_bytes(bytes_.read(2), 'little', signed=False)
+        self.light_flag = int.from_bytes(bytes_.read(2), 'little', signed=False)
 
-# checking DTX_VERSION, signed int32. Should be -5
-DTX_VERSION=int.from_bytes(byte[4:8], 'little', signed=True)
+        # Parsing DTX Flags
+        self.dtx_flags = "{:08b}".format(int.from_bytes(bytes_.read(1), 'little', signed=False)) + "{:08b}".format(int.from_bytes(bytes_.read(1), 'little', signed=False))
+        # Bit Flags for DTX Flags
+        self.DTX_PREFER4444="DTX_PREFER4444 " if int(self.dtx_flags[0]) else ""
+        self.DTX_NOSYSCACHE="DTX_NOSYSCACHE " if int(self.dtx_flags[1]) else ""
+        self.DTX_SECTIONSFIXED="DTX_SECTIONSFIXED " if int(self.dtx_flags[4]) else ""
+        self.DTX_MIPSALLOCED="DTX_MIPSALLOCED " if int(self.dtx_flags[5]) else ""
+        self.DTX_PREFER16BIT="DTX_PREFER16BIT " if int(self.dtx_flags[6]) else ""
+        self.DTX_FULLBRITE="DTX_FULLBRITE " if int(self.dtx_flags[7]) else ""
+        self.DTX_LUMBUMPMAP="DTX_LUMBUMPMAP " if int(self.dtx_flags[11]) else ""
+        self.DTX_BUMPMAP="DTX_BUMPMAP " if int(self.dtx_flags[12]) else ""
+        self.DTX_CUBEMAP="DTX_CUBEMAP " if int(self.dtx_flags[13]) else ""
+        self.DTX_32BITSYSCOPY="DTX_32BITSYSCOPY " if int(self.dtx_flags[14]) else ""
+        self.DTX_PREFER5551="DTX_PREFER5551 " if int(self.dtx_flags[15]) else ""
 
-# output_file=open(sys.argv[2], 'rb')
-# outpit_file.write()
+        # Everything else
+        self.unknown = int.from_bytes(bytes_.read(2), 'little', signed=False)
+        self.user_flags = int.from_bytes(bytes_.read(4), 'little', signed=True)
+        self.texture_group = int.from_bytes(bytes_.read(1), 'little', signed=False)
+        self.mipmaps_used = int.from_bytes(bytes_.read(1), 'little', signed=True)
+        self.mipmaps_used = 4 if self.mipmaps_used == 0 else self.mipmaps_used
+        self.bpp = int.from_bytes(bytes_.read(1), 'little', signed=True)
+        self.non_s3tc_offset = int.from_bytes(bytes_.read(1), 'little', signed=False)
+        self.ui_mipmap_offset = int.from_bytes(bytes_.read(1), 'little', signed=False)
+        self.texture_priority = int.from_bytes(bytes_.read(1), 'little', signed=True)
+        self.detail_scale = struct.unpack("<f",bytes_.read(4))[0]
+        self.detail_angle = int.from_bytes(bytes_.read(2), 'little', signed=True)
+        self.command_string = bytes_.read(128).decode()
+        self.command_string = "" if int(self.command_string[0] == 0) else self.command_string
 
-# The idea is: we need to transfer header information except for Width, Height, BPP
-# If LightFlag = 1, we need to transfer the ending of the file started with LIGHTDEFS definition
-# Since FileType and DTX_VERSION are always the same, we can start to transfer bytes from NumberOfMipmaps to NumberOfMipmapsUsed
+# Reading header like a stream of bytes and parsing
+header = DtxHeader()
+header.parse(io.BytesIO(input_file.read(164)))
 
-# Let's read them
-# print(byte[12:26])
-# Let's read everything after BPP to the end of header
-#print(byte[28:164])
-
+# for --read argument printing file information
 if args.read:
-    DTX_WIDTCH=int.from_bytes(byte[8:10], 'little', signed=False)
-    DTX_HEIGHT=int.from_bytes(byte[10:12], 'little', signed=False)
-    DTX_MIPMAPS_USED=int.from_bytes(byte[25:26], 'little', signed=True)
-    if DTX_MIPMAPS_USED==0:
-        DTX_MIPMAPS_USED=4
-    DTX_USERFLAGS=int.from_bytes(byte[20:24], 'little', signed=True)
-    DTX_TEXTURE_GROUP=int.from_bytes(byte[24:25], 'little', signed=False)
-    DTX_BPP=int.from_bytes(byte[26:27], 'little', signed=True)
-    DTX_NON_S3TC_OFFSET=int.from_bytes(byte[27:28], 'little', signed=False)
-    DTX_UI_MIPMAP_OFFSET=int.from_bytes(byte[28:29], 'little', signed=False)
-    DTX_TEXTURE_PRIORITY=int.from_bytes(byte[29:30], 'little', signed=False)
-    DTX_DETAIL_SCALE=struct.unpack("<f",byte[30:34])[0]
-    DTX_DETAIL_ANGLE=int.from_bytes(byte[34:36], 'little', signed=True)
-    if int.from_bytes(byte[36:37], 'little', signed=True) == 0:
-        DTX_COMMAND_STRING=""
-    else:
-        DTX_COMMAND_STRING=byte[36:164].decode()
-    
-    DTX_FLAGS="{:08b}".format(int.from_bytes(byte[16:17], 'little', signed=False))+"{:08b}".format(int.from_bytes(byte[17:18], 'little', signed=False))
-    DTX_PREFER4444="DTX_PREFER4444 " if int(DTX_FLAGS[0]) else ""
-    DTX_NOSYSCACHE="DTX_NOSYSCACHE " if int(DTX_FLAGS[1]) else ""
-    DTX_SECTIONSFIXED="DTX_SECTIONSFIXED " if int(DTX_FLAGS[4]) else ""
-    DTX_MIPSALLOCED="DTX_MIPSALLOCED " if int(DTX_FLAGS[5]) else ""
-    DTX_PREFER16BIT="DTX_PREFER16BIT " if int(DTX_FLAGS[6]) else ""
-    DTX_FULLBRITE="DTX_FULLBRITE " if int(DTX_FLAGS[7]) else ""
-    DTX_LUMBUMPMAP="DTX_LUMBUMPMAP " if int(DTX_FLAGS[11]) else ""
-    DTX_BUMPMAP="DTX_BUMPMAP " if int(DTX_FLAGS[12]) else ""
-    DTX_CUBEMAP="DTX_CUBEMAP " if int(DTX_FLAGS[13]) else ""
-    DTX_32BITSYSCOPY="DTX_32BITSYSCOPY " if int(DTX_FLAGS[14]) else ""
-    DTX_PREFER5551="DTX_PREFER5551 " if int(DTX_FLAGS[15]) else ""
+    print("File Path: {}".format(args.input))
+    print("File Type: {}, DTX_VERSION: {}, Size: {}x{}, Mipmaps: {}".format(header.filetype, header.version, header.width, header.height, header.mipmaps_used))
+    print("DTX Flags: {}: {}{}{}{}{}{}{}{}{}{}{}".format(header.dtx_flags, header.DTX_PREFER4444, header.DTX_NOSYSCACHE, header.DTX_SECTIONSFIXED, header.DTX_MIPSALLOCED, header.DTX_PREFER16BIT, header.DTX_FULLBRITE, header.DTX_LUMBUMPMAP, header.DTX_BUMPMAP, header.DTX_CUBEMAP, header.DTX_32BITSYSCOPY, header.DTX_PREFER5551))
+    print("Unknown: {}, User Flags: {}, Texture Group: {}, BPP: {}".format(header.unknown, header.user_flags, header.texture_group, header.bpp))
+    print("Non S3TC Offset: {}, UI Mipmap Offset: {}, Texture Priority: {}, Detail Scale/Angle: {}/{}".format(header.non_s3tc_offset, header.ui_mipmap_offset, header.texture_priority, header.detail_scale, header.detail_angle))
+    print("Command String: {}".format(header.command_string))
 
-    DTX_LIGHT_FLAG=int.from_bytes(byte[14:16], 'little', signed=False)
-
-    print('Filename=' + args.input)
-    print('DTX_VERSION=' + str(DTX_VERSION) )
-    print('Size=' + str(DTX_WIDTCH) + 'x' + str(DTX_HEIGHT) )
-    print('Mipmaps Used=' + str(DTX_MIPMAPS_USED))
-    print('User Flags=' + str(DTX_USERFLAGS))
-    print('Texture Group=' + str(DTX_TEXTURE_GROUP))
-    print('BPP=' + str(DTX_BPP))
-    print('Non S3TC Offset=' + str(DTX_NON_S3TC_OFFSET))
-    print('UI Mipmap Offset=' + str(DTX_UI_MIPMAP_OFFSET))
-    print('Texture Priority=' + str(DTX_TEXTURE_PRIORITY))
-    print('Detail Scale=' + str(DTX_DETAIL_SCALE))
-    print('Detail Angle=' + str(DTX_DETAIL_ANGLE))
-    print('Command String=' + DTX_COMMAND_STRING)
-    print('DTX Flags=' + DTX_FLAGS + ": " + DTX_PREFER4444 + DTX_NOSYSCACHE + DTX_SECTIONSFIXED + DTX_MIPSALLOCED + DTX_PREFER16BIT + DTX_FULLBRITE + DTX_LUMBUMPMAP + DTX_BUMPMAP + DTX_CUBEMAP + DTX_32BITSYSCOPY + DTX_PREFER5551)
-    print('Light Flag=' + str(DTX_LIGHT_FLAG))
+    #test of file tail. Failed. LIGHTDEF could be any lenght long, the only sign of it is LIGHTDEF string
+    if header.light_flag == 1:
+        input_tail_byte = input_file.read()[-128:]
+        print(input_tail_byte)
