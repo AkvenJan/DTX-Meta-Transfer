@@ -16,11 +16,11 @@ Reading meta information
 > python.exe main.py --input "C:\Textures\Example.DTX" --read
 		
 Writing meta information from several files to one CSV table  
-> python.exe main.py --input "C:\Textures\Example1.DTX" --table "C:\NOLF\out.csv"
-> python.exe main.py --input "C:\Textures\Example2.DTX" --table "C:\NOLF\out.csv"
+> python.exe main.py --input "C:\Textures\Example1.DTX" --table "C:\NOLF\out.csv"  
+> python.exe main.py --input "C:\Textures\Example2.DTX" --table "C:\NOLF\out.csv"  
 > python.exe main.py --input "C:\Textures\Example3.DTX" --table "C:\NOLF\out.csv"
 
-Transfering meta information between files
+Transfering meta information between files  
 > python.exe main.py --input "C:\Textures\Example1.DTX" --output "C:\Textures-Upscaled\Example1.DTX"
 
 # Useful links for LithTech engine and DTX format
