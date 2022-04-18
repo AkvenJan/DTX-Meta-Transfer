@@ -28,7 +28,7 @@ class DtxHeader(object):
         self.version = int.from_bytes(bytes_.read(4), 'little', signed=True)
         self.width = int.from_bytes(bytes_.read(2), 'little', signed=False)
         self.height = int.from_bytes(bytes_.read(2), 'little', signed=False)
-        self.mipmaps_default = int.from_bytes(bytes_.read(2), 'little', signed=False)
+        self.mipmaps_default = int.from_bytes(bytes_.read(2), 'little', signed=False)   # always 4
         self.light_flag = int.from_bytes(bytes_.read(2), 'little', signed=False)
 
         # Parsing DTX Flags
@@ -48,10 +48,13 @@ class DtxHeader(object):
 
         # Everything else
         self.unknown = int.from_bytes(bytes_.read(2), 'little', signed=False)
-        self.user_flags = int.from_bytes(bytes_.read(4), 'little', signed=True)
+        self.surface_flag = int.from_bytes(bytes_.read(4), 'little', signed=True)
         self.texture_group = int.from_bytes(bytes_.read(1), 'little', signed=False)
+
+        # if we are using 1-3 mipmaps instead of 4
         self.mipmaps_used = int.from_bytes(bytes_.read(1), 'little', signed=True)
         self.mipmaps_used = 4 if self.mipmaps_used == 0 else self.mipmaps_used
+
         self.bpp = int.from_bytes(bytes_.read(1), 'little', signed=True)
         self.non_s3tc_offset = int.from_bytes(bytes_.read(1), 'little', signed=False)
         self.ui_mipmap_offset = int.from_bytes(bytes_.read(1), 'little', signed=False)
@@ -65,16 +68,22 @@ class DtxHeader(object):
 header = DtxHeader()
 header.parse(io.BytesIO(input_file.read(164)))
 
-# for --read argument printing file information
+# For --read argument printing file information
 if args.read:
     print("File Path: {}".format(args.input))
-    print("File Type: {}, DTX_VERSION: {}, Size: {}x{}, Mipmaps: {}".format(header.filetype, header.version, header.width, header.height, header.mipmaps_used))
+    print("File Type: {}, DTX_VERSION: {}, Size: {}x{}, Mipmaps Used: {}".format(header.filetype, header.version, header.width, header.height, header.mipmaps_used))
     print("DTX Flags: {}: {}{}{}{}{}{}{}{}{}{}{}".format(header.dtx_flags, header.DTX_PREFER4444, header.DTX_NOSYSCACHE, header.DTX_SECTIONSFIXED, header.DTX_MIPSALLOCED, header.DTX_PREFER16BIT, header.DTX_FULLBRITE, header.DTX_LUMBUMPMAP, header.DTX_BUMPMAP, header.DTX_CUBEMAP, header.DTX_32BITSYSCOPY, header.DTX_PREFER5551))
-    print("Unknown: {}, User Flags: {}, Texture Group: {}, BPP: {}".format(header.unknown, header.user_flags, header.texture_group, header.bpp))
+    print("Unknown:   {}, Surface Flag: {}, Texture Group: {}, BPP: {}".format(header.unknown, header.surface_flag, header.texture_group, header.bpp))
     print("Non S3TC Offset: {}, UI Mipmap Offset: {}, Texture Priority: {}, Detail Scale/Angle: {}/{}".format(header.non_s3tc_offset, header.ui_mipmap_offset, header.texture_priority, header.detail_scale, header.detail_angle))
-    print("Command String: {}".format(header.command_string))
+    print("Command String:  {}".format(header.command_string))
 
-    #test of file tail. Failed. LIGHTDEF could be any lenght long, the only sign of it is LIGHTDEF string
+    # If light_flag is 1, we find LIGHTDEFS definition and read all the bytes to the end of file starting from 32nd byte
+    # it's always 9 bytes of LIGHTDEF and 23 bytes of random data before the real information starting
+    # Last byte is always 00 in case of light_flag/LIGHTDEF present in file, so we must exclude it for printing
     if header.light_flag == 1:
-        input_tail_byte = input_file.read()[-128:]
-        print(input_tail_byte)
+        # Reading the whole file
+        input_tail_byte = input_file.read()
+        # Finding start position of LIGHTDEFS word
+        litghdef_start = input_tail_byte.find(b'LIGHTDEFS')
+        # Printing decoded part of Light information
+        print("Light String:    {}".format(input_tail_byte[litghdef_start+32:-1].decode()))

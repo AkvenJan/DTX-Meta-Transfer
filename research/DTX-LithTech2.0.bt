@@ -44,7 +44,7 @@ bits BitFlags;
 //DTX_PREFER16BIT, DTX_FULLBRITE and DTX_PREFER4444/DTX_PREFER5551 can be combined
 
      uint16 UNKNOWN1;              //maybe another set of flags, Flags that go on surfaces.
-     int32          UserFlags;
+     int32          UserFlags;     //It's surface flag for the type of surface
      unsigned byte  TextureGroup;
      byte           NumberOfMipmapsUsed;
 //0 = default value if all 4 mipmaps are used
