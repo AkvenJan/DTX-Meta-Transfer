@@ -1,5 +1,5 @@
 # DTX-Meta-Transfer
-Tranfer of DTX texture files meta-information
+Transfer of DTX texture files meta-information
 
 # Useful links for LithTech engine and DTX format
 
