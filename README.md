@@ -1,6 +1,23 @@
 # DTX-Meta-Transfer
 Transfer of DTX texture files meta-information
 
+# Usage
+python.exe main.py
+	-h, --help	Show help message
+	-i INPUT, --input INPUT Path to the DTX we want to read
+	-r, --read	Print DTX Meta information into console, requires --input option
+	-t TABLE, --table TABLE Write DTX Meta information into CSV table, requires --input option
+
+Example\
+Reading meta information 
+	python.exe main.py --input "C:\Textures\Example.DTX" --read
+
+Writing meta information from several files to one CSV table
+	python.exe main.py --input "C:\Textures\Example1.DTX" --table "C:\NOLF\out.csv"
+	python.exe main.py --input "C:\Textures\Example2.DTX" --table "C:\NOLF\out.csv"
+	python.exe main.py --input "C:\Textures\Example3.DTX" --table "C:\NOLF\out.csv"
+
+
 # Useful links for LithTech engine and DTX format
 
 DTX  

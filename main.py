@@ -2,12 +2,14 @@ import argparse
 import sys
 import struct
 import io
+import os
 
 # Setting all the available arguments
 parser = argparse.ArgumentParser()
 parser.add_argument("-i", "--input", help="Path and file name of the input DTX to read meta from")
 parser.add_argument("-o","--output", help="Path and file name of the output DTX to transfer meto to")
 parser.add_argument("-r","--read", help="Option to just read the input file",action="store_true")
+parser.add_argument("-t","--table", help="Option to write meta-information in table information to csv file")
 args = parser.parse_args()
 
 # Reading input file
@@ -87,3 +89,16 @@ if args.read:
         litghdef_start = input_tail_byte.find(b'LIGHTDEFS')
         # Printing decoded part of Light information
         print("Light String:    {}".format(input_tail_byte[litghdef_start+32:-1].decode()))
+
+# Writing meta-information into new CSV file or adding into existing
+if args.table:
+    meta_table=open(args.table, 'a')
+
+    # First row of the CSV file should always be names of the parameters
+    if os.path.getsize(args.table) == 0:
+        meta_table.writelines("Filename;Filetype;DTX_VERSION;Width;Height;Mipmaps Used;DTX Flags;DTX_PREFER4444;DTX_NOSYSCACHE;DTX_SECTIONSFIXED;DTX_MIPSALLOCED;DTX_PREFER16BIT;DTX_FULLBRITE;DTX_LUMBUMPMAP;DTX_BUMPMAP;DTX_CUBEMAP;DTX_32BITSYSCOPY;DTX_PREFER5551;Unknown;Surface Flag;Texture Group;BPP;Non S3TC Offset;UI Mipmap Offset;Texture Priority;Detail Scale;Detail Angle;Command String;\n")
+
+    meta_table.writelines("{};{};{};{};{};{};'{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};\n".format(args.input, header.filetype, header.version, header.width, header.height, header.mipmaps_used, header.dtx_flags, header.DTX_PREFER4444, header.DTX_NOSYSCACHE, header.DTX_SECTIONSFIXED, header.DTX_MIPSALLOCED, header.DTX_PREFER16BIT, header.DTX_FULLBRITE, header.DTX_LUMBUMPMAP, header.DTX_BUMPMAP, header.DTX_CUBEMAP, header.DTX_32BITSYSCOPY, header.DTX_PREFER5551, header.unknown, header.surface_flag, header.texture_group, header.bpp, header.non_s3tc_offset, header.ui_mipmap_offset, header.texture_priority, header.detail_scale, header.detail_angle, header.command_string))
+    meta_table.close()
+
+input_file.close()
