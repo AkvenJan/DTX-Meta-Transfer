@@ -1,6 +1,9 @@
 # DTX-Meta-Transfer
 Transfer of DTX texture files meta-information
 
+The idea of transfering is to transfer all the embedded meta information of DTX textures (Flags, Surface Types, Details Scales, Command strings etc) from one DTX file to another, except for Width, Height and BPP.  
+The main reason was: I was doing upscale pack for NOLF1 and needed to replace original textures with thousands of upscaled textured, which were batch converted from tga by dtxutil program. This way game was lacking detail textures, environment textures etc cause all this information was stored in original DTX files. So I wrote a python script to take this information and write into upscaled files. Because of dtxutil always use 32-Bit as image format - BPP information is not transfered.
+
 # Usage
     python.exe main.py 
         -h, --help	Show help message
@@ -10,13 +13,15 @@ Transfer of DTX texture files meta-information
 
 Example  
 Reading meta information  
-python.exe main.py --input "C:\Textures\Example.DTX" --read
+<python.exe main.py --input "C:\Textures\Example.DTX" --read>
 		
 Writing meta information from several files to one CSV table  
-python.exe main.py --input "C:\Textures\Example1.DTX" --table "C:\NOLF\out.csv"  
-python.exe main.py --input "C:\Textures\Example2.DTX" --table "C:\NOLF\out.csv"  
-python.exe main.py --input "C:\Textures\Example3.DTX" --table "C:\NOLF\out.csv"  
+<python.exe main.py --input "C:\Textures\Example1.DTX" --table "C:\NOLF\out.csv">
+<python.exe main.py --input "C:\Textures\Example2.DTX" --table "C:\NOLF\out.csv">
+<python.exe main.py --input "C:\Textures\Example3.DTX" --table "C:\NOLF\out.csv">
 
+Transfering meta information between files
+<python.exe main.py --input "C:\Textures\Example1.DTX" --output "C:\Textures-Upscaled\Example1.DTX">
 
 # Useful links for LithTech engine and DTX format
 

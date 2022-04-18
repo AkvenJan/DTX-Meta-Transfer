@@ -3,17 +3,33 @@ import sys
 import struct
 import io
 import os
+from enum import Enum
 
 # Setting all the available arguments
 parser = argparse.ArgumentParser()
 parser.add_argument("-i", "--input", help="Path and file name of the input DTX to read meta from")
-parser.add_argument("-o","--output", help="Path and file name of the output DTX to transfer meto to")
+parser.add_argument("-o","--output", help="Path and file name of the output DTX to transfer meta to")
 parser.add_argument("-r","--read", help="Option to just read the input file",action="store_true")
 parser.add_argument("-t","--table", help="Option to write meta-information in table information to csv file")
 args = parser.parse_args()
 
-# Reading input file
-input_file=open(args.input, 'rb')
+# Defining BPP enumeration values
+class BPP_Enum(Enum):
+    BPP_8P = 0
+    BPP_8  = 1
+    BPP_16 = 2
+    BPP_32 = 3
+    BPP_S3TC_DXT1 = 4
+    BPP_S3TC_DXT3 = 5
+    BPP_S3TC_DXT5 = 6
+    BPP_32P = 7
+    BPP_24  = 8
+
+# Defining DTX version enumeration values
+class DTX_ver_Enum(Enum):
+    DTX_VERSION_LT1  = -2
+    DTX_VERSION_LT15 = -3
+    DTX_VERSION_LT2  = -5
 
 # Reading header of the file. Thanks to Amphos
 class DtxHeader(object):
@@ -25,7 +41,7 @@ class DtxHeader(object):
         self.mipmaps = 4
 
     # Parsing the whole header like a stream of bytes using research for DTX v2
-    def parse(self, bytes_): # bytes_ is a byte stream, so it implicitly keeps place as you .read(n) from it
+    def parse(self, bytes_):
         self.filetype = int.from_bytes(bytes_.read(4), 'little', signed=False)
         self.version = int.from_bytes(bytes_.read(4), 'little', signed=True)
         self.width = int.from_bytes(bytes_.read(2), 'little', signed=False)
@@ -66,29 +82,43 @@ class DtxHeader(object):
         self.command_string = bytes_.read(128).decode()
         self.command_string = "" if int(self.command_string[0] == 0) else self.command_string
 
+        # If light_flag is 1, we find LIGHTDEFS definition and read all the bytes to the end of file starting from 32nd byte
+        # it's always 9 bytes of LIGHTDEF and 23 bytes of random data before the real information starting
+        # Last byte is always 00 in case of light_flag/LIGHTDEF present in file, so we must exclude it for printing
+        if self.light_flag == 1:
+            # Reading the rest of the file after header
+            self.file_data = bytes_.read()[164:]
+            # Finding and reading tail of the file starting from LIGHTDEFS
+            self.lightdef_string = self.file_data[self.file_data.find(b'LIGHTDEFS'):]
+        else:
+            self.lightdef_string = ""
+
+# Reading input file
+input_file=open(args.input, 'rb')
+
 # Reading header like a stream of bytes and parsing
 header = DtxHeader()
-header.parse(io.BytesIO(input_file.read(164)))
+header.parse(io.BytesIO(input_file.read()))
+
+# Dealing with errors of wrong file type or wrong DTX version
+if header.filetype != 0:
+    print("Wrong file type, not a DTX texture")
+    exit()
+
+if header.filetype == 0 and header.version != -5:
+    print("Wrong DTX version")
+    exit()
 
 # For --read argument printing file information
 if args.read:
     print("File Path: {}".format(args.input))
-    print("File Type: {}, DTX_VERSION: {}, Size: {}x{}, Mipmaps Used: {}".format(header.filetype, header.version, header.width, header.height, header.mipmaps_used))
+    print("File Type: {}, DTX version: {}, Size: {}x{}, Mipmaps Used: {}, Light Flag: {}".format(header.filetype, DTX_ver_Enum(header.version).name, header.width, header.height, header.mipmaps_used, header.light_flag))
     print("DTX Flags: {}: {}{}{}{}{}{}{}{}{}{}{}".format(header.dtx_flags, header.DTX_PREFER4444, header.DTX_NOSYSCACHE, header.DTX_SECTIONSFIXED, header.DTX_MIPSALLOCED, header.DTX_PREFER16BIT, header.DTX_FULLBRITE, header.DTX_LUMBUMPMAP, header.DTX_BUMPMAP, header.DTX_CUBEMAP, header.DTX_32BITSYSCOPY, header.DTX_PREFER5551))
-    print("Unknown:   {}, Surface Flag: {}, Texture Group: {}, BPP: {}".format(header.unknown, header.surface_flag, header.texture_group, header.bpp))
+    print("Unknown:   {}, Surface Flag: {}, Texture Group: {}, BPP: {}".format(header.unknown, header.surface_flag, header.texture_group, BPP_Enum(header.bpp).name))
     print("Non S3TC Offset: {}, UI Mipmap Offset: {}, Texture Priority: {}, Detail Scale/Angle: {}/{}".format(header.non_s3tc_offset, header.ui_mipmap_offset, header.texture_priority, header.detail_scale, header.detail_angle))
     print("Command String:  {}".format(header.command_string))
-
-    # If light_flag is 1, we find LIGHTDEFS definition and read all the bytes to the end of file starting from 32nd byte
-    # it's always 9 bytes of LIGHTDEF and 23 bytes of random data before the real information starting
-    # Last byte is always 00 in case of light_flag/LIGHTDEF present in file, so we must exclude it for printing
-    if header.light_flag == 1:
-        # Reading the whole file
-        input_tail_byte = input_file.read()
-        # Finding start position of LIGHTDEFS word
-        litghdef_start = input_tail_byte.find(b'LIGHTDEFS')
-        # Printing decoded part of Light information
-        print("Light String:    {}".format(input_tail_byte[litghdef_start+32:-1].decode()))
+    # Printing only the real data of Light String if it present (starting from 32nd byte and till EOF-1) and decoding to ASCII string
+    print("Light String:    {}".format(header.lightdef_string[32:-1].decode()))
 
 # Writing meta-information into new CSV file or adding into existing
 if args.table:
@@ -96,9 +126,32 @@ if args.table:
 
     # First row of the CSV file should always be names of the parameters
     if os.path.getsize(args.table) == 0:
-        meta_table.writelines("Filename;Filetype;DTX_VERSION;Width;Height;Mipmaps Used;DTX Flags;DTX_PREFER4444;DTX_NOSYSCACHE;DTX_SECTIONSFIXED;DTX_MIPSALLOCED;DTX_PREFER16BIT;DTX_FULLBRITE;DTX_LUMBUMPMAP;DTX_BUMPMAP;DTX_CUBEMAP;DTX_32BITSYSCOPY;DTX_PREFER5551;Unknown;Surface Flag;Texture Group;BPP;Non S3TC Offset;UI Mipmap Offset;Texture Priority;Detail Scale;Detail Angle;Command String;\n")
+        meta_table.writelines("Filename;Filetype;DTX_VERSION;Width;Height;Mipmaps Used;DTX Flags;DTX_PREFER4444;DTX_NOSYSCACHE;DTX_SECTIONSFIXED;DTX_MIPSALLOCED;DTX_PREFER16BIT;DTX_FULLBRITE;DTX_LUMBUMPMAP;DTX_BUMPMAP;DTX_CUBEMAP;DTX_32BITSYSCOPY;DTX_PREFER5551;Unknown;Surface Flag;Texture Group;BPP;Non S3TC Offset;UI Mipmap Offset;Texture Priority;Detail Scale;Detail Angle;Command String;Light String;\n")
 
-    meta_table.writelines("{};{};{};{};{};{};'{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};\n".format(args.input, header.filetype, header.version, header.width, header.height, header.mipmaps_used, header.dtx_flags, header.DTX_PREFER4444, header.DTX_NOSYSCACHE, header.DTX_SECTIONSFIXED, header.DTX_MIPSALLOCED, header.DTX_PREFER16BIT, header.DTX_FULLBRITE, header.DTX_LUMBUMPMAP, header.DTX_BUMPMAP, header.DTX_CUBEMAP, header.DTX_32BITSYSCOPY, header.DTX_PREFER5551, header.unknown, header.surface_flag, header.texture_group, header.bpp, header.non_s3tc_offset, header.ui_mipmap_offset, header.texture_priority, header.detail_scale, header.detail_angle, header.command_string))
+    meta_table.writelines("{};{};{};{};{};{};'{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};\n".format(args.input, header.filetype, DTX_ver_Enum(header.version).name, header.width, header.height, header.mipmaps_used, header.dtx_flags, header.DTX_PREFER4444, header.DTX_NOSYSCACHE, header.DTX_SECTIONSFIXED, header.DTX_MIPSALLOCED, header.DTX_PREFER16BIT, header.DTX_FULLBRITE, header.DTX_LUMBUMPMAP, header.DTX_BUMPMAP, header.DTX_CUBEMAP, header.DTX_32BITSYSCOPY, header.DTX_PREFER5551, header.unknown, header.surface_flag, header.texture_group, BPP_Enum(header.bpp).name, header.non_s3tc_offset, header.ui_mipmap_offset, header.texture_priority, header.detail_scale, header.detail_angle, header.command_string,header.lightdef_string[32:-1].decode()))
     meta_table.close()
 
+# Transfering meta information between the files
+if args.output:
+    # Opening output file to write to
+    output_file=open(args.output, 'r+b')
+    # Setting offset to 12th byte (Number of mipmaps)
+    input_file.seek(12)
+    output_file.seek(12)
+    # Writing first 14 bytes till Number of mipmaps used
+    output_file.write(input_file.read(14))
+    # Skipping BPP
+    input_file.seek(27)
+    output_file.seek(27)
+    # Writing everything else till the end of header
+    output_file.write(input_file.read(137))
+    output_file.close()
+    # Writing Light String if it is present
+    if header.light_flag == 1:
+        output_file=open(args.output, 'a+')
+        output_file.write(header.lightdef_string.decode())
+        output_file.close()
+    print("Transfering went successfully from {} to {}".format(args.input, args.output))
+
+# Closing everything
 input_file.close()
