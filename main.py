@@ -79,7 +79,7 @@ class DtxHeader(object):
         self.texture_priority = int.from_bytes(bytes_.read(1), 'little', signed=True)
         self.detail_scale = struct.unpack("<f",bytes_.read(4))[0]
         self.detail_angle = int.from_bytes(bytes_.read(2), 'little', signed=True)
-        self.command_string = bytes_.read(128).decode()
+        self.command_string = bytes_.read(128)
         self.command_string = "" if int(self.command_string[0] == 0) else self.command_string
 
         # If light_flag is 1, we find LIGHTDEFS definition and read all the bytes to the end of file starting from 32nd byte
