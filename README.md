@@ -1,5 +1,7 @@
 # DTX-Meta-Transfer
-Transfer of DTX texture files meta-information
+Transfer of LithTech engine DTX texture files meta-information
+
+For now support added for DTX v2 version of the textures
 
 The idea of transfering is to transfer all the embedded meta information of DTX textures (Flags, Surface Types, Details Scales, Command strings etc) from one DTX file to another, except for Width, Height and BPP.  
 The main reason was: I was doing upscale pack for NOLF1 and needed to replace original textures with thousands of upscaled textured, which were batch converted from tga by dtxutil program. This way game was lacking detail textures, environment textures etc cause all this information was stored in original DTX files. So I wrote a python script to take this information and write into upscaled files. Because of dtxutil always use 32-Bit as image format - BPP information is not transfered.
