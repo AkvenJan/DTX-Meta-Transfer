@@ -63,7 +63,7 @@ https://github.com/jsj2008/lithtech/blob/master/Shogo/Shared/SurfaceTypes.h
     Lithtech PS2 (LTB v66)
     	NOLF1 (PS2)
 
-    Lithtech Talon (DAT v70)
+    Lithtech Talon (DAT v70), presumably uses DTX v2
     	Aliens versus Predator 2
     	Might and Magic IX 
 
