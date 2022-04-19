@@ -65,7 +65,7 @@ class DtxHeader(object):
         self.DTX_PREFER5551="DTX_PREFER5551 " if int(self.dtx_flags[15]) else ""
 
         # Everything else
-        self.unknown = int.from_bytes(bytes_.read(2), 'little', signed=False)
+        self.unknown = int.from_bytes(bytes_.read(2), 'little', signed=False) # always 0, at least in NOLF1
         self.surface_flag = int.from_bytes(bytes_.read(4), 'little', signed=True)
         self.texture_group = int.from_bytes(bytes_.read(1), 'little', signed=False)
 
