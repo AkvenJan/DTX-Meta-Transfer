@@ -79,7 +79,8 @@ class DtxHeader(object):
         self.texture_priority = int.from_bytes(bytes_.read(1), 'little', signed=True)
         self.detail_scale = struct.unpack("<f",bytes_.read(4))[0]
         self.detail_angle = int.from_bytes(bytes_.read(2), 'little', signed=True)
-        self.command_string = bytes_.read(128)
+        self.command_raw = bytes_.read(128)
+        self.command_string = self.command_raw.decode()
         self.command_string = "" if int(self.command_string[0] == 0) else self.command_string
 
         # If light_flag is 1, we find LIGHTDEFS definition and read all the bytes to the end of file starting from 32nd byte
@@ -89,9 +90,18 @@ class DtxHeader(object):
             # Reading the rest of the file after header
             self.file_data = bytes_.read()[164:]
             # Finding and reading tail of the file starting from LIGHTDEFS
-            self.lightdef_string = self.file_data[self.file_data.find(b'LIGHTDEFS'):]
+            self.lightdef_raw = self.file_data[self.file_data.find(b'LIGHTDEFS'):]
+            self.lightdef_string = self.lightdef_raw[32:-1].decode()
         else:
             self.lightdef_string = ""
+
+if (args.read or args.table) and args.output:
+    print("--read and --table arguments supported only with --input")
+    exit()
+
+if args.read and args.table:
+    print("--read and --table arguments cannot be used simultaneously")
+    exit()
 
 # Reading input file
 input_file=open(args.input, 'rb')
@@ -118,7 +128,7 @@ if args.read:
     print("Non S3TC Offset: {}, UI Mipmap Offset: {}, Texture Priority: {}, Detail Scale/Angle: {}/{}".format(header.non_s3tc_offset, header.ui_mipmap_offset, header.texture_priority, header.detail_scale, header.detail_angle))
     print("Command String:  {}".format(header.command_string))
     # Printing only the real data of Light String if it present (starting from 32nd byte and till EOF-1) and decoding to ASCII string
-    print("Light String:    {}".format(header.lightdef_string[32:-1].decode()))
+    print("Light String:    {}".format(header.lightdef_string))
 
 # Writing meta-information into new CSV file or adding into existing
 if args.table:
@@ -128,7 +138,7 @@ if args.table:
     if os.path.getsize(args.table) == 0:
         meta_table.writelines("Filename;Filetype;DTX_VERSION;Width;Height;Mipmaps Used;DTX Flags;DTX_PREFER4444;DTX_NOSYSCACHE;DTX_SECTIONSFIXED;DTX_MIPSALLOCED;DTX_PREFER16BIT;DTX_FULLBRITE;DTX_LUMBUMPMAP;DTX_BUMPMAP;DTX_CUBEMAP;DTX_32BITSYSCOPY;DTX_PREFER5551;Unknown;Surface Flag;Texture Group;BPP;Non S3TC Offset;UI Mipmap Offset;Texture Priority;Detail Scale;Detail Angle;Command String;Light String;\n")
 
-    meta_table.writelines("{};{};{};{};{};{};'{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};\n".format(args.input, header.filetype, DTX_ver_Enum(header.version).name, header.width, header.height, header.mipmaps_used, header.dtx_flags, header.DTX_PREFER4444, header.DTX_NOSYSCACHE, header.DTX_SECTIONSFIXED, header.DTX_MIPSALLOCED, header.DTX_PREFER16BIT, header.DTX_FULLBRITE, header.DTX_LUMBUMPMAP, header.DTX_BUMPMAP, header.DTX_CUBEMAP, header.DTX_32BITSYSCOPY, header.DTX_PREFER5551, header.unknown, header.surface_flag, header.texture_group, BPP_Enum(header.bpp).name, header.non_s3tc_offset, header.ui_mipmap_offset, header.texture_priority, header.detail_scale, header.detail_angle, header.command_string,header.lightdef_string[32:-1].decode()))
+    meta_table.writelines("{};{};{};{};{};{};'{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};\n".format(args.input, header.filetype, DTX_ver_Enum(header.version).name, header.width, header.height, header.mipmaps_used, header.dtx_flags, header.DTX_PREFER4444, header.DTX_NOSYSCACHE, header.DTX_SECTIONSFIXED, header.DTX_MIPSALLOCED, header.DTX_PREFER16BIT, header.DTX_FULLBRITE, header.DTX_LUMBUMPMAP, header.DTX_BUMPMAP, header.DTX_CUBEMAP, header.DTX_32BITSYSCOPY, header.DTX_PREFER5551, header.unknown, header.surface_flag, header.texture_group, BPP_Enum(header.bpp).name, header.non_s3tc_offset, header.ui_mipmap_offset, header.texture_priority, header.detail_scale, header.detail_angle, header.command_string,header.lightdef_string))
     meta_table.close()
 
 # Transfering meta information between the files
@@ -149,7 +159,7 @@ if args.output:
     # Writing Light String if it is present
     if header.light_flag == 1:
         output_file=open(args.output, 'a+')
-        output_file.write(header.lightdef_string.decode())
+        output_file.write(header.lightdef_raw.decode())
         output_file.close()
     print("Transfering went successfully from {} to {}".format(args.input, args.output))
 
