@@ -69,7 +69,7 @@ class DtxHeader(object):
         self.surface_flag = int.from_bytes(bytes_.read(4), 'little', signed=True)
         self.texture_group = int.from_bytes(bytes_.read(1), 'little', signed=False)
 
-        # if we are using 1-3 mipmaps instead of 4
+        # If this value is 0, we assume we use 4 default mipmaps embedded with texture. Can only be 0-3
         self.mipmaps_used = int.from_bytes(bytes_.read(1), 'little', signed=True)
         self.mipmaps_used = 4 if self.mipmaps_used == 0 else self.mipmaps_used
 
@@ -79,12 +79,16 @@ class DtxHeader(object):
         self.texture_priority = int.from_bytes(bytes_.read(1), 'little', signed=True)
         self.detail_scale = struct.unpack("<f",bytes_.read(4))[0]
         self.detail_angle = int.from_bytes(bytes_.read(2), 'little', signed=True)
+
+        # If first byte of the command row is 0, it's not used/not set
         self.command_raw = bytes_.read(128)
-        self.command_string = self.command_raw.decode()
-        self.command_string = "" if int(self.command_string[0] == 0) else self.command_string
+        if int(self.command_raw[0]) == 0:
+            self.command_string = ""
+        else:
+            self.command_string = self.command_raw.decode()
 
         # If light_flag is 1, we find LIGHTDEFS definition and read all the bytes to the end of file starting from 32nd byte
-        # it's always 9 bytes of LIGHTDEF and 23 bytes of random data before the real information starting
+        # It's always 9 bytes of LIGHTDEF and 23 bytes of random data before the real information starting
         # Last byte is always 00 in case of light_flag/LIGHTDEF present in file, so we must exclude it for printing
         if self.light_flag == 1:
             # Reading the rest of the file after header
@@ -95,6 +99,7 @@ class DtxHeader(object):
         else:
             self.lightdef_string = ""
 
+# Some warnings on incompatible arguments
 if (args.read or args.table) and args.output:
     print("--read and --table arguments supported only with --input")
     exit()
@@ -115,8 +120,15 @@ if header.filetype != 0:
     print("Wrong file type, not a DTX texture")
     exit()
 
-if header.filetype == 0 and header.version != -5:
-    print("Wrong DTX version")
+# In NOLF there is BARON_ACTION.DTX file with mess in DTX version, but overall it's compatible file for DTX_VERSION_LT2.
+if header.filetype == 0 and header.version != -5 and header.version != -3 and header.version != -2:
+    print("Wrong/Broken DTX version (not -2 or -3 or -5). If you sure it's compatible DTX_VERSION_LT2 file (NOLF1 had such BARON_ACTION.DTX for example),")
+    print("you can edit your file in HEX editor like this replacing this 8 bytes at the start of the file:")
+    print("00 00 00 00 FB FF FF FF")
+    exit()
+
+if header.filetype == 0 and (header.version == -3 or header.version == -2):
+    print("Wrong DTX version: {} ({}). Script is intended to work only with -5 (DTX_VERSION_LT2) for now".format(header.version, DTX_ver_Enum(header.version).name))
     exit()
 
 # For --read argument printing file information
@@ -155,13 +167,17 @@ if args.output:
     output_file.seek(27)
     # Writing everything else till the end of header
     output_file.write(input_file.read(137))
+    # Closing output file
     output_file.close()
-    # Writing Light String if it is present
+
+    # Writing Light String if it is present. In this rare case we file reopen in append mode
     if header.light_flag == 1:
         output_file=open(args.output, 'a+')
         output_file.write(header.lightdef_raw.decode())
         output_file.close()
+    
+    # Printing results
     print("Transfering went successfully from {} to {}".format(args.input, args.output))
 
-# Closing everything
+# Closing input file
 input_file.close()
