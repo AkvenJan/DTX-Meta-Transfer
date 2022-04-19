@@ -64,7 +64,7 @@ https://github.com/jsj2008/lithtech/blob/master/Shogo/Shared/SurfaceTypes.h
     	Aliens versus Predator 2
     	Might and Magic IX 
 
-    Lithtech Jupiter (DAT v85) - template: bsp85.bt
+    Lithtech Jupiter (DAT v85)
     	No One Lives Forever 2: A Spy In H.A.R.M.'s Way
     	Tron 2.0
     	Medal of Honor: Pacific Assault
