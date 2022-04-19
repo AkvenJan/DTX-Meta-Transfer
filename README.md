@@ -34,7 +34,10 @@ Research on DAT files for various versions of LithTech engine for 010 Editor
 https://github.com/haekb/godot-dat-reader/tree/master/Research
 
 Predefined Surface Types for various games  
+NOLF  
 https://github.com/jsj2008/lithtech/blob/master/NOLF/Shared/SurfaceDefs.h  
+https://github.com/AkvenJan/DTX-Meta-Transfer/blob/main/research/NOLF-Surface.TXT  
+Other games  
 https://github.com/jsj2008/lithtech/blob/master/Blood2/Shared/SharedDefs.h  
 https://github.com/jsj2008/lithtech/blob/master/FEAR/Shared/SurfaceDefs.h  
 https://github.com/jsj2008/lithtech/blob/master/NOLF2/Shared/SurfaceDefs.h  
