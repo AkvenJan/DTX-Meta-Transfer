@@ -1,0 +1,1578 @@
+/************************************************************************
+**
+**       Aliens vs. Predator: Hive Surface Attributes file
+**
+** This file contains the following surface related definitions:
+**
+**    Global
+**    Surface
+**
+**
+** NOTES:  
+**
+**  1) All definition properties (i.e., [Surface0]) ARE case sensitive.
+**     If you are adding a new definition, it is best to start with a 
+**     copy of an existing (working) definition.
+**  2) Name properties are NOT case sensitive (i.e., Name = "Joe" is the same
+**     as Name = "JOE")
+**  3) All time is specified in seconds (unless otherwise noted)
+**  4) The Float type is the same as Real (i.e., 1.0 or 1.5)
+**  5) The valid range of all RGB color properties is between
+**     0 and 255 (e.g., (0, 255, 0) would be green).
+**
+**
+**  TEXTURE ID SUMMARY:
+**
+**  ----Internal ID's----
+**
+**   0 = Unknown
+**   1 = Air
+**   2 = Flesh
+** 110 = Sky
+** 200 = Ladder
+** 201 = Liquid
+** 202 = Invisible
+**
+**  ----Custom ID's----
+**
+**   8 = Electronics (computers, machines, with activation sound)
+**   9 = Chainlink Fence (masked metal)
+**  10 = Stone: Smooth (stone tile, concrete)
+**  11 = Stone: Rough (outside stone, pebbles, rocks, etc)
+**  20 = Metal 
+**  21 = Tin (light metal; can shoot through)
+**  30 = Wood
+**  31 = Drywall
+**  32 = Wood: transparent (can shoot through)
+**  40 = Glass
+**  41 = Bullet-Proof Glass
+**  70 = Terrain: Dirt
+**  71 = Terrain: Snow
+**  72 = Terrain: Mud
+**  73 = Terrain: Grass
+**  80 = Cloth
+**  81 = Cloth (can shoot through)
+**  90 = Linoleum
+** 100 = Wood Door (with activation sound)
+** 101 = Metal Door (with activation sound)
+**  22 = Grate Metal
+**  23 = Light Metal
+**  24 = APC shell (metal, no bulletholes, no seethrough)
+**
+*/
+
+
+/************************************************************************
+**
+** GLOBAL
+**
+** The global definition defines values that are global to all surfaces.
+**
+*/
+
+[Global]
+
+
+
+
+/************************************************************************
+**
+** SURFACE
+**
+** The Surface definitions define all of the attributes associated with
+** a particular surface.  These definitions *usually* map directly to 
+** a particular texture flag (i.e., the Id property = a texture flag value).
+** However, there are some pre-defined surfaces defined in this file that
+** are needed by the game.  These surfaces are defined below and SHOULD
+** NOT be removed from this file.  Also, it is important that the Ids used
+** by these surfaces are NOT changed.  These pre-defined surfaces are:
+**
+**  UNKNOWN (id 0)		- An unknown surface is encountered
+**  AIR	(id 1)			- Indicates a "non" surface
+**  FLESH (id 2)		- Human/animal surfaces 
+**  SKY (id 110)		- Sky surface	  
+**  LADDER (id 200)		- Ladder volume brush
+**  LIQUID (id 201)		- Liquid volume brush
+**  INVISIBLE (id 202)	- An invisible surface
+**
+**
+** All surface definitions should contain the following properties:
+**
+**  Name (String)
+**
+**      This name is used for selection purposes in DEdit drop down lists.
+**
+**  Id (Integer)
+**
+**      This identifies the surface and usually maps directly to a texture
+**      flag value.  This value must be between 0 and 255, and NOT be one
+**      of the pre-defined values above (i.e., NOT 0, 1, 100, 110, 200, 201 
+**      or 202).
+**
+**  ShowsMark (Integer)
+**
+**		Do bullet holes and/or scortch marks show up on this surface.
+**		(1 = true, 0 = false)
+**
+**  CanSeeThrough (Integer)
+**
+**		Can the player/ai see through this surface.
+**		(1 = true, 0 = false)
+**
+**  CanShootThrough (Integer)
+**
+**		Can weapons shoot through this surface.  
+**		(1 = true, 0 = false)
+**
+**  MaxShootThroughPerturb (Integer)
+**
+**		Indicates that maximum peturb added to bullets when the go through
+**		the surface (a random value between 0 and MaxShootThroughPerturb).
+**
+**  MaxShootThroughThickness (Integer)
+**
+**		Used to determine if an exit mark is made and if the flashlight beam should pass through or not.
+**
+**
+**  BulletHoleSpr (String)
+**
+**		Name of the bullet hole sprite file.
+**
+**  BulletHoleMinScale (Float)
+**
+**		The minimum amount to scale the bullet hole sprite on this surface
+**
+**  BulletHoleMaxScale (Float)
+**
+**		The maximum amount to scale the bullet hole sprite on this surface
+**
+**  BulletRangeDampen (Float)
+**
+**		The amount the range of this bullet is damped when impacting this
+**		surface (when CanShootThrough is 1).  This value is scaled based
+**		on the thickness of the object/brush being shot through.  Valid values
+**		are between 0.0 and 1.0 (e.g., 0.5 cuts the remaining range in half
+**		if the brush is MaxShootThroughThickness.  A value of 1.0 doesn't
+**		change the range).
+**
+**  BulletDamageDampen (Float)
+**
+**		The amount the damage of this bullet is damped when impacting this
+**		surface (when CanShootThrough is 1).  This value is scaled based
+**		on the thickness of the object/brush being shot through.  Valid values
+**		are between 0.0 and 1.0 (e.g., 0.5 cuts the damage of the bullet in half
+**		if the brush is MaxShootThroughThickness.  A value of 1.0 doesn't
+**		change the damage).
+**
+**	BulletImpactSnd1-2 (String)
+**
+**		Name of the bullet impact sounds
+**
+**	ShellImpactSnd1 (String)
+**
+**		Specifies the shell impact (bounce) sound.
+**
+**	ShellSndRadius (Float)
+**
+**		Specifies the radius for the shell sound.
+**
+**	RtFootPrintSpr (String)
+**
+**		Name of the sprite used for right-footed footprints (use "" if
+**		this surface doesn't show footprints)
+**
+**	LtFootPrintSpr (String)
+**
+**		Name of the sprite used for left-footed footprints (use "" if
+**		this surface doesn't show footprints)
+**
+**	RtFootSnd1-2 (String)
+**
+**		Name of the 1st and 2nd right footstep sounds.
+**
+**	LtFootSnd1-2 (String)
+**
+**		Name of the 1st and 2nd left footstep sounds.
+**
+**	BodyFallSnd (String)
+**
+**		Name of the sound a dead body makes when it lands on this surface.
+**
+**	BodyFallSndRadius (Float)
+**
+**		Radius for the BodyFallSnd sound.
+**
+**	ActivationSnd (String)
+**
+**		Name of the sound played when the player tries to activate this 
+**		surface (i.e., the player uses the "use" key on the surface).  This
+**		can be used to play a machine activate sound, or a "locked door" sound.
+**
+**	ActivationSndRadius (Float)
+**
+**		Radius for the ActivationSnd sound.
+**
+**	DeathNoiseMod (Float)
+**
+**		This is a modifier used to increase/decrease how loud the death
+**		noise (body fall sound) is for this surface.  This used by the AI
+**		to determine if they could hear the sound or not.
+**
+**	MoveNoiseMod (Float)
+**
+**		This is a modifier used to increase/decrease how loud movement
+**		sounds are on this surface.  This used by the AI to determine if they 
+**		could hear the sound or not.
+**
+**	ImpactNoiseMod (Float)
+**
+**		This is a modifier used to increase/decrease how loud impact
+**		sounds are on this surface.  This used by the AI to determine if they 
+**		could hear the sound or not.
+**
+**	ImpactScaleName# (String)  (OPTIONAL)
+**
+**		Specifies the optional name of impact scale fx to create.  The value of
+**		this property MUST correspond to the name of a ScaleFX type specified 
+**		in the FX.txt file.  Multiple scale fx names can be specified.  
+**		For example:
+**
+**			ImpactScaleName0	= "Stone"
+**			ImpactScaleName1	= "Stone2"
+**		
+**	ImpactPShowerName# (String)  (OPTIONAL)
+**
+**		Specifies the optional name of impact particle shower fx to create.  
+**		The value of this property MUST correspond to the name of a PShowerFX
+**		type specified in the FX.txt file.  NOTE: The ImpactPShowerNames fx are 
+**		NOT created when the surface is under water (see 
+**		UWaterImpactPShowerName# below).  Multiple particle shower fx types 
+**		can be specified.  For example:
+**
+**			ImpactPShowerName0	= "Stone"
+**			ImpactPShowerName1	= "Stone2"
+**		
+**	UWImpactPShowerName# (String)  (OPTIONAL)
+**
+**		Specifies the optional name of impact particle shower fx to create
+**		if the surface is under water.  The value of this property MUST 
+**		correspond to the name of a PShowerFX type specified in the FX.txt 
+**		file.  NOTE: The UWImpactPShowerName fx are ONLY created when the 
+**		surface is under water (see ImpactPShowerName# above).  Multiple 
+**		particle shower fx types can be specified.  For example:
+**
+**			UWImpactPShowerName0	= "Liquid"
+**			UWImpactPShowerName1	= "Liquid2"
+**		
+**	ImpactPolyDebrisName# (String)  (OPTIONAL)
+**
+**		Specifies the optional name of an impact poly debris fx to create.
+**		The value of this property MUST correspond to the name of a 
+**		PolyDebrisFX type specified in the FX.txt file.  Multiple 
+**		poly debris fx types can be specified.  For example:
+**
+**			ImpactPolyDebrisName0	= "Sparks"
+**			ImpactPolyDebrisName1	= "Wood"
+**		
+**	ExitScaleName# (String)  (OPTIONAL)
+**
+**		Specifies the optional name of an exit scale fx to create.  
+**		The value of this property MUST correspond to the name of a 
+**		ScaleFX type specified in the FX.txt file.  Multiple 
+**		exit scale fx names can be specified.  For example:
+**
+**			ExitScaleName0	= "Sparks"
+**			ExitScaleName1	= "Wood"
+**		
+**	ExitPShowerName# (String)  (OPTIONAL)
+**
+**		Specifies the optional name of exit particle shower fx to create.  
+**		The value of this property MUST correspond to the name of a 
+**		PShowerFX type specified in the FX.txt file.  Multiple 
+**		exit particle shower fx names can be specified.  For example:
+**
+**			ExitPShowerName0 = "Liquid"
+**			ExitPShowerName1 = "Liquid2"
+**		
+**		NOTE: The ExitPShowerName fx are NOT created when the surface is 
+**		under water (see UWaterExitPShowerName# below).
+**
+**	UWExitPShowerName# (String)  (OPTIONAL)
+**
+**		Specifies the optional name of an exit particle shower fx to create
+**		if the surface is under water.  The value of this property MUST 
+**		correspond to the name of a PShowerFX type specified in the FX.txt
+**		file.  Multiple under water exit particle shower fx names can be 
+**		specified.  For example:
+**
+**			UWExitPShowerName0	= "Liquid"
+**			UWExitPShowerName1	= "Liquid2"
+**		
+**	ExitPolyDebrisName# (String)  (OPTIONAL)
+**
+**		Specifies the optional name of an exit poly debris fx to create.  The 
+**		value of this property MUST correspond to the name of a PolyDebrisFX 
+**		type specified in the FX.txt file.  Multiple poly debris fx names can
+**		be specified.  For example:
+**
+**			ExitPolyDebrisName0	= "Glass"
+**			ExitPolyDebrisName1	= "Dirt"
+**		
+*/
+
+/***************************************************************************
+**  Summary of Surface Types
+**
+**--Predefined Surfaces---**
+**
+**  Unknown
+**  Air
+**  Flesh_Human
+**  Flesh_Predator
+**  Flesh_Alien
+**  Flesh_Synth
+**  Flesh_Praetorian
+**  Sky
+**  Ladder
+**  Liquid
+**  Invisible
+**
+**--Custom Surfaces---**
+**
+**  Chain Link Fence
+**  Smooth Stone
+**  Rough Stone
+**  Metal
+**  Tin
+**  Wood
+**  Glass
+**  Dirt
+**  Snow
+**  Mud
+**  Grass
+**  Cloth
+**  Linoleum
+**  Metal Door
+**  Electronics
+**  Grate_Metal
+**  Light_Metal
+**  Bullet-Proof Glass
+**
+
+////////////////////////////////////////////////////////////////////////////
+// FOLLOWING ARE THE PRE-DEFINED SURFACES - DO NOT MODIFY THESE!!!! -
+//
+
+/*
+**  Surface0 - UNKNOWN
+*/
+
+[Surface0]
+
+Name						= "Unknown"
+Id							= 0
+ShowsMark					= 0
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 0.000000
+BulletHoleMaxScale			= 0.000000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\metal1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\metal2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\metal.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\metal1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\metal1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\metal2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\metal2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Hard.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.000000
+MoveNoiseMod				= 1.000000
+ImpactNoiseMod				= 1.000000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Sparks_Yellow"
+Hardness					= 0.25
+
+/*
+**  Surface1 - AIR
+*/
+
+[Surface1]
+
+Name						= "Air"
+Id							= 1
+ShowsMark					= 0
+CanSeeThrough				= 1
+CanShootThrough				= 1
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 1.000000
+BulletHoleMaxScale			= 1.000000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= ""
+BulletImpactSnd2			= ""
+ShellImpactSnd1				= ""
+ShellSndRadius				= 0.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= ""
+LtFootSnd1					= ""
+RtFootSnd2					= ""
+LtFootSnd2					= ""
+BodyFallSnd					= ""
+BodyFallSndRadius			= 0
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.000000
+MoveNoiseMod				= 0.000000
+ImpactNoiseMod				= 0.000000
+Hardness                    = 0.25
+
+/*
+**  Surface2 - FLESH_HUMAN
+*/
+
+[Surface2]
+
+Name						= "Flesh_Human"
+Id							= 2
+ShowsMark					= 0
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Flesh1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Flesh2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\flesh.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\flesh1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\flesh1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\flesh2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\flesh2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Soft.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.000000
+MoveNoiseMod				= 0.000000
+ImpactNoiseMod				= 0.000000
+Hardness					= 0.1
+
+/*
+**  Surface3 - FLESH_PREDATOR
+*/
+
+[Surface3]
+
+Name						= "Flesh_Predator"
+Id							= 3
+ShowsMark					= 0
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Flesh1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Flesh2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\flesh.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\flesh1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\flesh1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\flesh2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\flesh2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Soft.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.000000
+MoveNoiseMod				= 0.000000
+ImpactNoiseMod				= 0.000000
+Hardness					= 0.1
+
+/*
+**  Surface4 - FLESH_ALIEN
+*/
+
+[Surface4]
+
+Name						= "Flesh_Alien"
+Id							= 4
+ShowsMark					= 0
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Flesh1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Flesh2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\flesh.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\flesh1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\flesh1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\flesh2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\flesh2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Soft.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.000000
+MoveNoiseMod				= 0.000000
+ImpactNoiseMod				= 0.000000
+Hardness					= 0.1
+
+/*
+**  Surface5 - FLESH_SYNTH
+*/
+
+[Surface5]
+
+Name						= "Flesh_Synth"
+Id							= 5
+ShowsMark					= 0
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Flesh1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Flesh2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\flesh.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\flesh1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\flesh1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\flesh2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\flesh2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Soft.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.000000
+MoveNoiseMod				= 0.000000
+ImpactNoiseMod				= 0.000000
+Hardness					= 0.1
+
+/*
+**  Surface6 - FLESH_PRAETORIAN
+*/
+
+[Surface6]
+
+Name						= "Flesh_Praetorian"
+Id							= 6
+ShowsMark					= 0
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Flesh1a.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Flesh2a.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\metal.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\flesh1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\flesh1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\flesh2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\flesh2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Soft.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.000000
+MoveNoiseMod				= 0.000000
+ImpactNoiseMod				= 0.000000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Sparks_Praetorian"
+Hardness					= 1.0
+
+/*
+**  Surface7 - SKY
+*/
+
+[Surface7]
+
+Name						= "Sky"
+Id							= 110
+ShowsMark					= 0
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 1.000000
+BulletHoleMaxScale			= 1.000000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= ""
+BulletImpactSnd2			= ""
+ShellImpactSnd1				= ""
+ShellSndRadius				= 0.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= ""
+LtFootSnd1					= ""
+RtFootSnd2					= ""
+LtFootSnd2					= ""
+BodyFallSnd					= ""
+BodyFallSndRadius			= 0
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.000000
+MoveNoiseMod				= 0.000000
+ImpactNoiseMod				= 0.000000
+Hardness					= 0.25
+
+
+/*
+**  Surface8 - LADDER
+*/
+
+[Surface8]
+
+Name						= "Ladder"
+Id							= 200
+ShowsMark					= 0
+CanSeeThrough				= 1
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 1.000000
+BulletHoleMaxScale			= 1.000000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\sm_metal1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\sm_metal2.wav"
+ShellImpactSnd1				= ""
+ShellSndRadius				= 0.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\ladder1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\ladder1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\ladder2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\ladder2b.wav"
+BodyFallSnd					= ""
+BodyFallSndRadius			= 0
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.000000
+MoveNoiseMod				= 0.000000
+ImpactNoiseMod				= 0.000000
+Hardness					= 0.25
+
+
+/*
+**  Surface9 - LIQUID
+*/
+
+[Surface9]
+
+Name						= "Liquid"
+Id							= 201
+ShowsMark					= 0
+CanSeeThrough				= 1
+CanShootThrough				= 1
+MaxShootThroughPerturb		= 100
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 1.000000
+BulletHoleMaxScale			= 1.000000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Liquid1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Liquid2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\liquid.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\water1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\water1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\water2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\water2b.wav"
+BodyFallSnd					= ""
+BodyFallSndRadius			= 0
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.500000
+MoveNoiseMod				= 1.500000
+ImpactNoiseMod				= 0.250000
+ImpactScaleName0			= "Liquid"
+ImpactPShowerName0			= "Liquid"
+Hardness					= 0.01
+
+
+/*
+**  Surface10 - INVISIBLE - This surface is used for invisible textures,
+**  In other words, this is used to specify a surface to ignore completely.
+*/
+
+[Surface10]
+
+Name						= "Invisible"
+Id							= 202
+ShowsMark					= 0
+CanSeeThrough				= 1
+CanShootThrough				= 1
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 0.000000
+BulletHoleMaxScale			= 0.000000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= ""
+BulletImpactSnd2			= ""
+ShellImpactSnd1				= ""
+ShellSndRadius				= 0.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= ""
+LtFootSnd1					= ""
+RtFootSnd2					= ""
+LtFootSnd2					= ""
+BodyFallSnd					= ""
+BodyFallSndRadius			= 0
+ActivationSnd				= ""
+ActivationSndRadius			= 0.0
+DeathNoiseMod				= 0.0
+MoveNoiseMod				= 0.0
+Hardness					= 0.25
+
+
+//
+// END OF THE PRE-DEFINED SURFACES - DO NOT MODIFY THESE!!!! -
+/////////////////////////////////////////////////////////////////////////////
+
+/*
+**  Surface11 - CHAIN LINK FENCE
+*/
+
+[Surface11]
+
+Name						= "Chain Link Fence"
+Id							= 9
+ShowsMark					= 0
+CanSeeThrough				= 1
+CanShootThrough				= 1
+MaxShootThroughPerturb		= 50
+MaxShootThroughThickness	= 60
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\sm_metal1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\sm_metal2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\metal.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\metal1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\metal1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\metal2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\metal2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Hard.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.250000
+MoveNoiseMod				= 0.500000
+ImpactNoiseMod				= 0.500000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Sparks_Metal"
+Hardness					= 0.15
+
+/*
+**  Surface12 - SMOOTH STONE (Tile, concrete)
+*/
+
+[Surface12]
+
+Name						= "Smooth Stone"
+Id							= 10
+ShowsMark					= 1
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole90a.spr"
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Stone1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Stone2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\stone.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\stone1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\stone1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\stone2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\stone2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Hard.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.500000
+MoveNoiseMod				= 1.000000
+ImpactNoiseMod				= 1.000000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Sparks_StoneSmooth"
+Hardness					= 0.4
+
+/*
+**  Surface13 - ROUGH STONE (outdoor stone)
+*/
+
+[Surface13]
+
+Name						= "Rough Stone"
+Id							= 11
+ShowsMark					= 1
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole90a.spr"
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Stone1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Stone2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\stone.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\gravel1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\gravel1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\gravel2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\gravel2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Hard.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.500000
+MoveNoiseMod				= 1.000000
+ImpactNoiseMod				= 1.000000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Sparks_StoneRough"
+Hardness					= 0.4
+
+/*
+**  Surface14 - METAL
+*/
+
+[Surface14]
+
+Name						= "Metal"
+Id							= 20
+ShowsMark					= 1
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole20.spr"
+BulletHoleMinScale			= 0.400000
+BulletHoleMaxScale			= 0.750000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Metal1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Metal2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\metal.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\metal1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\metal1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\metal2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\metal2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Hard.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.250000
+MoveNoiseMod				= 1.250000
+ImpactNoiseMod				= 1.250000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Sparks_Metal"
+Hardness					= 0.4
+
+/*
+**  Surface15 - TIN - Metal you can shoot through
+*/
+
+[Surface15]
+
+Name						= "Tin"
+Id							= 21
+ShowsMark					= 1
+CanSeeThrough				= 0
+CanShootThrough				= 1
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 60
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole90.spr"
+BulletHoleMinScale			= 0.400000
+BulletHoleMaxScale			= 0.750000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\sm_metal1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\sm_metal2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\tin.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\metal1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\metal1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\metal2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\metal2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Hard.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.250000
+MoveNoiseMod				= 1.250000
+ImpactNoiseMod				= 1.250000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Sparks_Metal"
+ExitPolyDebrisName0			= "Sparks_Metal"
+Hardness					= 0.4
+
+/*
+**  Surface16 - WOOD
+*/
+
+[Surface16]
+
+Name						= "Wood"
+Id							= 30
+ShowsMark					= 1
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole20a.spr"
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Wood1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Wood2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\wood.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\wood1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\wood1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\wood2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\wood2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Hard.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.750000
+MoveNoiseMod				= 0.750000
+ImpactNoiseMod				= 0.750000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Wood"
+ImpactScaleName0			= "Wood"
+Hardness					= 0.3
+
+/*
+**  Surface17 - GLASS
+*/
+
+[Surface17]
+
+Name						= "Glass"
+Id							= 40
+ShowsMark					= 1
+CanSeeThrough				= 1
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 60
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole40.spr"
+BulletHoleMinScale			= 2.200000
+BulletHoleMaxScale			= 3.000000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Glass1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Glass2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\glass.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\glass1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\glass1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\glass2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\glass2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Soft.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.500000
+MoveNoiseMod				= 1.500000
+ImpactNoiseMod				= 1.500000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Glass"
+ExitPolyDebrisName0			= "Glass"
+Hardness					= 0.3
+
+
+/*
+**  Surface18 - DIRT
+*/
+
+[Surface18]
+
+Name						= "Dirt"
+Id							= 70
+ShowsMark					= 1
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole70.spr"
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Dirt1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Dirt2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\dirt.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\dirt1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\dirt1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\dirt2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\dirt2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Soft.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.500000
+MoveNoiseMod				= 0.500000
+ImpactNoiseMod				= 0.500000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Dirt"
+Hardness					= 0.15
+
+/*
+**  Surface19 - SNOW
+*/
+
+[Surface19]
+
+Name						= "Snow"
+Id							= 71
+ShowsMark					= 1
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole70.spr"
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= ""
+BulletImpactSnd2			= ""
+ShellImpactSnd1				= ""
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= ""
+LtFootSnd1					= ""
+RtFootSnd2					= ""
+LtFootSnd2					= ""
+BodyFallSnd					= ""
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.500000
+MoveNoiseMod				= 0.500000
+ImpactNoiseMod				= 0.500000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Snow"
+Hardness					= 0.05
+
+/*
+**  Surface20 - MUD
+*/
+
+[Surface20]
+
+Name						= "Mud"
+Id							= 72
+ShowsMark					= 1
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole70.spr"
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Mud1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Mud2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\mud.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\mud1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\mud1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\mud2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\mud2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Soft.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.500000
+MoveNoiseMod				= 0.500000
+ImpactNoiseMod				= 0.500000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Dirt"
+Hardness					= 0.075
+
+
+/*
+**  Surface21 - GRASS
+*/
+
+[Surface21]
+
+Name						= "Grass"
+Id							= 73
+ShowsMark					= 1
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole70.spr"
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Grass1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Grass2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\dirt.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\grass1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\grass1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\grass2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\grass2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Soft.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.500000
+MoveNoiseMod				= 0.500000
+ImpactNoiseMod				= 0.500000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Dirt"
+Hardness					= 0.1
+
+
+/*
+**  Surface22 - CLOTH (e.g., carpet, furniture)
+*/
+
+[Surface22]
+
+Name						= "Cloth"
+Id							= 80
+ShowsMark					= 1
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole90.spr"
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Cloth1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Cloth2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\drywall.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\cloth1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\cloth1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\cloth2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\cloth2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Soft.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.500000
+MoveNoiseMod				= 0.500000
+ImpactNoiseMod				= 0.500000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Cloth"
+ExitPolyDebrisName0			= "Cloth"
+Hardness					= 0.1
+
+/*
+**  Surface23 - LINOLEUM
+*/
+
+[Surface23]
+
+Name						= "Linoleum"
+Id							= 90
+ShowsMark					= 1
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole90a.spr"
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\alienmetal1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\alienmetal2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\linoleum.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\linoleum1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\linoleum1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\linoleum2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\linoleum2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Soft.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.500000
+MoveNoiseMod				= 0.500000
+ImpactNoiseMod				= 0.500000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Plastic"
+ExitPolyDebrisName0			= "Plastic"
+Hardness					= 0.25
+
+
+/*
+**  Surface24 - METAL DOOR - Use for metel door textures (just like metal, 
+**				but also has door locked activation sound)
+**						
+*/
+
+[Surface24]
+
+Name						= "Metal Door"
+Id							= 101
+ShowsMark					= 1
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole20.spr"
+BulletHoleMinScale			= 0.400000
+BulletHoleMaxScale			= 0.750000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Metal1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Metal2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\metal.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\metal1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\metal1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\metal2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\metal2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Hard.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 400.000000
+DeathNoiseMod				= 1.250000
+MoveNoiseMod				= 1.250000
+ImpactNoiseMod				= 1.250000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Sparks_Metal"
+Hardness					= 0.4
+
+/*
+**  Surface25 - ELECTRONICS
+*/
+
+[Surface25]
+
+Name						= "Electronics"
+Id							= 8
+ShowsMark					= 1
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole20b.spr"
+BulletHoleMinScale			= 0.400000
+BulletHoleMaxScale			= 0.750000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\comp_metal1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\comp_metal2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\glass.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\plastic1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\plastic1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\plastic2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\plastic2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Hard.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.250000
+MoveNoiseMod				= 1.250000
+ImpactNoiseMod				= 1.250000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Sparks_Electric"
+Hardness					= 0.35
+
+/*
+**  Surface26 - Grate Metal
+*/
+
+[Surface26]
+
+Name						= "Grate_Metal"
+Id							= 22
+ShowsMark					= 0
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 50
+MaxShootThroughThickness	= 60
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 0.400000
+BulletHoleMaxScale			= 0.750000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\sm_metal1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\sm_metal2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\metal.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\Gratemetal1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\Gratemetal1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\Gratemetal2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\Gratemetal2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Hard.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.250000
+MoveNoiseMod				= 1.250000
+ImpactNoiseMod				= 1.250000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Sparks_Metal"
+Hardness					= 0.35
+
+/*
+**  Surface27 - Light Metal
+*/
+
+[Surface27]
+
+Name						= "Light_Metal"
+Id							= 23
+ShowsMark					= 1
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole20b.spr"
+BulletHoleMinScale			= 0.400000
+BulletHoleMaxScale			= 0.750000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\sm_metal1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\sm_metal2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\metal.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\Lightmetal1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\Lightmetal1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\Lightmetal2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\Lightmetal2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Hard.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.250000
+MoveNoiseMod				= 1.250000
+ImpactNoiseMod				= 1.250000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Sparks_Metal"
+Hardness					= 0.25
+
+/*
+**  Surface28 - Bullet-Proof Glass
+*/
+
+[Surface28]
+
+Name						= "Bullet-Proof Glass"
+Id							= 41
+ShowsMark					= 1
+CanSeeThrough				= 1
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 60
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole41.spr"
+BulletHoleMinScale			= 2.200000
+BulletHoleMaxScale			= 3.000000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\Glass1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\Glass2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\glass.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\glass1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\glass1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\glass2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\glass2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Soft.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.500000
+MoveNoiseMod				= 1.500000
+ImpactNoiseMod				= 1.500000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Glass"
+ExitPolyDebrisName0			= "Glass"
+Hardness					= 0.3
+
+/*
+**  Surface29 - Vent
+*/
+
+[Surface29]
+
+Name						= "Vent"
+Id							= 25
+ShowsMark					= 1
+CanSeeThrough				= 0
+CanShootThrough				= 0
+MaxShootThroughPerturb		= 0
+MaxShootThroughThickness	= 0
+BulletHoleSpr				= "Sprites\SFX\Bulletholes\bullethole20b.spr"
+BulletHoleMinScale			= 0.400000
+BulletHoleMaxScale			= 0.750000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\h_ductmetal1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\h_ductmetal2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\metal.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\vent1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\vent1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\vent2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\vent2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Hard.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.250000
+MoveNoiseMod				= 1.250000
+ImpactNoiseMod				= 1.250000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Sparks_Metal"
+Hardness					= 0.4
+
+
+/*
+**  Surface30 - APC shell material
+*/
+
+[Surface30]
+
+Name						= "APC_Shell"
+Id							= 24
+ShowsMark					= 0
+CanSeeThrough				= 0
+CanShootThrough				= 1
+MaxShootThroughPerturb		= 50
+MaxShootThroughThickness	= 60
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 0.400000
+BulletHoleMaxScale			= 0.750000
+BulletRangeDampen			= 1.000000
+BulletDamageDampen			= 1.000000
+BulletImpactSnd1			= "Sounds\Impacts\%s\sm_metal1.wav"
+BulletImpactSnd2			= "Sounds\Impacts\%s\sm_metal2.wav"
+ShellImpactSnd1				= "Sounds\SFX\Shells\metal.wav"
+ShellSndRadius				= 200.0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+RtFootSnd1					= "Sounds\Footsteps\%s\Gratemetal1a.wav"
+LtFootSnd1					= "Sounds\Footsteps\%s\Gratemetal1b.wav"
+RtFootSnd2					= "Sounds\Footsteps\%s\Gratemetal2a.wav"
+LtFootSnd2					= "Sounds\Footsteps\%s\Gratemetal2b.wav"
+BodyFallSnd					= "Sounds\Characters\BodyFall\Hard.wav"
+BodyFallSndRadius			= 400.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.250000
+MoveNoiseMod				= 1.250000
+ImpactNoiseMod				= 1.250000
+UWImpactPShowerName0		= "Bubbles"
+ImpactPolyDebrisName0		= "Sparks_Metal"
+Hardness					= 0.35
