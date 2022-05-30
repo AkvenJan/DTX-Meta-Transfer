@@ -1,0 +1,117 @@
+LittleEndian();   
+     uint32   FileType;
+     enum { DTX_VERSION_LT1=-2, DTX_VERSION_LT15=-3,DTX_VERSION_LT2=-5} version;
+//-2 = DTX_VERSION_LT1
+//-3 = DTX_VERSION_LT15
+//-5 = DTX_VERSION_LT2
+
+     uint16 Width;
+     uint16 Height;
+     uint16 NumberOfMipmaps;
+//Always 4 as DTX always hold all 4 mipmaps
+
+     uint16 LightFlag;
+//0 = no light
+//1 = light parameter is used
+//Light is treated like a command string. If LightFlag equals 1, string is added to the end of the file
+
+//I don't know this flags
+struct bits {
+    int DTX_FLAG0:1;
+    int DTX_FLAG1:1;
+    int DTX_DONT_MAP_MASTER:1; // Don't map to master palette
+    int DTX_FLAG3:1;
+//    int DTX_PREFER4444:1;     //DTX_PREFER4444 = If in 16-bit mode, use a 4444 texture for this
+//    int DTX_NOSYSCACHE:1;     //DTX_NOSYSCACHE = tells it to not put the texture in the texture cache list
+//    int DTX_FLAG3:1;          //Unknown
+    int DTX_SECTIONSFIXED:1;
+    // always 1
+    // The sections count was screwed up originally.  This flag is set
+    // in all the textures from now on when the count is fixed
+    int DTX_FLAG5:1;
+//    int DTX_MIPSALLOCED:1;    //DTX_MIPSALLOCED = Used to make some of the tools stuff easier. This means each TextureMipData has its texture data allocated
+    int DTX_ALPHAMASK:1;
+//    int DTX_FULLBRITE:1;      //DTX_FULLBRITE = This DTX has fullbrite colors
+//    int DTX_FLAG8:1;          //Unknown
+//    int DTX_FLAG9:1;          //Unknown
+//    int DTX_FLAG10:1;         //Unknown
+//    int DTX_LUMBUMPMAP:1;     //DTX_LUMBUMPMAP = Bump mapped texture with luminance, this has 8 bits for luminance, U and V
+//    int DTX_BUMPMAP:1;        //DTX_BUMPMAP = Bump mapped texture, this has 8 bit U and V components for the bump normal
+//    int DTX_CUBEMAP:1;        //DTX_CUBEMAP = Cube environment map.  +x is stored in the normal data area, -x,+y,-y,+z,-z are stored in their own sections
+//    int DTX_32BITSYSCOPY:1;   //DTX_32BITSYSCOPY = If there is a sys copy - don't convert it to device specific format (keep it 32 bit)
+//    int DTX_PREFER5551:1;     //DTX_PREFER5551 = Use 5551 if 16-bit
+    int DTX_FULLBRITE:1;      //DTX_FULLBRITE = This DTX has fullbrite colors (this means palette index 255 will be unaffected by lighting)
+    int DTX_FLAG8:1;
+    int DTX_FLAG9:1;
+    int DTX_FLAG10:1;
+    int DTX_FLAG11:1;
+    int DTX_FLAG12:1;
+    int DTX_FLAG13:1;
+    int DTX_FLAG14:1;
+    int DTX_FLAG15:1;
+};
+
+
+struct material {
+    int DTX_Glass:1;
+    int DTX_Metal:1;
+    int DTX_Wood:1;
+    int DTX_Stone:1;
+    int DTX_Corrugated_Metal:1;
+    int DTX_Liquid:1;
+    int DTX_Ice:1;
+    int DTX_Plaster:1;
+    int DTX_Carpet:1;
+    int DTX_Concrete:1;
+    int DTX_Organic:1;
+    int DTX_Grass:1;
+    int DTX_Gravel:1;
+    int DTX_Dirt:1;
+    int DTX_Ceramic:1;
+    int DTX_NeverMask:1;
+};
+
+BitfieldDisablePadding();
+BitfieldLeftToRight();
+bits BitFlags;
+//DTX_PREFER4444 and DTX_PREFER5551  cannot be combined (cannot be both set to 1)
+//DTX_PREFER16BIT, DTX_FULLBRITE and DTX_PREFER4444/DTX_PREFER5551 can be combined
+
+     uint16 UNKNOWN1;              //maybe another set of flags, Flags that go on surfaces.
+BitfieldRightToLeft();
+     material MaterialFlags;
+ 
+//     int16          SurfaceFlags;     //It's surface flag for the type of surface
+//They are predefined as binary flags
+//01 00 00 00 Glass
+//02 00 00 00 Metal
+//04 00 00 00 Wood
+//08 00 00 00 Stone
+//10 00 00 00 Corrugated Metal
+//20 00 00 00 Liquid
+//40 00 00 00 Ice
+//80 00 00 00 Plaster
+
+     int16 UNKNOWN2;
+     unsigned byte  TextureGroup;   //Same is DTX v2
+     byte           NumberOfMipmapsUsed;    //Same is DTX v2
+//0 = default value if all 4 mipmaps are used, also may be 4
+//1-3 = if custom number of used mipmaps is set
+
+// these alpha_ values are hints for the software renderer
+     ubyte SoftwareAlphaCutoff;
+     //byte limited to [128-255]
+     //byte = 128 + Real DEDIT Value
+     //Real DEDIT Value = byte - 128
+     ubyte SoftwareAverageAlpha;
+
+     float          DetailScale;
+//Detail Scale shown as it is
+     signed short   DetailAngle;        //Detail texture angle (integer degrees)
+     int16 UNKNOWN3;
+     char           CommandStringBegin[128];
+//All the bytes behind the actual data of the Command String filled with 00 until the end of its 128 bytes
+//if first byte of the Command String is 00, it treats it as empty command string, the content of the remaining bytes
+//may be random, their value is irrelevant, but 128 bytes reserved anyway
+//After that goes actual image data, I didn't templated that
+//Last 128th byte is always 00

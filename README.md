@@ -53,7 +53,7 @@ https://github.com/jsj2008/lithtech/blob/master/Shogo/Shared/SurfaceTypes.h
     Lithtech 1.5 (DAT v57), uses DTX v1.5
     	Might and Magic IX
     	
-    Kiss Psycho Circus (Custom 1.5) (DAT v127)
+    Kiss Psycho Circus (Custom 1.5) (DAT v127), uses DTX v1.5
     	KISS: Psycho Circus: The Nightmare Child 
 	
     Lithtech 2.x (DAT v66), uses DTX v2
@@ -67,7 +67,6 @@ https://github.com/jsj2008/lithtech/blob/master/Shogo/Shared/SurfaceTypes.h
 
     Lithtech Talon (DAT v70), uses DTX v2
     	Aliens versus Predator 2
-    	Might and Magic IX 
 
     Lithtech Jupiter (DAT v85)
     	No One Lives Forever 2: A Spy In H.A.R.M.'s Way
