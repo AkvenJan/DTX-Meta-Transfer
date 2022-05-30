@@ -51,7 +51,8 @@ struct bits {
     int DTX_FLAG15:1;
 };
 
-
+//Based on KISS: Psycho Circus
+//TODO: Check M&M IX for its materials
 struct material {
     int DTX_Glass:1;
     int DTX_Metal:1;
@@ -80,17 +81,6 @@ bits BitFlags;
      uint16 UNKNOWN1;              //maybe another set of flags, Flags that go on surfaces.
 BitfieldRightToLeft();
      material MaterialFlags;
- 
-//     int16          SurfaceFlags;     //It's surface flag for the type of surface
-//They are predefined as binary flags
-//01 00 00 00 Glass
-//02 00 00 00 Metal
-//04 00 00 00 Wood
-//08 00 00 00 Stone
-//10 00 00 00 Corrugated Metal
-//20 00 00 00 Liquid
-//40 00 00 00 Ice
-//80 00 00 00 Plaster
 
      int16 UNKNOWN2;
      unsigned byte  TextureGroup;   //Same is DTX v2
