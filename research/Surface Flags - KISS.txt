@@ -1,0 +1,20 @@
+#bits from right to left
+
+struct material {
+    int DTX_Glass:1;
+    int DTX_Metal:1;
+    int DTX_Wood:1;
+    int DTX_Stone:1;
+    int DTX_Corrugated_Metal:1;
+    int DTX_Liquid:1;
+    int DTX_Ice:1;
+    int DTX_Plaster:1;
+    int DTX_Carpet:1;
+    int DTX_Concrete:1;
+    int DTX_Organic:1;
+    int DTX_Grass:1;
+    int DTX_Gravel:1;
+    int DTX_Dirt:1;
+    int DTX_Ceramic:1;
+    int DTX_NeverMask:1;
+};

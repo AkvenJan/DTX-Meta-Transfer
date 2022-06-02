@@ -1,0 +1,19 @@
+// Base surface types for when we hit something.  There can be some subtypes
+enum SurfaceType
+{
+	SURFTYPE_UNKNOWN = 0,	// Could be anything
+	SURFTYPE_STONE   = 10,	// Stone
+	SURFTYPE_METAL   = 20,	// Metal
+	SURFTYPE_WOOD    = 30,	// Wood
+	SURFTYPE_ENERGY	 = 40,	// Energy (Force fields, etc)
+	SURFTYPE_GLASS   = 50,  // Glass
+	SURFTYPE_BUILDING= 60,
+	SURFTYPE_TERRAIN = 70,	// Dirt, ice, etc.
+	SURFTYPE_CLOTH   = 80,	// Cloth, carpet, furniture
+	SURFTYPE_PLASTIC = 90,
+	SURFTYPE_FLESH   = 100,
+	SURFTYPE_SKY	 = 110,	// Sky textures
+	SURFTYPE_FIRETHROUGH = 120,	// Vector weapons can fire through
+	SURFTYPE_LIQUID  = 200,
+	SURFTYPE_MAX,
+};
