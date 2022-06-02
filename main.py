@@ -68,7 +68,7 @@ class DtxHeader(object):
         self.mipmaps_used = int.from_bytes(bytes_.read(1), 'little', signed=True)
         self.mipmaps_used = 4 if self.mipmaps_used == 0 else self.mipmaps_used
         self.alpha_cutoff = int.from_bytes(bytes_.read(1), 'little', signed=False)
-        self.alpha_cutoff = self.alpha_cutoff - 128
+        self.alpha_cutoff = self.alpha_cutoff - 128 if self.alpha_cutoff != 0 else self.alpha_cutoff
         self.alpha_average = int.from_bytes(bytes_.read(1), 'little', signed=False)
 
         # A lot of unknown values
