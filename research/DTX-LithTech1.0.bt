@@ -14,18 +14,22 @@ struct Colour
 
 struct Header
 {
-	uint unknown;
+	uint32   FileType;
     enum { DTX_VERSION_LT1=-2, DTX_VERSION_LT15=-3,DTX_VERSION_LT2=-5} version;
 	ushort width;
 	ushort height;
 	ushort mipmap_count; // mip map count or bytes per pixel? always 4
 	ushort has_lights;
+//0 = no light
+//1 = light parameter is used
+//Light is treated like a command string. If LightFlag equals 1, string is added to the end of the file starting with LIGHTDEFS
+
 	uint flags <format=hex>;
 	/*
 	DTX_FULLBRITE       (1<<0)  // This DTX has fullbrite colors (this means palette index 255 will be unaffected by lighting)
 	DTX_ALPHA_MASKS     (1<<1)  // This texture contains alpha masks
 	DTX_UNKNOWN         (1<<2)  // Unknown
-	DTX_UNKNOWN         (1<<3)  // Unknown, probably compatibility bit; seems to always be set
+	DTX_SECTIONSFIXED   (1<<3)  // Unknown, probably compatibility bit; seems to always be set
 	DTX_UNKNOWN         (1<<4)  // Unknown
 	DTX_DONT_MAP_MASTER (1<<5)  // Don't map to master palette
 	*/

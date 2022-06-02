@@ -40,6 +40,67 @@ class DtxHeader(object):
         self.height = -1
         self.mipmaps = 4
 
+    # Parsing only version for if/case logic of the script
+    def head(self,bytes_):
+        self.filetype = int.from_bytes(bytes_.read(4), 'little', signed=False)
+        self.version = int.from_bytes(bytes_.read(4), 'little', signed=True)
+
+    # Parsing the whole header for DTX v1
+    def parsev1(self, bytes_):
+        self.filetype = int.from_bytes(bytes_.read(4), 'little', signed=False)
+        self.version = int.from_bytes(bytes_.read(4), 'little', signed=True)
+        self.width = int.from_bytes(bytes_.read(2), 'little', signed=False)
+        self.height = int.from_bytes(bytes_.read(2), 'little', signed=False)
+        self.mipmaps_default = int.from_bytes(bytes_.read(2), 'little', signed=False)   # always 4
+        self.light_flag = int.from_bytes(bytes_.read(2), 'little', signed=False)
+        self.dtx_flags = "{:08b}".format(int.from_bytes(bytes_.read(1), 'little', signed=False)) + "{:08b}".format(int.from_bytes(bytes_.read(1), 'little', signed=False))
+        # Bit Flags for DTX Flags
+        self.DTX_DONT_MAP_MASTER="DTX_DONT_MAP_MASTER " if int(self.dtx_flags[2]) else ""
+        self.DTX_SECTIONSFIXED="DTX_SECTIONSFIXED " if int(self.dtx_flags[4]) else ""
+        self.DTX_ALPHA_MASK="DTX_ALPHA_MASK " if int(self.dtx_flags[6]) else ""
+        self.DTX_FULLBRITE="DTX_FULLBRITE " if int(self.dtx_flags[7]) else ""
+
+        self.unknown = int.from_bytes(bytes_.read(2), 'little', signed=False) # always 0, at least in NOLF1
+        self.surface_flag = int.from_bytes(bytes_.read(4), 'little', signed=True)
+        self.texture_group = int.from_bytes(bytes_.read(1), 'little', signed=False)
+
+        # If this value is 0, we assume we use 4 default mipmaps embedded with texture. Can only be 0-3
+        self.mipmaps_used = int.from_bytes(bytes_.read(1), 'little', signed=True)
+        self.mipmaps_used = 4 if self.mipmaps_used == 0 else self.mipmaps_used
+        self.alpha_cutoff = int.from_bytes(bytes_.read(1), 'little', signed=False)
+        self.alpha_cutoff = self.alpha_cutoff - 128
+        self.alpha_average = int.from_bytes(bytes_.read(1), 'little', signed=False)
+
+        # A lot of unknown values
+        self.unk1 = int.from_bytes(bytes_.read(4), 'little', signed=False)
+        self.unk2 = int.from_bytes(bytes_.read(4), 'little', signed=False)
+        self.unk3 = int.from_bytes(bytes_.read(1), 'little', signed=False)
+        self.unk4 = int.from_bytes(bytes_.read(1), 'little', signed=False)
+        self.unk5 = int.from_bytes(bytes_.read(2), 'little', signed=False)
+        self.unk6 = int.from_bytes(bytes_.read(1), 'little', signed=False)
+        self.unk7 = int.from_bytes(bytes_.read(1), 'little', signed=False)
+        self.unk8 = int.from_bytes(bytes_.read(2), 'little', signed=False)
+         # If light_flag is 1, we find LIGHTDEFS definition and read all the bytes to the end of file starting from 32nd byte
+        # It's always 9 bytes of LIGHTDEF and 23 bytes of random data before the real information starting
+        # Last byte is always 00 in case of light_flag/LIGHTDEF present in file, so we must exclude it for printing
+        if self.light_flag == 1:
+            # Reading the rest of the file after header
+            self.file_data = bytes_.read()[44:]
+            # Finding and reading tail of the file starting from LIGHTDEFS
+            self.lightdef_raw = self.file_data[self.file_data.find(b'LIGHTDEFS'):]
+            self.lightdef_string = self.lightdef_raw[32:-1].decode()
+        else:
+            self.lightdef_string = ""
+
+    # Parsing the whole header for DTX v1.5
+    def parsev15(self, bytes_):
+        self.filetype = int.from_bytes(bytes_.read(4), 'little', signed=False)
+        self.version = int.from_bytes(bytes_.read(4), 'little', signed=True)
+        self.width = int.from_bytes(bytes_.read(2), 'little', signed=False)
+        self.height = int.from_bytes(bytes_.read(2), 'little', signed=False)
+        self.mipmaps_default = int.from_bytes(bytes_.read(2), 'little', signed=False)   # always 4
+        self.light_flag = int.from_bytes(bytes_.read(2), 'little', signed=False)
+
     # Parsing the whole header like a stream of bytes using research for DTX v2
     def parse(self, bytes_):
         self.filetype = int.from_bytes(bytes_.read(4), 'little', signed=False)
@@ -113,7 +174,7 @@ input_file=open(args.input, 'rb')
 
 # Reading header like a stream of bytes and parsing
 header = DtxHeader()
-header.parse(io.BytesIO(input_file.read()))
+header.head(io.BytesIO(input_file.read()))
 
 # Dealing with errors of wrong file type or wrong DTX version
 if header.filetype != 0:
@@ -122,17 +183,45 @@ if header.filetype != 0:
 
 # In NOLF there is BARON_ACTION.DTX file with mess in DTX version, but overall it's compatible file for DTX_VERSION_LT2.
 if header.filetype == 0 and header.version != -5 and header.version != -3 and header.version != -2:
-    print("Wrong/Broken DTX version (not -2 or -3 or -5). If you sure it's compatible DTX_VERSION_LT2 file (NOLF1 had such BARON_ACTION.DTX for example),")
-    print("you can edit your file in HEX editor like this replacing this 8 bytes at the start of the file:")
-    print("00 00 00 00 FB FF FF FF")
+    print("Wrong/Broken DTX version (not -2 or -3 or -5). If you sure it's compatible DTX file (NOLF1 had such BARON_ACTION.DTX for example),")
+    print("you can edit your file in HEX editor replacing 8 bytes at the start of the file by this:")
+    print("DTX v1:   00 00 00 00 FE FF FF FF")
+    print("DTX v1.5: 00 00 00 00 FD FF FF FF")
+    print("DTX v2:   00 00 00 00 FB FF FF FF")
     exit()
 
-if header.filetype == 0 and (header.version == -3 or header.version == -2):
-    print("Wrong DTX version: {} ({}). Script is intended to work only with -5 (DTX_VERSION_LT2) for now".format(header.version, DTX_ver_Enum(header.version).name))
+if header.filetype == 0 and header.version == -3:
+    print("Wrong DTX version: {} ({}). Script is intended to work only with -5 (DTX_VERSION_LT2) and had partiall support for -2 (DTX_VERSION_LT1)".format(header.version, DTX_ver_Enum(header.version).name))
     exit()
+
+# Closing file and reopening it for new parsing for its version
+input_file.close()
+
+
+input_file=open(args.input, 'rb')
+
+if header.version == -2:
+    header.parsev1(io.BytesIO(input_file.read()))
+
+if header.version == -3:
+    header.parsev15(io.BytesIO(input_file.read()))
+
+if header.version == -5:
+    header.parse(io.BytesIO(input_file.read()))
 
 # For --read argument printing file information
-if args.read:
+# For DTX v1
+if args.read and header.version == -2:
+    print("File Path: {}".format(args.input))
+    print("File Type: {}, DTX version: {}, Size: {}x{}, Mipmaps Used: {}, Light Flag: {}".format(header.filetype, DTX_ver_Enum(header.version).name, header.width, header.height, header.mipmaps_used, header.light_flag))
+    print("DTX Flags: {}: {}{}{}{}".format(header.dtx_flags, header.DTX_DONT_MAP_MASTER, header.DTX_SECTIONSFIXED, header.DTX_ALPHA_MASK, header.DTX_FULLBRITE))
+    print("Unknown:   {}, Surface Flag: {}, Texture Group: {}".format(header.unknown, header.surface_flag, header.texture_group))
+    print("Software Alpha Cutoff: {}, Software Average Alpha: {}".format(header.alpha_cutoff,header.alpha_average))
+    print("Unknown Values:        4+4 Bytes: {}/{}, 1+1+2 Bytes: {}/{}/{}, 1+1+2 Bytes: {}/{}/{}".format(header.unk1,header.unk2,header.unk3,header.unk4,header.unk5,header.unk6,header.unk7,header.unk8))
+    print("Light String:          {}".format(header.lightdef_string))
+
+# For DTX v2
+if args.read and header.version == -5:
     print("File Path: {}".format(args.input))
     print("File Type: {}, DTX version: {}, Size: {}x{}, Mipmaps Used: {}, Light Flag: {}".format(header.filetype, DTX_ver_Enum(header.version).name, header.width, header.height, header.mipmaps_used, header.light_flag))
     print("DTX Flags: {}: {}{}{}{}{}{}{}{}{}{}{}".format(header.dtx_flags, header.DTX_PREFER4444, header.DTX_NOSYSCACHE, header.DTX_SECTIONSFIXED, header.DTX_MIPSALLOCED, header.DTX_PREFER16BIT, header.DTX_FULLBRITE, header.DTX_LUMBUMPMAP, header.DTX_BUMPMAP, header.DTX_CUBEMAP, header.DTX_32BITSYSCOPY, header.DTX_PREFER5551))
@@ -142,19 +231,30 @@ if args.read:
     # Printing only the real data of Light String if it present (starting from 32nd byte and till EOF-1) and decoding to ASCII string
     print("Light String:    {}".format(header.lightdef_string))
 
-# Writing meta-information into new CSV file or adding into existing
-if args.table:
+# Writing meta-information into new CSV file or adding into existing for DTX v1
+if args.table and header.version == -2:
+    meta_table=open(args.table, 'a')
+
+    # First row of the CSV file should always be names of the parameters
+    if os.path.getsize(args.table) == 0:
+        meta_table.writelines("Filename;Filetype;DTX_VERSION;Width;Height;Mipmaps Used;DTX Flags;DTX_DONT_MAP_MASTER;DTX_SECTIONSFIXED;DTX_ALPHA_MASK;DTX_FULLBRITE;Unknown;Surface Flag;Texture Group;Software Alpha Cutoff;Software Average Alpha;Unknown1;Unknown2;Unknown3;Unknown4;Unknown5;Unknown6;Unknown7;Unknown8;Light String;\n")
+
+    meta_table.writelines("\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"'{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\n".format(args.input, header.filetype, DTX_ver_Enum(header.version).name, header.width, header.height, header.mipmaps_used, header.dtx_flags, header.DTX_DONT_MAP_MASTER, header.DTX_SECTIONSFIXED, header.DTX_ALPHA_MASK, header.DTX_FULLBRITE, header.unknown, header.surface_flag, header.texture_group, header.alpha_cutoff, header.alpha_average, header.unk1, header.unk2, header.unk3, header.unk4, header.unk5, header.unk6, header.unk7, header.unk8, header.lightdef_string))
+    meta_table.close()
+
+# Writing meta-information into new CSV file or adding into existing for DTX v2
+if args.table and header.version == -5:
     meta_table=open(args.table, 'a')
 
     # First row of the CSV file should always be names of the parameters
     if os.path.getsize(args.table) == 0:
         meta_table.writelines("Filename;Filetype;DTX_VERSION;Width;Height;Mipmaps Used;DTX Flags;DTX_PREFER4444;DTX_NOSYSCACHE;DTX_SECTIONSFIXED;DTX_MIPSALLOCED;DTX_PREFER16BIT;DTX_FULLBRITE;DTX_LUMBUMPMAP;DTX_BUMPMAP;DTX_CUBEMAP;DTX_32BITSYSCOPY;DTX_PREFER5551;Unknown;Surface Flag;Texture Group;BPP;Non S3TC Offset;UI Mipmap Offset;Texture Priority;Detail Scale;Detail Angle;Command String;Light String;\n")
 
-    meta_table.writelines("\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"'{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\n".format(args.input, header.filetype, DTX_ver_Enum(header.version).name, header.width, header.height, header.mipmaps_used, header.dtx_flags, header.DTX_PREFER4444, header.DTX_NOSYSCACHE, header.DTX_SECTIONSFIXED, header.DTX_MIPSALLOCED, header.DTX_PREFER16BIT, header.DTX_FULLBRITE, header.DTX_LUMBUMPMAP, header.DTX_BUMPMAP, header.DTX_CUBEMAP, header.DTX_32BITSYSCOPY, header.DTX_PREFER5551, header.unknown, header.surface_flag, header.texture_group, BPP_Enum(header.bpp).name, header.non_s3tc_offset, header.ui_mipmap_offset, header.texture_priority, header.detail_scale, header.detail_angle, header.command_string,header.lightdef_string))
+    meta_table.writelines("\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"'{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\n".format(args.input, header.filetype, DTX_ver_Enum(header.version).name, header.width, header.height, header.mipmaps_used, header.dtx_flags, header.DTX_PREFER4444, header.DTX_NOSYSCACHE, header.DTX_SECTIONSFIXED, header.DTX_MIPSALLOCED, header.DTX_PREFER16BIT, header.DTX_FULLBRITE, header.DTX_LUMBUMPMAP, header.DTX_BUMPMAP, header.DTX_CUBEMAP, header.DTX_32BITSYSCOPY, header.DTX_PREFER5551, header.unknown, header.surface_flag, header.texture_group, BPP_Enum(header.bpp).name, header.non_s3tc_offset, header.ui_mipmap_offset, header.texture_priority, header.detail_scale, header.detail_angle, header.command_string, header.lightdef_string))
     meta_table.close()
 
-# Transfering meta information between the files
-if args.output:
+# Transfering meta information between the files for DTX v2
+if args.output and header.version == -5:
     # Opening output file to write to
     output_file=open(args.output, 'r+b')
     # Setting offset to 12th byte (Number of mipmaps)

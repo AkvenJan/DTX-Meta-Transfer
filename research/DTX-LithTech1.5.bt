@@ -15,31 +15,17 @@ LittleEndian();
 //1 = light parameter is used
 //Light is treated like a command string. If LightFlag equals 1, string is added to the end of the file
 
-//I don't know this flags
 struct bits {
     int DTX_FLAG0:1;
     int DTX_FLAG1:1;
     int DTX_DONT_MAP_MASTER:1; // Don't map to master palette
     int DTX_FLAG3:1;
-//    int DTX_PREFER4444:1;     //DTX_PREFER4444 = If in 16-bit mode, use a 4444 texture for this
-//    int DTX_NOSYSCACHE:1;     //DTX_NOSYSCACHE = tells it to not put the texture in the texture cache list
-//    int DTX_FLAG3:1;          //Unknown
     int DTX_SECTIONSFIXED:1;
     // always 1
     // The sections count was screwed up originally.  This flag is set
     // in all the textures from now on when the count is fixed
     int DTX_FLAG5:1;
-//    int DTX_MIPSALLOCED:1;    //DTX_MIPSALLOCED = Used to make some of the tools stuff easier. This means each TextureMipData has its texture data allocated
     int DTX_ALPHAMASK:1;
-//    int DTX_FULLBRITE:1;      //DTX_FULLBRITE = This DTX has fullbrite colors
-//    int DTX_FLAG8:1;          //Unknown
-//    int DTX_FLAG9:1;          //Unknown
-//    int DTX_FLAG10:1;         //Unknown
-//    int DTX_LUMBUMPMAP:1;     //DTX_LUMBUMPMAP = Bump mapped texture with luminance, this has 8 bits for luminance, U and V
-//    int DTX_BUMPMAP:1;        //DTX_BUMPMAP = Bump mapped texture, this has 8 bit U and V components for the bump normal
-//    int DTX_CUBEMAP:1;        //DTX_CUBEMAP = Cube environment map.  +x is stored in the normal data area, -x,+y,-y,+z,-z are stored in their own sections
-//    int DTX_32BITSYSCOPY:1;   //DTX_32BITSYSCOPY = If there is a sys copy - don't convert it to device specific format (keep it 32 bit)
-//    int DTX_PREFER5551:1;     //DTX_PREFER5551 = Use 5551 if 16-bit
     int DTX_FULLBRITE:1;      //DTX_FULLBRITE = This DTX has fullbrite colors (this means palette index 255 will be unaffected by lighting)
     int DTX_FLAG8:1;
     int DTX_FLAG9:1;
@@ -74,17 +60,16 @@ struct material {
 
 BitfieldDisablePadding();
 BitfieldLeftToRight();
-bits BitFlags;
-//DTX_PREFER4444 and DTX_PREFER5551  cannot be combined (cannot be both set to 1)
-//DTX_PREFER16BIT, DTX_FULLBRITE and DTX_PREFER4444/DTX_PREFER5551 can be combined
+     bits BitFlags;
 
      uint16 UNKNOWN1;              //maybe another set of flags, Flags that go on surfaces.
+
 BitfieldRightToLeft();
      material MaterialFlags;
 
      int16 UNKNOWN2;
-     unsigned byte  TextureGroup;   //Same is DTX v2
-     byte           NumberOfMipmapsUsed;    //Same is DTX v2
+     unsigned byte  TextureGroup;             //Same is DTX v2
+     byte           NumberOfMipmapsUsed;      //Same is DTX v2
 //0 = default value if all 4 mipmaps are used, also may be 4
 //1-3 = if custom number of used mipmaps is set
 
