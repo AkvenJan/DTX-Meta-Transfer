@@ -1,4 +1,4 @@
-# Script for extracting alpha raw image from DTX v1
+# Script for extracting alpha raw image from DTX v1 and swapping nibbles in its bitmap
 
 import argparse
 import sys
@@ -50,37 +50,36 @@ input_file=open(args.input, 'rb')
 header = DtxHeader()
 header.parsev1(io.BytesIO(input_file.read()))
 
-# Dealing with errors of wrong file type or wrong DTX version
+# Checking if the arguments are correct
+if not args.input or not args.output:
+    print("You need to specify both input and output files")
+    exit()
+
+# Dealing with errors of wrong file type
 if header.filetype != 0:
-    print("Wrong file type, not a DTX texture")
+    print("Wrong file type, not a DTX texture, first bye isn't 00")
     exit()
 
-# In NOLF there is BARON_ACTION.DTX file with mess in DTX version, but overall it's compatible file for DTX_VERSION_LT2.
-if header.filetype == 0 and header.version != -5 and header.version != -3 and header.version != -2:
-    print("Wrong/Broken DTX version (not -2 or -3 or -5). If you sure it's compatible DTX file (NOLF1 had such BARON_ACTION.DTX for example),")
-    print("you can edit your file in HEX editor replacing 8 bytes at the start of the file by this:")
-    print("DTX v1:   00 00 00 00 FE FF FF FF")
-    print("DTX v1.5: 00 00 00 00 FD FF FF FF")
-    print("DTX v2:   00 00 00 00 FB FF FF FF")
-    exit()
-
+# Checking DTX version
 if header.filetype == 0 and header.version != -2:
     print("Wrong DTX version: {} ({}). Script is intended to work only with -2 (DTX_VERSION_LT1)".format(header.version, DTX_ver_Enum(header.version).name))
+    print("If you are sure it is correct DTX v1 format, you can replace first 8 bytes of the file in HEX editor to:")
+    print("DTX v1:   00 00 00 00 FE FF FF FF")
     exit()
 
-# Transfering meta information between the files for DTX v2
-#if args.output and header.version == -2:
-if header.version == -2:
+# Extracting war data from first mipmap on the alpha image only if we have DTX_ALPHA_MASK flag
+if header.version == -2 and header.DTX_ALPHA_MASK:
+
     # Opening output file to write to
     output_file=open(args.output, 'wb')
+
+    # Calculating image data size (all 4 mipmaps) and alpha data size (1st mipmap)
     mipmap_size = int(header.width * header.height + header.width/2 * header.height/2 + header.width/4 * header.height/4 + header.width/8 * header.height/8)
     alpha_size = int((header.width * header.height) / 2)
 
-    # Setting offset to 1068th byte (beginning of image mipmaps)
+    # Setting offset to 1068th byte (beginning of image mipmaps) + size of all image mipmaps to skip this sections to start from alpha
     input_file.seek(1068+mipmap_size)
-    #output_file.seek(12)
-    # Writing first 14 bytes till Number of mipmaps used
-
+    
     # A code for swapping nibbles
     # Let's read the file byte by byte
     for i in range(alpha_size):
@@ -92,14 +91,7 @@ if header.version == -2:
         # converting back to bytes and writing to file
         output_file.write(x.to_bytes(1, 'little'))
 
-    #output_file.write(input_file.read(alpha_size))
-    # Skipping BPP
-    #input_file.seek(27)
-    #output_file.seek(27)
-    # Writing everything else till the end of header
-    #output_file.write(input_file.read(137))
     # Closing output file
-    #output_file.byteswap(True)
     output_file.close()
 
 # Closing input file
