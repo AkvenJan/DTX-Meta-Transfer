@@ -45,7 +45,9 @@ You'll get your raw pixel data, but you can't work with it, because now you need
 
 # Notes on importing DTX v1 Alpha back to DEDIT (Level editor for LithTech 1.0)
 Alpha image is extracted as 4-bit image but for elevel ditor to be able to use it its needs to be 8-bit paletted PCX with only 16 colors used upon importing.  
-We'll use ImageMagick for this. I suggest we have 24-bit PNG as source. We'll convert it to 16 colors and use custom 16 colors grayscale palette. I put this 4bit.png into github for use, just don't forget to download it (it's just a 16x1 image with colors from 000000 to FFFFFF in a row).
+We'll use ImageMagick for this. I suggest we have 24-bit PNG as source. We'll convert it to 16 colors and use custom 16 colors grayscale palette. I put this 4bit.png into github for use, just don't forget to download it (it's just a 16x1 image with colors from 000000 to FFFFFF in a row).  
+Example of this 4-bit image  
+![изображение](https://user-images.githubusercontent.com/72163549/173787428-d43159e9-99f1-4c13-95fa-a905ce042e61.png)
 > convert.exe -type Grayscale -colorspace gray +dither -depth 4 -colors 16 -remap 4bit.png PALMTREEM-alpha.png PALMTREEM-alpha.pcx
 
 This is an example of actual 8-bit PCX palette that will be imported by DEDIT without errors. All you real data needs to be represented by those 16 colors, everything else will be unused.  
