@@ -84,7 +84,8 @@ https://github.com/jsj2008/lithtech/blob/master/Shogo/Shared/SurfaceTypes.h
     Kiss Psycho Circus (Custom 1.5) (DAT v127), uses DTX v1.5
     	KISS: Psycho Circus: The Nightmare Child 
 	
-	Lithtech 1.5 (DAT v66), uses DTX v2
+	Lithtech 1.5 (DAT v66), uses DTX v2  
+    The engine is 1.5 but textures and levels are packed as LithTech 2x resourses
     	Might and Magic IX
 
     Lithtech 2.x (DAT v66), uses DTX v2
