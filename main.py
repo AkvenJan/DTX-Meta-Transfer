@@ -178,7 +178,7 @@ header.head(io.BytesIO(input_file.read()))
 
 # Dealing with errors of wrong file type or wrong DTX version
 if header.filetype != 0:
-    print("Wrong file type, not a DTX texture")
+    print("Wrong file type, not a DTX texture or it is a rare DTX v1 with Master Palette (Blood 2 had 5 files of those, and you can't transfer anything from them)")
     exit()
 
 # In NOLF there is BARON_ACTION.DTX file with mess in DTX version, but overall it's compatible file for DTX_VERSION_LT2.
@@ -191,7 +191,7 @@ if header.filetype == 0 and header.version != -5 and header.version != -3 and he
     exit()
 
 if header.filetype == 0 and header.version == -3:
-    print("Wrong DTX version: {} ({}). Script is intended to work only with -5 (DTX_VERSION_LT2) and had partiall support for -2 (DTX_VERSION_LT1)".format(header.version, DTX_ver_Enum(header.version).name))
+    print("Wrong DTX version: {} ({}). Script is intended to work only with -5 (DTX_VERSION_LT2) and -2 (DTX_VERSION_LT1)".format(header.version, DTX_ver_Enum(header.version).name))
     exit()
 
 # Closing file and reopening it for new parsing for its version
@@ -277,7 +277,30 @@ if args.output and header.version == -5:
         output_file.close()
     
     # Printing results
-    print("Transfering went successfully from {} to {}".format(args.input, args.output))
+    print("Transfering of DTX v2 went successfully from {} to {}".format(args.input, args.output))
+
+# Transfering meta information between the files for DTX v1
+if args.output and header.version == -2:
+    # Opening output file to write to
+    output_file=open(args.output, 'r+b')
+    # Setting offset to 12th byte (Number of mipmaps)
+    input_file.seek(12)
+    output_file.seek(12)
+    # Writing till the end of header, skipping all the unknown parameters
+    # In case we'll want to rewrite unknown header parameters too, swap 16 to 32
+    # output_file.write(input_file.read(32))
+    output_file.write(input_file.read(16))
+    # Closing output file
+    output_file.close()
+
+    # Writing Light String if it is present. In this rare case we file reopen in append mode
+    if header.light_flag == 1:
+        output_file=open(args.output, 'a+')
+        output_file.write(header.lightdef_raw.decode())
+        output_file.close()
+    
+    # Printing results
+    print("Transfering of DTX v1 went successfully from {} to {}".format(args.input, args.output))
 
 # Closing input file
 input_file.close()
