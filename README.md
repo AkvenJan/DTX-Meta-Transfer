@@ -38,7 +38,9 @@ FD EF CC DD FE 15 16 17 converted by script would be DF FE CC DD EF 51 61 71 and
 
 # Usage of DTX v1 Alpha Extraction
 > python.exe dtx1-alpha.py --input CALEB1.dtx --output CALEB1.raw  
+
 You'll get your raw pixel data, but you can't work with it, because now you need to convert this data into actual image. I used portable ImageMagick (https://imagemagick.org/script/download.php) for this. You'll need to know the exact size of the image you'll convert, so I suggest you use 010 Editor template for this to look into DTX file or use DTX-Meta-Transfer script with read or table arguments.
+
 > convert.exe -size 256x256 -depth 4 gray:CALEB1.raw CALEB1.png  
 
 # Notes on importing DTX v1 Alpha back to DEDIT (Level editor for LithTech 1.0)
