@@ -44,13 +44,14 @@ You'll get your raw pixel data, but you can't work with it, because now you need
 > convert.exe -size 256x256 -depth 4 gray:CALEB1.raw CALEB1.png  
 
 # Notes on importing DTX v1 Alpha back to DEDIT (Level editor for LithTech 1.0)
-Alpha image is extracted as 4-bit image but for elevel ditor to be able to use it its needs to be 8-bit paletted PCX with only 16 colors used upon importing.  
+Alpha image is extracted as 4-bit image but for level editor to be able to use it its needs to be 8-bit paletted PCX with only 16 colors used upon importing.  If you will create actual 4-bit image - DEDIT won't work with it.  
 We'll use ImageMagick for this. I suggest we have 24-bit PNG as source. We'll convert it to 16 colors and use custom 16 colors grayscale palette. I put this 4bit.png into github for use, just don't forget to download it (it's just a 16x1 image with colors from 000000 to FFFFFF in a row).  
-Example of this 4-bit image  
-![изображение](https://user-images.githubusercontent.com/72163549/173787428-d43159e9-99f1-4c13-95fa-a905ce042e61.png)
+Example of this 4-bit palette  
+![изображение](https://user-images.githubusercontent.com/72163549/173787428-d43159e9-99f1-4c13-95fa-a905ce042e61.png)  
+Converting 24-bit PNG into 8-bit paletted PCX with custom 4-bit palette  
 > convert.exe -type Grayscale -colorspace gray +dither -depth 4 -colors 16 -remap 4bit.png PALMTREEM-alpha.png PALMTREEM-alpha.pcx
 
-This is an example of actual 8-bit PCX palette that will be imported by DEDIT without errors. All you real data needs to be represented by those 16 colors, everything else will be unused.  
+This is an example of actual 8-bit PCX palette in file we created that will be imported by DEDIT without errors. All your real data needs to be represented by those 16 colors, everything else will be unused by DEDIT.  
 ![изображение](https://user-images.githubusercontent.com/72163549/173786872-7fa4c0eb-d29a-4919-9087-43a2b64a7f4c.png)
 
 
@@ -58,8 +59,9 @@ This is an example of actual 8-bit PCX palette that will be imported by DEDIT wi
 
 DTX  
 https://github.com/jsj2008/lithtech/blob/master/tools/shared/engine/dtxmgr.h  
-I took research file for DTX v1 from here  
-https://github.com/Five-Damned-Dollarz/DTXTool/blob/main/research/DTX_Lithtech_texture_template.bt
+I took research file for general DTX v1 from here  
+https://github.com/Five-Damned-Dollarz/DTXTool/blob/main/research/DTX_Lithtech_texture_template.bt  
+Research on rare DTX v1 with Master Palette by Amphos from LithFAQ discord server
 
 Research on DAT files for various versions of LithTech engine for 010 Editor  
 https://github.com/haekb/godot-dat-reader/tree/master/Research
