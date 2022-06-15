@@ -1,10 +1,10 @@
 # DTX-Meta-Transfer
 Transfer of LithTech engine DTX texture files meta-information
 
-For now support added for DTX v2 version of the textures
+For now support added for DTX v2 version of the textures for information reading and transfering and DTX v1 version only for for information reading
 
 The idea of transfering is to transfer all the embedded meta information of DTX textures (Flags, Surface Types, Details Scales, Command strings etc) from one DTX file to another, except for Width, Height and BPP.  
-The main reason was: I was doing upscale pack for NOLF1 and needed to replace original textures with thousands of upscaled textured, which were batch converted from tga by dtxutil program. This way game was lacking detail textures, environment textures etc cause all this information was stored in original DTX files. So I wrote a python script to take this information and write into upscaled files. Because of dtxutil always use 32-Bit as image format - BPP information is not transfered.
+The main reason was: I was doing upscale pack for NOLF1 and needed to replace original textures with thousands of upscaled textured, which were batch converted from tga by dtxutil program. This way game was lacking detail textures, environment textures etc cause all this information was stored in original DTX files. So I wrote a python script to extract this information from original files and write into upscaled files. Because of dtxutil always use 32-Bit as image format - BPP information is not transfered.
 
 # Usage
     python.exe main.py 
@@ -17,13 +17,16 @@ Example
 Reading meta information  
 > python.exe main.py --input "C:\Textures\Example.DTX" --read
 		
-Writing meta information from several files to one CSV table  
+Writing meta information from several files to one CSV table (it will insert new rows into existing file or create new if there is none)  
 > python.exe main.py --input "C:\Textures\Example1.DTX" --table "C:\NOLF\out.csv"  
 > python.exe main.py --input "C:\Textures\Example2.DTX" --table "C:\NOLF\out.csv"  
 > python.exe main.py --input "C:\Textures\Example3.DTX" --table "C:\NOLF\out.csv"
 
 Transfering meta information between files  
 > python.exe main.py --input "C:\Textures\Example1.DTX" --output "C:\Textures-Upscaled\Example1.DTX"
+
+# DTX v1 Alpha Extraction
+I also wrote a second script to extract alpha layer from DTX v1 files. DTX v1 is old format with all images being paletted 8-bit and alpha being stored inside DTX file. And none of existing editors supports this alpha viewing or extraction
 
 # Useful links for LithTech engine and DTX format
 
@@ -35,7 +38,7 @@ https://github.com/Five-Damned-Dollarz/DTXTool/blob/main/research/DTX_Lithtech_t
 Research on DAT files for various versions of LithTech engine for 010 Editor  
 https://github.com/haekb/godot-dat-reader/tree/master/Research
 
-Predefined Surface Types for various games  
+Predefined Surface Types for various games (I also trying to put Surface Flags Types into research folder)  
 NOLF  
 https://github.com/jsj2008/lithtech/blob/master/NOLF/Shared/SurfaceDefs.h  
 https://github.com/AkvenJan/DTX-Meta-Transfer/blob/main/research/NOLF-Surface.TXT  
