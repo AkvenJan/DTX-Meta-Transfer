@@ -30,13 +30,14 @@ I also wrote a second script to extract alpha layer (first mipmap of it) from DT
 Alpha data itself is stored as 4-bit (16 colors) grayscale image where every nibble contains number of color from the grayscale palette. Fox example, 4x4 pixels image would be stored as 16 nibbles. Also, for some reason DTX store this nibbles in reverted order so script will swap them for graphics editors to be able to work with this files. For example, the raw data of FA 18 would be saved by script as AF 81.  
 Another example of 4x4 image in raw format  
 FD EF CC DD FE 15 16 17 converted by script would be DF FE CC DD EF 51 61 71 and being interpreted as actual pixels in rows would be:  
+
     D F F E  
     C C D D  
     E F 5 1  
     6 1 7 1  
 
 # Usage of DTX v1 Alpha Extraction
-> python.exe dtx1-alpha.py --input CALEB1.dtx --output CALEB1.raw
+> python.exe dtx1-alpha.py --input CALEB1.dtx --output CALEB1.raw  
 You'll get your raw pixel data, but you can't work with it, because now you need to convert this data into actual image. I used portable ImageMagick (https://imagemagick.org/script/download.php) for this. You'll need to know the exact size of the image you'll convert, so I suggest you use 010 Editor template for this to look into DTX file or use DTX-Meta-Transfer script with read or table arguments.
 > convert.exe -size 256x256 -depth 4 gray:CALEB1.raw CALEB1.png  
 
