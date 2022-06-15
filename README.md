@@ -48,6 +48,10 @@ Alpha image is extracted as 4-bit image but for elevel ditor to be able to use i
 We'll use ImageMagick for this. I suggest we have 24-bit PNG as source. We'll convert it to 16 colors and use custom 16 colors grayscale palette. I put this 4bit.png into github for use, just don't forget to download it (it's just a 16x1 image with colors from 000000 to FFFFFF in a row).
 > convert.exe -type Grayscale -colorspace gray +dither -depth 4 -colors 16 -remap 4bit.png PALMTREEM-alpha.png PALMTREEM-alpha.pcx
 
+This is an example of actual 8-bit PCX palette that will be imported by DEDIT without errors. All you real data needs to be represented by those 16 colors, everything else will be unused.  
+![изображение](https://user-images.githubusercontent.com/72163549/173786872-7fa4c0eb-d29a-4919-9087-43a2b64a7f4c.png)
+
+
 # Useful links for LithTech engine and DTX format
 
 DTX  
