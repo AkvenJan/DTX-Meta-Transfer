@@ -51,7 +51,7 @@ We'll use ImageMagick for this. I suggest we have 24-bit PNG as source. We'll co
 Example of this 4-bit palette  
 ![изображение](https://user-images.githubusercontent.com/72163549/173787428-d43159e9-99f1-4c13-95fa-a905ce042e61.png)  
 Converting 24-bit PNG into 8-bit paletted PCX with custom 4-bit palette  
-> convert.exe -type Grayscale -colorspace gray +dither -depth 4 -colors 16 -remap 4bit.png PALMTREEM-alpha.png PALMTREEM-alpha.pcx
+> convert.exe -type Grayscale -colorspace gray +dither -remap 4bit.png PALMTREEM-alpha.png PALMTREEM-alpha.pcx
 
 This is an example of actual 8-bit PCX palette in file we created that will be imported by DEDIT without errors. All your real data needs to be represented by those 16 colors, everything else will be unused by DEDIT.  
 ![изображение](https://user-images.githubusercontent.com/72163549/173786872-7fa4c0eb-d29a-4919-9087-43a2b64a7f4c.png)
