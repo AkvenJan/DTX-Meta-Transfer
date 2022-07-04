@@ -66,8 +66,8 @@ You'll get your raw pixel data, but you can't work with it, because now you need
 
 > convert.exe -size 128x128 -depth 8 gray:CRATE1.raw CRATE1.png  
 
-This way you'll get grayscale image. In Blood 2 expansion I found file TEXTURES_AO/MASTERPAL.DTX. And when I converted it to png, extracted it's palette and used it on DTX v1 master palette image - I get valid color image. For example:  
-![изображение](https://user-images.githubusercontent.com/72163549/177151850-667b22c5-01a8-4bf4-9c79-0a4f79ec1cba.png) > ![изображение](https://user-images.githubusercontent.com/72163549/177151934-0bf3ed68-2a92-41e1-8ffc-96386a05476f.png)
+This way you'll get grayscale image. In Blood 2 expansion I found file TEXTURES_AO/MASTERPAL.DTX. And when I converted it to png, extracted it's palette and used it on DTX v1 master palette image - I get valid color image. For example (original grayscale texture and colored with master palette):  
+![изображение](https://user-images.githubusercontent.com/72163549/177151850-667b22c5-01a8-4bf4-9c79-0a4f79ec1cba.png) CRATE1.DTX ![изображение](https://user-images.githubusercontent.com/72163549/177151934-0bf3ed68-2a92-41e1-8ffc-96386a05476f.png)
 
 # Useful links for LithTech engine and DTX format
 
