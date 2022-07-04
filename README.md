@@ -56,6 +56,16 @@ Converting 24-bit PNG into 8-bit paletted PCX with custom 4-bit palette
 This is an example of actual 8-bit PCX palette in file we created that will be imported by DEDIT without errors. All your real data needs to be represented by those 16 colors, everything else will be unused by DEDIT.  
 ![изображение](https://user-images.githubusercontent.com/72163549/173786872-7fa4c0eb-d29a-4919-9087-43a2b64a7f4c.png)
 
+# DTX v1 Master Palette format
+In Blood 2 (based on LithTech 1.0) there were 5 textures in really old format, maybe even not used by the engine anymore (CRATE1.DTX, GRYCRET1.DTX, METAL1.DTX, ORGBRIKB.DTX, DULL1_TRANS.DTX). In this format there is no palette information and image is stored just as 8-bit indexes to be used with external master palette. DEDIT do not understands this format, so there was no way to open them and look what inside. They even don't have any specific DTX meta in them. Using research file (https://github.com/AkvenJan/DTX-Meta-Transfer/blob/main/research/DTX-LithTech1.0%20Master%20Palette.bt) from  Amphos from LithFAQ discord I wrote a script to extract raw image from this files.
+
+# Usage of DTX v1 Master Palette image extraction
+> python.exe dtx1-mpalette.py --input CRATE1.dtx --output CRATE1.raw  
+
+You'll get your raw pixel data, but you can't work with it, because now you need to convert this data into actual image. I used portable ImageMagick (https://imagemagick.org/script/download.php) for this. You'll need to know the exact size of the image you'll convert, so I suggest you use 010 Editor template for this to look into DTX file.  
+
+> convert.exe -size 128x128 -depth 8 gray:CRATE1.raw CRATE1.png  
+This way you'll get grayscale image. In Blood 2 expansion I found file TEXTURES_AO/MASTERPAL.DTX. And when I converted it to png, extracted it's palette and used it on DTX v1 master palette image - I get valid color image:  
 
 # Useful links for LithTech engine and DTX format
 

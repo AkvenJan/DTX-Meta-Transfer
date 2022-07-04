@@ -1,4 +1,7 @@
 # Script for extracting alpha raw image from DTX v1 and swapping nibbles in its bitmap
+# To convert raw pixels to image use ImageMagick with command
+# convert.exe -size 256x256 -depth 4 gray:CALEB1.raw CALEB1.png
+# Just remember to use your image size not from example
 
 import argparse
 import sys
