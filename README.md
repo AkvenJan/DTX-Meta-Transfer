@@ -14,6 +14,7 @@ DO NOT TRANSFER INFORMATION BETWEEN DIFFERENT VERSIONS OF THE FILES (from DTX v2
         -i INPUT, --input INPUT Path to the DTX we want to read
         -r, --read	Print DTX Meta information into console, requires --input option
         -t TABLE, --table TABLE Write DTX Meta information into CSV table, requires --input option
+	-o OUTPUT, --output OUTPUT Path to the DTX we want to transfer meta-information to. We do not use --read or --table arguments with --output
 
 Example  
 Reading meta information  
