@@ -1,3 +1,16 @@
+//------------------------------------------------
+//--- 010 Editor v12.0.1 Binary Template
+//
+//      File: DTX-LithTech1.0.bt
+//   Authors: AkvenJan
+//   Version: 1.0
+//   Purpose: Parse LithTech DTX v1.5 texture files
+//  Category: Textures
+// File Mask: *.dtx
+//  ID Bytes: 00 00 00 00
+//   History: 
+//------------------------------------------------
+
 LittleEndian();   
      uint32   FileType;
      enum { DTX_VERSION_LT1=-2, DTX_VERSION_LT15=-3,DTX_VERSION_LT2=-5} version;

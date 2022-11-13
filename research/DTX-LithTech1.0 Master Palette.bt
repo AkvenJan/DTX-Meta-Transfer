@@ -1,15 +1,16 @@
 //------------------------------------------------
 //--- 010 Editor v12.0.1 Binary Template
 //
-//      File: 
-//   Authors: 
-//   Version: 
-//   Purpose: 
-//  Category: 
-// File Mask: 
-//  ID Bytes: 
+//      File: DTX-LithTech1.0 Master Palette.bt
+//   Authors: AkvenJan
+//   Version: 1.0
+//   Purpose: Parse LithTech DTX v1 with master palette texture files
+//  Category: Textures
+// File Mask: *.dtx
+//  ID Bytes: no id
 //   History: 
 //------------------------------------------------
+
 // Unknown LT1 DTX
 struct Header
 {
