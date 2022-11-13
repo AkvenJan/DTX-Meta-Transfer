@@ -1,0 +1,45 @@
+//------------------------------------------------
+//--- 010 Editor v12.0.1 Binary Template
+//
+//      File: SPR.bt
+//   Authors: AkvenJan
+//   Version: 1.0
+//   Purpose: Parse LithTech sprites files
+//  Category: Textures
+// File Mask: *.spr
+//  ID Bytes: no id
+//   History: 
+//------------------------------------------------
+
+struct Header
+{
+    // Number of sprites in animation sequence
+    // I don't know the limit
+    // I just suggested it int 16 (65535 max number)
+    // But maybe it just 1 byte (255)
+    uint16 SpritesCount;
+
+    // Just 1 byte of nulls
+    uint16 null1;
+
+    // Frame rate of animation sequence
+    // FPS cannot exceed 30 in decimary (1E in HEX)
+    ubyte  FrameRate;
+} header;
+
+// There are always 15 bytes of nulls
+char null2[15];
+
+local int i;
+
+for(i=0; i<header.SpritesCount; ++i)
+{
+    struct Texture
+    {
+        // Lenght of the Texture Name
+        ubyte NameLength;
+        // 1 byte of nulls, sign of Texture names block beginning
+        ubyte null2;
+        char TextureName[NameLength];
+    } texture;
+}
