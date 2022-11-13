@@ -1,4 +1,6 @@
 # Script for extracting alpha raw image from DTX v1 and swapping nibbles in its bitmap
+# Usage:
+# python.exe dtx1-alpha.py --input CALEB1.dtx --output CALEB1.raw  
 # To convert raw pixels to image use ImageMagick with command
 # convert.exe -size 256x256 -depth 4 gray:CALEB1.raw CALEB1.png
 # Just remember to use your image size not from example
@@ -12,8 +14,8 @@ from enum import Enum
 
 # Setting all the available arguments
 parser = argparse.ArgumentParser()
-parser.add_argument("-i", "--input", help="Path and file name of the input DTX to read meta from")
-parser.add_argument("-o","--output", help="Path and file name of the output DTX to transfer meta to")
+parser.add_argument("-i", "--input", help="Path and filename of the input DTX v1 to read alpha from")
+parser.add_argument("-o","--output", help="Path and filename of the output RAW image")
 args = parser.parse_args()
 
 # Defining DTX version enumeration values

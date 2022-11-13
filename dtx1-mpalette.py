@@ -1,7 +1,9 @@
 # Script for extracting raw image from old DTX v1 format which don't have color list at all and uses master palette instead
-# To convert raw pixels to image use ImageMagick with command
+# Usage:
+# python.exe dtx1-mpalette.py --input CRATE1.dtx --output CRATE1.raw
+# To convert raw pixels you got from script use ImageMagick with command:
 # convert.exe -size 128x128 -depth 8 gray:CRATE1.raw CRATE1.png
-# Just remember to use your image size not from example
+# Just remember to use your image size from real file, not from example
 
 import argparse
 import sys
@@ -12,8 +14,8 @@ from enum import Enum
 
 # Setting all the available arguments
 parser = argparse.ArgumentParser()
-parser.add_argument("-i", "--input", help="Path and file name of the input DTX to read meta from")
-parser.add_argument("-o","--output", help="Path and file name of the output DTX to transfer meta to")
+parser.add_argument("-i", "--input", help="Path and filename of the input DTX v1 with master palette to read from")
+parser.add_argument("-o","--output", help="Path and filename of the output RAW image")
 args = parser.parse_args()
 
 # Reading header of the file. Thanks to Amphos
