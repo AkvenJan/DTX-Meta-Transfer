@@ -148,3 +148,17 @@ if (BitFlags.DTX_ALPHAMASK == 1)
 		} alpha_maps;
 	}
 }
+
+if (LightFlag == 1)
+{
+	struct Lights
+	{
+		char LIGHTDEFS[];
+				char unknown[18]; // decompile suggests this might just be uninitialized memory
+		struct LTLongString
+		{
+			uint length;
+			char content[];
+		} string_;
+	} lights;
+}
