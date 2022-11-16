@@ -103,3 +103,48 @@ BitfieldRightToLeft();
 //may be random, their value is irrelevant, but 128 bytes reserved anyway
 //After that goes actual image data, I didn't templated that
 //Last 128th byte is always 00
+
+    int64 UNKNOWN3;
+
+struct Colour
+{
+	ubyte alpha;
+	ubyte red;
+	ubyte green;
+	ubyte blue;
+};
+
+Colour colours[256];
+
+local int i, x, y;
+for(i=0; i<NumberOfMipmaps; ++i)
+{
+	struct Pixels
+	{
+		for(y=0; y<Height >> i; ++y)
+		{
+			for(x=0; x<Width >> i; ++x)
+			{
+				ubyte pixels;
+			}
+		}
+	} mipmaps;
+}
+
+if (BitFlags.DTX_ALPHAMASK == 1)
+{
+	for (i=0; i<NumberOfMipmaps; ++i)
+	{
+		struct AlphaMap
+		{
+			for(y=0; y<Height >> i; ++y)
+			{
+				for(x=0; x<Width/2 >> i; ++x) // div width by 2 because 4 bpp alpha
+				{
+					ubyte alpha : 4;
+					ubyte alpha : 4;
+				}
+			}
+		} alpha_maps;
+	}
+}
