@@ -104,7 +104,7 @@ BitfieldRightToLeft();
 //After that goes actual image data, I didn't templated that
 //Last 128th byte is always 00
 
-    int64 UNKNOWN3;
+    int64 UNKNOWN4;
 
 struct Colour
 {
