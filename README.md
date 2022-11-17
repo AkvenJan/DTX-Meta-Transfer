@@ -1,7 +1,7 @@
 # DTX-Meta-Transfer
 Transfer of LithTech engine DTX texture files meta-information
 
-For now support added for DTX v2 version of the textures for information reading and transfering and DTX v1 version for information reading and transfering. KISS DTX v1.5 isn't supporting for now
+For now support added for information reading and transfering for DTX v1, DTX v2 versions of the textures. And DTX v1.5 version (Kiss: Psycho Circus: The Nightmare Child) for information reading only.
 
 The idea of transfering is to transfer all the embedded meta information of DTX textures (Flags, Surface Types, Details Scales, Command strings etc) from one DTX file to another, except for Width, Height and BPP.  
 The main reason was: I was doing upscale pack for NOLF1 and needed to replace original textures with thousands of upscaled textured, which were batch converted from tga by dtxutil program. This way game was lacking detail textures, environment textures etc cause all this information was stored in original DTX files. So I wrote a python script to extract this information from original files and write into upscaled files. Because of dtxutil always use 32-Bit as image format - BPP information is not transfered.  
