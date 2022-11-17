@@ -107,7 +107,24 @@ class DtxHeader(object):
         self.DTX_ALPHA_MASK="DTX_ALPHA_MASK " if int(self.dtx_flags[6]) else ""
         self.DTX_FULLBRITE="DTX_FULLBRITE " if int(self.dtx_flags[7]) else ""
         self.unknown1 = int.from_bytes(bytes_.read(2), 'little', signed=False)
-        self.surface_flag = int.from_bytes(bytes_.read(2), 'little', signed=True)
+        #self.surface_flag = int.from_bytes(bytes_.read(2), 'little', signed=True)
+        self.surface_flag = "{:08b}".format(int.from_bytes(bytes_.read(1), 'little', signed=False)) + "{:08b}".format(int.from_bytes(bytes_.read(1), 'little', signed=False))
+        self.DTX_Glass="DTX_Glass " if int(self.surface_flag[7]) else ""
+        self.DTX_Metal="DTX_Metal " if int(self.surface_flag[6]) else ""
+        self.DTX_Wood="DTX_Wood " if int(self.surface_flag[5]) else ""
+        self.DTX_Stone="DTX_Stone " if int(self.surface_flag[4]) else ""
+        self.DTX_Corrugated_Metal="DTX_Corrugated_Metal " if int(self.surface_flag[3]) else ""
+        self.DTX_Liquid="DTX_Liquid " if int(self.surface_flag[2]) else ""
+        self.DTX_Ice="DTX_Ice " if int(self.surface_flag[1]) else ""
+        self.DTX_Plaster="DTX_Plaster " if int(self.surface_flag[0]) else ""
+        self.DTX_Carpet="DTX_Carpet " if int(self.surface_flag[15]) else ""
+        self.DTX_Concrete="DTX_Concrete " if int(self.surface_flag[14]) else ""
+        self.DTX_Organic="DTX_Organic " if int(self.surface_flag[13]) else ""
+        self.DTX_Grass="DTX_Grass " if int(self.surface_flag[12]) else ""
+        self.DTX_Gravel="DTX_Gravel " if int(self.surface_flag[11]) else ""
+        self.DTX_Dirt="DTX_Dirt " if int(self.surface_flag[10]) else ""
+        self.DTX_Ceramic="DTX_Ceramic " if int(self.surface_flag[9]) else ""
+        self.DTX_NeverMask="DTX_NeverMask " if int(self.surface_flag[8]) else ""
         self.unknown2 = int.from_bytes(bytes_.read(2), 'little', signed=False)
         self.texture_group = int.from_bytes(bytes_.read(1), 'little', signed=False)
 
@@ -261,10 +278,11 @@ if args.read and header.version == -2:
 
 # For DTX v1.5
 if args.read and header.version == -3:
-    print("File Path:    {}".format(args.input))
-    print("File Type:    {}, DTX version: {}, Size: {}x{}, Mipmaps Used: {}, Light Flag: {}".format(header.filetype, DTX_ver_Enum(header.version).name, header.width, header.height, header.mipmaps_used, header.light_flag))
-    print("DTX Flags:    {}: {}{}{}{}".format(header.dtx_flags, header.DTX_DONT_MAP_MASTER, header.DTX_SECTIONSFIXED, header.DTX_ALPHA_MASK, header.DTX_FULLBRITE))
-    print("Surface Flag: {}, Texture Group: {}".format(header.surface_flag, header.texture_group))
+    print("File Path:     {}".format(args.input))
+    print("File Type:     {}, DTX version:   {}, Size: {}x{}, Mipmaps Used: {}, Light Flag: {}".format(header.filetype, DTX_ver_Enum(header.version).name, header.width, header.height, header.mipmaps_used, header.light_flag))
+    print("DTX Flags:     {}: {}{}{}{}".format(header.dtx_flags, header.DTX_DONT_MAP_MASTER, header.DTX_SECTIONSFIXED, header.DTX_ALPHA_MASK, header.DTX_FULLBRITE))
+    print("Surface Flags: {}: {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}".format(header.surface_flag, header.DTX_Glass, header.DTX_Metal, header.DTX_Wood, header.DTX_Stone, header.DTX_Corrugated_Metal, header.DTX_Liquid, header.DTX_Ice, header.DTX_Plaster, header.DTX_Carpet, header.DTX_Concrete, header.DTX_Organic, header.DTX_Grass, header.DTX_Gravel, header.DTX_Dirt, header.DTX_Ceramic, header.DTX_NeverMask))
+    print("Texture Group: {}".format(header.texture_group))
     print("Software Alpha Cutoff: {}, Software Average Alpha: {}, Detail Scale/Angle: {}/{}".format(header.alpha_cutoff,header.alpha_average, header.detail_scale, header.detail_angle))
     print("Unknown Values:  Unk1: {}, Unk2: {}, Unk3: {}".format(header.unknown1, header.unknown2, header.unknown3))
     print("Command String:        {}".format(header.command_string))
