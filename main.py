@@ -141,7 +141,9 @@ class DtxHeader(object):
         if int(self.command_raw[0]) == 0:
             self.command_string = ""
         else:
-            self.command_string = self.command_raw.decode('unicode_escape')
+            self.command_string = self.command_raw.decode(errors='ignore').replace("\n","")
+            #self.command_string = self.command_raw.decode('unicode_escape')
+            #self.command_string = self.command_raw.hex()
 
         # If light_flag is 1, we find LIGHTDEFS definition and read all the bytes to the end of file starting from 32nd byte
         # It's always 9 bytes of LIGHTDEF and 23 bytes of random data before the real information starting
@@ -318,7 +320,7 @@ if args.table and header.version == -3:
     if os.path.getsize(args.table) == 0:
         meta_table.writelines("Filename;Filetype;DTX_VERSION;Width;Height;Mipmaps Used;DTX Flags;DTX_DONT_MAP_MASTER;DTX_SECTIONSFIXED;DTX_ALPHA_MASK;DTX_FULLBRITE;Surface Flag;Texture Group;Software Alpha Cutoff;Software Average Alpha;Detail Scale;Detail Angle;Unknown1;Unknown2;Unknown3;Command String;Light String;\n")
 
-    meta_table.writelines("\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"'{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\n".format(args.input, header.filetype, DTX_ver_Enum(header.version).name, header.width, header.height, header.mipmaps_used, header.dtx_flags, header.DTX_DONT_MAP_MASTER, header.DTX_SECTIONSFIXED, header.DTX_ALPHA_MASK, header.DTX_FULLBRITE, header.surface_flag, header.texture_group, header.alpha_cutoff, header.alpha_average, header.detail_scale, header.detail_angle, header.unknown1, header.unknown2, header.unknown3, header.command_string, header.lightdef_string))
+    meta_table.writelines("\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"'{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}:{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\"{}\";\n".format(args.input, header.filetype, DTX_ver_Enum(header.version).name, header.width, header.height, header.mipmaps_used, header.dtx_flags, header.DTX_DONT_MAP_MASTER, header.DTX_SECTIONSFIXED, header.DTX_ALPHA_MASK, header.DTX_FULLBRITE, header.surface_flag, header.DTX_Glass, header.DTX_Metal, header.DTX_Wood, header.DTX_Stone, header.DTX_Corrugated_Metal, header.DTX_Liquid, header.DTX_Ice, header.DTX_Plaster, header.DTX_Carpet, header.DTX_Concrete, header.DTX_Organic, header.DTX_Grass, header.DTX_Gravel, header.DTX_Dirt, header.DTX_Ceramic, header.DTX_NeverMask, header.texture_group, header.alpha_cutoff, header.alpha_average, header.detail_scale, header.detail_angle, header.unknown1, header.unknown2, header.unknown3, header.command_string, header.lightdef_string))
     meta_table.close()
 
 # Writing meta-information into new CSV file or adding into existing for DTX v2
