@@ -61,6 +61,7 @@ Alternative method
 I found an alternative method which will create less human errors upon hand editing the files. Just use this palette  
 ![изображение](https://user-images.githubusercontent.com/72163549/202907071-8a1d5e22-0aa9-49c5-9c5c-f5e85deeb980.png)
 > convert.exe +dither -remap 8bit.png PALMTREEM-alpha.png PALMTREEM-alpha.pcx
+
 This way you will get rid of cases when transparent (black) color occasionally was set to any other black colod indexes. I didn't tested it, but it should work - engine do not check if your image grayscale or not - it just waits for paletted 8bit image. I also uploaded this palette as the ACT file (8bit.act) for use directly in graphics editors  
 
 # DTX v1 Master Palette format
