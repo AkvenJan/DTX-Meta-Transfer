@@ -33,7 +33,7 @@ class DtxHeader(object):
         self.height = -1
         self.mipmaps = 4
 
-    # Parsing the header for DTX v1
+    # Parsing the header for DTX v1. DTX v1.5 had the same header for this part of header
     def parsev1(self, bytes_):
         self.filetype = int.from_bytes(bytes_.read(4), 'little', signed=False)
         self.version = int.from_bytes(bytes_.read(4), 'little', signed=True)
@@ -62,18 +62,22 @@ if not args.input or not args.output:
 
 # Dealing with errors of wrong file type
 if header.filetype != 0:
-    print("Wrong file type, not a DTX texture, first bye isn't 00")
+    print("Wrong file type, not a DTX texture, first byte isn't 00")
     exit()
 
 # Checking DTX version
-if header.filetype == 0 and header.version != -2:
-    print("Wrong DTX version: {} ({}). Script is intended to work only with -2 (DTX_VERSION_LT1)".format(header.version, DTX_ver_Enum(header.version).name))
-    print("If you are sure it is correct DTX v1 format, you can replace first 8 bytes of the file in HEX editor to:")
-    print("DTX v1:   00 00 00 00 FE FF FF FF")
+if header.filetype == 0 and header.version != -2 and header.version != -3:
+    print("Wrong DTX version: {} ({}). Script is intended to work only with -2 (DTX_VERSION_LT1) and -3 (DTX_VERSION_LT15)".format(header.version, DTX_ver_Enum(header.version).name))
+    print("If you are sure it is correct DTX v1 or DTX v1.5 format, you can replace first 8 bytes of the file in HEX editor to:")
+    print("DTX v1:     00 00 00 00 FE FF FF FF")
+    print("DTX v1.5:   00 00 00 00 FD FF FF FF")
     exit()
 
-# Extracting war data from first mipmap on the alpha image only if we have DTX_ALPHA_MASK flag
-if header.version == -2 and header.DTX_ALPHA_MASK:
+if not header.DTX_ALPHA_MASK:
+    print("No alpha image in this file, DTX_ALPHA_MASK bit is 0")
+
+# Extracting raw data from first mipmap on the alpha image only if we have DTX_ALPHA_MASK flag
+if (header.version == -2 or header.version == -3) and header.DTX_ALPHA_MASK:
 
     # Opening output file to write to
     output_file=open(args.output, 'wb')
@@ -82,8 +86,12 @@ if header.version == -2 and header.DTX_ALPHA_MASK:
     mipmap_size = int(header.width * header.height + header.width/2 * header.height/2 + header.width/4 * header.height/4 + header.width/8 * header.height/8)
     alpha_size = int((header.width * header.height) / 2)
 
-    # Setting offset to 1068th byte (beginning of image mipmaps) + size of all image mipmaps to skip this sections to start from alpha
-    input_file.seek(1068+mipmap_size)
+    # DTX v1:   Setting offset to 1068th byte (beginning of image mipmaps) + size of all image mipmaps to skip this sections to start from alpha
+    # DTX v1.5: Setting offset to 1196th byte (beginning of image mipmaps) + size of all image mipmaps to skip this sections to start from alpha
+    if header.version == -2:
+        input_file.seek(1068+mipmap_size)
+    elif header.version == -3:
+        input_file.seek(1196+mipmap_size)
     
     # A code for swapping nibbles
     # Let's read the file byte by byte
@@ -98,6 +106,8 @@ if header.version == -2 and header.DTX_ALPHA_MASK:
 
     # Closing output file
     output_file.close()
+
+    print("Extraction went successfully")
 
 # Closing input file
 input_file.close()
