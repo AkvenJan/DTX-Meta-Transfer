@@ -1,12 +1,16 @@
 # DTX-Meta-Transfer
 Transfer of LithTech engine DTX texture files meta-information
 
-For now support added for information reading and transfering for DTX v1, DTX v2 versions of the textures. And DTX v1.5 version (Kiss: Psycho Circus: The Nightmare Child) for information reading only.
+For now support added for information reading and transfering for DTX v1, DTX v2 versions of the textures. And DTX v1.5 version (Kiss: Psycho Circus: The Nightmare Child) for information reading only. Also alpha image extraction is available for DTX v1 and DTX v1.5 (DTX v2 doesn't need that, there is a converter from DTX v2 to TGA with alpha layer).
 
 The idea of transfering is to transfer all the embedded meta information of DTX textures (Flags, Surface Types, Details Scales, Command strings etc) from one DTX file to another, except for Width, Height and BPP.  
 The main reason was: I was doing upscale pack for NOLF1 and needed to replace original textures with thousands of upscaled textured, which were batch converted from tga by dtxutil program. This way game was lacking detail textures, environment textures etc cause all this information was stored in original DTX files. So I wrote a python script to extract this information from original files and write into upscaled files. Because of dtxutil always use 32-Bit as image format - BPP information is not transfered.  
 
 DO NOT TRANSFER INFORMATION BETWEEN DIFFERENT VERSIONS OF THE FILES (from DTX v2 to DTX v1 and so on)!!!
+
+You can read more about this format and ways of modding LithTech engine games in these two articles:  
+https://www.moddb.com/members/akven/tutorials/upscaling-lithtech-engine-games  
+https://www.moddb.com/mods/blood-ii-the-chosen-upscale-pack/tutorials/upscaling-lithtech-10-engine-games  
 
 # Usage of DTX-Meta-Transfer
     python.exe main.py 
@@ -28,8 +32,8 @@ Writing meta information from several files to one CSV table (it will insert new
 Transfering meta information between files  
 > python.exe main.py --input "C:\Textures\Example1.DTX" --output "C:\Textures-Upscaled\Example1.DTX"
 
-# DTX v1 Alpha Extraction
-I also wrote a second script to extract alpha layer (first mipmap of it) from DTX v1 files. DTX v1 is an old format with all textures being paletted 8-bit images and alpha being stored inside DTX file. And none of existing editors supports this alpha viewing or extraction. So this script parse DTX file and write raw alpha image bytes into new file.  
+# DTX v1 / DTX v1.5 Alpha Extraction
+I also wrote a second script to extract alpha layer (first mipmap of it) from DTX v1 / DTX v1.5 files. DTX v1 / DTX v1.5 is an old format with all textures being paletted 8-bit images and alpha being stored inside DTX file. And none of existing editors supports this alpha viewing or extraction. So this script parse DTX file and write raw alpha image bytes into new file.  
 Alpha data itself is stored as 4-bit (16 colors) grayscale image where every nibble contains number of color from the grayscale palette. Fox example, 4x4 pixels image would be stored as 16 nibbles. Also, for some reason DTX store this nibbles in reverted order so script will swap them for graphics editors to be able to work with this files. For example, the raw data of FA 18 would be saved by script as AF 81.  
 Another example of 4x4 image in raw format  
 FD EF CC DD FE 15 16 17 converted by script would be DF FE CC DD EF 51 61 71 and being interpreted as actual pixels in rows would be:  
@@ -39,14 +43,14 @@ FD EF CC DD FE 15 16 17 converted by script would be DF FE CC DD EF 51 61 71 and
     E F 5 1  
     6 1 7 1  
 
-# Usage of DTX v1 Alpha Extraction
+# Usage of DTX v1 / DTX v1.5 Alpha Extraction
 > python.exe dtx1-alpha.py --input CALEB1.dtx --output CALEB1.raw  
 
 You'll get your raw pixel data, but you can't work with it, because now you need to convert this data into actual image. I used portable ImageMagick (https://imagemagick.org/script/download.php) for this. You'll need to know the exact size of the image you'll convert, so I suggest you use 010 Editor template for this to look into DTX file or use DTX-Meta-Transfer script with read or table arguments.
 
 > convert.exe -size 256x256 -depth 4 gray:CALEB1.raw CALEB1.png  
 
-# Notes on importing DTX v1 Alpha back to DEDIT (Level editor for LithTech 1.0)
+# Notes on importing DTX v1 / DTX v1.5 Alpha back to DEDIT (Level editor for LithTech 1.0 or LithTech 1.5)
 Alpha image is extracted as 4-bit image but for level editor to be able to use it its needs to be 8-bit paletted PCX with only 16 colors used upon importing.  If you will create actual 4-bit image - DEDIT won't work with it.  
 We'll use ImageMagick for this. I suggest we have 24-bit PNG as source. We'll convert it to 16 colors and use custom 16 colors grayscale palette. I put this 4bit.png into github for use, just don't forget to download it (it's just a 16x1 image with colors from 000000 to FFFFFF in a row).  
 Example of this 4-bit palette  
