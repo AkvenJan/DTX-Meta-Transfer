@@ -94,7 +94,7 @@ https://github.com/haekb/godot-dat-reader/tree/master/Research
 Predefined Surface Types for various games (I also trying to put Surface Flags Types into research folder)  
 NOLF  
 https://github.com/jsj2008/lithtech/blob/master/NOLF/Shared/SurfaceDefs.h  
-[https://github.com/AkvenJan/DTX-Meta-Transfer/blob/main/research/Surface Flags - NOLF.TXT](<https://duckduckgo.com/?q=test this!&t=ffab](https://github.com/AkvenJan/DTX-Meta-Transfer/blob/main/research/Surface Flags - NOLF.TXT>)
+[https://github.com/AkvenJan/DTX-Meta-Transfer/blob/main/research/Surface Flags - NOLF.TXT](<https://github.com/AkvenJan/DTX-Meta-Transfer/blob/main/research/Surface Flags - NOLF.TXT>)
 
 Other games  
 https://github.com/jsj2008/lithtech/blob/master/Blood2/Shared/SharedDefs.h  
