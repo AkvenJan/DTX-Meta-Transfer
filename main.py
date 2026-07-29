@@ -336,6 +336,7 @@ if args.table and header.version == -5:
 
 # Transfering meta information between the files for DTX v2
 if args.output and header.version == -5:
+    # Opening output file to write to
     output_file=open(args.output, 'r+b')
     # Skip mipmaps_default (Bytes 12-13) -> stays as destination's own value
     input_file.seek(14)
