@@ -342,11 +342,12 @@ if args.output and header.version == -5:
     output_file.seek(14)
     # Writing light_flag through texture_group (11 bytes: offsets 14-24)
     output_file.write(input_file.read(11))
-    # Skipping Mipmaps Used (25) and BPP (26)
+    # Skipping mipmaps used (25) and BPP (26)
     input_file.seek(27)
     output_file.seek(27)
     # Writing everything else till the end of header
     output_file.write(input_file.read(137))
+    # Closing output file
     output_file.close()
 
     # Writing Light String if it is present. In this rare case we file reopen in append mode
