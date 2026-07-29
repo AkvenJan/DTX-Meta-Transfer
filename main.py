@@ -336,19 +336,17 @@ if args.table and header.version == -5:
 
 # Transfering meta information between the files for DTX v2
 if args.output and header.version == -5:
-    # Opening output file to write to
     output_file=open(args.output, 'r+b')
-    # Setting offset to 12th byte (Number of mipmaps)
-    input_file.seek(12)
-    output_file.seek(12)
-    # Writing first 14 bytes till Number of mipmaps used
-    output_file.write(input_file.read(14))
-    # Skipping BPP
+    # Skip mipmaps_default (Bytes 12-13) -> stays as destination's own value
+    input_file.seek(14)
+    output_file.seek(14)
+    # Writing light_flag through texture_group (11 bytes: offsets 14-24)
+    output_file.write(input_file.read(11))
+    # Skipping Mipmaps Used (25) and BPP (26)
     input_file.seek(27)
     output_file.seek(27)
     # Writing everything else till the end of header
     output_file.write(input_file.read(137))
-    # Closing output file
     output_file.close()
 
     # Writing Light String if it is present. In this rare case we file reopen in append mode
