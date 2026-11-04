@@ -63,7 +63,7 @@ bits BitFlags;
 //0 = default value if all 4 mipmaps are used
 //1-3 = if custom number of used mipmaps is set
 
-     enum <byte> {BPP_32=3, BPP_S3TC_DXT1=4, BPP_S3TC_DXT3=5, BPP_S3TC_DXT5=6} BPP;
+     enum <byte> {BPP_8P=0, BPP_8=1, BPP_16=2, BPP_32=3, BPP_S3TC_DXT1=4, BPP_S3TC_DXT3=5, BPP_S3TC_DXT5=6, BPP_32P=7, BPP_24=8} BPP;
 //0 = 8 bit palette, BPP_8P
 //1 = 8 bit, BPP_8
 //2 = 16 bit, BPP_16
