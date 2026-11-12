@@ -103,6 +103,10 @@ https://github.com/jsj2008/lithtech/blob/master/NOLF2/Shared/SurfaceDefs.h
 https://github.com/jsj2008/lithtech/blob/master/Shogo/Shared/SurfaceTypes.h  
 
 # LithTech versions
+Full list of LithTech games and file versions (constantly updated):  
+https://docs.google.com/spreadsheets/d/1fm3vFc-qXiR5H2AYXzZlYu3q8DAfHz0I4PVrXrVfroA/edit?usp=sharing
+
+Previous imperfect version (a lot of info was updated since):  
     Lithtech 1.0 (DAT v56), uses DTX v1
     	Shogo: Mobile Armor Division
     	Blood II: The Chosen
