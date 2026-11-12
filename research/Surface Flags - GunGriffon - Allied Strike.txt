@@ -1,0 +1,500 @@
+/************************************************************************
+**
+**		Surface Attributes file
+**
+** This file contains the following surface related definitions:
+**
+**	Global
+**  Surface
+**
+**
+** NOTES:  
+**
+**  1) All definition properties (i.e., [Surface0]) ARE case sensitive.
+**	   If you are adding a new definition, it is best to start with a 
+**     copy of an existing (working) definition.
+**	2) Name properties are NOT case sensitive (i.e., Name = "Joe" is the same
+**	   as Name = "JOE")
+**  3) All time is specified in seconds (unless otherwise noted)
+**  4) The Float type is the same as Real (i.e., 1.0 or 1.5)
+**  5) The valid range of all RGB color properties is between
+**     0 and 255 (e.g., (0, 255, 0) would be green).
+**
+**
+** 	TEXTURE ID SUMMARY:
+** 
+**  ----Internal ID's----
+**	
+	ST_UNKNOWN				= 0,	// Unknown value
+	ST_AIR					= 1,	// Not a surface, but not the sky either
+	ST_FLESH					= 2,	// Human flesh
+	ST_ARMOR					= 3,	// Armored Human
+	ST_BUILD					= 11,
+
+	ST_METAL					= 20,	// Metal Mechanics
+
+	ST_SKY					= 110,	// Sky poly
+	ST_LADDER					= 200,	// Ladder volume brush
+	ST_LIQUID					= 201,	// Liquid volume brush
+	ST_INVISIBLE				= 202,	// Invisible surface
+
+
+	ST_SOIL					= 70,
+	ST_SAND					= 71,
+	ST_CONCRETE				= 11,
+	ST_STEEL					= 20,
+	ST_ROCK					= 75,
+	ST_WATER					= 201,
+	ST_MUD					= 72,
+	ST_SNOW					= 74,
+*/
+
+/************************************************************************
+**
+** GLOBAL
+**
+** The global definition defines values that are global to all surfaces.
+**
+*/
+
+[Global]
+
+
+/************************************************************************
+**
+** SURFACE
+**
+** The Surface definitions define all of the attributes associated with
+** a particular surface.  These definitions *usually* map directly to 
+** a particular texture flag (i.e., the Id property = a texture flag value).
+** However, there are some pre-defined surfaces defined in this file that
+** are needed by the game.  These surfaces are defined below and SHOULD
+** NOT be removed from this file.  Also, it is important that the Ids used
+** by these surfaces are NOT changed.  These pre-defined surfaces are:
+**
+**		
+*/
+
+
+////////////////////////////////////////////////////////////////////////////
+// FOLLOWING ARE THE PRE-DEFINED SURFACES - DO NOT MODIFY THESE!!!! -
+//
+
+/*
+**  Surface0 - UNKNOWN
+*/
+
+[Surface0]
+
+Name					= "Unknown"
+Id					= 0
+ShowsMark				= 1
+BulletHoleSpr				= "FX\Test\IMarkBasic.spr"
+BulletHoleMinScale			= 2.800000
+BulletHoleMaxScale			= 3.500000
+
+GunExplosionFX				= "gun_land"
+MechGunExplosionFX			= "mg_land"
+RPExplosionFX				= "rp_land"
+ATMExplosionFX				= "atm_land"
+FootSmokeFX				= "footsmoke_land"	
+RollerSmokeFX				= "RD_smoke_right_land"
+BoostSmokeFX				= "jumpsmoke_land"
+LandingSmokeFX				= "mech_landing_land"
+AfvSmokeFX				= "tank_smoke01"
+
+GunExplosionSnd				= "GUN_LAND"
+MechGunExplosionSnd			= "MG_LAND"
+RPExplosionSnd				= "RP_LAND"
+ATMExplosionSnd				= "ATM_LAND"
+2_WalkSnd				= "WALK_ANY_2"
+2_RunSnd				= "RUN_ANY_2"
+4_WalkSnd				= "WALK_ANY_4"
+4_RunSnd				= "RUN_ANY_4"
+RollerSnd				= "ROLLER_LAND_MOVING"
+2_LandingSnd				= "LANDING_ANY_2"
+4_LandingSnd				= "LANDING_ANY_4"
+//BoostSnd				= "JUMPUP"	
+//AfvSnd				= "ROLLER"
+
+
+
+/*
+**  Surface1 - AIR
+*/
+
+[Surface1]
+
+Name					= "Air"
+Id					= 1
+ShowsMark				= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 1.000000
+BulletHoleMaxScale			= 1.000000
+
+GunExplosionFX				= ""
+MechGunExplosionFX			= ""
+RPExplosionFX				= ""
+ATMExplosionFX				= ""
+FootSmokeFX				= ""	
+RollerSmokeFX				= ""
+BoostSmokeFX				= ""
+LandingSmokeFX				= ""
+AfvSmokeFX				= ""
+
+GunExplosionSnd				= ""
+MechGunExplosionSnd			= ""
+RPExplosionSnd				= ""
+ATMExplosionSnd				= ""
+2_WalkSnd				= ""
+2_RunSnd				= ""
+4_WalkSnd				= ""
+4_RunSnd				= ""
+RollerSnd				= ""
+2_LandingSnd				= ""
+4_LandingSnd				= ""
+//BoostSnd				= ""
+//AfvSnd				= ""
+
+
+/*
+**  Surface2 - SKY
+*/
+
+[Surface2]
+
+Name					= "Sky"
+Id					= 110
+ShowsMark				= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 1.000000
+BulletHoleMaxScale			= 1.000000
+
+GunExplosionFX				= ""
+MechGunExplosionFX			= ""
+RPExplosionFX				= ""
+ATMExplosionFX				= ""
+FootSmokeFX				= ""	
+RollerSmokeFX				= ""
+BoostSmokeFX				= ""
+LandingSmokeFX				= ""
+AfvSmokeFX				= ""
+
+GunExplosionSnd				= ""
+MechGunExplosionSnd			= ""
+RPExplosionSnd				= ""
+ATMExplosionSnd				= ""
+2_WalkSnd				= ""
+2_RunSnd				= ""
+4_WalkSnd				= ""
+4_RunSnd				= ""
+RollerSnd				= ""
+2_LandingSnd				= ""
+4_LandingSnd				= ""
+//BoostSnd				= ""
+//AfvSnd				= ""
+
+/*
+**  Surface3 - Terran
+*/
+
+[Surface3]
+
+Name					= "Terran"
+Id					= 70
+ShowsMark				= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 1.000000
+BulletHoleMaxScale			= 1.000000
+
+GunExplosionFX				= "gun_land"
+MechGunExplosionFX			= "mg_land"
+RPExplosionFX				= "rp_land"
+ATMExplosionFX				= "atm_land"
+FootSmokeFX				= "footsmoke_land"	
+RollerSmokeFX				= "RD_smoke_right_land"
+BoostSmokeFX				= "jumpsmoke_land"
+LandingSmokeFX				= "mech_landing_land"
+AfvSmokeFX				= "tank_smoke01"
+
+GunExplosionSnd				= "GUN_LAND"
+MechGunExplosionSnd			= "MG_LAND"
+RPExplosionSnd				= "RP_LAND"
+ATMExplosionSnd				= "ATM_LAND"
+2_WalkSnd				= "WALK_LAND_2"
+2_RunSnd				= "RUN_LAND_2"
+4_WalkSnd				= "WALK_LAND_4"
+4_RunSnd				= "RUN_LAND_4"
+RollerSnd				= "ROLLER_LAND_MOVING"
+2_LandingSnd				= "LANDING_ANY_2"
+4_LandingSnd				= "LANDING_ANY_4"
+//BoostSnd					= "JUMPUP"	
+//AfvSnd					= "ROLLER"
+
+/*
+**  Surface4 - LIQUID
+*/
+
+[Surface4]
+
+Name					= "Liquid"
+Id					= 201
+ShowsMark				= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 1.000000
+BulletHoleMaxScale			= 1.000000
+
+GunExplosionFX				= "gun_water"
+MechGunExplosionFX			= "mg_water"
+RPExplosionFX				= "rp_water"
+ATMExplosionFX				= "atm_water"
+FootSmokeFX				= "footsmoke_water"
+RollerSmokeFX				= "RD_smoke_right_water"
+BoostSmokeFX				= "jumpsmoke_water"
+LandingSmokeFX				= "mech_landing_water"
+AfvSmokeFX				= "tank_smoke01"
+
+GunExplosionSnd				= "GUN_WATER"
+MechGunExplosionSnd			= "MG_WATER"
+RPExplosionSnd				= "RP_WATER"
+ATMExplosionSnd				= "ATM_WATER"
+2_WalkSnd				= "WALK_WATER_2"
+2_RunSnd				= "RUN_WATER_2"
+4_WalkSnd				= "WALK_WATER_4"
+4_RunSnd				= "RUN_WATER_4"
+RollerSnd				= "ROLLER_WATER_MOVING"
+2_LandingSnd				= "LANDING_WATER_2"
+4_LandingSnd				= "LANDING_WATER_4"
+//BoostSnd					= "JUMPUP"	
+//AfvSnd					= "ROLLER"
+
+
+/*
+**  Surface5 - INVISIBLE - This surface is used for invisible textures,
+**  In other words, this is used to specify a surface to ignore completely by -GAMECODE-.
+*/
+
+[Surface5]
+
+Name					= "Invisible"
+Id					= 202
+ShowsMark				= 0
+BulletHoleSpr				= ""
+BulletHoleMinScale			= 0.000000
+BulletHoleMaxScale			= 0.000000
+
+GunExplosionFX				= ""
+MechGunExplosionFX			= ""
+RPExplosionFX				= ""
+ATMExplosionFX				= ""
+FootSmokeFX				= ""
+RollerSmokeFX				= ""
+BoostSmokeFX				= ""
+LandingSmokeFX				= ""
+AfvSmokeFX				= ""
+
+GunExplosionSnd				= ""
+MechGunExplosionSnd			= ""
+RPExplosionSnd				= ""
+ATMExplosionSnd				= ""
+2_WalkSnd				= ""
+2_RunSnd				= ""
+4_WalkSnd				= ""
+4_RunSnd				= ""
+RollerSnd				= ""
+2_LandingSnd				= ""
+4_LandingSnd				= ""
+//BoostSnd				= ""
+//AfvSnd				= ""
+
+//
+// END OF THE PRE-DEFINED SURFACES - DO NOT MODIFY THESE!!!! -
+/////////////////////////////////////////////////////////////////////////////
+
+/*
+**  Surface6 - Terrain: Mud
+*/
+
+[Surface6]
+
+Name					= "Terrain Mud"
+Id					= 72
+ShowsMark				= 1
+BulletHoleSpr				= "FX\Test\IMarkBasic.spr"
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+
+GunExplosionFX				= "gun_mud"
+MechGunExplosionFX			= "mg_mud"
+RPExplosionFX				= "rp_mud"
+ATMExplosionFX				= "atm_mud"
+FootSmokeFX				= "footsmoke_land"	
+RollerSmokeFX				= "RD_smoke_right_land"
+BoostSmokeFX				= "jumpsmoke_land"
+LandingSmokeFX				= "mech_landing_land"
+AfvSmokeFX				= "tank_smoke01"
+
+GunExplosionSnd				= "GUN_LAND"
+MechGunExplosionSnd			= "MG_LAND"
+RPExplosionSnd				= "RP_LAND"
+ATMExplosionSnd				= "ATM_LAND"
+2_WalkSnd				= "WALK_ANY_2"
+2_RunSnd				= "RUN_ANY_2"
+4_WalkSnd				= "WALK_ANY_4"
+4_RunSnd				= "RUN_ANY_4"
+RollerSnd				= "ROLLER_LAND_MOVING"
+2_LandingSnd				= "LANDING_ANY_2"
+4_LandingSnd				= "LANDING_ANY_4"
+//BoostSnd					= "JUMPUP"	
+//AfvSnd					= "ROLLER"
+
+
+/*
+**  Surface7 - Terrain: Rock, gravel
+*/
+
+[Surface7]
+
+Name					= "Terrain Rock"
+Id					= 75
+ShowsMark				= 1
+BulletHoleSpr				= "FX\Test\IMarkBasic.spr"
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+
+GunExplosionFX				= "gun_build"
+MechGunExplosionFX			= "mg_build"
+RPExplosionFX				= "rp_build"
+ATMExplosionFX				= "atm_build"
+FootSmokeFX				= "footsmoke_build"	
+RollerSmokeFX				= "RD_smoke_right_build"
+BoostSmokeFX				= "jumpsmoke_build"
+LandingSmokeFX				= "mech_landing_build"
+AfvSmokeFX				= "tank_smoke01"
+
+GunExplosionSnd				= "GUN_LAND"
+MechGunExplosionSnd			= "MG_LAND"
+RPExplosionSnd				= "RP_LAND"
+ATMExplosionSnd				= "ATM_LAND"
+2_WalkSnd				= "WALK_ANY_2"
+2_RunSnd				= "RUN_ANY_2"
+4_WalkSnd				= "WALK_ANY_4"
+4_RunSnd				= "RUN_ANY_4"
+RollerSnd				= "ROLLER_LAND_MOVING"
+2_LandingSnd				= "LANDING_ANY_2"
+4_LandingSnd				= "LANDING_ANY_4"
+//BoostSnd					= "JUMPUP"	
+//AfvSnd					= "ROLLER"
+
+/*
+**  Surface8 - Metal
+*/
+
+[Surface8]
+
+Name					= "Metal"
+Id					= 20
+ShowsMark				= 1
+BulletHoleSpr				= "FX\Test\IMarkBasic.spr"
+BulletHoleMinScale			= 0.800000
+BulletHoleMaxScale			= 1.500000
+
+GunExplosionFX				= "gun_metal"
+MechGunExplosionFX			= "mg_metal"
+RPExplosionFX				= "rp_metal"
+ATMExplosionFX				= "atm_metal"
+FootSmokeFX				= "footsmoke_metal"	
+RollerSmokeFX				= "RD_smoke_right_metal"
+BoostSmokeFX				= "jumpsmoke_metal"
+LandingSmokeFX				= "mech_landing_metal"
+AfvSmokeFX				= "tank_smoke01"
+
+GunExplosionSnd				= "GUN_METAL"
+MechGunExplosionSnd			= "MG_METAL"
+RPExplosionSnd				= "RP_METAL"
+ATMExplosionSnd				= "ATM_METAL"
+2_WalkSnd				= "WALK_METAL_2"
+2_RunSnd				= "RUN_METAL_2"
+4_WalkSnd				= "WALK_METAL_4"
+4_RunSnd				= "RUN_METAL_4"
+RollerSnd				= "ROLLER_METAL_MOVING"
+2_LandingSnd				= "LANDING_ANY_2"
+4_LandingSnd				= "LANDING_ANY_4"
+//BoostSnd					= "JUMPUP"	
+//AfvSnd					= "ROLLER"
+
+
+/*
+**  Surface9 - Cement
+*/
+
+[Surface9]
+
+Name					= "Cement"
+Id					= 11
+ShowsMark				= 1
+BulletHoleSpr				= "FX\Test\IMarkBasic.spr"
+BulletHoleMinScale			= 2.800000
+BulletHoleMaxScale			= 3.500000
+
+GunExplosionFX				= "gun_build"
+MechGunExplosionFX			= "mg_build"
+RPExplosionFX				= "rp_build"
+ATMExplosionFX				= "atm_build"
+FootSmokeFX				= "footsmoke_build"	
+RollerSmokeFX				= "RD_smoke_right_build"
+BoostSmokeFX				= "jumpsmoke_build"
+LandingSmokeFX				= "mech_landing_build"
+AfvSmokeFX				= "tank_smoke01"
+
+GunExplosionSnd				= "GUN_BUILD"
+MechGunExplosionSnd			= "MG_BUILD"
+RPExplosionSnd				= "RP_BUILD"
+ATMExplosionSnd				= "ATM_BUILD"
+2_WalkSnd				= "WALK_LAND_2"
+2_RunSnd				= "RUN_LAND_2"
+4_WalkSnd				= "WALK_LAND_4"
+4_RunSnd				= "RUN_LAND_4"
+RollerSnd				= "ROLLER_LAND_MOVING"
+2_LandingSnd				= "LANDING_ANY_2"
+4_LandingSnd				= "LANDING_ANY_4"
+//BoostSnd					= "JUMPUP"	
+//AfvSnd					= "ROLLER"
+
+
+/*
+**  Surface10 - Desert
+*/
+
+[Surface10]
+
+Name					= "Desert"
+Id					= 71
+ShowsMark				= 1
+BulletHoleSpr				= "FX\Test\IMarkBasic.spr"
+BulletHoleMinScale			= 2.800000
+BulletHoleMaxScale			= 3.500000
+
+GunExplosionFX				= "gun_sand"
+MechGunExplosionFX			= "mg_sand"
+RPExplosionFX				= "rp_sand"
+ATMExplosionFX				= "atm_sand"
+FootSmokeFX				= "footsmoke_sand"	
+RollerSmokeFX				= "RD_smoke_right_sand"
+BoostSmokeFX				= "jumpsmoke_sand"
+LandingSmokeFX				= "mech_landing_sand"
+AfvSmokeFX				= "tank_smoke01"
+
+GunExplosionSnd				= "GUN_SAND"
+MechGunExplosionSnd			= "MG_SAND"
+RPExplosionSnd				= "RP_SAND"
+ATMExplosionSnd				= "ATM_SAND"
+2_WalkSnd				= "WALK_SAND_2"
+2_RunSnd				= "RUN_SAND_2"
+4_WalkSnd				= "WALK_SAND_4"
+4_RunSnd				= "RUN_SAND_4"
+RollerSnd				= "ROLLER_SAND_MOVING"
+2_LandingSnd				= "LANDING_ANY_2"
+4_LandingSnd				= "LANDING_ANY_4"
+//BoostSnd					= "JUMPUP"	
+//AfvSnd

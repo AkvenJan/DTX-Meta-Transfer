@@ -1,0 +1,444 @@
+/************************************************************************
+**
+** GLOBAL
+**
+** The global definition defines values that are global to all surfaces.
+**
+*/
+
+[Global]
+
+
+
+
+/************************************************************************
+**
+** SURFACE
+**
+** The Surface definitions define all of the attributes associated with
+** a particular surface.  These definitions *usually* map directly to 
+** a particular texture flag (i.e., the Id property = a texture flag value).
+** However, there are some pre-defined surfaces defined in this file that
+** are needed by the game.  These surfaces are defined below and SHOULD
+** NOT be removed from this file.  Also, it is important that the Ids used
+** by these surfaces are NOT changed.  These pre-defined surfaces are:
+**
+**  UNKNOWN (id 0)		- An unknown surface is encountered
+**  AIR	(id 1)		- Indicates a "non" surface
+**  FLESH (id 2)		- Human/animal surfaces 
+**  SKY (id 110)		- Sky surface	  
+**  LADDER (id 200)		- Ladder volume brush
+**  LIQUID (id 201)		- Liquid volume brush
+**  INVISIBLE (id 202)		- An invisible surface
+**
+**
+** All surface definitions should contain the following properties:
+**
+**  Name (String)
+**
+**      The User friendly name of the surface (what shows up in DEdit).
+**
+**  Id (Integer)
+**
+**      This identifies the surface and usually maps directly to a texture
+**      flag value.  This value must be between 0 and 255, and NOT be one
+**      of the pre-defined values above (i.e., NOT 0, 1, 2, 3, 110, 200, 201 
+**      or 202).
+**
+**  ShowsMark (Integer)
+**
+**		Do bullet holes and/or scortch marks show up on this surface.
+**		(1 = true, 0 = false)
+**
+**  ShowBreath (Integer)
+**
+**		Show cold breath if a character is standing on this surface (i.e., 
+**		the surface is ice/snow/outside/etc.)
+**		(1 = true, 0 = false)
+**
+**
+** RtFootPrintSpr (String)
+**
+**		Name of the sprite used for right-footed footprints (use "" if
+**		this surface doesn't show footprints)
+**
+** LtFootPrintSpr (String)
+**
+**		Name of the sprite used for left-footed footprints (use "" if
+**		this surface doesn't show footprints)
+**
+**  FootPrintLifetime (Float)
+**
+**		How long the footprint sprites stay around.
+**
+** FootPrintScale (Vector)
+**
+**		Scale for the foot print sprites.
+**
+** RtFootSnd1-2 (String)
+**
+**		Name of the 1st and 2nd right footstep sounds.
+**
+** LtFootSnd1-2 (String)
+**
+**		Name of the 1st and 2nd left footstep sounds.
+**
+**	BodyFallSnd (String)
+**
+**		Name of the sound a dead body makes when it lands on this surface.
+**
+**	BodyFallSndRadius (Float)
+**
+**		Radius for the BodyFallSnd sound.
+**
+**	BodyLedgeFallSnd (String)
+**
+**		Name of the sound a dead body makes when it lands on this surface after 
+**      falling off a ledge.
+**
+**	BodyLedgeFallSndRadius (Float)
+**
+**		Radius for the BodyLedgeFallSnd sound.
+**
+**  ActivationSnd (String)
+**
+**		Name of the sound played when the player tries to activate this 
+**		surface (i.e., the player uses the "use" key on the surface).  This
+**		can be used to play a machine activate sound, or a "locked door" sound.
+**
+** ActivationSndRadius (Float)
+**
+**		Radius for the ActivationSnd sound.
+**
+**	DeathNoiseMod (Float)
+**
+**		This is a modifier used to increase/decrease how loud the death
+**		noise (body fall sound) is for this surface by scaling the radius.  
+**		This used by the AI to determine if they could hear the sound or not. 
+**
+**	MoveNoiseMod (Float)
+**
+**		This is a modifier used to increase/decrease how loud movement
+**		sounds are on this surface by scaling the radius.  This used by 
+**		the AI to determine if they could hear the sound or not. 
+**
+**	ImpactNoiseMod (Float)
+**
+**		This is a modifier used to increase/decrease how loud impact
+**		sounds are on this surface by scaling the radius.  This used 
+**		by the AI to determine if they could hear the sound or not.
+**
+**	Hardness (Float)
+**
+**		This specifies the hardness of the surface.  It is currently used
+**		to determine how much grenades bounce off the surface.  Valid values
+**		are between 0.0 (SOFT - grenades stick to surface), and 1.0 (HARD -
+**		grenades don't lose any velocity when the bounce off the surface).
+**
+**	Magnetic (Integer)
+**
+**		This specifies if the surface is magnetic (Actually, if the surface
+**		attracts magnetic objects - i.e., is metal).  (1 = true, 0 = false)
+**
+**	ImpactFXName (string) (OPTIONAL)
+**
+**		Specifies the optional name of a FxED created FX to use when a weapon
+**		impacts this surface.  For example:
+**
+**			ImpactFXName = "StoneImpactFX01"
+**
+**	UWImpactFXName	(string) (OPTIONAL)
+**
+**		Specifies the optional name of a FxED created FX to use when a weapon 
+**		impacts this surface under water.  For example:
+**
+**			UWImpactFXName = "UWMetalImpactFX01"
+**
+**	ExitFXName (string) (OPTIONAL)
+**
+**		Specifies the optional name of a FxED created FX to use when a weapon
+**		exits this surface.  For example:
+**
+**			ExitFXName = "WoodExitFX01"
+**
+**	UWExitFXName (string) (OPTIONAL)
+**
+**		Specifies the optional name of a FxED created FX to use when a weapon
+**		exits this surface under water.  For example:
+**
+**			UWExitFXName = "UWClothExitFX01"
+**
+**		
+*/
+
+
+////////////////////////////////////////////////////////////////////////////
+// FOLLOWING ARE THE PRE-DEFINED SURFACES - DO NOT MODIFY THESE!!!! -
+//
+
+/*
+**  Surface0 - UNKNOWN
+*/
+
+[Surface0]
+
+Name					= "Unknown"
+Id					= 0
+ShowsMark				= 1
+ShowBreath				= 0
+CanSeeThrough				= 0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+FootPrintLifetime				= 10.0
+FootPrintScale				= <1.0, 1.0, 1.0>
+RtFootSnd1				= ""
+LtFootSnd1				= ""
+RtFootSnd2				= ""
+LtFootSnd2				= ""
+BodyFallSnd				= ""
+BodyFallSndRadius				= 800.000000
+BodyLedgeFallSnd				= ""
+BodyLedgeFallSndRadius			= 1200.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.000000
+MoveNoiseMod				= 2.000000
+ImpactNoiseMod				= 2.000000
+Hardness					= 0.65
+Magnetic					= 0
+ImpactFXName				= ""
+UWImpactFXName				= ""
+ExitFXName				= ""
+UWExitFXName				= ""
+
+/*
+**  Surface1 - AIR
+*/
+
+[Surface1]
+
+Name					= "Air"
+Id					= 1
+ShowsMark				= 0
+ShowBreath				= 0
+CanSeeThrough				= 1
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+FootPrintLifetime				= 10.0
+FootPrintScale				= <1.0, 1.0, 1.0>
+RtFootSnd1				= ""
+LtFootSnd1				= ""
+RtFootSnd2				= ""
+LtFootSnd2				= ""
+BodyFallSnd				= ""
+BodyFallSndRadius				= 0
+BodyLedgeFallSnd				= ""
+BodyLedgeFallSndRadius			= 0
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.000000
+MoveNoiseMod				= 0.000000
+ImpactNoiseMod				= 0.000000
+Hardness					= 0.0
+SnowmobileVelMult				= 1.0
+Magnetic					= 0
+ImpactFXName				= ""
+UWImpactFXName				= ""
+ExitFXName				= ""
+UWExitFXName				= ""
+
+/*
+**  Surface2 - SKY
+*/
+
+[Surface2]
+
+Name					= "Sky"
+Id					= 110
+ShowsMark				= 0
+ShowBreath				= 0
+CanSeeThrough				= 0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+FootPrintLifetime				= 10.0
+FootPrintScale				= <1.0, 1.0, 1.0>
+RtFootSnd1				= ""
+LtFootSnd1				= ""
+RtFootSnd2				= ""
+LtFootSnd2				= ""
+BodyFallSnd				= ""
+BodyFallSndRadius				= 0
+BodyLedgeFallSnd				= ""
+BodyLedgeFallSndRadius			= 0
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 0.000000
+MoveNoiseMod				= 0.000000
+ImpactNoiseMod				= 0.000000
+Hardness					= 0.0
+Magnetic					= 0
+ImpactFXName				= ""
+UWImpactFXName				= ""
+ExitFXName				= ""
+UWExitFXName				= ""
+
+/*
+**  Surface3 - INVISIBLE - This surface is used for invisible textures.
+**	HAS BEEN REVISED FOR THE LAST TIME TO "NO SHOOT THROUGH, NO SEE THROUGH NO MARK"
+*/
+
+[Surface3]
+
+Name					= "Invisible"
+Id					= 202
+ShowsMark				= 0
+ShowBreath				= 0
+CanSeeThrough				= 0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+FootPrintLifetime				= 0	
+FootPrintScale				= <0.0, 0.0, 0.0>
+RtFootSnd1				= ""
+LtFootSnd1				= ""
+RtFootSnd2				= ""
+LtFootSnd2				= ""
+BodyFallSnd				= ""
+BodyFallSndRadius				= 0
+BodyLedgeFallSnd				= ""
+BodyLedgeFallSndRadius			= 0
+ActivationSnd				= ""
+ActivationSndRadius			= 0.0
+DeathNoiseMod				= 0.0
+MoveNoiseMod				= 0.0
+ImpactNoiseMod				= 0.0
+Hardness					= 0.1
+Magnetic					= 0
+ImpactFXName				= ""
+UWImpactFXName				= ""
+ExitFXName				= ""
+UWExitFXName				= ""
+
+
+[Surface4]
+
+Name					= "P13_Stairs00"
+Id					= 210
+ShowsMark				= 1
+ShowBreath				= 0
+CanSeeThrough				= 0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+FootPrintLifetime			= 10.0
+FootPrintScale				= <1.0, 1.0, 1.0>
+RtFootSnd1				= "P13_Step00"
+LtFootSnd1				= "P13_Step00"
+RtFootSnd2				= "P13_Step00"
+LtFootSnd2				= "P13_Step00"
+BodyFallSnd				= ""
+BodyFallSndRadius			= 800.000000
+BodyLedgeFallSnd			= ""
+BodyLedgeFallSndRadius			= 1200.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.000000
+MoveNoiseMod				= 2.000000
+ImpactNoiseMod				= 2.000000
+Hardness				= 0.65
+Magnetic				= 0
+ImpactFXName				= ""
+UWImpactFXName				= ""
+ExitFXName				= ""
+UWExitFXName				= ""
+
+[Surface5]
+
+Name					= "P13_Stairs01"
+Id					= 211
+ShowsMark				= 1
+ShowBreath				= 0
+CanSeeThrough				= 0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+FootPrintLifetime			= 10.0
+FootPrintScale				= <1.0, 1.0, 1.0>
+RtFootSnd1				= "P13_Step01"
+LtFootSnd1				= "P13_Step01"
+RtFootSnd2				= "P13_Step01"
+LtFootSnd2				= "P13_Step01"
+BodyFallSnd				= ""
+BodyFallSndRadius			= 800.000000
+BodyLedgeFallSnd			= ""
+BodyLedgeFallSndRadius			= 1200.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.000000
+MoveNoiseMod				= 2.000000
+ImpactNoiseMod				= 2.000000
+Hardness				= 0.65
+Magnetic				= 0
+ImpactFXName				= ""
+UWImpactFXName				= ""
+ExitFXName				= ""
+UWExitFXName				= ""
+
+[Surface6]
+
+Name					= "P13_Stairs02"
+Id					= 212
+ShowsMark				= 1
+ShowBreath				= 0
+CanSeeThrough				= 0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+FootPrintLifetime			= 10.0
+FootPrintScale				= <1.0, 1.0, 1.0>
+RtFootSnd1				= "P13_Step02"
+LtFootSnd1				= "P13_Step02"
+RtFootSnd2				= "P13_Step02"
+LtFootSnd2				= "P13_Step02"
+BodyFallSnd				= ""
+BodyFallSndRadius			= 800.000000
+BodyLedgeFallSnd			= ""
+BodyLedgeFallSndRadius			= 1200.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.000000
+MoveNoiseMod				= 2.000000
+ImpactNoiseMod				= 2.000000
+Hardness				= 0.65
+Magnetic				= 0
+ImpactFXName				= ""
+UWImpactFXName				= ""
+ExitFXName				= ""
+UWExitFXName				= ""
+
+[Surface7]
+
+Name					= "P13_Stairs03"
+Id					= 213
+ShowsMark				= 1
+ShowBreath				= 0
+CanSeeThrough				= 0
+RtFootPrintSpr				= ""
+LtFootPrintSpr				= ""
+FootPrintLifetime			= 10.0
+FootPrintScale				= <1.0, 1.0, 1.0>
+RtFootSnd1				= "P13_Step03"
+LtFootSnd1				= "P13_Step03"
+RtFootSnd2				= "P13_Step03"
+LtFootSnd2				= "P13_Step03"
+BodyFallSnd				= ""
+BodyFallSndRadius			= 800.000000
+BodyLedgeFallSnd			= ""
+BodyLedgeFallSndRadius			= 1200.000000
+ActivationSnd				= ""
+ActivationSndRadius			= 0.000000
+DeathNoiseMod				= 1.000000
+MoveNoiseMod				= 2.000000
+ImpactNoiseMod				= 2.000000
+Hardness				= 0.65
+Magnetic				= 0
+ImpactFXName				= ""
+UWImpactFXName				= ""
+ExitFXName				= ""
+UWExitFXName				= ""

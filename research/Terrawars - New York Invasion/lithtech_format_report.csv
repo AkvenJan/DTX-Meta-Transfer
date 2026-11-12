@@ -1,0 +1,240 @@
+file,format,version,nodes,notes,status
+Game\Chars\Models\(Carrying)Army_Conscript.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\AdvanceWarrior.ltb,LTB raw|Model,Mesh v23,27,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\AlienDrone.ltb,LTB raw|Model,Mesh v23,38,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Alien_Conscript.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Aliencivilian.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\ArmoredSpawn.ltb,LTB raw|Model,Mesh v23,34,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Army_Conscript.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Aspirant.ltb,LTB raw|Model,Mesh v23,36,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Babe.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Backpacker.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\BldgMnager.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Bosk_Scientist.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\BossAlien.ltb,LTB raw|Model,Mesh v23,45,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Captain.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Cutscene.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\DeathBase.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\FaceDeathAnim.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\FinalDeathAnimations.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Hydra.ltb,LTB raw|Model,Mesh v23,18,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\KnifeBase.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Lord.ltb,LTB raw|Model,Mesh v23,36,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\M249_Base.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Mech.ltb,LTB raw|Model,Mesh v23,24,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\MiscBaseComposite.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\PistolBase.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\PistolBaseAndDeathBase.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Player.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\RifleBase.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\SMAWBase.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Sniper.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\SniperBase.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\SniperSpawn.ltb,LTB raw|Model,Mesh v23,34,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\SpawnDual.ltb,LTB raw|Model,Mesh v23,34,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Tentacle.ltb,LTB raw|Model,Mesh v23,15,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\WalkCarry.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\Warrior.ltb,LTB raw|Model,Mesh v23,27,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\WarriorMgr.ltb,LTB raw|Model,Mesh v23,27,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\civilian.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\playerbase.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\playerbase1.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\spawn.ltb,LTB raw|Model,Mesh v23,34,runtime-header; Container=9; FileType=1,OK
+Game\Chars\Models\warmac.ltb,LTB raw|Model,Mesh v23,23,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\Ab_turrethead.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\BrokenGlassDebris1.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\BrokenGlassDebris2.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\BrokenGlassDebris3.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\MACHINEDEBRIS.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\OilDrumDebris1.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\OilDrumDebris2.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\OilDrumDebris3.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\SMALL.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\StoneDebris1.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\StoneDebris2.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\StoneDebris3.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\VentDebris1.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\VentDebris2.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\WOOD1C.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\WoodenCrateDebris1.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\WoodenCrateDebris2.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\WoodenCrateDebris3.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\glass_bk01.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\glass_bk02.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\woodDeb01.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\DEBRIS\woodDeb02.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\AlienGun\AlienGun.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\AlienPistol\AdvancePistol.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\AlienPistol\HeavyPistol.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\AlienPistol\alienpistol.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\AspRifle\AspRifle.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\AspRifle\WarriorGun2.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Beretta\Beretta_pv.ltb,LTB raw|Model,Mesh v23,49,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Beretta\Beretta_pv_babe.ltb,LTB raw|Model,Mesh v23,49,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Beretta\beretta.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Beretta\silencedberetta.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\CombatKnife\CombatKnife.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\CombatKnife\CombatKnife_pv.ltb,LTB raw|Model,Mesh v23,49,runtime-header; Container=9; FileType=1,OK
+Game\Guns\CombatKnife\CombatKnife_pv_babe.ltb,LTB raw|Model,Mesh v23,49,runtime-header; Container=9; FileType=1,OK
+Game\Guns\FN_FAL\FN_FAL_pv.ltb,LTB raw|Model,Mesh v23,50,runtime-header; Container=9; FileType=1,OK
+Game\Guns\FN_FAL\fn-fal.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\FlameThrower\FlameThrower.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\FlameThrower\PV_Flamethrower.ltb,LTB raw|Model,Mesh v23,25,runtime-header; Container=9; FileType=1,OK
+Game\Guns\M249\M249_pv.ltb,LTB raw|Model,Mesh v23,54,runtime-header; Container=9; FileType=1,OK
+Game\Guns\M249\m249.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\M249\m249_pv_babe.ltb,LTB raw|Model,Mesh v23,54,runtime-header; Container=9; FileType=1,OK
+Game\Guns\M40A3\M40A3.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\M40A3\PV_M40A3.ltb,LTB raw|Model,Mesh v23,45,runtime-header; Container=9; FileType=1,OK
+Game\Guns\M40A3\PV_M40A3_babe.ltb,LTB raw|Model,Mesh v23,45,runtime-header; Container=9; FileType=1,OK
+Game\Guns\M4\m4.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\M4\m4_pv.ltb,LTB raw|Model,Mesh v23,50,runtime-header; Container=9; FileType=1,OK
+Game\Guns\M4\m4_pv_babe.ltb,LTB raw|Model,Mesh v23,50,runtime-header; Container=9; FileType=1,OK
+Game\Guns\MachineGun\MachineGun.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\MachineGun\PV_MachineGun.ltb,LTB raw|Model,Mesh v23,28,runtime-header; Container=9; FileType=1,OK
+Game\Guns\MachineGun\PV_TurretGun.ltb,LTB raw|Model,Mesh v23,28,runtime-header; Container=9; FileType=1,OK
+Game\Guns\MissileLauncher\MissileLauncher.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\MissileLauncher\PV_MissileLauncher.ltb,LTB raw|Model,Mesh v23,46,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Models_hh\Keychain.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Models_hh\OnlySocket.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Models_hh\timebomb.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\OICW\OICW_pv.ltb,LTB raw|Model,Mesh v23,54,runtime-header; Container=9; FileType=1,OK
+Game\Guns\OICW\OICW_pv_babe.ltb,LTB raw|Model,Mesh v23,54,runtime-header; Container=9; FileType=1,OK
+Game\Guns\OICW\oicw.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Rifle\PV\Rifle_pv.ltb,LTB raw|Model,Mesh v23,51,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Rifle\PV\pv_rifle.ltb,LTB raw|Model,Mesh v23,51,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Rifle\pv_rifle.ltb,LTB raw|Model,Mesh v23,51,runtime-header; Container=9; FileType=1,OK
+Game\Guns\ShieldTurret\ShieldTurret.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\ShieldTurret\ShieldTurretgunonly.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Shotgun\Shotgun_pv.ltb,LTB raw|Model,Mesh v23,50,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Shotgun\Shotgun_pv_babe.ltb,LTB raw|Model,Mesh v23,50,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Shotgun\shotgun.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Smaw\SMAW.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Smaw\SMAW_PV.ltb,LTB raw|Model,Mesh v23,44,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Timebomb\Timebomb.lta,LTA,-,,Lithtech Ascii,OK
+Game\Guns\Timebomb\Timebomb.ltb,LTB raw|Model,Mesh v23,44,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Timebomb\Timebomb_babe.ltb,LTB raw|Model,Mesh v23,44,runtime-header; Container=9; FileType=1,OK
+Game\Guns\Turret\mountedgun_pv.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+Game\Guns\WarriorRifle\AdvBayonet.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\WarriorRifle\AdvBayonet2.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\WarriorRifle\AdvanceRifle.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\projectiles\Missile.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\projectiles\alienGrenade.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\projectiles\grenade.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\projectiles\models\timebomb.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\shellcasings\models\bulletshell.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Guns\silencer\silencer.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\INTERFACE\MENU\MODELS\BackLoop.ltb,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+Game\INTERFACE\MENU\MODELS\LOAD.LTB,LTB raw|Model,Mesh v23,25,runtime-header; Container=9; FileType=1,OK
+Game\INTERFACE\MENU\MODELS\LOADBACK.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+Game\INTERFACE\MENU\MODELS\LOADING.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+Game\INTERFACE\MENU\MODELS\LOADTEXT.LTB,LTB raw|Model,Mesh v23,25,runtime-header; Container=9; FileType=1,OK
+Game\INTERFACE\MENU\MODELS\MAINBACK.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\INTERFACE\MENU\MODELS\MAINFRONT.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+Game\INTERFACE\MENU\MODELS\MAINMENU.LTB,LTB raw|Model,Mesh v23,11,runtime-header; Container=9; FileType=1,OK
+Game\INTERFACE\MENU\MODELS\MAINMENUINTRO.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+Game\INTERFACE\MENU\MODELS\MAINMIDDLE.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\LightAttenuationPresets\Default.lta,LTA,-,,Lithtech Ascii,OK
+Game\MODELS\1x1_square.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Game\MODELS\DEFAULT.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\MODELS\ONLYSOCKET.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\MODELS\OnlySocket.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\MODELS\PROPS\MOUNTEDGUN.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+Game\MODELS\PROPS\mountedgun.lta,LTA,-,,Lithtech Ascii,OK
+Game\MODELS\SPHERE.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\MODELS\default.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\MODELS\sphere.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Props\Models\Abrams.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\AbramsDestroyed.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Amanda_Sitting.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Army_Conscript_Carried.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Army_Conscript_Sitting.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\BHOnly.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\BHWithGun.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Beetle.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\BeetleDestroyed.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Bench.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\BlackHawk.ltb,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Bradley.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\BradleyDestroyed.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Bus.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Coupe.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\CoupeDestroyed.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Cube.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Cypher.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Dead1Army_Conscript.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Dead2Army_Conscript.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Dead3Army_Conscript.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\GasMask.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Hummer.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\HummerDestroyed.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Minivan.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\MnvDestroyed.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\OakTree.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Oakdestroyed.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Patrol.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\PoliceCar.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Power-Ups\BerretaMag.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Power-Ups\BerretaMag.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Props\Models\Power-Ups\M4Mag.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Power-Ups\M4Mag.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Props\Models\PuAmmoBox.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\PuArmor.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\PuArmorUpgrade.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\PuBackpack.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\PuBioMatter.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\PuFirstAid.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\PuHealthItem.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\PuHealthItem1.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\PuHealthUpgrade.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\ShieldTurret.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Sniper_Sitting.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Sphere.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\TaxiCab.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Tree1.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Tree2.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Tree3.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\Warmac.ltb,LTB raw|Model,Mesh v23,23,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\bombtarget.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\face_hugger.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\lordArmor.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\ranger2.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Game\Props\Models\turret.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Game\RS\Additive_4.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+Game\RS\Bright.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\DEFAULT.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\ENVMAP.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\Glow.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+Game\RS\POWERUPPU.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\RS_ALPHABLEND_TFACTORALPHA_1TEX.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\RS_FULLBRIGHT.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\Red.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\Translucent.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=20485, keine 'Header'/'LTBHeader'-Sektion)"
+Game\RS\Tree.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=20485, keine 'Header'/'LTBHeader'-Sektion)"
+Game\RS\bombtarget2.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\default_bright.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\glass.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+Game\RS\normal.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=20485, keine 'Header'/'LTBHeader'-Sektion)"
+Game\RS\transparent.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+Game\TEX\NEWYORK\level2\floordel.lta,LTA,-,,Lithtech Ascii,OK
+Game\TEX\PREFABTEXTURES\Office\TableBasic.lta,LTA,-,,Lithtech Ascii,OK
+Game\TEX\PREFABTEXTURES\Office\TableWithDrawers.lta,LTA,-,,Lithtech Ascii,OK
+Game\TemporaryResources\RS\pv_envmap.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+Game\Worlds\DM_LEVEL4C-VAULT-V1GMP01.DAT,DAT,v85,,DAT v85,OK
+Game\Worlds\Level1-BatteryPark-V30IIKf.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\Level2_NYSv15h.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\Level3-Subway-V16A-Sc.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\Level4-WallStreet-V21Rb.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\Level4bc-TradingVault-v1g.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\Level5-NYUDowntownHospital-V32-N.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\Level6-NewDARPA-v2K.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\Level7-CityHallPark-V15o.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\Level8-Stuyvesant-V18e.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\Level9-WTC-V24f.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\LevelA-ManhattanProject-V8c.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\LevelB-TrinityCave-V8b.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\LevelC-BrooklynBridge-V1g.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\LevelD-StatenIslandFerry-V14h.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\RetailMultiPlayer\Level1-BatteryPark-V30MP01.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\RetailMultiPlayer\Level2_NYSv15hMP01.dat,DAT,v85,,DAT v85,OK
+Game\Worlds\TM_LEVEL4-WALLSTREET-V21RB01.DAT,DAT,v85,,DAT v85,OK
+LIGHTATTENUATIONPRESETS\DEFAULT.LTA,LTA,-,,Lithtech Ascii,OK
