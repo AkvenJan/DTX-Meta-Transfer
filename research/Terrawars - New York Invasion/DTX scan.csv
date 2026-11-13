@@ -1,4 +1,5 @@
 Datei;Version;Breite;Hoehe;BPP;Mipmaps;UIMipOffset;UIMipSkala;NonS3TCOffset;TexGroup;Flags;CommandString;Groesse(Bytes)
+"CONSOLE\CONSOLE_FONT.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";1;0;"voll";0;0;"FULLBRITE";"";65700
 "Game\AbramBurned.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
 "Game\branches.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
 "Game\Chars\Skins\actionhands_pv.dtx";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
@@ -4149,3 +4150,13 @@ Datei;Version;Breite;Hoehe;BPP;Mipmaps;UIMipOffset;UIMipSkala;NonS3TCOffset;TexG
 "Game\TEXTURES\MAPS\Nomap.dtx";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT5";1;0;"voll";0;0;"";"";32932
 "Game\TEXTURES\OCCLUDER.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
 "Game\TEXTURES\WHITE.DTX";"DTX v2 (2.x/Jupiter)";8;8;"S3TC DXT1";1;0;"voll";0;0;"";"";196
+"TEXTURES\INTERFACE\ARMOURY\BASELINE.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"32";1;0;"voll";0;0;"";"";4194468
+"TEXTURES\INTERFACE\ARMOURY\BUYBR.DTX";"DTX v2 (2.x/Jupiter)";128;64;"32";1;0;"voll";0;0;"";"";32932
+"TEXTURES\INTERFACE\ARMOURY\BUYDM.DTX";"DTX v2 (2.x/Jupiter)";128;64;"32";1;0;"voll";0;0;"";"";32932
+"TEXTURES\INTERFACE\ARMOURY\BUYTAB.DTX";"DTX v2 (2.x/Jupiter)";1024;128;"32";1;0;"voll";0;0;"";"";524452
+"TEXTURES\INTERFACE\ARMOURY\SELLBR.DTX";"DTX v2 (2.x/Jupiter)";128;64;"32";1;0;"voll";0;0;"";"";32932
+"TEXTURES\INTERFACE\ARMOURY\SELLDM.DTX";"DTX v2 (2.x/Jupiter)";128;64;"32";1;0;"voll";0;0;"";"";32932
+"TEXTURES\INTERFACE\ARMOURY\SELLTAB.DTX";"DTX v2 (2.x/Jupiter)";1024;128;"32";1;0;"voll";0;0;"";"";524452
+"TEXTURES\INTERFACE\ARMOURY\UPGRADEBR.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";1;0;"voll";0;0;"";"";65700
+"TEXTURES\INTERFACE\ARMOURY\UPGRADEDM.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";1;0;"voll";0;0;"";"";65700
+"TEXTURES\INTERFACE\ARMOURY\UPGRADETAB.DTX";"DTX v2 (2.x/Jupiter)";1024;128;"32";1;0;"voll";0;0;"";"";524452

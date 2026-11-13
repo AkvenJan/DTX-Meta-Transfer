@@ -1,0 +1,336 @@
+file,format,version,nodes,notes,status
+FX\GDFX_88\MODEL\00.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\GDFX_88\MODEL\GUN_TAN.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\GDFX_88\MODEL\MGTAN.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\GDFX_88\MODEL\W3.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\GDFX_88\RS\MG_TAIL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+FX\GDFX_88\RS\MG_TAIL02.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+FX\GDFX_88\RS\MG_TAIL03.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+FX\GDFX_88\RS\MJMJ03-02.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+FX\GDFX_88\RS\MJMJ03.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\FONT\AGENCYFB_12.ABC,LTB raw|Style,v0,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\FONT\AMARILLOUSAF_13.ABC,LTB raw|Style,v0,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\FONT\AMARILLOUSAF_15.ABC,LTB raw|Style,v0,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\FONT\DYNAMIC_FONT1_1.ABC,LTB raw|Style,v0,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\FONT\DYNAMIC_FONT1_2.ABC,LTB raw|Style,v0,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\FONT\DYNAMIC_FONT1_7.ABC,LTB raw|Style,v0,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\FONT\DYNAMIC_FONT2_1.ABC,LTB raw|Style,v0,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\FONT\DYNAMIC_FONT2_2.ABC,LTB raw|Style,v0,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\FONT\DYNAMIC_FONT2_7.ABC,LTB raw|Style,v0,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\FONT\MS_PGOTHIC_13.ABC,LTB raw|Style,v0,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\FONT\SMALLFONT_8.ABC,LTB raw|Style,v0,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\FONT\SYSTEM_13.ABC,LTB raw|Style,v0,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\FONT\TERMINATOR_24.ABC,LTB raw|Style,v0,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\FONT\TERMINATOR_24S.ABC,LTB raw|Style,v0,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\MODELS\ARROW_BODY1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MODELS\ARROW_BODY2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MODELS\ARROW_BODY3.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MODELS\ARROW_HEAD2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MODELS\ARROW_HEAD3.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MODELS\HUDANGLEMETER.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MODELS\HUDCOMPASS.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MODELS\OBJ_FRIEND.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MODELS\OBJ_OBJECTIVE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MODELS\OBJ_PLAYER.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MODELS\OBJ_SUPPLY.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MODELS\TITLEEARTH.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+INTERFACE\RS\HUDALPHA00.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=20741, keine 'Header'/'LTBHeader'-Sektion)"
+INTERFACE\RS\MENUALPHA00.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+INTERFACE\RS\MENUALPHA01.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+MAPS\BRIEFING\B01.DAT,DAT,v85,,DAT v85,OK
+MAPS\BRIEFING\B02.DAT,DAT,v85,,DAT v85,OK
+MAPS\BRIEFING\B03.DAT,DAT,v85,,DAT v85,OK
+MAPS\BRIEFING\B04.DAT,DAT,v85,,DAT v85,OK
+MAPS\BRIEFING\B05.DAT,DAT,v85,,DAT v85,OK
+MAPS\BRIEFING\B06.DAT,DAT,v85,,DAT v85,OK
+MAPS\BRIEFING\B07.DAT,DAT,v85,,DAT v85,OK
+MAPS\BRIEFING\B08.DAT,DAT,v85,,DAT v85,OK
+MAPS\BRIEFING\B09.DAT,DAT,v85,,DAT v85,OK
+MAPS\BRIEFING\B10.DAT,DAT,v85,,DAT v85,OK
+MAPS\BRIEFING\B11.DAT,DAT,v85,,DAT v85,OK
+MAPS\BRIEFING\B12.DAT,DAT,v85,,DAT v85,OK
+MAPS\BRIEFING\B13.DAT,DAT,v85,,DAT v85,OK
+MAPS\INTERFACE.DAT,DAT,v85,,DAT v85,OK
+MAPS\M01.DAT,DAT,v85,,DAT v85,OK
+MAPS\M02.DAT,DAT,v85,,DAT v85,OK
+MAPS\M03.DAT,DAT,v85,,DAT v85,OK
+MAPS\M04.DAT,DAT,v85,,DAT v85,OK
+MAPS\M05.DAT,DAT,v85,,DAT v85,OK
+MAPS\M06.DAT,DAT,v85,,DAT v85,OK
+MAPS\M07.DAT,DAT,v85,,DAT v85,OK
+MAPS\M08.DAT,DAT,v85,,DAT v85,OK
+MAPS\M09.DAT,DAT,v85,,DAT v85,OK
+MAPS\M10.DAT,DAT,v85,,DAT v85,OK
+MAPS\M11.DAT,DAT,v85,,DAT v85,OK
+MAPS\M12.DAT,DAT,v85,,DAT v85,OK
+MAPS\M13.DAT,DAT,v85,,DAT v85,OK
+MAPS\MECHSETUP.DAT,DAT,v85,,DAT v85,OK
+MAPS\MM01.DAT,DAT,v85,,DAT v85,OK
+MAPS\MM02.DAT,DAT,v85,,DAT v85,OK
+MAPS\MM03.DAT,DAT,v85,,DAT v85,OK
+MAPS\MM04.DAT,DAT,v85,,DAT v85,OK
+MODELS\1X1_SQUARE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\AC\GD_HL00.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+MODELS\AC\GD_HL01.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+MODELS\AC\GD_HL02.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+MODELS\AC\GD_HL03.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+MODELS\AC\GD_HL04.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+MODELS\AC\GD_HL05.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+MODELS\AC\GD_PL01.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+MODELS\AC\GD_PL03.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK01.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK01_BD.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK02.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK02_BD.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK05.LTB,LTB raw|Model,Mesh v23,11,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK05_BD.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK06.LTB,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK06_BD.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK07.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK08.LTB,LTB raw|Model,Mesh v23,18,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK08_BD.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK13.LTB,LTB raw|Model,Mesh v23,14,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK13_BD.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK14.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK14_BD.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK15.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK15_BD.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK17.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK17_BD.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK18.LTB,LTB raw|Model,Mesh v23,22,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK18_BD.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK19.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK19_BD.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK20.LTB,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK20_BD.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK21.LTB,LTB raw|Model,Mesh v23,14,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK21_BD.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK22.LTB,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK22_BD.LTB,LTB raw|Model,Mesh v23,14,runtime-header; Container=9; FileType=1,OK
+MODELS\AFV\GD_TK22_MISSILE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\CANNON\GD_CANNON_05.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+MODELS\CANNON\GD_CANNON_05_BD.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+MODELS\CANNON\GD_CANNON_12_01.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+MODELS\CANNON\GD_CANNON_12_01_BD.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+MODELS\CANNON\GD_CANNON_12_02.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+MODELS\CANNON\GD_CANNON_12_02_BD.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+MODELS\DYNAMIC\PLANT_BIO_MASS9\PIECES01.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYNAMIC\PLANT_BIO_MASS9\PIECES02.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYNAMIC\PLANT_BIO_MASS9\PIECES03.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYNAMIC\PLANT_BIO_MASS9\PIECES04.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYNAMIC\PLANT_BIO_MASS9\PIECES05.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYNAMIC\PLANT_BIO_MASS9\PIECES06.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYNAMIC\PLANT_BIO_MASS9\PIECES07.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYNAMIC\PLANT_BIO_MASS9\PIECES08.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYNAMIC\PLANT_BIO_MASS9\PIECES09.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYNAMIC\PLANT_BIO_MASS\00001.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYNAMIC\PLANT_BIO_MASS\00002.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYNAMIC\PLANT_BIO_MASS\00003.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYNAMIC\PLANT_BIO_MASS\00004.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYNAMIC\PLANT_BIO_MASS\00005.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYNAMIC\PLANT_BIO_MASS\00006.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M01\M01_BARRACK01.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M01\M01_GUARDTOWER.LTB,LTB raw|Model,Mesh v23,25,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M01\M01_SILO.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M01\TENT.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M02\M02_ST.LTB,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\ISOLATED_PIPE_T.LTB,LTB raw|Model,Mesh v23,16,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\M03_ANTENNA01.LTB,LTB raw|Model,Mesh v23,11,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\M03_BARRACK01.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\M03_BARRACK02.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\M03_BARRACK03.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\M03_GASTERMINAL.LTB,LTB raw|Model,Mesh v23,24,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\M03_GASTOWER.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\M03_HELIPORT02.LTB,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\M03_NUMBER1.LTB,LTB raw|Model,Mesh v23,18,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\M03_PUMPINGYARD.LTB,LTB raw|Model,Mesh v23,22,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT01.LTB,LTB raw|Model,Mesh v23,14,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT02.LTB,LTB raw|Model,Mesh v23,14,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP001.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP002.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP003.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP004.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP005.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP006.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP007.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP008.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP009.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP010.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP011.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP012.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP013.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP014.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP015.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP016.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP017.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP018.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\MAP03_PLANT\PPP019.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\REFINARY.LTB,LTB raw|Model,Mesh v23,36,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M03\SKEL.LTB,LTB raw|Model,Mesh v23,21,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M06\TK01_BD.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M06\TK13_BD.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M07\MAP07_PLANE.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_001.LTB,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_002.LTB,LTB raw|Model,Mesh v23,19,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_003.LTB,LTB raw|Model,Mesh v23,14,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_004.LTB,LTB raw|Model,Mesh v23,17,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_005.LTB,LTB raw|Model,Mesh v23,11,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_006.LTB,LTB raw|Model,Mesh v23,16,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_008.LTB,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_009.LTB,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_010.LTB,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_011.LTB,LTB raw|Model,Mesh v23,25,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_013_01.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_013_02.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_014.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_015.LTB,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_016.LTB,LTB raw|Model,Mesh v23,21,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\BACK\M8_P004.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\BACK\M8_P008.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\BACK\M8_P012.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\BACK\M8_P016.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\M8_P001.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\M8_P002.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\M8_P003.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\M8_P005.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\M8_P006.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\M8_P007.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\M8_P009.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\M8_P010.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\M8_P011.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\M8_P013.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\M8_P014.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\M8_P015.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\M8_P017.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\M8_P018.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M08\M08_BUILDING_PHYSICS\M8_P019.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M11\CAMNET.LTB,LTB raw|Model,Mesh v23,11,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M11\MAP011_RADAR_VEHICLE_ORI.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M11\MAP011_RV.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\M012_GATE01.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\M012_GATE01B.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\M012_GATE02.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\M012_GATE02B.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\M012_GATE03B.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\M012_GATE04.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\M012_GATE04B.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\M012_GATE05.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\M012_GATE05B.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\M012_GATE06.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\M012_GATE06B.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\M012_GATE07.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\M012_GATE07B.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\MAP012_RADAR.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\PL04_BD01.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+MODELS\DYOBJ\M12\PL04_BD02.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+MODELS\INTERFACE\AT-B.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\INTERFACE\AT-C.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\INTERFACE\M_VEHICLE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\INTERFACE\M_VEHICLE2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\INTERFACE\OP-A.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\INTERFACE\OP-AA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\INTERFACE\OP-B.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\INTERFACE\OP-C.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\INTERFACE\RP08.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\INTERFACE\RP09.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\INTERFACE\RP12.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\INTERFACE\RP12A.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\INTERFACE\RP16.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB02.LTB,LTB raw|Model,Mesh v23,36,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB02_I.LTB,LTB raw|Model,Mesh v23,36,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB03.LTB,LTB raw|Model,Mesh v23,27,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB03_I.LTB,LTB raw|Model,Mesh v23,27,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB05.LTB,LTB raw|Model,Mesh v23,24,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB05A.LTB,LTB raw|Model,Mesh v23,28,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB05A_I.LTB,LTB raw|Model,Mesh v23,28,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB05_I.LTB,LTB raw|Model,Mesh v23,24,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB06.LTB,LTB raw|Model,Mesh v23,33,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB06_I.LTB,LTB raw|Model,Mesh v23,33,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB07.LTB,LTB raw|Model,Mesh v23,24,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB07_I.LTB,LTB raw|Model,Mesh v23,24,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB08.LTB,LTB raw|Model,Mesh v23,31,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB08_I.LTB,LTB raw|Model,Mesh v23,31,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB09.LTB,LTB raw|Model,Mesh v23,24,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB09_I.LTB,LTB raw|Model,Mesh v23,24,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB10.LTB,LTB raw|Model,Mesh v23,20,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB10_I.LTB,LTB raw|Model,Mesh v23,20,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB12.LTB,LTB raw|Model,Mesh v23,26,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB12_I.LTB,LTB raw|Model,Mesh v23,26,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB13.LTB,LTB raw|Model,Mesh v23,28,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB13_I.LTB,LTB raw|Model,Mesh v23,28,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB15.LTB,LTB raw|Model,Mesh v23,30,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB15_I.LTB,LTB raw|Model,Mesh v23,30,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB16.LTB,LTB raw|Model,Mesh v23,29,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB16_I.LTB,LTB raw|Model,Mesh v23,29,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB17.LTB,LTB raw|Model,Mesh v23,28,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB17_I.LTB,LTB raw|Model,Mesh v23,28,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB18.LTB,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB18_I.LTB,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB19.LTB,LTB raw|Model,Mesh v23,30,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB19_I.LTB,LTB raw|Model,Mesh v23,30,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB20.LTB,LTB raw|Model,Mesh v23,31,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB20_I.LTB,LTB raw|Model,Mesh v23,31,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB21.LTB,LTB raw|Model,Mesh v23,40,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB21_I.LTB,LTB raw|Model,Mesh v23,40,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB50.LTB,LTB raw|Model,Mesh v23,24,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB50_I.LTB,LTB raw|Model,Mesh v23,24,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB51.LTB,LTB raw|Model,Mesh v23,29,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB51_I.LTB,LTB raw|Model,Mesh v23,29,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB52.LTB,LTB raw|Model,Mesh v23,24,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB52_I.LTB,LTB raw|Model,Mesh v23,24,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB53.LTB,LTB raw|Model,Mesh v23,40,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB53_I.LTB,LTB raw|Model,Mesh v23,40,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB54.LTB,LTB raw|Model,Mesh v23,32,runtime-header; Container=9; FileType=1,OK
+MODELS\MECHANICS\GD_RB54_I.LTB,LTB raw|Model,Mesh v23,32,runtime-header; Container=9; FileType=1,OK
+MODELS\SPHERE.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\MG01.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\MG02.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\MG03.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\MG04.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\MG05.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\MG07.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\MG08.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\MG09.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+RS\01_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\01_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\02_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\02_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\03_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\03_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\04_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\04_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\05_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\05_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\06_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\06_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\07_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\07_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\08_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\08_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\09_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\09_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\10_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\10_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\11_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\11_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\12_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\12_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\13_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\13_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\21_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\21_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\22_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\22_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\23_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\23_MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\ALPHA_NOCULLING.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\ALPHA_TEST_WHITE.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=52229, keine 'Header'/'LTBHeader'-Sektion)"
+RS\INTERFACE_MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\M02_ALPHA_NOCULLING.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\M03_ ALPHA_NOCULLING.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=20741, keine 'Header'/'LTBHeader'-Sektion)"
+RS\M08_ALPHA_NOCULLING.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\MODEL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\MODEL_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\MODEL_EXP.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\NOCULL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\WIREFRAME.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
