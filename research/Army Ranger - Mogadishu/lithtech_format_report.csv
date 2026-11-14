@@ -1,0 +1,478 @@
+file,format,version,nodes,notes,status
+MODELS\CHARACTERS\AK47_BASE.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\ARMSDEALER.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\CHALK_LEADER.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\CIVILIAN00.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\CIVILIAN_BASE.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\COMMANDER.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\DEATH_BASE.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\DELTAFORCE00.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\GRENADIER00.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\GRENADIER01.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\M16_203_BASE.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\M16_BASE.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\M249_BASE.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\MISC_BASE.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\NIGHTSTALKER00.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\PLAYERBOX.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\RADIOMAN00.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\RANGERMEDIC00.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\RIFLEMAN00.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\RIFLEMAN01.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\RPG7_BASE.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SAW00.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SAW01.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SMARTOBJECTS\PULLINGGOAT.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SMARTOBJECTS\TALKING.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SMARTOBJECTS\YELLING.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SOMALIANFIGHTER00.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SOMALIANFIGHTER01.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SOMALIANFIGHTER02.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SOMALIANFIGHTER03.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SOMALIANFIGHTER04.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SOMALIANFIGHTER05.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SOMALIANFIGHTER06.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SOMALIANFIGHTER07.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SOMALIANFIGHTER08.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SOMALIANFIGHTER09.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\SOMALILEADER.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\UN_WORKER00.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\CHARACTERS\UN_WORKER01.LTB,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+MODELS\DEBUGGING\SPHERE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DEBUGGING\UNITCUBE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\EFFECTS\W_MUZZLEFLASH_01.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\EFFECTS\W_MUZZLEFLASH_02.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\INTERFACE\MENU\MAIN_MENU.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\ORGANIC\BUSH03.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\BLACKHAWK_ROPE.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\BLOCKERBOX.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_ANTIQUECAN01.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_BLACKHAWK01.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_BLACKHAWK02.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_BLACKHAWK03.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_BLACKHAWK04.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_BLACKHAWK05.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_BLACKHAWK06.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_BLACKHAWK07.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_BUSTEDCHAIR01.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_CAN01.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_CAN02.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_CARDBOARD01.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_CINDERBLOCK01.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_CINDERBLOCK02.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_CINDERBLOCK03.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_CORPSE01.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_EXPLOSION01.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_EXPLOSION02.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_EXPLOSION03.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_PAPER01.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_PAPER02.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\DEBRIS_WOODBOARDS01.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\FLAGPOLE.LTB,LTB raw|Model,Mesh v23,15,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\STRETCHER.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\PROPS\SWINGINGLIGHT01.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\BLACK_HAWK.LTB,LTB raw|Model,Mesh v23,11,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\BLACK_HAWK_BACKROTOR_BLURRED.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\BLACK_HAWK_BACKROTOR_STILL.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\BLACK_HAWK_CRASHED.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\BLACK_HAWK_M1.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\BLACK_HAWK_MAINROTOR_BLURRED.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\BLACK_HAWK_MAINROTOR_STILL.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\CIVILIANJEEP.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\CONVOYTRUCK.LTB,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\FISHINGBOAT.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\HUMMER_CARGO.LTB,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\HUMMER_CARGO_CRASHED.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\HUMMER_MEDICALHARDTOP.LTB,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\HUMMER_MEDICALHARDTOP_CRASHED.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\HUMMER_MEDICALSOFTTOP.LTB,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\HUMMER_MEDICALSOFTTOP_CRASHED.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\HUMMER_RIDEALONG.LTB,LTB raw|Model,Mesh v23,14,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\HUMMER_SLANTBACK.LTB,LTB raw|Model,Mesh v23,14,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\HUMMER_SLANTBACK_CRASHED.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\LITTLEBIRD.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\LITTLEBIRD_ARMED.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\LITTLEBIRD_BACKROTOR_BLURRED.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\LITTLEBIRD_BACKROTOR_STILL.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\LITTLEBIRD_MAINROTOR_BLURRED.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\LITTLEBIRD_MAINROTOR_STILL.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\SUV.LTB,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\TAXI.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\TECHNICAL.LTB,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\TECHNICAL02.LTB,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\TECHNICAL02CRASHED.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\TECHNICALCRASHED.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\VEHICLES\UN_TECHNICAL.LTB,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\SHELLCASING.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\V_50CAL.LTB,LTB raw|Model,Mesh v23,57,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\V_CAR15.LTB,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\V_HOLSTER.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\V_KNIFE.LTB,LTB raw|Model,Mesh v23,52,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\V_LAW.LTB,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\V_M14.LTB,LTB raw|Model,Mesh v23,54,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\V_M16.LTB,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\V_M16_203.LTB,LTB raw|Model,Mesh v23,55,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\V_M16_BOTTOMZOOM.LTB,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\V_M249.LTB,LTB raw|Model,Mesh v23,61,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\V_M9.LTB,LTB raw|Model,Mesh v23,55,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\V_MINIGUN.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\V_SPAS12.LTB,LTB raw|Model,Mesh v23,55,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\V_USP.LTB,LTB raw|Model,Mesh v23,55,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\W_AK47.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\W_CAR15.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\W_HMMWV.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\W_M14.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\W_M16.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\W_M16_203.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\W_M203SHELL.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\W_M249.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\W_M67.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\W_RPG7.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\W_RPGSHELL.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\W_RPK.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\W_SPAS12.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\WEAPONS\W_TECHNICAL.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PREFABS\CITYBLOCKS\BIGHOUSE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\CITYBLOCKS\CORNERBLOCK01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\CITYBLOCKS\CORNERBLOCK02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\CITYBLOCKS\SMALLHOUSE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\CITYBLOCKS\STRAIGHTBLOCK01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\CITYBLOCKS\STRAIGHTBLOCK02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\CITYBLOCKS\TJUNCTIONBLOCK01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\BIGROCK01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\BIGROCK02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\BIGROCK03.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\BIGROCK04.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\BLACKHAWKCRASHED01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\BLACKHAWKCRASHEDDIRTPILE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\BOULDER01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\BOULDER02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\BOULDER03.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\CAR_WRECKED_00.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\CINDERBLOCKPILE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\DIRTPILE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\ROADBLOCK02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\ROADBLOCK03.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\ROADBLOCKLOWPOLY128.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\ROADBLOCKLOWPOLY192.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\ROADBLOCKLOWPOLY256.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\ROADBLOCKLOWPOLY320.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\RUBBLE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\SMALLROCK01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\DEBRIS\SMALLROCK02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\APARTMENT01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\APARTMENT02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\BIGHOUSE02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\BUCKYSHOUSE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\CTHOUSE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\CTHOUSE02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\CTHOUSE03.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\CTHOUSE04.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\CTHOUSE05.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\CTHOUSE06.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\CTHOUSE07.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\CTHOUSE08.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\CTHOUSE09.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\CTHOUSE10.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\FCD01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\FCD02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\FCD03.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\GARAGE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\NOCULLHOUSE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\NOCULLHOUSE02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\SMGASSTATION01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\SMHOUSE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\SMHOUSE02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\SMHOUSE03.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\SMHOUSE04.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\SMHOUSE05.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\GENERICBUILDINGS\SMHOUSE06.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\48WOODCRATE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\64WOODCRATE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\96WOODCRATE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\ALARM.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BARREL01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BARREL02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BARRELEXPLOSIVE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BASKETWEAVE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BASKETWEAVETALL.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BIGPIPE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BIGPROPANETANK01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BLUECRATECLOSED01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BLUECRATEOPEN01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BORDERPOST_NOWIRE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BORDERWALL01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BORDERWALL01_NOWIRE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BORDERWALL02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BORDERWALL02_NOWIRE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BORDERWALL03.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BORDERWALL03_NOWIRE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BORDERWALL04.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BORDERWALL04_NOWIRE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BRANCHFENCE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BREAKABLECRATE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BRIDGE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BUCKET.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\BUCKETBIG.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CABINETCLOSED.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CABINETOPEN.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CARDBOARDBOX01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CELLPHONE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CHAIR.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CHANLINKFENCE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CHANLINKFENCE02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CHANLINKFENCE03.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CHANLINKFENCE04.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CHANLINKFENCEEND04.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CHANLINKFENCENOPOSTS04.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CHANLINKFENCE_UNDAMAGED.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CHANLINKGATE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CINDERBLOCKTABLE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CLOCK.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CLOTHEDSHELF.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CLOTHINGLINE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\CLOTHINGLINE02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\COOKWARE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\COUCH.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\FISHINGBOAT.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\FLAGPOLEANIMATED.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\GASCAN01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\GASPUMP01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\GUARDPOST.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\GUARDPOSTBARRIER.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\INDUSTRIALLIGHT.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\INDUSTRIALLIGHT2.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\IRONFENCE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\IRONFENCEEND01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\LADDER01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\LAMP.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\LIGHTSWITCH.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\LIGHTWOODBRIDGE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\MARKETSTAND01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\MESHCRATE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\MESHEDCRATE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\MESHEDCRATEOPEN.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\METALBED01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\METALBED02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\METALCHAIR01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\METALGATE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\METALGATEHUGE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\METALSHELF.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\MONEYBOX.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\PACKAGE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\PALETTE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\PLASTICCRATE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\POWERBOX.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\POWERBOX2.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\POWERCONTROLBOX.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\POWERGENERATOR.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\POWERWALLUNIT.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\PROPANEEXPLOSIVE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\RADIO.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\RADIOGREY.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\REDCRATECLOSED01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\REDCRATEOPEN01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\REGISTER.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\RUNWAYLIGHTS.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\SAFE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\SHEETMETALFENCE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\SHEETMETALFENCE02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\SHIPBOMB01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\SHIPCARGONET01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\SHIPCRANE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\SHIPHULL01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\SHIPINTERIOR01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\SHIPPIPES01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\SHIPPIPES02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\SHIPWIRES01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\SHOVEL_PICKAXE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\SMALLTABLE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\STOVE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\STRETCHER01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\TABLE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\TARGET01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\TARGETRANGEBOOTH01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\TIRE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\TOLIET.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\TRASHBAG01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\TV.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\UNFENCE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\UNFENCE_SMALL.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\WASHBASIN.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\WATERCONTAINER.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\WHEELBARREL.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\WHEELBARRELWOOD.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\WHITECRATECLOSED01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\WHITECRATEOPEN01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\WINEBOX.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\WOODBED.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\WOODDESK.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\WOODFENCE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\WOODFENCE02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\WOODSHELF.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\YELLOWCRATECLOSED01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\OBJECTS\YELLOWCRATEOPEN01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\ACACIA01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\ACACIA02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\ACACIA03.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\ACACIA04.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\ACACIA05.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\BUSH01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\BUSH02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\BUSH03.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\DEADBUSH01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\DEADBUSH02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\MESSA01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\MESSA02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\MESSA03.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\PALMTREE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\PALMTREE01_NODECAL.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\PALMTREE04.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\PALMTREE04_NODECAL.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\PALMTREE05.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\PALMTREE05_NODECAL.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ORGANIC\PALMTREE05_NODECALAMBIENT.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ROADS\CRACKEDRUNWAY.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ROADS\CRACKEDRUNWAY2.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ROADS\NOSIDEWALK\CORNER_NOSIDEWALK.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ROADS\NOSIDEWALK\FOURWAY_NOSIDEWALK.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ROADS\NOSIDEWALK\STRAIGHT_LONG_NOSIDEWALK.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ROADS\NOSIDEWALK\STRAIGHT_SHORT_NOSIDEWALK.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\ROADS\NOSIDEWALK\TJUNCTION_NOSIDEWALK.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SKY\SKYCONECLOUDY01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\BASEGUNRACK.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\CONTROLTOWER.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\GUARDTOWER.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\HANGEREXTERIOR.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\HANGERGUARDHOUSE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\HANGERINTERIOR.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5BUILDING01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5BUILDING02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5BUILDING03.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5BUILDING04.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5BUILDING05.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5BUILDING06.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5BUILDING07.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5BUILDING08.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5BUILDING09.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5BUILDING10.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5BUILDING11.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5BUILDING12.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5BUILDING13.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5BUILDINGRUIN01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5CANOPY.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M5METALSHELTER.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M6BIGHOUSE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M6GARAGEEXTENDED.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M6HOTEL.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M6HOUSE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\M6INTELBUILDING.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\MOGENEMYHOTEL01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\MOGRANGERHIDEOUT01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\MOGTARGETBUILDING01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\MOGTARGETBUILDING02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\OLYMPICHOTEL.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\ROOFLESSBUILDING.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\STADIUMFACADE01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\UNDERGROUNDBUNKERENTRANCE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\SPECIALBUILDINGS\VILLAGEUNHEADQUARTERS01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\BLACKHAWKCRASHED01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\BLACK_HAWK.LTB,LTB raw|Model,Mesh v23,11,runtime-header; Container=9; FileType=1,OK
+PREFABS\VEHICLES\BUSWRECKED.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\CARGOTRUCK.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\CARGOTRUCKDESTROYED.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\CESSNATITAN.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\CIVILIANJEEP.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\CONVOYTRUCK.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\CONVOYTRUCKDESTROYED.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\CRASHEDCESSNATITAN.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\FISHINGBOAT.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\FORKLIFT.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\HUMMERCARGOGREEN.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\HUMMERCARGOTAN.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\HUMMERMEDICALHARDTOPGREEN.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\HUMMERMEDICALHARDTOPTAN.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\HUMMERMEDICALSOFTTOPGREEN.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\HUMMERMEDICALSOFTTOPTAN.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\HUMMERSLANTGREEN.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\HUMMERSLANTTAN.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\SUPPLYTRUCK00.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\SUPPLYTRUCK01.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\TAXI.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\TAXIWRECKED.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\TECHNICAL02WRECKED.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\TECHNICALTRUCK02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\TECHNICALWRECKED.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\TECHNICALWRECKED2.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\TECHNICALWRECKED3.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\UNTECHNICAL.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VEHICLES\WRECKEDCIVILIANJEEP.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\ANIMALSKINHUTCLOSED.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\ANIMALSKINHUTOPEN.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\HOSTAGECELLVILLAGE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\HOSTAGEPLASTERBUILDING.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\HOSTAGESHACK.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\METALHUTCOMBO.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\METALHUTSKINSHOP.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\METALREBUILTSHELTER.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\METALREBUILTSHELTER2.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\METALREBUILTSHELTERDAMAGED.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\METALSHACK.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\SQUAREVILLAGEHUT.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\SQUAREVILLAGEHUT2.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\SQUAREVILLAGEHUT3.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\TOWNWELL.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\UNBASEVILLAGE.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGEBUILDING.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGEBUILDING02.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGEBUILDING03.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGEBUILDING04.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGEBUILDING05.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGEBUILDING06.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGEBUILDING07.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGEBUILDING8ROOFSHELTER.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGEBUILDING9ROOFSHELTER.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGECANOPY.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGEHUT1.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGEHUT2.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGEHUT3.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGEHUTCLOTHCOVERED.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGESCHOOL.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGESHACKCLOSED.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\VILLAGESHACKOPEN.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\ZULUHUT.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+PREFABS\VILLAGEHUTS\ZULUHUTCONSTRUCTION.LTC,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+RENDERSTYLES\RS_ALPHABLEND_TEXALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_ALPHABLEND_TFACTORALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_ALPHATEST_GREATER.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_DOT3BUMP_DIR_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_HALO_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_SPHEREENVMAP_ADD.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_SPHEREENVMAP_MODTEXALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_TOON_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_TWOTEXTURE.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_VERTEXSPECULAR.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDER_STYLES\RS_BEACON.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDER_STYLES\RS_DEFAULT.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDER_STYLES\RS_ENVIRONMENTLIGHT.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=20741, keine 'Header'/'LTBHeader'-Sektion)"
+RENDER_STYLES\RS_FULLBRIGHT.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDER_STYLES\RS_MUZZLEFLASH.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDER_STYLES\RS_TRANSLUCENT.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDER_STYLES\RS_TRANSLUCENT_2SIDED.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDER_STYLES\RS_TRANSPARENT_ALPHA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+WORLDS\M1.DAT,DAT,v85,,DAT v85,OK
+WORLDS\M10.DAT,DAT,v85,,DAT v85,OK
+WORLDS\M1LOADOUT.DAT,DAT,v85,,DAT v85,OK
+WORLDS\M2.DAT,DAT,v85,,DAT v85,OK
+WORLDS\M3.DAT,DAT,v85,,DAT v85,OK
+WORLDS\M3LOADOUT.DAT,DAT,v85,,DAT v85,OK
+WORLDS\M4.DAT,DAT,v85,,DAT v85,OK
+WORLDS\M4LOADOUT.DAT,DAT,v85,,DAT v85,OK
+WORLDS\M5.DAT,DAT,v85,,DAT v85,OK
+WORLDS\M6.DAT,DAT,v85,,DAT v85,OK
+WORLDS\M6LOADOUT.DAT,DAT,v85,,DAT v85,OK
+WORLDS\M7.DAT,DAT,v85,,DAT v85,OK
+WORLDS\M7LOADOUT.DAT,DAT,v85,,DAT v85,OK
+WORLDS\M8.DAT,DAT,v85,,DAT v85,OK
+WORLDS\M8LOADOUT.DAT,DAT,v85,,DAT v85,OK
+WORLDS\M9.DAT,DAT,v85,,DAT v85,OK

@@ -1,0 +1,308 @@
+file,format,version,nodes,notes,status
+CHARACTERS\CARRIE\MODELS\CARRIE.LTB,LTB raw|Model,Mesh v23,121,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\DOBA\MODELS\DOBA.LTB,LTB raw|Model,Mesh v23,109,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\GUARD\MODELS\GUARD.LTB,LTB raw|Model,Mesh v23,69,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\HERO\MODELS\HERO.LTB,LTB raw|Model,Mesh v23,41,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\TAMARA\MODELS\TAMARA.LTB,LTB raw|Model,Mesh v23,125,runtime-header; Container=9; FileType=1,OK
+INTERFACE\HUD\POINTER.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MENU\MODELS\LOADBACK.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\1X1_SQUARE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DEFAULT.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+MODELS\KEYPADLIGHT.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+MODELS\SPHERE.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+PROPS\KEYITEMS\MODELS\P19KRYSZTALA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\KEYITEMS\MODELS\P19KRYSZTALE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\KEYITEMS\MODELS\P19KRYSZTALI.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\KEYITEMS\MODELS\P19KRYSZTALM.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\KEYITEMS\MODELS\P19KRYSZTALR.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\KEYITEMS\MODELS\P19KRYSZTALZ.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L01\MODELS\P19_KULKA.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\D_LAMPIONM.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\KOLO_POZIOME.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\L02_KOLKO.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\LISTKI.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\LODKA_DALEKAZM.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\P05_MOST.LTB,LTB raw|Model,Mesh v23,16,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\P05_WAJCHA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\P05_ZAWOR.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\P12_WIATRAK.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\P15_SZNUREK.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\POMOST1.LTB,LTB raw|Model,Mesh v23,19,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\POMOST2.LTB,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\POMOST3.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\REKAW.LTB,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\SZMATA1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\SZMATA2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L02\MODELS\SZYBKA.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\BOMBEL.LTB,LTB raw|Model,Mesh v23,38,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\DRZEWO.LTB,LTB raw|Model,Mesh v23,14,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\DRZEWO2.LTB,LTB raw|Model,Mesh v23,14,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\DRZEWO_PALMA.LTB,LTB raw|Model,Mesh v23,11,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\FALA.LTB,LTB raw|Model,Mesh v23,38,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\GLUTY.LTB,LTB raw|Model,Mesh v23,11,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\KORBA MODEL.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\KULA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\KULA_ZGADULA1.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\KULA_ZGADULA2.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\KULA_ZGADULA3.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\KULA_ZGADULA4.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\KULA_ZGADULA5.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\L03KORBA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\L03WINDA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L03\MODELS\MASZYNA.LTB,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+PROPS\L04\MODELS\KOLO_ZAMACHOWE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L04\MODELS\P11_SATELITA1.LTB,LTB raw|Model,Mesh v23,19,runtime-header; Container=9; FileType=1,OK
+PROPS\L04\MODELS\P11_SATELITA4.LTB,LTB raw|Model,Mesh v23,15,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_KOLO_LATARNIA0_L.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_KOLO_LATARNIA0_R.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_KOLO_LATARNIA1_L.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_KOLO_LATARNIA1_R.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_KOLO_LATARNIA2_L.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_KOLO_LATARNIA2_R.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_KOLO_LATARNIA3_L.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_KOLO_LATARNIA3_R.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_TOTEMMEMBRANA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_TOTEMMEMBRANA01.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_WINDMILL0_L.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_WINDMILL0_R.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_WINDMILL1_L.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_WINDMILL1_R.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_WINDMILL2_L.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_WINDMILL2_R.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_WINDMILL3_L.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P10_WINDMILL3_R.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L05\MODELS\P14_PANELPOINTER.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L06\MODELS\P02_PROMIENIE_DLUGIE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L06\MODELS\P02_PROMIENIE_KROTKIE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L06\MODELS\P18_SLONECZNIK0.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L06\MODELS\P18_SLONECZNIK1.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L06\MODELS\P18_SLONECZNIK2.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\ROSLINA1.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\ROSLINA2.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\ROSLINA3.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P01_MOST.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P01_WINDA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P01_WINDA_DZWIGNIA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P01_WINDA_PRZYCISK0.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P01_WINDA_PRZYCISK1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P01_WINDA_PRZYCISK2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P01_WINDA_PRZYCISK3.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P01_WINDA_PRZYCISK4.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P01_WINDA_PRZYCISK5.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P07_KLADKA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P07_POMPY_KOLO.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P07_POMPY_TLOK.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P07_TRAFO_DZWIGNIA.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P07_TRAFO_GALKA.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P07_TRAFO_ZASLONA.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P07_WYLACZNIK_DZWIGNIA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P07_WYLACZNIK_ZASLONA.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P17_DRZWI.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P17_DRZWI_ZASUWA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L07\MODELS\W_L07_P17_POKRETLO.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\BECZKA00.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\BECZKA01.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\BECZKA02.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\BECZKA03.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\BECZKA04.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\BECZKA05.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\BECZKA06.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\DZWONEK1.LTB,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\DZWONEK2.LTB,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\DZWONEK3.LTB,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\DZWONEK4.LTB,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\DZWONEK5.LTB,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\DZWONEK6.LTB,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\DZWONEK7.LTB,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\FIRANKA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\PTASZNIK_RUCHOMY1.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\PTASZNIK_RUCHOMY2.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\PTASZNIK_RUCHOMY3.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\PTASZNIK_RUCHOMY4.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\PTASZNIK_ZMYLKA01.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\PTASZNIK_ZMYLKA02.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\PTASZNIK_ZMYLKA03.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+PROPS\L08\MODELS\TABORET.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\LIFEFORMS\MODELS\BEETLE.LTB,LTB raw|Model,Mesh v23,21,runtime-header; Container=9; FileType=1,OK
+PROPS\LIFEFORMS\MODELS\BIRDFISH.LTB,LTB raw|Model,Mesh v23,17,runtime-header; Container=9; FileType=1,OK
+PROPS\LIFEFORMS\MODELS\CROW.LTB,LTB raw|Model,Mesh v23,17,runtime-header; Container=9; FileType=1,OK
+PROPS\LIFEFORMS\MODELS\FISH1.LTB,LTB raw|Model,Mesh v23,16,runtime-header; Container=9; FileType=1,OK
+PROPS\LIFEFORMS\MODELS\FISH2.LTB,LTB raw|Model,Mesh v23,12,runtime-header; Container=9; FileType=1,OK
+PROPS\LIFEFORMS\MODELS\FISH3.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+PROPS\LIFEFORMS\MODELS\RAT.LTB,LTB raw|Model,Mesh v23,29,runtime-header; Container=9; FileType=1,OK
+PROPS\LIFEFORMS\MODELS\SEAGULL.LTB,LTB raw|Model,Mesh v23,17,runtime-header; Container=9; FileType=1,OK
+PROPS\LIFEFORMS\MODELS\TURTLE.LTB,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+RENDERSTYLES\ADDITIVE.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\ALPHAREF.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\ALPHAREFDOUBLESIDE.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\CRYSTAL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\CS\CS_DOBA_CLOTHES.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=25861, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\CS\CS_DOBA_EYES.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=26117, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\CS\CS_DOBA_GLASSES.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=54789, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\CS\CS_DOBA_MOUTH.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=261, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\CS\CS_DOBA_SKIN.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=59653, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\CS\CS_TAMARA_CLOTHES.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=25861, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\CS\CS_TAMARA_EYES.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=26117, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\CS\CS_TAMARA_HAIRS.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=35077, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\CS\CS_TAMARA_MOUTH.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=261, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\CS\CS_TAMARA_SHINY.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=261, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\CS\CS_TAMARA_SKIN.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=50693, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\DEFAULT.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\DEFAULTDOUBLESIDE.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=57861, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\DREWNO.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\EMISSIVE.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\GLASS.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=54021, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\INTERFACE\POINTER.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=10757, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\LAWA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\LIFEFORMS\BEETLE.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=1285, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\LIFEFORMS\BIRDFISH.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=1285, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\LIFEFORMS\CROW.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=1285, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\LIFEFORMS\FISH1.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=1285, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\LIFEFORMS\FISH2.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=1285, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\LIFEFORMS\FISH3.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=1285, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\LIFEFORMS\JELLYFISH.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=1285, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\LIFEFORMS\L02FISH1.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\LIFEFORMS\L02FISH2.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\LIFEFORMS\L02FISH3.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\LIFEFORMS\RAT.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=1285, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\LIFEFORMS\SEAGULL.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=1285, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\LIFEFORMS\SNAKE.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=1285, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\LIFEFORMS\TURTLE.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=1285, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\METAL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_ALPHABLEND_TEXALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_ALPHABLEND_TFACTORALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_ALPHATEST_GREATER.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_DOT3BUMP_DIR_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_HALO_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_SPHEREENVMAP_ADD.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_SPHEREENVMAP_MODTEXALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_TOON_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_TWOTEXTURE.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_VERTEXSPECULAR.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\SWIECACESZKLO.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\SZMATA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\TRANSLUCENT.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\UNDERWATERPLANTS.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\WNETRZEUST.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\DEFAULT.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\GLASS.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+SCENES\1_1\KAMERA1_1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\1_1\TAMA1_1.LTB,LTB raw|Model,Mesh v23,125,runtime-header; Container=9; FileType=1,OK
+SCENES\1_2\KAMERA1_2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\1_2\SZEZLAG.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\1_2\TAMA1_2.LTB,LTB raw|Model,Mesh v23,125,runtime-header; Container=9; FileType=1,OK
+SCENES\1_3\KAMERA1_3.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\1_3\TAMARA1_3.LTB,LTB raw|Model,Mesh v23,125,runtime-header; Container=9; FileType=1,OK
+SCENES\1_4\KAMERA1_4.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\1_4\TAMARA1_4.LTB,LTB raw|Model,Mesh v23,125,runtime-header; Container=9; FileType=1,OK
+SCENES\2_1\KAMERA2_1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\2_1\KOLUMNA2_1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\2_1\TAMA2_1.LTB,LTB raw|Model,Mesh v23,125,runtime-header; Container=9; FileType=1,OK
+SCENES\2_2\KAMERA2_2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\2_2\KIELICH_PIANINO2_2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\2_2\KIELICH_REKA2_2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\2_2\PIANINO2_2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\2_2\TAMA2_2.LTB,LTB raw|Model,Mesh v23,125,runtime-header; Container=9; FileType=1,OK
+SCENES\2_2\ZADUPEK.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\3_1\KAMERA3_1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\3_2\KAMERA3_2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\3_2\KIELICH_STOLIK3_2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\3_2\KSIAZKA_LUZKO.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+SCENES\3_2\KSIAZKA_REKA.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+SCENES\3_2\LUZKO.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\3_2\STOLIK.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\3_2\TAMA3_2.LTB,LTB raw|Model,Mesh v23,125,runtime-header; Container=9; FileType=1,OK
+SCENES\4_1\KAMERA4_1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\4_1\KOSZYK4_1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\4_1\LOZKO4_1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\4_1\STOLIK4_1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\4_1\TAMA4_1.LTB,LTB raw|Model,Mesh v23,125,runtime-header; Container=9; FileType=1,OK
+SCENES\4_2\KAMERA4_2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\4_2\PARASOL4_2.LTB,LTB raw|Model,Mesh v23,29,runtime-header; Container=9; FileType=1,OK
+SCENES\4_2\TAMA4_2.LTB,LTB raw|Model,Mesh v23,125,runtime-header; Container=9; FileType=1,OK
+SCENES\5_1\GRAMOFON5_1.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+SCENES\5_1\KAMERA5_1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\5_1\PLYTA_GRAMOFON5_1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\5_1\PLYTA_REKA5_1.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+SCENES\5_1\TAMA5_1.LTB,LTB raw|Model,Mesh v23,125,runtime-header; Container=9; FileType=1,OK
+SCENES\5_2\KAMERA5_2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\6_1\KAMERA6_1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\6_1\KOLUMNA6_1.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+SCENES\6_1\TAMA6_1.LTB,LTB raw|Model,Mesh v23,125,runtime-header; Container=9; FileType=1,OK
+SCENES\6_2\KAMERA6_2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\6_2\KLATKA6_2.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+SCENES\6_2\PTAK_KLATKA6_2.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+SCENES\6_2\PTAK_REKA6_2.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+SCENES\6_2\STOLIK6_2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\6_2\TAMA6_2.LTB,LTB raw|Model,Mesh v23,125,runtime-header; Container=9; FileType=1,OK
+SCENES\7_1\KAMERA7_1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\7_2\KAMERA7_2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\7_2\SZAFA.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+SCENES\7_2\TAMA7_2.LTB,LTB raw|Model,Mesh v23,125,runtime-header; Container=9; FileType=1,OK
+SCENES\7_2\ZAKIET_REKA7_2.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+SCENES\7_2\ZAKIET_SZAFA7_2.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+SCENES\8_1\KAMERA8_1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\8_2\KAMERA8_2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\8_2\LUSTERKO_REKA8_2.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+SCENES\8_2\LUSTERKO_STOLIK8_2.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+SCENES\8_2\PUDERNICZKA_STOLIK8_2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\8_2\TABORET.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\8_2\TABORET8_2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\8_2\TAMARA8_2.LTB,LTB raw|Model,Mesh v23,125,runtime-header; Container=9; FileType=1,OK
+SCENES\8_2\WACIK_REKA8_2.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+SCENES\8_2\WACIK_STOLIK8_2.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+SCENES\INTRO\CARRIE_INTRO.LTB,LTB raw|Model,Mesh v23,121,runtime-header; Container=9; FileType=1,OK
+SCENES\INTRO\DOBA_INTRO.LTB,LTB raw|Model,Mesh v23,109,runtime-header; Container=9; FileType=1,OK
+SCENES\INTRO\GUARD_INTRO.LTB,LTB raw|Model,Mesh v23,69,runtime-header; Container=9; FileType=1,OK
+SCENES\INTRO\KAMERA_INTRO.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\INTRO\PRZELOT_INTRO.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\DYWAN.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\DYWAN_MALY.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\GARSONKA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\GRAMOFON.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\KANAPA01.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\KARAWKA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\KIECKA_01.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\KIELICH_REKA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\KIELISZEK.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\KOSZYK_Z_JABLKAMI.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\LAMPKA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\PLYTA_GRAMOFONOWA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\PODLOGA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\SLUP_DANUSI.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\STOLIK_DANUSI.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\STOLIK_NOZKI.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\STOLIK_POD_KLATKE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\SZAFA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\SZEZLAG.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\MODELS\SZTALUGA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\OUTRO\CARRIE_OUTRO.LTB,LTB raw|Model,Mesh v23,121,runtime-header; Container=9; FileType=1,OK
+SCENES\OUTRO\DOBA_OUTRO.LTB,LTB raw|Model,Mesh v23,109,runtime-header; Container=9; FileType=1,OK
+SCENES\OUTRO\KAMERA_OUTRO.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+SCENES\SCENEOUTRO.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_1_1.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_1_2.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_1_3.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_1_4.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_8_1.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_8_2.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_L1.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_L10.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_L11.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_L12.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_L2.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_L3.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_L4.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_L5.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_L6.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_L7.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_L8.DAT,DAT,v85,,DAT v85,OK
+SCENES\SCENE_L9.DAT,DAT,v85,,DAT v85,OK
+WORLDS\LOCATION01.DAT,DAT,v85,,DAT v85,OK
+WORLDS\LOCATION02.DAT,DAT,v85,,DAT v85,OK
+WORLDS\LOCATION03.DAT,DAT,v85,,DAT v85,OK
+WORLDS\LOCATION04.DAT,DAT,v85,,DAT v85,OK
+WORLDS\LOCATION05.DAT,DAT,v85,,DAT v85,OK
+WORLDS\LOCATION06.DAT,DAT,v85,,DAT v85,OK
+WORLDS\LOCATION07.DAT,DAT,v85,,DAT v85,OK
+WORLDS\LOCATION08.DAT,DAT,v85,,DAT v85,OK
