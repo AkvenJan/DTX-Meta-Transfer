@@ -137,3 +137,102 @@ Previous imperfect version (a lot of info was updated since):
     	No One Lives Forever 2: A Spy In H.A.R.M.'s Way
 		Contract J.A.C.K.
     	Tron 2.0
+
+
+| Game | Developer | Release Date | Engine | Version | Worlds | Models | Textures | DirectX | Comment |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Shogo: Mobile Armor Division | Monolith Productions | 30.09.1998 | LithTech 1.0 | V1 | DAT v56 | ABC v6 | DTX v1 | 6 | |
+| Blood II: The Chosen | Monolith Productions | 20.11.1998 | LithTech 1.0 | V1 | DAT v56 | ABC v6 | DTX v1 | 6 | |
+| Blood II: The Nightmare Levels | Monolith Productions | 01.08.1999 | LithTech 1.0 | V1 | DAT v56 | ABC v6 | DTX v1 | 6 | |
+| TNN Outdoors Pro Hunter 2 | Monolith Productions | 04.11.1999 | LithTech 1.2 | V1 | DAT v57 | ABC v6 | DTX v1 | 6 | |
+| Ozymandias (machinima) | Strange Company | 1999 | LithTech 1.5 | V1 | DAT v57 | ABC v6 | DTX v1 | 6 | Was created with special software LithTech Film Producer. Engine is early version of LithTech 1.5 based on file versions. LithTech 1.5 was the first version of the engine licensed to third-party studios for game development. |
+| Ozymandias Director's Cut (machinima) | Strange Company | 1999 | LithTech 1.5 | V1 | DAT v57 | ABC v6 | DTX v1 | 6 | Was created with special software LithTech Film Producer. Engine is early version of LithTech 1.5 based on file versions. LithTech 1.5 was the first version of the engine licensed to third-party studios for game development. The only different of Director's Cut is 6 different textures |
+| KISS: Psycho Circus: The Nightmare Child | Third Law Interactive | 17.08.2000 | LithTech 1.5 | V1 | DAT v127 | ABC v6 | DTX v1.5 | 6 | |
+| Vietnam: Black Ops | Fused Software | 27.09.2000 | LithTech 1.0 | V1 | DAT v56 | ABC v6 | DTX v1 | 6 | |
+| Sanity: Aiken's Artifact | Monolith Productions | 03.11.2000 | LithTech 1.2 | V1 | DAT v57 | ABC v6 | DTX v1 | 7 | Had some Lithtech 2.0 rendering pipeline enhancements: like using DirectX 7 instead of DirectX 6 |
+| Elite Forces: WWII - Normandy | Third Law Interactive/3LV Games | 31.01.2001 | LithTech 1.5 | V1 | DAT v127 | ABC v6 | DTX v1.5 | 6 | |
+| Elite Forces: WWII - Iwo Jima | 3LV Games | 30.09.2001 | LithTech 1.5 | V1 | DAT v127 | ABC v6 | DTX v2 | 7 | Had some improvements over LithTech 1.5 like DTX v2 textures and DirectX 7. |
+| Mini Golf Master 2 | 3LV Games | 12.10.2002 | LithTech 1.5 | V1 | DAT v127 | ABC v6 | DTX v1.5 | 6 | |
+| The Operative: No One Lives Forever | Monolith Productions | 07.12.2000 | LithTech 2.0 | V2 | DAT v66 | ABC v12 | DTX v2 | 7 | Presumably was upgraded to LithTech 2.2 in patch v1.003 |
+| Atlantis: The Lost Empire - Search for the Journal (free demo for Disney's Atlantis: The Lost Empire - Trial by Fire) | | 01.05.2001 | LithTech 2.2 | V2 | DAT v66 | ABC v13 | DTX v2 | 7 | |
+| Atlantis: The Lost Empire - Trial by Fire | Zombie Inc. | 18.05.2001 | LithTech 2.2 | V2 | DAT v66 | ABC v13 | DTX v2 | 7 | |
+| Tex Atomic's Big Bot Battles | Monolith Productions | 31.05.2001 | LithTech 2.2 ESD / RealArcade LithTech | V2 | DAT v66 | ABC v13 | DTX v2 | 7 | ESD - Entertainment Software Development |
+| Legends of Might and Magic | New World Computing | 19.06.2001 | LithTech 2.2 | V2 | DAT v66 | ABC v13 | DTX v2 | 7 | |
+| Vietnam 2: Special Assignment | Single Cell Software | 30.06.2001 | LithTech 2.2 | V2 | DAT v66 | ABC v12 | DTX v2 | 7 | |
+| The Operative: No One Lives Forever (GOTY) | Monolith Productions | 05.10.2001 | LithTech 2.2 | V2 | DAT v66 | ABC v12 | DTX v2 | 7 | |
+| Aliens Versus Predator 2 | Monolith Productions | 22.10.2001 | LithTech Talon | V2 | DAT v70 | ABC v12 | DTX v2 | 7 | |
+| Alcatraz: Prison Escape | Zombie Inc. | 30.11.2001 | LithTech 2.2 | V2 | DAT v66 | ABC v13 | DTX v2 | 7 | |
+| Global Operations | Barking Dog Studios | 25.03.2002 | LithTech 2.4 | V2 | DAT v66 | ABC v108 | DTX v2 | 8 | Early version of LithTech 2.4 before LTB format. Maybe some hybrid transition version 2.2>2.4 with DirectX 8 already but still with ABC format for models. Main game is DirectX 8 but executable also contains DirectDrawCreateEx import maybe for cinematics |
+| Might and Magic IX | New World Computing | 28.03.2002 | LithTech 2.2 | V2 | DAT v66 | ABC v13 | DTX v2 | 7 | |
+| Crisis Team: Ambulance Driver | Antidote Entertainment | 02.04.2002 | LithTech Talon/2.4 Hybrid | V2 | DAT v70 | LTB ABC/D3D v3 Body v14 | DTX v2 | 8 | Hybrid version with rendering pipeline from 2.4: DirectX 8 instead of DirectX 7. Do not use d3d.ren. Main game is DirectX 8 but executable also contains DirectDrawCreateEx import maybe for cinematics |
+| Die Hard: Nakatomi Plaza | Piranha Games | 23.04.2002 | LithTech 2.4 | V2 | DAT v66 | LTB ABC/D3D v3 Body v13 | DTX v2 | 8 | Main game is DirectX 8 but executable also contains DirectDrawCreateEx import maybe for cinematics |
+| The Operative: No One Lives Forever (PS2) | Monolith Productions / MumboJumbo | 29.04.2002 | LithTech Cobalt (LithTech PS2) | V2 | LTB v66 | LTB PS2 v16 | DTX v2 | N/A | |
+| Elite Forces: Navy SEALs | Jarhead Games | 15.05.2002 | LithTech 2.4 | V2 | DAT v66 | LTB ABC/D3D v3 Body v13 | DTX v2 | 8 | Main game is DirectX 8 but executable also contains DirectDrawCreateEx import maybe for cinematics |
+| Aliens versus Predator 2: Primal Hunt | Third Law Interactive | 13.08.2002 | LithTech Talon | V2 | DAT v70 | ABC v12 | DTX v2 | 7 | |
+| Arthur's Quest: Battle for the Kingdom | 3LV Games | 21.08.2002 | LithTech Talon | V2 | DAT v70 | ABC v12 | DTX v2 | 7 | |
+| Super Bubble Pop | Runecraft/Zombie Inc. | 01.12.2002 | LithTech 2.2 ESD / RealArcade LithTech | V2 | | | | | All the available version are not on LithTech engine at all. Maybe initial release was on LithTech ESD or some releases for consoles. Cannot find any info. |
+| RailKings Model Railroad Simulator | Incagold GmbH | 04.12.2002 | LithTech 2.4 | V2 | DAT v66 | LTB ABC/D3D v3 Body v13 | DTX v2 | 8 | |
+| CTU: Marine Sharpshooter | Jarhead Games | 20.03.2003 | LithTech 2.4 | V2 | DAT v66 | LTB ABC/D3D v3 Body v13 | DTX v2 | 8.1 | Some late custom variant of engine with DirectX 8.1 |
+| Nina: Trylogia | Detalion | 16.12.2002 | LithTech Talon | V2 | DAT v70 | ABC v12 | DTX v2 | 7 | Initial Polish release of Nina: Agent Chronicles with some level differences |
+| Nina: Agent Chronicles | Detalion | 08.04.2003 | LithTech Talon | V2 | DAT v70 | ABC v12 | DTX v2 | 7 | |
+| Purge | Freeform Interactive | 15.04.2003 | LithTech Talon | V2 | DAT v70 | ABC v12 | DTX v2 | 7 | MMO |
+| Aliens Versus Predator 2: Gold Edition | Monolith Productions / Third Law Interactive | 30.05.2003 | LithTech Talon | V2 | DAT v70 | ABC v12 | DTX v2 | 7 | |
+| Navy SEALs: Weapons of Mass Destruction | Jarhead Games | 18.07.2003 | LithTech 2.4 | V2 | DAT v66 | LTB ABC/D3D v3 Body v13 | DTX v2 | 8.1 | Some late custom variant of engine with DirectX 8.1 |
+| March! Offworld Recon | HBM Ltd | 11.09.2003 | LithTech Talon | V2 | DAT v70 | ABC v12 | DTX v2 | 7 | Games engine uses DirectX 7. But launcher application "march.exe" is DirectX 8.1 - launcher is not needed for the game to run |
+| Western Outlaw: Wanted Dead or Alive | Jarhead Games | 28.09.2003 | LithTech 2.4 | V2 | DAT v66 | LTB ABC/D3D v3 Body v13 | DTX v2 | 8.1 | Some late custom variant of engine with DirectX 8.1 |
+| The Matrix Online | Monolith Productions | 22.03.2005 | LithTech Discovery | V2 | | | | 9 | Highly customized engine version with its own formats. PKB for archives insead of REZ |
+| Sniper: Path of Vengeance | Mirage Interactive | 19.09.2002 | LithTech 2.4/Jupiter | V3 | DAT v83/v85 | LTB v9 Mesh v23 | DTX v2 | 8 | Early version of engine without DirectX 8.1. Uses icon from 2.4 |
+| No One Lives Forever 2: A Spy In H.A.R.M.'s Way Beta 39.1 (TO2 Development Build 39.1 / Jupiter v51) | | 13.03.2002 | LithTech Jupiter | V3 | DAT v81 | LTB v9 Mesh v18 | DTX v2 | 8.1 | Beta versions used LithTech 2.4 icon, on Jupiter build 51 CD |
+| No One Lives Forever 2: A Spy In H.A.R.M.'s Way | Monolith Productions | 01.10.2002 | LithTech Jupiter | V3 | DAT v85 | LTB v9 Mesh v23 | DTX v2 | 8.1 | |
+| No One Lives Forever 2: A Spy In H.A.R.M.'s Way v1.3 (Jupiter v69) | | 18.01.2006 | LithTech Jupiter | V3 | DAT v85 | LTB v9 Mesh v23 | DTX v2 | 8.1 | Game version 1.3, came with Jupiter build 69 CD |
+| Gods and Generals | AniVision | 01.03.2003 | LithTech Jupiter | V3 | DAT v85 | LTB v9 Mesh v23 | DTX v2 | 8.1 | |
+| Mistmare | Arxel Tribe/Sinister Systems | 07.03.2003 | LithTech Jupiter | V3 | DAT v85 | LTB v9 Mesh v23 | DTX v2 | 8.1 | |
+| Heat Project (MMO) | DOOBIC Entertainment | 14.05.2003 | LithTech Jupiter | V3 | | | | | The game is an MMO whose servers have already been shut down. There is no way to download the original client version to check the file formats. |
+| Rubies of Eventide (MMO) | Cyber Warrior | 02.06.2003 | LithTech Jupiter | V3 | | | | | The game is an MMO whose servers have already been shut down. There is no way to download the original client version to check the file formats. |
+| Tron 2.0 | Monolith Productions | 26.08.2003 | Lithtech Triton | V3 | DAT v85 | LTB v9 Mesh v23 | DTX v2 | 9 | |
+| Contract J.A.C.K. | Monolith Productions | 11.11.2003 | LithTech Jupiter | V3 | DAT v85 | LTB v9 Mesh v23 | DTX v2 | 8.1 | |
+| Mysterious Journey II: Chameleon / Schizm II: Chameleon | Detalion | 24.11.2003 | LithTech Jupiter | V3 | DAT v85 | LTB v9 Mesh v23 | DTX v2 | 8.1 | |
+| JunkMetal (MMO) | ENIX | 12.04.2004 | LithTech Jupiter | V3 | | | | | The game is an MMO whose servers have already been shut down. There is no way to download the original client version to check the file formats. |
+| Mob Enforcer | Touchdown Entertainment | 11.06.2004 | LithTech Jupiter | V3 | DAT v85 | LTB v9 Mesh v23 | DTX v2 | 8.1 | |
+| Marine Sharpshooter II: Jungle Warfare | Jarhead Games | 22.06.2004 | LithTech Jupiter | V3 | DAT v85 | LTB v9 Mesh v23 | DTX v2 | 8.1 | |
+| World War II: Sniper - Call to Victory | Jarhead Games | 09.10.2004 | LithTech Jupiter | V3 | DAT v85 | LTB v9 Mesh v23 | DTX v2 | 8.1 | |
+| GunGriffon: Allied Strike (Xbox) | Game Arts Co., Ltd | 14.12.2004 | LithTech Jupiter | V3 | DAT v85 | LTB v9 Mesh v23 | DTX v2 | N/A | |
+| Sentinel: Descendants in Time / (Realms of Illusion 2005-release) | Detalion | 14.12.2004 | LithTech Jupiter | V3 | DAT v85 | LTB v9 Mesh v23 | DTX v2 | 8.1 | |
+| Army Ranger: Mogadishu | Jarhead Games | 14.06.2005 | LithTech Jupiter | V3 | DAT v85 | LTB v9 Mesh v23 | DTX v2 | 8.1 | |
+| Sudden Attack (MMO) | Nexon Games | 23.08.2005 | LithTech Jupiter | V3 | | | | | The game is an MMO whose servers have already been shut down. There is no way to download the original client version to check the file formats. |
+| Face of Mankind (MMO) | Duplex Systems/Nexeon Technologies | 27.03.2006 | LithTech Jupiter | V3 | | | | | The game is an MMO whose servers have already been shut down. There is no way to download the original client version to check the file formats. |
+| Terrawars: New York Invasion | Ladyluck Digital Media | 28.06.2006 | LithTech Jupiter | V3 | DAT v85 | LTB v9 Mesh v23 | DTX v2 | 9 | Some late custom variant of engine with DirectX 9 |
+| Combat Arms (MMO) | Doobic Studios | 11.06.2008 | LithTech Jupiter | V3 | | | | | The game is an MMO whose servers have already been shut down. There is no way to download the original client version to check the file formats. |
+| Привидения из Букленда. Книжное приключение (Ghosts of Bookland) | PiPE Studio | 12.12.2008 | LithTech Jupiter | V3 | | | | | |
+| F.E.A.R. | Monolith Productions | 18.10.2005 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Condemned: Criminal Origins | Monolith Productions | 22.11.2005 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| F.E.A.R. Combat | Monolith Productions | 17.8.2006 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| F.E.A.R. Extraction Point | TimeGate Studios/Monolith Productions | 24.10.2006 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| F.E.A.R. Gold Edition | TimeGate Studios/Monolith Productions | 20.03.2007 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Crossfire | Smilegate Entertainment | 03.05.2007 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Wolf Team | Softnyx | 01.09.2007 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| F.E.A.R. Perseus Mandate | TimeGate Studios/Monolith Productions | 06.11.2007 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| F.E.A.R. Platinum Collection | TimeGate Studios/Monolith Productions | 06.11.2007 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| F.E.A.R. Files (XBOX 360) | Day 1 Studios | 06.11.2007 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Terrorist Takedown 2: US Navy SEALs | City Interactive | 04.12.2007 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Operation Thunderstorm | City Interactive | 19.03.2008 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Mortyr: Operation Thunderstorm | City Interactive | 19.03.2008 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Combat Arms: Reloaded | Nexon Games | 11.07.2008 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Code of Honor 2: Conspiracy Island | City Interactive | 29.07.2008 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| SAS: Secure Tomorrow | City Interactive | 30.09.2008 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| The Royal Marines Commando | City Interactive | 15.11.2008 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Armed Forces Corp. | City Interactive | 27.02.2009 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Battlestrike: Shadow of Stalingrad | City Interactive | 17.07.2009 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Code of Honor 3: Desperate Measures | City Interactive | 28.07.2009 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Wolfschanze II | City Interactive | 24.11.2009 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Special Forces | City Interactive | 15.03.2010 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Terrorist Takedown 3 | City Interactive | 04.04.2010 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Repulse | Queen's Days Studio | 01.02.2012 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Gotham City Impostors | Monolith Productions | 07.02.2012 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| District 187: Sin Streets | CJ GameLab | 20.11.2012 | LithTech Jupiter Ex | V4 | | | | | Not alalyzing games past LithTech Jupiter |
+| Condemned 2: Bloodshot | Monolith Productions | 11.03.2008 | LithTech Jupiter Ex V5 | V5 | | | | | Not alalyzing games past LithTech Jupiter |
+| F.E.A.R. 2: Project Origin | Monolith Productions | 10.02.2009 | LithTech Jupiter Ex V5 | V5 | | | | | Not alalyzing games past LithTech Jupiter |
+| F.E.A.R. 2: Reborn | Monolith Productions | 03.09.2009 | LithTech Jupiter Ex V5 | V5 | | | | | Not alalyzing games past LithTech Jupiter |
+| F.E.A.R. Online | Inplay Interactive | 17.10.2014 | LithTech Jupiter Ex V5 | V5 | | | | | Not alalyzing games past LithTech Jupiter |
+| Middle-earth: Shadow of Mordor | Monolith Productions | 30.09.2014 | LithTech Jupiter Ex V6 | V6 | | | | | Not alalyzing games past LithTech Jupiter |
+| Middle-earth: Shadow of War | Monolith Productions | 10.10.2017 | Firebird Engine | V7 | | | | | Not alalyzing games past LithTech Jupiter |
