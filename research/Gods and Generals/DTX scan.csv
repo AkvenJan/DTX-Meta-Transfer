@@ -1,0 +1,1229 @@
+Datei;Version;Breite;Hoehe;BPP;Mipmaps;UIMipOffset;UIMipSkala;NonS3TCOffset;TexGroup;Flags;CommandString;Groesse(Bytes)
+"CHARS\SKINS\00U-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\00U-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\01U-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\01U-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\02U-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\02U-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\03U-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\03U-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\04U-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\04U-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\05U-BODY-CAPTIN.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"CHARS\SKINS\05U-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\05U-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\06U-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\06U-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\07U-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\07U-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\08U-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\08U-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\09U-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\09U-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\10U-BODY-CAPTIN.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"CHARS\SKINS\10U-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\10U-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\11U-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\11U-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\12U-BODY-CAPTIN.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"CHARS\SKINS\12U-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\12U-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\13U-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\13U-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\14U-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\14U-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\15C-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\15C-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\16C-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\16C-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\17C-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\17C-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\18C-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\18C-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CHARS\SKINS\19C-BODY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"CHARS\SKINS\19C-HEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"CLASSICONS\DEMOSKYWORLDMODEL.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"CLASSICONS\DIRLIGHT.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"CLASSICONS\INSIDEDEF.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"CLASSICONS\LIGHT.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"CLASSICONS\OBJECTLIGHT.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"CLASSICONS\SKYPOINTER.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"CLASSICONS\TERRAIN.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"CONSOLE\CONSOLE_FONT.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";1;0;"voll";0;0;"FULLBRITE";"";65700
+"FX\AK-47.DTX";"DTX v2 (2.x/Jupiter)";32;64;"32";4;0;"voll";0;0;"";"";11044
+"FX\AK47_1.DTX";"DTX v2 (2.x/Jupiter)";32;64;"32";4;0;"voll";0;0;"";"";11044
+"FX\AK47_2.DTX";"DTX v2 (2.x/Jupiter)";32;64;"32";4;0;"voll";0;0;"";"";11044
+"FX\AK47_3.DTX";"DTX v2 (2.x/Jupiter)";32;64;"32";4;0;"voll";0;0;"";"";11044
+"FX\AKFLARE.DTX";"DTX v2 (2.x/Jupiter)";32;64;"32";4;0;"voll";0;0;"";"";11044
+"FX\BEAMS\DUSTBEAM1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\BEAMS\ELEC_BLUE08.DTX";"DTX v2 (2.x/Jupiter)";128;64;"32";4;0;"voll";0;0;"";"";43684
+"FX\BEAMS\ELEC_BLUE09.DTX";"DTX v2 (2.x/Jupiter)";128;64;"32";4;0;"voll";0;0;"";"";43684
+"FX\BEAMS\ELEC_WHITE01.DTX";"DTX v2 (2.x/Jupiter)";128;64;"32";4;0;"voll";0;0;"";"";43684
+"FX\BEAMS\ELEC_WHITE02.DTX";"DTX v2 (2.x/Jupiter)";128;64;"32";4;0;"voll";0;0;"";"";43684
+"FX\BEAMS\ELECTRO1.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"FX\BEAMS\LASER_RED1.DTX";"DTX v2 (2.x/Jupiter)";128;64;"32";4;0;"voll";0;0;"";"";43684
+"FX\BEAMS\LASER_RED4.DTX";"DTX v2 (2.x/Jupiter)";128;64;"32";4;0;"voll";0;0;"";"";43684
+"FX\BEAMS\SPOTLIGHTBEAM.DTX";"DTX v2 (2.x/Jupiter)";16;32;"32";4;0;"voll";0;0;"";"";2884
+"FX\COMM\METCOR\METCOR_0000.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\METCOR\METCOR_0004.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\METCOR\METCOR_0008.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\METCOR\METCOR_0012.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\METCOR\METCOR_0016.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\METCOR\METCOR_0020.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\METCOR\METCOR_0024.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\METCOR\METCOR_0028.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\METCOR\METCOR_0032.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\METCOR\METCOR_0036.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\METCOR\METCOR_0040.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\METCOR\METCOR_0044.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\METCOR\METCOR_0048.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\METCOR\METCOR_0052.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0000.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0005.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0010.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0015.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0020.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0025.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0030.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0035.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0040.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0045.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0050.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0055.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0060.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0065.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0070.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWER\TOWR_0075.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\COMM\TOWRPART1_.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 1";21924
+"FX\DEBRIS\SKINS\BASKET.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;1;"";"";2884
+"FX\DEBRIS\SKINS\CHEESE.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;1;"";"";2884
+"FX\DEBRIS\SKINS\GENERICSMALL.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;1;"";"";2884
+"FX\DEBRIS\SKINS\GLASS_01.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";5;0;"voll";0;1;"";"";21988
+"FX\DEBRIS\SKINS\GLASS_02.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";5;0;"voll";0;1;"";"";21988
+"FX\DEBRIS\SKINS\METAL.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;1;"";"";2884
+"FX\DEBRIS\SKINS\PAPER.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;1;"";"";5604
+"FX\DEBRIS\SKINS\PORCELAIN.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";5;0;"voll";0;1;"";"";11076
+"FX\DEBRIS\SKINS\PORCELAIN2.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;1;"";"";2884
+"FX\DEBRIS\SKINS\SAKE.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;1;"";"";2884
+"FX\DEBRIS\SKINS\SHARD.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";5;0;"voll";0;1;"";"";21988
+"FX\DEBRIS\SKINS\TRASHBAG.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;1;"";"";5604
+"FX\DEBRIS\SKINS\VASE.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;1;"";"";5604
+"FX\DEBRIS\SKINS\WOOD.DTX";"DTX v2 (2.x/Jupiter)";32;128;"S3TC DXT5";4;0;"voll";0;1;"";"";5604
+"FX\EXP1\EXP01.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\EXP1\EXP02.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\EXP1\EXP03.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\EXP1\EXP04.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\EXP1\EXP05.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\EXP1\EXP06.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\EXP1\EXP07.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\EXP1\EXP08.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\EXP1\EXP09.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\EXP1\EXP10.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\EXP1\EXP11.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\EXP1\EXP12.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\EXP1\EXP13.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\GLOW\GREENFLASH.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\GLOW\REDFLASH.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;5;"";"";21924
+"FX\GLUE\GLUE01.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\GLUE\GLUESKIN4.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\GLUE\GLUESPLAT01.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\GLUE\GLUESPLAT02.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\GLUE\GLUESPLAT03.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\GLUE\SS_SPLAT.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT3";4;0;"voll";0;0;"";"";21924
+"FX\GUNS\TAZER\TAZER4.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\GUNS\TAZER\TAZERGLOW.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\GUNS\WELDER\TORCH1.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\GUNS\WELDER\WELDERGLOW.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\HELI_A1.DTX";"DTX v2 (2.x/Jupiter)";16;16;"32";4;0;"voll";0;0;"";"";1524
+"FX\HELI_A2.DTX";"DTX v2 (2.x/Jupiter)";16;16;"32";4;0;"voll";0;0;"";"";1524
+"FX\HH_AK47FLSH.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\PARTICLES\BLUEFLICKER01.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\PARTICLES\BLUEFLICKER02.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\PARTICLES\BLUEPUFF1.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\PARTICLES\BLUEPUFF2.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\PARTICLES\BLUEPUFF3.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\PARTICLES\BLUEPUFF4.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\PARTICLES\BUBBLE1_1.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\PARTICLES\BUBBLE2_1.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\PARTICLES\BUBBLE2_2.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\PARTICLES\BUBBLE2_3.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\PARTICLES\BUBBLE2_4.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\PARTICLES\EXP01.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\PARTICLES\EXP02.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\PARTICLES\EXP03.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\PARTICLES\EXP04.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\PARTICLES\EXP05.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\PARTICLES\EXP06.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\PARTICLES\EXP07.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\PARTICLES\EXP08.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\PARTICLES\EXP09.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\PARTICLES\EXP10.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\PARTICLES\EXP11.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\PARTICLES\EXP12.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\PARTICLES\EXP13.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\PARTICLES\FLAME1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\PARTICLES\FLAME1_SS.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\PARTICLES\GREENPUFF1.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\PARTICLES\GREENPUFF2.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\PARTICLES\GREENPUFF3.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\PARTICLES\GREENPUFF4.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\PARTICLES\ORANGEPUFF1.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;1;"";"";5604
+"FX\PARTICLES\ORANGEPUFF2.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;1;"";"";5604
+"FX\PARTICLES\ORANGEPUFF3.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;1;"";"";5604
+"FX\PARTICLES\ORANGEPUFF4.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;1;"";"";5604
+"FX\PARTICLES\REDPUFF1.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\PARTICLES\REDPUFF2.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\PARTICLES\REDPUFF3.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\PARTICLES\REDPUFF4.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\PARTICLES\SPARKS_PUFF1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";3;0;"voll";0;1;"";"";21668
+"FX\PARTICLES\STUN.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"FX\PARTICLES\YELLFLICKER01.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\PARTICLES\YELLFLICKER02.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\PISS\PISSPUDDLE1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\SMOKE\ROCKETPUFF1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"alpharef 128";87204
+"FX\SURFACE\BHOLGLS1.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"FX\SURFACE\BHOLGLS2.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"FX\SURFACE\CHALKARROW1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\SURFACE\CHALKARROW2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\AK-47.DTX";"DTX v2 (2.x/Jupiter)";32;64;"32";4;0;"voll";0;0;"";"";11044
+"FX\TEST\BLOOD\BLOODL1.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\BLOOD\BLOODL2.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\BLOOD\BLOODL3.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\BLOOD\BLOODL4.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\BLOOD\BLOODMIST1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\BLOOD\BLOODMIST2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\BLOOD\BLOODMIST3.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\BLOOD\BLOODMIST4.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\BLOOD\BLOODMIST6.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\BLOOD\BLOODPTCL1.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\BLOOD\BLOODPTCL2.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\BLOOD\BLOODPTCL3.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\BLOOD\BLOODSPLAT1.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\BLOOD\BLOODSPLAT2.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\BLOOD\BLOODSPLAT3.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\BLOOD\BLOODSPLAT4.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\BLOOD_4.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;5;"";"";11044
+"FX\TEST\BLUEFLASH.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\CIGSMOKE.DTX";"DTX v2 (2.x/Jupiter)";32;64;"32";4;0;"voll";0;0;"";"alpharef 128";11044
+"FX\TEST\CLOUDPUFF1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\CLOUDPUFF2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\DIRTPUFF1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\DIRTPUFF2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\FIRE_SML_0.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\FIRE_SML_1.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\FIRE_SML_2.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\FIRE_SML_3.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\FIRE_SML_4.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\FIRE_SML_5.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\FIREBALL1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\FIREBALL2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\FIREBALL2B.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\FIREBALL2C.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\FLARES\FLARESPRTEX\FLR0033.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";1;0;"voll";0;5;"";"";5604
+"FX\TEST\FLARES\FLARESPRTEX\FLR0034.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";1;0;"voll";0;5;"";"";5604
+"FX\TEST\FLARES\FLARESPRTEX\FLR0035.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";1;0;"voll";0;5;"";"";5604
+"FX\TEST\FLARES\FLARESPRTEX\FLR_BLUE.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\FLARES\FLARESPRTEX\FLR_TRUCK.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;5;"FULLBRITE";"";87204
+"FX\TEST\FLARES\FLARESPRTEX\SEARCHLIGHT1.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TEST\FLOUR.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\FLR0025.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\FLR0030.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TEST\FLR0035.DTX";"DTX v2 (2.x/Jupiter)";64;128;"32";4;0;"voll";0;0;"";"";43684
+"FX\TEST\FX001.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\FX002.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\FX003.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\FX004.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\FX005.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\FX006.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\FX007.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\FX008.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\FXTEST61.DTX";"DTX v2 (2.x/Jupiter)";64;32;"32";4;0;"voll";0;0;"";"";11044
+"FX\TEST\FXTEST62.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\FXTEST63.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\GREENKEYPAD.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"FX\TEST\HEADLIGHT.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\IMARK1.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";2;0;"voll";0;0;"FULLBRITE";"";21924
+"FX\TEST\IMARK2.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";2;0;"voll";0;0;"FULLBRITE";"";21924
+"FX\TEST\LIGHTNING_1.DTX";"DTX v2 (2.x/Jupiter)";128;64;"S3TC DXT5";4;0;"voll";0;5;"FULLBRITE";"ViewModes Nightvision Normal;";11044
+"FX\TEST\MUD\SPRTEX\MUD_FL.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\MUD\SPRTEX\MUD_FR.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\PARTICLE01.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\PARTICLE02.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\PARTICLE03.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\PARTICLE04.DTX";"DTX v2 (2.x/Jupiter)";32;64;"32";4;0;"voll";0;0;"";"";11044
+"FX\TEST\PARTICLE05.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\PARTICLE06.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\PARTICLE07.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\PARTICLE08.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\PARTICLE09.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\PARTICLE10.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\PARTICLE11.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\PARTICLE12.DTX";"DTX v2 (2.x/Jupiter)";16;16;"32";4;0;"voll";0;0;"";"";1524
+"FX\TEST\PARTICLE13.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\PUFF01.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\RAIN_01.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\REDFLASH.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\REDKEYPAD.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"FX\TEST\RIFLELIGHT.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";4;0;"voll";0;0;"";"";21924
+"FX\TEST\SMOKE.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"alpharef 128";87204
+"FX\TEST\SMOKE01.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKE03.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\SMOKE2_10.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\SMOKE_JA.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKE_JA2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKE_JA3.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0130.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0132.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0134.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0136.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0138.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0140.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0142.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0144.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0146.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0148.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0150.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0152.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0154.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0156.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0158.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0160.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0162.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0164.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0166.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0168.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0170.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0172.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0174.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0176.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0178.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0180.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0182.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0184.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0186.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0188.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0190.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0192.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0194.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0196.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0198.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0200.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0202.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0204.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0206.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0208.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0210.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0212.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0214.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0216.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SMOKEBOMB1\SPFA0218.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SNOW\SPRTEX\SNOWFLAKE1.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\SNOW\SPRTEX\SNOWPUFF1.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\SNOW\SPRTEX\SNOWPUFF2.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\SNOW\SPRTEX\SNOWPUFF3.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SNOW\SPRTEX\SNOWPUFF4.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SNOW\SPRTEX\SNOWPUFF5.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\SNOW\SPRTEX\SNOWRABBITFS_L.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\SNOW\SPRTEX\SNOWRABBITFS_R.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\SNOW\SPRTEX\SNWFS_L.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\SNOW\SPRTEX\SNWFS_R.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\SPARK_SM1.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\SPARK_SM2.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\SPHERE2_ADD.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";1;0;"voll";0;0;"";"";21924
+"FX\TEST\SPHERE3_ADD.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";1;0;"voll";0;0;"";"";87204
+"FX\TEST\SPHERE4_ADD.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\SPHERE_ADD.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";1;0;"voll";0;0;"";"";21924
+"FX\TEST\SPHERE_ADDHOLE.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";1;0;"voll";0;0;"";"";4260
+"FX\TEST\SPLOTCH.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"FX\TEST\SPLOTCHGREY.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\SPLOTCHRED.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TEST\TOR_01.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\TOR_02.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\TOR_03.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\TOR_04.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\TOR_05.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\TOR_06.DTX";"DTX v2 (2.x/Jupiter)";512;64;"32";4;0;"voll";0;0;"";"";174244
+"FX\TEST\TOR_07.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\TOR_08.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"FX\TEST\WA_01.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\WA_01B.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\WA_02.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\WA_02B.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\WA_03.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\WA_04.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\WA_05.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TEST\WATERFALL2.DTX";"DTX v2 (2.x/Jupiter)";256;512;"32";4;0;"voll";0;0;"";"";696484
+"FX\TEST\WATERFALL3.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TEST\WATERSPLASH.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"FX\TEST\YELLOWFLASH.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"FX\TORNADO\2X4\2X4_0000.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\2X4\2X4_0005.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\2X4\2X4_0010.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\2X4\2X4_0015.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\2X4\2X4_0020.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\2X4\2X4_0025.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\2X4\2X4_0030.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\2X4\2X4_0035.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\2X4\2X4_0040.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\2X4\2X4_0045.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\2X4\2X4_0050.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\2X4\2X4_0055.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\2X4\2X4_0060.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\2X4\2X4_0065.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\2X4\2X4_0070.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\2X4\2X4_0075.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0000.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0004.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0008.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0012.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0016.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0020.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0024.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0028.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0032.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0036.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0040.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0044.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0048.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0052.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0056.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0060.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0064.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0068.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0072.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\BOARD1\BOARD1_0076.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"";87204
+"FX\TORNADO\DEBRIS1_0076.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DEBRIS1_0085.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DEBRIS1_0089.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DEBRIS1_0093.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DEBRIS1_0097.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DEBRIS1_0101.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DEBRIS1_0105.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DEBRIS1_0109.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DEBRIS1_0113.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DEBRIS1_0117.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DEBRIS1_0121.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DEBRIS1_0125.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DEBRIS1_0129.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DEBRIS1_0133.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DEBRIS1_0137.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DEBRIS1_0141.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\DUST1.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"FX\TORNADO\LEAF1\LEAF1RED0000.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF1\LEAF1RED0004.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF1\LEAF1RED0008.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF1\LEAF1RED0012.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF1\LEAF1RED0016.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF1\LEAF1RED0020.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF1\LEAF1RED0024.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF1\LEAF1RED0028.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF1\LEAF1RED0032.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF1\LEAF1RED0036.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF1\LEAF1RED0040.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF1\LEAF1RED0044.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF1\LEAF1RED0048.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF1\LEAF1RED0052.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF2\LEAF2YEL0000.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF2\LEAF2YEL0004.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF2\LEAF2YEL0008.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF2\LEAF2YEL0012.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF2\LEAF2YEL0016.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF2\LEAF2YEL0020.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF2\LEAF2YEL0024.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF2\LEAF2YEL0028.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF2\LEAF2YEL0032.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF2\LEAF2YEL0036.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF2\LEAF2YEL0040.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF2\LEAF2YEL0044.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF2\LEAF2YEL0048.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF2\LEAF2YEL0052.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF2\LEAF2YEL0056.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF3\LEAF3YEL0000.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF3\LEAF3YEL0004.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF3\LEAF3YEL0008.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF3\LEAF3YEL0012.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF3\LEAF3YEL0016.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF3\LEAF3YEL0020.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF3\LEAF3YEL0024.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF3\LEAF3YEL0028.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF3\LEAF3YEL0032.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF3\LEAF3YEL0036.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF3\LEAF3YEL0040.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF3\LEAF3YEL0044.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF3\LEAF3YEL0048.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF3\LEAF3YEL0052.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\LEAF3\LEAF3YEL0056.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\SHINGLE\SHINGLE1_0000.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\SHINGLE\SHINGLE1_0005.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\SHINGLE\SHINGLE1_0010.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\SHINGLE\SHINGLE1_0015.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\SHINGLE\SHINGLE1_0020.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\SHINGLE\SHINGLE1_0025.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\SHINGLE\SHINGLE1_0030.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\SHINGLE\SHINGLE1_0035.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\SHINGLE\SHINGLE1_0040.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\SHINGLE\SHINGLE1_0045.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\SHINGLE\SHINGLE1_0050.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\SHINGLE\SHINGLE1_0055.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"FX\TORNADO\TORNADO1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"FX\TORNADO\TORNADO2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"FX\TORNADO\TORNADO_TOP.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT5";7;0;"voll";0;2;"";"";349668
+"FX\WEE-WEE\WEE-WEE1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";4;0;"voll";0;0;"";"";21924
+"GUNS\PROJECTILES\SKINS\GRENADE.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"GUNS\PROJECTILES\SKINS\KNIFE.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"GUNS\SKINS_HH\GRENADE.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"GUNS\SKINS_HH\KNIFE.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"GUNS\SKINS_HH\MUSKET.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"GUNS\SKINS_HH\PISTOL.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"GUNS\SKINS_HH\SWORD.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"GUNS\SKINS_PV\ACTIONHANDS_PV.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"S3TC DXT1";7;0;"voll";0;0;"";"mipmapbias -1";699172
+"GUNS\SKINS_PV\GRENADE.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"GUNS\SKINS_PV\HAND_1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";7;0;"voll";0;0;"";"mipmapbias -1";174916
+"GUNS\SKINS_PV\HAND_2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";7;0;"voll";0;0;"";"mipmapbias -1";174916
+"GUNS\SKINS_PV\KNIFE.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"GUNS\SKINS_PV\MUSKET.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"GUNS\SKINS_PV\PISTOL.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"GUNS\SKINS_PV\SWORD.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"INTERFACE\HUD\AIRBAR.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\AMMO_EMPTY.DTX";"DTX v2 (2.x/Jupiter)";16;32;"32";4;0;"voll";0;0;"";"";2884
+"INTERFACE\HUD\AMMO_FULL.DTX";"DTX v2 (2.x/Jupiter)";16;32;"32";4;0;"voll";0;0;"";"";2884
+"INTERFACE\HUD\AMMOBAR.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\ARMORBAR.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\BOSSBAR.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";1;0;"voll";0;0;"";"";4260
+"INTERFACE\HUD\CARRY.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\CARRYING.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\COMPASS_BACK.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\HUD\COMPASS_NEEDLE.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\HUD\CROSSHAIR\CROSSHAIR0_A.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\CROSSHAIR\CROSSHAIR0_I.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";1;0;"voll";0;0;"";"";4260
+"INTERFACE\HUD\CROSSHAIR\CROSSHAIR1_A.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\CROSSHAIR\CROSSHAIR1_I.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";1;0;"voll";0;0;"";"";4260
+"INTERFACE\HUD\CROSSHAIR\CROSSHAIR2_A.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\CROSSHAIR\CROSSHAIR2_I.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";1;0;"voll";0;0;"";"";4260
+"INTERFACE\HUD\DAMAGEARROW.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\DISTANCE.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\EXIT.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\HEALTHBAR.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\HIDDEN.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\HIDE.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\HIDEBAR.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\ICON_ARMOR.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\ICON_BLEED.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\ICON_BURN.DTX";"DTX v2 (2.x/Jupiter)";32;32;"S3TC DXT5";4;0;"voll";0;0;"";"";1524
+"INTERFACE\HUD\ICON_HEALTH.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\NODROP.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\OBJECTIVES.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\RADAR_OBJECTIVE.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\RADAR_PLAYER_TALK.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\RADAR_POINT.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\SEARCHBAR.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\SKILL_EMPTY.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\SKILL_FULL.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\SPRTEX\SCOPE1_FADE.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"INTERFACE\HUD\SPRTEX\ZOOM0.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"FULLBRITE";"";5604
+"INTERFACE\HUD\SPRTEX\ZOOM1.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"FULLBRITE";"";5604
+"INTERFACE\HUD\SPRTEX\ZOOM2.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"FULLBRITE";"";5604
+"INTERFACE\HUD\TRANSAM.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\HUD\WPNCLASS1.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS1D.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS1U.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS2.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS2D.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS2U.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS3.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS3D.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS3U.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS4.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS4D.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS4U.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS5.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS5D.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS5U.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS6.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS6D.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\HUD\WPNCLASS6U.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\MENU\MENUBAR.DTX";"DTX v2 (2.x/Jupiter)";512;32;"S3TC DXT5";4;0;"voll";0;0;"";"";21924
+"INTERFACE\MENU\MENUBAR_TIP.DTX";"DTX v2 (2.x/Jupiter)";128;64;"S3TC DXT3";4;0;"voll";0;0;"";"";11044
+"INTERFACE\MENU\MENUDOWN.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"";87204
+"INTERFACE\MENU\MENUDOWN_TIP.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT5";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\BATTLESSCREEN.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\BLADES-BOWIEKNIFE.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\BLADES-SABER.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\BLADES-SPIKEDBAYONET.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\BLADESSCREEN.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\BULLRUN1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\BULLRUN2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\BULLRUN3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\CHANCELLORSVILLE1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\CHANCELLORSVILLE2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\CHANCELLORSVILLE3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\FIELDARTILLARY-AMMUNITIONCHEST.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\FIELDARTILLARY-CANNISTERROUNDS.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\FIELDARTILLARY-FUSEPOUCH.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\FIELDARTILLARY-HOWITZER.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\FIELDARTILLARYSCREEN.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\FIREARMS-MUSKET.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\FIREARMS-MUSKET2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\FIREARMS-REVOLVER.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\FIREARMSSCREEN.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\FREDRICKSBURG1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\FREDRICKSBURG2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\FREDRICKSBURG3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\HISTORICALBASISSCREEN.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\LOAD.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\LOADINGSCREEN.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT3";1;0;"voll";0;0;"";"";262308
+"INTERFACE\MENU\SKINS\MAINBACK.DTX";"DTX v2 (2.x/Jupiter)";32;32;"S3TC DXT1";1;0;"voll";0;0;"";"";676
+"INTERFACE\MENU\SKINS\MAININTROALL.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT3";1;0;"voll";0;0;"FULLBRITE";"";262308
+"INTERFACE\MENU\SKINS\MAINSCENE.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT3";4;0;"voll";0;0;"";"";348324
+"INTERFACE\MENU\SKINS\MAINSCOPE.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT5";1;0;"voll";0;0;"FULLBRITE";"";262308
+"INTERFACE\MENU\SKINS\SMADDITIVE1.DTX";"DTX v2 (2.x/Jupiter)";8;8;"S3TC DXT1";1;0;"voll";0;0;"";"";196
+"INTERFACE\MENU\SKINS\SMADDITIVE2.DTX";"DTX v2 (2.x/Jupiter)";8;8;"S3TC DXT1";1;0;"voll";0;0;"";"";196
+"INTERFACE\MENU\SKINS\STARTSCENE.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\UNUSUAL-ARMOR.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\UNUSUAL-KETCHUM.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\UNUSUAL-SCOPEDMUSKET.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\UNUSUALWEAPONSSCREEN.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SKINS\WEAPONSSCREEN.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\ARROWBACK.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\MENU\SPRTEX\ARROWBACK_H.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\MENU\SPRTEX\ARROWDN_H.DTX";"DTX v2 (2.x/Jupiter)";16;16;"32";4;0;"voll";0;0;"";"";1508
+"INTERFACE\MENU\SPRTEX\ARROWLT.DTX";"DTX v2 (2.x/Jupiter)";16;16;"32";4;0;"voll";0;0;"";"";1508
+"INTERFACE\MENU\SPRTEX\ARROWLT_H.DTX";"DTX v2 (2.x/Jupiter)";16;16;"32";4;0;"voll";0;0;"";"";1508
+"INTERFACE\MENU\SPRTEX\ARROWRT.DTX";"DTX v2 (2.x/Jupiter)";16;16;"32";4;0;"voll";0;0;"";"";1508
+"INTERFACE\MENU\SPRTEX\ARROWRT_H.DTX";"DTX v2 (2.x/Jupiter)";16;16;"32";4;0;"voll";0;0;"";"";1508
+"INTERFACE\MENU\SPRTEX\ARROWUP.DTX";"DTX v2 (2.x/Jupiter)";16;16;"32";4;0;"voll";0;0;"";"";1508
+"INTERFACE\MENU\SPRTEX\ARROWUP_H.DTX";"DTX v2 (2.x/Jupiter)";16;16;"32";4;0;"voll";0;0;"";"";1508
+"INTERFACE\MENU\SPRTEX\ASIHW.DTX";"DTX v2 (2.x/Jupiter)";512;256;"32";4;0;"voll";0;0;"";"";696484
+"INTERFACE\MENU\SPRTEX\BULLET.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"INTERFACE\MENU\SPRTEX\BULLRUN1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\BULLRUN2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\BULLRUN3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\CAPTLETTER1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT5";4;0;"voll";0;0;"";"";348324
+"INTERFACE\MENU\SPRTEX\CAPTLETTER2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT5";4;0;"voll";0;0;"";"";348324
+"INTERFACE\MENU\SPRTEX\CAPTLETTER3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT5";4;0;"voll";0;0;"";"";348324
+"INTERFACE\MENU\SPRTEX\CAPTLETTER4.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT5";4;0;"voll";0;0;"";"";348324
+"INTERFACE\MENU\SPRTEX\CHANCELLORSVILLE1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\CHANCELLORSVILLE2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\CHANCELLORSVILLE3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\CHANCELLORSVILLE4.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\CHANCELLORSVILLE5.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\COMPLETED.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"INTERFACE\MENU\SPRTEX\FRAME.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"";5604
+"INTERFACE\MENU\SPRTEX\FREDRICKSBURG.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\HELPTEXTBOX1.DTX";"DTX v2 (2.x/Jupiter)";8;8;"S3TC DXT1";1;0;"voll";0;0;"";"";196
+"INTERFACE\MENU\SPRTEX\INTELLETTER1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT5";4;0;"voll";0;0;"";"";348324
+"INTERFACE\MENU\SPRTEX\LOAD1.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\LOAD10.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\LOAD1A.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\LOAD2.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\LOAD2A.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\LOAD3.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\LOAD3A.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\LOAD4.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\LOAD4A.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\LOAD5.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\LOAD5A.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\LOAD8.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\LOAD9.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\LOADINGC1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\LOADINGC1X.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"INTERFACE\MENU\SPRTEX\MENUBKGRND.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";1;0;"voll";0;0;"";"";131236
+"INTERFACE\MENU\SPRTEX\MENUFRAME2.DTX";"DTX v2 (2.x/Jupiter)";16;16;"S3TC DXT5";1;0;"voll";0;0;"";"";420
+"INTERFACE\MENU\SPRTEX\MISSION.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"INTERFACE\MENU\SPRTEX\OLDLOAD1.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"INTERFACE\MENU\SPRTEX\PAPER4.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT5";4;0;"voll";0;0;"";"";348324
+"INTERFACE\MENU\SPRTEX\SLIDER.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"INTERFACE\PHOTOS\AMMO\AMMOKNI.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\PHOTOS\AMMO\AMMOKNI_U.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\PHOTOS\AMMO\BULLET_DEF.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\PHOTOS\AMMO\BULLET_DEFU.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\PHOTOS\AMMO\BULLET_EXP.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\PHOTOS\AMMO\BULLET_EXPU.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\PHOTOS\KEYITEMS\CARD-G.DTX";"DTX v2 (2.x/Jupiter)";128;64;"32";4;0;"voll";0;0;"";"";43684
+"INTERFACE\PHOTOS\KEYITEMS\FUSEPOUCH.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\KEYITEMS\LETTERBOX.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\GRENADE.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\GRENADED.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\GRENADEU.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\GRENADEX.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\HEALTHX.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"INTERFACE\PHOTOS\WEAPONS\HOLSTER.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\HOLSTERD.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\HOLSTERU.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\HOLSTERX.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\KNIFE.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\KNIFED.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\KNIFEU.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\KNIFEX.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\MUSKET.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\MUSKETD.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\MUSKETU.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\MUSKETX.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\PISTOL.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\PISTOLD.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\PISTOLU.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\PISTOLX.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\SNIPER.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\SNIPERD.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\SNIPERU.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\SNIPERX.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\SWORD.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\SWORDD.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\SWORDU.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"INTERFACE\PHOTOS\WEAPONS\SWORDX.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"PROPS\SKINS\AMMOBOX1.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"PROPS\SKINS\ARMOR.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"PROPS\SKINS\FIRSTAIDBOX.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"PROPS\SKINS\FUSEPOUCH.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"PROPS\SKINS\LETTER_1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT5";4;0;"voll";0;0;"";"";348324
+"PROPS\SKINS\LETTER_2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT5";4;0;"voll";0;0;"";"";348324
+"PROPS\SKINS\LETTER_3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT5";4;0;"voll";0;0;"";"";348324
+"PROPS\SKINS\LETTER_4.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT5";4;0;"voll";0;0;"";"";348324
+"PROPS\SKINS\LETTERBOX.DTX";"DTX v2 (2.x/Jupiter)";128;64;"32";4;0;"voll";0;0;"";"";43684
+"PROPS\SKINS\LETTERSEAL.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"PROPS\SKINS\PAPER4.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\ALLTYPES.DTX";"DTX v2 (2.x/Jupiter)";128;32;"S3TC DXT5";1;0;"voll";0;0;"FULLBRITE";"alpharef 96";4260
+"TEX\BLACK.DTX";"DTX v2 (2.x/Jupiter)";16;16;"S3TC DXT1";4;0;"voll";0;0;"";"";332
+"TEX\BLOCKER.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"TEX\CHROME.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";1;0;"voll";0;0;"FULLBRITE";"";11044
+"TEX\COMMON\AZALEALEAVES_MD_1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"alpharef 128";87204
+"TEX\COMMON\AZALEALEAVES_MD_2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"alpharef 128";87204
+"TEX\COMMON\BACKGROUND 09_01.DTX";"DTX v2 (2.x/Jupiter)";1024;256;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\BARK.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\BARKW_MOSS.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\BARREL.DTX";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\BARRELINSIDE.DTX";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\BOX.DTX";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\BOX1-INSIDE.DTX";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\BOX1.DTX";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\BOX2.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\BOX2A.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"TEX\COMMON\BOX2B.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"TEX\COMMON\BOX3.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\BOX4.DTX";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\BROWNBOOK.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\BRUSH_1024X128.DTX";"DTX v2 (2.x/Jupiter)";1024;128;"32";4;0;"voll";0;0;"";"alpharef 128";696484
+"TEX\COMMON\BRUSH_256X32.DTX";"DTX v2 (2.x/Jupiter)";256;32;"32";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\BRUSH_512X64.DTX";"DTX v2 (2.x/Jupiter)";512;64;"32";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\BURLAP.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\CANDLE.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"TEX\COMMON\CANNON.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\CANNONBALLS-STACK.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\CANTEEN-TOP.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;0;"";"";2884
+"TEX\COMMON\CANTEEN1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\CANTEEN2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\CANVASBAND.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;0;"";"";2884
+"TEX\COMMON\CARDS1.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\CARDS2.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\CARDS3.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\CARROT.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"TEX\COMMON\CARROTTOP.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\CEDARTREE.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\CEDARTRUNK.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"TEX\COMMON\CM09S01_T.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"S3TC DXT1";4;0;"voll";0;0;"";"";696484
+"TEX\COMMON\DESKMETAL.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\DIRT1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\DIRT2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\DIRT3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\DIRTGRAY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\DIRTROAD.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\DIRTROAD_GRSMLCH.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\DIRTTOGRAVEL.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\EMBERS1.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\FB1\BOAT INSIDE.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\FB1\BOATOUTSIDE.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\FB1\COTTONBALE1.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\FB1\COTTONMILL-FOUNDATION.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\FB1\COTTONMILL.DTX";"DTX v2 (2.x/Jupiter)";512;256;"32";4;0;"voll";0;0;"";"";696484
+"TEX\COMMON\FB1\COTTONMILLDOOR.DTX";"DTX v2 (2.x/Jupiter)";256;512;"32";4;0;"voll";0;0;"";"";696484
+"TEX\COMMON\FB1\COTTONMILLDOORFRAME.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\FB1\COTTONMILLDOUBLEDOOR.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\FB1\COTTONMILLFLOOR.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\FB1\COTTONMILLFRAME.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\FB1\COTTONMILLROOF.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\FB1\COTTONMILLSTEPS.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\FB1\COTTONMILLWALL.DTX";"DTX v2 (2.x/Jupiter)";512;256;"32";4;0;"voll";0;0;"";"";696484
+"TEX\COMMON\FB1\COTTONMILLWINDOW.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\FB1\DOCK.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\FB1\DRIFTWD.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\FB1\FB WATERREF.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\FB1\OAK LEAF CLUSTER.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\FB1\PLANERTREE_WTR1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\FB1\PLANERTREE_WTR2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\FB1\PLANERTREE_WTR3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\FB1\ROPE.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\FB1\SNIPERHOUSEBRICK.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\FB1\SNIPERHOUSEBRICK1.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\FB1\SNIPERHOUSEBRICK10.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\FB1\SNIPERHOUSEBRICK2.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\FB1\SNIPERHOUSEBRICK3.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\FB1\SNIPERHOUSEBRICK4.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\FB1\SNIPERHOUSEBRICK5.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\FB1\SNIPERHOUSEBRICK6.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\FB1\SNIPERHOUSEBRICK7.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\FB1\SNIPERHOUSEBRICK8.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\FB1\SNIPERHOUSEBRICK9.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\FB1\SNIPERHOUSECONCRETE.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"TEX\COMMON\FB1\SNIPERHOUSEROOF.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\FB1\SNIPERHOUSEROOMS.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;0;"";"";2884
+"TEX\COMMON\FB1\TREEBARK.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\FB1\TREEBARK4.DTX";"DTX v2 (2.x/Jupiter)";256;512;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\FB1\TREEBARK5.DTX";"DTX v2 (2.x/Jupiter)";256;512;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\FB1\TREERING2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\FB1\TREERINGS.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\FB1\WINTERTREEBARK.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\FENCE1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\FIRSTAIDBOX.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\FOOD.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"TEX\COMMON\GOLDBOOK.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\GRASS.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"alpharef 128";87204
+"TEX\COMMON\GRASS1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\GRASS2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\GRASS3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\GRASS_128X32.DTX";"DTX v2 (2.x/Jupiter)";256;32;"32";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\GRASS_512X64.DTX";"DTX v2 (2.x/Jupiter)";512;64;"32";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\GRASSMOUND.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\GRASSMOUND2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\GRAVEL.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\GROUND TERRAIN.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\GUNPOWDER.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\INVISIBLE WALL.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"alpharef 255";87204
+"TEX\COMMON\LANTERN.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\LIVEOAKBARK.DTX";"DTX v2 (2.x/Jupiter)";256;1024;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\LIVEOAKLEAVES_MD_1.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"alpharef 128";174244
+"TEX\COMMON\LIVEOAKLEAVES_MD_2.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"alpharef 128";174244
+"TEX\COMMON\LIVEOAKLEAVES_MD_CLUSTER.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"S3TC DXT3";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\LOG END.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\MAP1.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\MAP2.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\MAP3.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\MAPLE LEAF CLUSTER2.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";6;0;"voll";0;2;"";"alpharef 128";87524
+"TEX\COMMON\MAPLE LEAF CLUSTER5.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"S3TC DXT3";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\MIRROR.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\MIRRORBACK.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\MISSION2\BRIAR WALL.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\MISSION2\BUSH1LEAVES.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"alpharef 128";348324
+"TEX\COMMON\MISSION2\BUSHBARK.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\MISSION2\CANNON_SIDE1.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"alpharef 128";348324
+"TEX\COMMON\MISSION2\CANNON_SIDE2.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"alpharef 128";348324
+"TEX\COMMON\MISSION2\CONFEDSOLDIER.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"alpharef 128";348324
+"TEX\COMMON\MISSION2\GRASS_HAY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\MISSION2\GROUNDZERO.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT5";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\MISSION2\MOUNTAINBACKGROUND.DTX";"DTX v2 (2.x/Jupiter)";1024;256;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\MISSION2\NEW BRICK.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\MISSION2\ROOFWOOD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\MISSION2\ROPE.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\MISSION2\TRAINTRKGRAVEL.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\MISSION2\TRAINTRKRAIL.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\MISSION2\TRAINTRKTIE.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\MISSION2\UNIONSOLDIER.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"alpharef 128";348324
+"TEX\COMMON\MOSS.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\MOSSTODIRT2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\MOSSYROCK.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\MOUNTAINBACKGROUND_WINTER.DTX";"DTX v2 (2.x/Jupiter)";1024;256;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\OFFICERSTENT .DTX";"DTX v2 (2.x/Jupiter)";512;256;"32";4;0;"voll";0;0;"";"";696484
+"TEX\COMMON\OFFICERSTENT-FRONTSIDE.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\OFFICERSTENTFRONT.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\PINETREE.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\PLANT2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\PLATECS.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\PLATEUS.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\POTATOESKIN.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\PRIVATESTENT.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\PRIVATESTENT2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\PRIVATESTENT2B.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\PRIVATESTENT3.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\PRIVATESTENT3B.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\REDBOOK.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\ROCK.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\ROPE.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\SHRUB1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\SHRUB2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\SHRUB3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\SKIES\DAYCLOUDS.DTX";"DTX v2 (2.x/Jupiter)";1024;256;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\SKIES\DUSK4.DTX";"DTX v2 (2.x/Jupiter)";1024;256;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\SKIES\DUSKDARK.DTX";"DTX v2 (2.x/Jupiter)";1024;256;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\SKIES\WINTER.DTX";"DTX v2 (2.x/Jupiter)";1024;256;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\SKY.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";1;0;"voll";0;0;"NOSYSCACHE";"";2884
+"TEX\COMMON\SM3\BARREL.DTX";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\SM3\BOX.DTX";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\SM3\CANNON.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM3\CANTEEN-TOP.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\SM3\CANTEEN2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\SM3\CANVASBAND.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;0;"";"";2884
+"TEX\COMMON\SM3\CEDFENCE.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM3\DENSETREELINE2.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"S3TC DXT3";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\SM3\DIRTGRAY2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM3\DIRTGRAY3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM3\DIRTROAD_GRSMLCH.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\SM3\DIRTY CLOTH.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\SM3\GRASS1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM3\GRASS2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM3\GRASS3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM3\GRASS_TO_DIRT.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM3\GRASS_TO_DIRT2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM3\GRASS_TO_DIRT3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM3\GROUND TERRAIN.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM3\HORSE1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\SM3\LIMESTO3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM3\MAPLE LEAF CLUSTER5.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"S3TC DXT3";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\SM3\OLDWOOD.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM3\PLANAR TREE.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"S3TC DXT3";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\SM3\PLANARTREE2.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"S3TC DXT3";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\SM3\PLANARTREE_CEDAR1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\SM3\PLANARTREE_CEDAR2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\SM3\PLANARTREE_CEDAR3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\SM3\POWDERBARREL.DTX";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"TEX\COMMON\SM3\PRIVATESTENT.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM3\SM3TERRAIN.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"S3TC DXT1";4;0;"voll";0;0;"";"";696484
+"TEX\COMMON\SM3\SM3TERRAIN2.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"S3TC DXT1";4;0;"voll";0;0;"";"";696484
+"TEX\COMMON\SM3\SM3TERRAIN3.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"S3TC DXT1";4;0;"voll";0;0;"";"";696484
+"TEX\COMMON\SM3\SPARSETREELINE.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"S3TC DXT3";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\SM3\TREEBARK.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\SM3\WOODPILE.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\SM4\DIRTROAD.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM4\DIRTROAD_WGRASS.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\SM4\DIRTROAD_WMLCH.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM4\DIRTROAD_WMULCH.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM4\GRASS3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM4\OFFICERSTENT .DTX";"DTX v2 (2.x/Jupiter)";512;256;"32";4;0;"voll";0;0;"";"";696484
+"TEX\COMMON\SM4\OFFICERSTENT-FRONTSIDE.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\SM4\OFFICERSTENTFRONT.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\SM4\PRIVATESTENT.DTX";"DTX v2 (2.x/Jupiter)";256;128;"32";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\SM4\PRIVATESTENT2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\SM4\PRIVATESTENT2B.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\SM4\PRIVATESTENT3.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\SM4\PRIVATESTENT3B.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\SM4\WOODPOLES.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\SM5\BRUSH_512X64.DTX";"DTX v2 (2.x/Jupiter)";512;256;"32";4;0;"voll";0;0;"";"";696484
+"TEX\COMMON\SM5\BUSH1LEAVES.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\SM5\BUSHBARK.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\SM5\HAY.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\SM5\HAY2.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\SM5\LATTICE.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\SM5\LATTICELEAVES.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\SM5\LATTICELEAVES2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\SM5\LATTICELEAVES3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\SM5\LINK1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\SM5\STONEWALL.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\SM5\THICKET2.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"32";4;0;"voll";0;0;"";"";5570724
+"TEX\COMMON\SM5\TREEBARK.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\SM5\TREELINE.DTX";"DTX v2 (2.x/Jupiter)";1024;256;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\SM5\TREETOP.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\TABLE.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"TEX\COMMON\TABLE_WOOD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\TELEGRAPH.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAIN.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"S3TC DXT1";4;0;"voll";0;0;"";"";696484
+"TEX\COMMON\TERRAINS\DIRTGRAY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\DIRTGRAY2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\DIRTROAD1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\DIRTROAD1A.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\DIRTTOGRAVEL.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\DIRTTOGRAVEL2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\FORREST1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\FORREST2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\FORREST3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\GRASS1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\GRASS2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\GRASS3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\GRASS3A.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\GRASS4.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\GRASS5.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\GRASS6.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\GRASS7.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\GRASS7A.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"S3TC DXT1";4;0;"voll";0;0;"";"";696484
+"TEX\COMMON\TERRAINS\GRASS7TO3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\GRASS7TO3A.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\GRASS_LEAVES.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\GRASSDIRT.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\GRASSWDEADLEAVES.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\GRASSWDEADLEAVES2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\LIMESTONE_ROCK.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\MOSS.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\MUD 1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\MUD2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\MUD3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\MUD4.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\NEW GRASS6.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\NEW GRASS7.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\NEW GRASS7A.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\NEWFORREST2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\PLANARTREEBROWN1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\TERRAINS\PLANARTREEBROWN2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\TERRAINS\PLANARTREEBROWN3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\TERRAINS\PLANARTREEGREEN1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\TERRAINS\PLANARTREEGREEN2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\TERRAINS\PLANARTREEGREEN3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\TERRAINS\ROCK1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\ROCK2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TERRAINS\WHITE_LIMESTONE.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"TEX\COMMON\TINCUP.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"TEX\COMMON\TREEBARK.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\TREELINE_1024X256.DTX";"DTX v2 (2.x/Jupiter)";1024;256;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\TREEMAP.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"alpharef 128";348324
+"TEX\COMMON\TREEOAKLEAVES.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 128";1392804
+"TEX\COMMON\TREES.DTX";"DTX v2 (2.x/Jupiter)";512;256;"32";4;0;"voll";0;0;"";"alpharef 128";696484
+"TEX\COMMON\UNION SOLDIERHEAD.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"FULLBRITE";"";348324
+"TEX\COMMON\UNIONSOLDIER.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";7;0;"voll";0;2;"";"mipmapbias -1";174916
+"TEX\COMMON\WEEDS.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\WEEDS2.DTX";"DTX v2 (2.x/Jupiter)";128;256;"32";4;0;"voll";0;0;"";"alpharef 128";174244
+"TEX\COMMON\WEEDS3.DTX";"DTX v2 (2.x/Jupiter)";128;256;"32";4;0;"voll";0;0;"";"alpharef 128";174244
+"TEX\COMMON\WEEDS4_FESCUE.DTX";"DTX v2 (2.x/Jupiter)";256;512;"32";4;0;"voll";0;0;"";"alpharef 128";696484
+"TEX\COMMON\WOODPOLES.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\WORLDMODELS\AXE.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\WORLDMODELS\BURLAPSACK.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\WORLDMODELS\COVEREDWAGON.DTX";"DTX v2 (2.x/Jupiter)";512;256;"32";4;0;"voll";0;0;"";"";696484
+"TEX\COMMON\WORLDMODELS\HORSE.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\WORLDMODELS\LETTERSEAL.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\WORLDMODELS\PITCHFORK.DTX";"DTX v2 (2.x/Jupiter)";512;128;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\WORLDMODELS\SAW1.DTX";"DTX v2 (2.x/Jupiter)";256;64;"32";4;0;"voll";0;0;"";"";87204
+"TEX\COMMON\WORLDMODELS\STOOLLEGS.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\WORLDMODELS\STOOLSEAT.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"TEX\COMMON\WORLDMODELS\TELEGRAPH-GUTS.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\WORLDMODELS\TELEGRAPH-SIDE.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\WORLDMODELS\TELEGRAPH.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"TEX\COMMON\WORLDMODELS\TREELOG1.DTX";"DTX v2 (2.x/Jupiter)";128;512;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\WORLDMODELS\TREELOG2.DTX";"DTX v2 (2.x/Jupiter)";128;512;"32";4;0;"voll";0;0;"";"";348324
+"TEX\COMMON\WORLDMODELS\WAGONPLANKS.DTX";"DTX v2 (2.x/Jupiter)";512;256;"32";4;0;"voll";0;0;"";"";696484
+"TEX\COMMON\WORLDMODELS\WHEEL.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEX\COMMON\WORLDMODELS\WHEELMETAL2.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEX\GOURAUD.DTX";"DTX v2 (2.x/Jupiter)";128;32;"S3TC DXT5";1;0;"voll";0;0;"FULLBRITE";"alpharef 120";4260
+"TEX\INVISIBLE.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";1;0;"voll";0;0;"";"";8356
+"TEX\LIGHTMAP.DTX";"DTX v2 (2.x/Jupiter)";128;32;"S3TC DXT5";1;0;"voll";0;0;"FULLBRITE";"alpharef 120";4260
+"TEX\OCCLUDER.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"TEX\SKY.DTX";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";1;0;"voll";0;0;"NOSYSCACHE";"";2884
+"TEX\TRANSNULL.DTX";"DTX v2 (2.x/Jupiter)";16;16;"S3TC DXT5";3;0;"voll";0;0;"";"";500
+"TEXFX\BUMP\BUMPTEST01.DTX";"DTX v2 (2.x/Jupiter)";512;256;"32";4;0;"voll";0;0;"";"";696484
+"TEXFX\BUMP\BUMPTEST02.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\BUMP\BUMPTEST03.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\BUMP\BUMPTEST04.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\BUMP\BUMPTEST05.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\BUMP\BUMPTEST06.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\BUMP\BUMPTEST07.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\BUMP\BUMPTEST08.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\BUMP\BUMPTEST09.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\BUMP\BUMPTEST10.DTX";"DTX v2 (2.x/Jupiter)";512;256;"32";4;0;"voll";0;0;"";"";696484
+"TEXFX\BUMP\BUMPTEST11.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\BUMP\BUMPTEST12.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\BUMP\BUMPTEST13.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\BUMP\BUMPTEST14.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\BUMP\BUMPTEST15.DTX";"DTX v2 (2.x/Jupiter)";1024;1024;"32";4;0;"voll";0;0;"";"";5570724
+"TEXFX\BUMP\BUMPTEST16.DTX";"DTX v2 (2.x/Jupiter)";1024;512;"32";4;0;"voll";0;0;"";"";2785444
+"TEXFX\BUMP\BUMPTEST17.DTX";"DTX v2 (2.x/Jupiter)";1024;512;"32";4;0;"voll";0;0;"";"";2785444
+"TEXFX\BUMP\BUMPTEST18.DTX";"DTX v2 (2.x/Jupiter)";1024;512;"32";4;0;"voll";0;0;"";"";2785444
+"TEXFX\BUMP\BUMPTEST19.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\BUMP\BUMPTEST20.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\BUMP\BUMPTEST21.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\BUMP\BUMPTEST22.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\BUMP\BUMPTEST23.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\BUMP\BUMPTEST24.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\BUMP\BUMPTEST25.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\BUMP\BUMPTEST26.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\BUMP\BUMPTEST27.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\BUMP\BUMPTEST28.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\BUMP\BUMPTEST29.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\BUMP\BUMPTEST30.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\BUMP\CAB_IN.DTX";"DTX v2 (2.x/Jupiter)";128;256;"S3TC DXT5";4;0;"voll";0;0;"";"EnvBumpMap TexFx\EnvMap\Global006.dtx TexFX\Bump\Bumptest06.dtx";43684
+"TEXFX\BUMP\GLOBE.DTX";"DTX v2 (2.x/Jupiter)";512;256;"32";4;0;"voll";0;0;"LUMBUMPMAP";"";696484
+"TEXFX\BUMP\MDSIB001.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"EnvBumpMap TexFx\EnvMap\Global006.dtx TexFX\Bump\Bumptest15.dtx";43684
+"TEXFX\BUMP\MOSIB006.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"FULLBRITE";"EnvBumpMap TexFx\EnvMapAlpha\Global010.dtx TexFX\Bump\Bumptest09.dtx";43684
+"TEXFX\BUMP\MOSIB008.DTX";"DTX v2 (2.x/Jupiter)";128;64;"S3TC DXT5";2;0;"voll";0;1;"FULLBRITE";"EnvBumpMap TexFx\EnvMapAlpha\Global009.dtx TexFX\Bump\Bumptest12.dtx";11044
+"TEXFX\BUMP\MOSIB009.DTX";"DTX v2 (2.x/Jupiter)";256;64;"S3TC DXT1";4;0;"voll";0;0;"";"EnvBumpMap TexFx\EnvMapAlpha\Global009.dtx TexFX\Bump\Bumptest12.dtx";11044
+"TEXFX\BUMP\MWOHI009.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"EnvBumpMap TexFx\EnvMap\Global004.dtx TexFX\Bump\Bumptest27.dtx";11044
+"TEXFX\BUMP\MWOHI013.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"EnvBumpMap TexFx\EnvMap\Global004.dtx TexFX\Bump\Bumptest26.dtx";43684
+"TEXFX\BUMP\RFUW001.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"EnvBumpMap TexFx\EnvMap\Global006.dtx TexFX\Bump\Bumptest02.dtx";43684
+"TEXFX\BUMP\RFUW002.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"EnvBumpMap TexFx\EnvMapAlpha\Global008.dtx TexFX\Bump\Bumptest01.dtx";348324
+"TEXFX\BUMP\RFUW003.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"EnvBumpMap TexFx\EnvMap\Global007.dtx TexFX\Bump\Bumptest19.dtx";348324
+"TEXFX\BUMP\SFSIB006.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"EnvBumpMap TexFx\EnvMapAlpha\Lair06.dtx TexFX\Bump\Bumptest06.dtx";43684
+"TEXFX\BUMP\SFSIB009.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"EnvBumpMap TexFx\EnvMap\Global002.dtx TexFX\Bump\Bumptest25.dtx";43684
+"TEXFX\BUMP\SWSIB018.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"EnvBumpMap TexFx\EnvMapALPHA\LAIR07.dtx TexFX\Bump\Bumptest19.dtx";43684
+"TEXFX\BUMP\SWSIB019.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"EnvBumpMap TexFx\EnvMap\Global007.dtx TexFX\Bump\Bumptest19.dtx";43684
+"TEXFX\BUMP\TOSIB005.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"EnvBumpMap TexFx\EnvMapAlpha\Global008.dtx TexFX\Bump\Bumptest01.dtx";87204
+"TEXFX\BUMP\TROPHY.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"LUMBUMPMAP";"";1392804
+"TEXFX\BUMP\TWIS001.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"EnvBumpMap TexFx\EnvMapAlpha\Lair07.dtx TexFX\Bump\Bumptest01.dtx";174244
+"TEXFX\BUMP\UNITY1.DTX";"DTX v2 (2.x/Jupiter)";512;256;"S3TC DXT1";4;0;"voll";0;0;"";"EnvBumpMap TexFx\EnvMap\Global006c.dtx TexFX\Bump\Unity1bump.dtx";87204
+"TEXFX\BUMP\UNITY1BUMP.DTX";"DTX v2 (2.x/Jupiter)";1024;512;"32";4;0;"voll";0;0;"LUMBUMPMAP";"";2785444
+"TEXFX\CUBIC\FBWATER001_FULLTRANS.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 200";1392804
+"TEXFX\CUBIC\FBWATER001_NOALPHA.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 64; EnvBumpMap  TexFX\Cubic\FBWater001_NoAlpha.dtx TexFX\Cubic\FBWater001_FullTrans.dtx";1392804
+"TEXFX\FOLIAGE\LEAF1.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\FOLIAGE\LEAF2.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\FOLIAGE\LEAF3.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\FOLIAGE\SAKE1.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"TEXFX\FOLIAGE\SAKE2.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"TEXFX\FOLIAGE\SAKE3.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"TEXFX\FOLIAGE\SPLINTER1.DTX";"DTX v2 (2.x/Jupiter)";32;64;"32";4;0;"voll";0;0;"";"";11044
+"TEXFX\FOLIAGE\SPLINTER2.DTX";"DTX v2 (2.x/Jupiter)";32;64;"32";4;0;"voll";0;0;"";"";11044
+"TEXFX\FOLIAGE\SPLINTER3.DTX";"DTX v2 (2.x/Jupiter)";32;64;"32";4;0;"voll";0;0;"";"";11044
+"TEXFX\GRASS\GENBRUSH1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";4;0;"voll";0;0;"FULLBRITE";"alpharef 128";21924
+"TEXFX\GRASS\GENBRUSH2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";4;0;"voll";0;0;"FULLBRITE";"alpharef 128";21924
+"TEXFX\GRASS\GENBRUSH3.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";21924
+"TEXFX\GRASS\GENBRUSH4.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";4;0;"voll";0;0;"FULLBRITE";"alpharef 128";21924
+"TEXFX\GRASS\GENBRUSH5.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";4;0;"voll";0;0;"FULLBRITE";"alpharef 128";21924
+"TEXFX\GRASS\GENBRUSH6.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";4;0;"voll";0;0;"FULLBRITE";"alpharef 128";21924
+"TEXFX\GRASS\GENGRASS1.DTX";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;1;"";"alpharef 96";87204
+"TEXFX\GRASS\GENGRASS2.DTX";"DTX v2 (2.x/Jupiter)";128;64;"S3TC DXT5";4;0;"voll";0;0;"FULLBRITE";"alpharef 128";11044
+"TEXFX\GRASS\GENGRASS3.DTX";"DTX v2 (2.x/Jupiter)";128;64;"32";4;0;"voll";0;0;"";"";43684
+"TEXFX\GRASS\GENGRASS4.DTX";"DTX v2 (2.x/Jupiter)";128;64;"S3TC DXT5";4;0;"voll";0;0;"FULLBRITE";"alpharef 128";11044
+"TEXFX\GRASS\GENGRASS5.DTX";"DTX v2 (2.x/Jupiter)";128;64;"S3TC DXT5";4;0;"voll";0;0;"FULLBRITE";"alpharef 128";11044
+"TEXFX\GRASS\GENGRASS6.DTX";"DTX v2 (2.x/Jupiter)";128;64;"S3TC DXT5";4;0;"voll";0;0;"FULLBRITE";"alpharef 128";11044
+"TEXFX\GRASS\GENGRASS7.DTX";"DTX v2 (2.x/Jupiter)";64;128;"S3TC DXT5";4;0;"voll";0;0;"FULLBRITE";"alpharef 128";11044
+"TEXFX\GRASS\GENGRASS8.DTX";"DTX v2 (2.x/Jupiter)";64;128;"S3TC DXT5";4;0;"voll";0;0;"FULLBRITE";"alpharef 128";11044
+"TEXFX\GRASS\GENGRASS9.DTX";"DTX v2 (2.x/Jupiter)";64;128;"S3TC DXT5";4;0;"voll";0;0;"FULLBRITE";"alpharef 128";11044
+"TEXFX\GRASS\GRASS1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";348324
+"TEXFX\GRASS\GRASS2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";348324
+"TEXFX\GRASS\GRASS_JJ.DTX";"DTX v2 (2.x/Jupiter)";512;256;"32";4;0;"voll";0;0;"";"AlphaRef 128;";696484
+"TEXFX\GRASS\KELP1.DTX";"DTX v2 (2.x/Jupiter)";64;512;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef128";43684
+"TEXFX\MISC\BURN1.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\MISC\BURN2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\MISC\BURN_SMOOTH.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\MISC\BURN_SMOOTH2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\MISC\BURN_SMOOTH3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\MISC\BURNTEST1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\MISC\BURNTEST2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\MISC\BURNTEST3.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\MISC\BURNTEST4.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\MISC\BURNTEST5.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\MISC\BURNTEST6.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\MISC\BURNTEST7.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\NORMAL\BUMPTEST05.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\NORMAL\BUMPTEST30.DTX";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"TEXFX\NORMAL\LAVABUMP.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\NORMAL\NORM001.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM002.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM003.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM004.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM005.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM006.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM007.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM008.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM009.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM010.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM011.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM012.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM013.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM014.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM015.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM016.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM017.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM018.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM019.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM020.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM021.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM022.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM023.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM024.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM025.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM026.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM027.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM028.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM029.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM030.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM031.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM032.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM033.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM034.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM035.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM036.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM037.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM038.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM039.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM040.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM041.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM042.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM043.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM044.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM045.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM046.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM047.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM048.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM049.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM050.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM051.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM052.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM053.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM054.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM055.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM056.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM057.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM058.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM059.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM060.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM061.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM062.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM063.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM064.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM065.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM066.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM067.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM068.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM069.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM070.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM071.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM072.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM073.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM074.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM075.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM076.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM077.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM078.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM079.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM080.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM081.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM082.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM083.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM084.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM085.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM086.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM087.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM088.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM089.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORM090.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1001.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1002.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1003.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1004.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1005.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1006.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1007.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1008.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1009.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1010.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1011.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1012.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1013.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1014.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1015.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1016.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1017.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1018.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1019.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1020.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1021.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1022.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1023.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1024.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1025.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1026.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1027.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1028.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1029.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMAL1030.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\NORMAL\NORMTEST06.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\RENDERSTYLES\BANANASHINE.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";1;0;"voll";0;0;"";"";87204
+"TEXFX\RENDERSTYLES\CHROME.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\RENDERSTYLES\CHROME2.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\RENDERSTYLES\CLOUDS.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\RENDERSTYLES\CLOUDS1.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\RENDERSTYLES\CLOUDS2.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"";1392804
+"TEXFX\RENDERSTYLES\GOLD.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";1;0;"voll";0;0;"";"";87204
+"TEXFX\RENDERSTYLES\MIRROR.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\RENDERSTYLES\SHIMMER.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"TEXFX\RENDERSTYLES\SHIMMER2.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"TEXFX\RENDERSTYLES\SHINE.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"TEXFX\RENDERSTYLES\SHINE2.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"TEXFX\RENDERSTYLES\SHINE3.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"TEXFX\RENDERSTYLES\SHINE4.DTX";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"TEXFX\RENDERSTYLES\SHINYSPOT.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";4;0;"voll";0;0;"";"";87204
+"TEXFX\SNOW\ISLAND_FOG.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"TEXFX\SNOW\SNOWFLAKE1.DTX";"DTX v2 (2.x/Jupiter)";32;32;"32";4;0;"voll";0;0;"";"";5604
+"TEXFX\WATER\FBWATER001.DTX";"DTX v2 (2.x/Jupiter)";512;512;"32";4;0;"voll";0;0;"";"alpharef 192 envmap TexFX/Cubic/JP_Lair1.dtx";1392804

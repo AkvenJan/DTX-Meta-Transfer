@@ -1,0 +1,1018 @@
+<HTML>
+	<head>
+		<title>Jupiter PC - Release History</title>
+		<style> h1 {COLOR:indigo}
+	h2 {background-color:blueviolet;color:white;padding:2px;}
+	h3 {COLOR:indigo}
+	</style>
+	</head>
+	<body>
+		<p style="PADDING-RIGHT:2px;PADDING-LEFT:2px;PADDING-BOTTOM:2px;COLOR:white;PADDING-TOP:2px;BACKGROUND-COLOR:blueviolet">
+			<font size="+3"><b>&nbsp;JUPITER TECHNOLOGY</b></font>
+		</p>
+		<table>
+			<tr>
+				<td align="left" valign="top" width="100%">
+					<h1>
+						Release History
+					</h1>
+					<p>
+						This document contains a list of new features and changes for the current and 
+						past Jupiter Builds.
+					</p>
+					<ul type="square">
+						<li>
+							<a href="#69">Build 69</a>
+						<li>
+							<a href="#68">Build 68</a>
+						<li>
+							<a href="#67">Build 67</a>
+						<li>
+							<a href="#66">Build 66</a>
+						<li>
+							<a href="#65">Build 65</a>
+						<li>
+							<a href="#64">Build 64</a>
+						<li>
+							<a href="#63">Build 63</a>
+						<li>
+							<a href="#62">Build 62</a>
+						<li>
+							<a href="#61">Build 61</a>
+						<li>
+							<a href="#60">Build 60</a>
+						<li>
+							<a href="#59">Build 59</a>
+						<li>
+							<a href="#56">Build 56</a></li>
+					</ul>
+				</td>
+				<td align="right" valign="top">
+					<img src="LTLogo2.gif" border="0" alt="Jupiter logo">
+				</td>
+			</tr>
+		</table>
+		<h2><a name="69"></a>&nbsp;Build 69</h2>
+		<h3>
+			New Features
+		</h3>
+		<blockquote>
+			<p>
+				The Jupiter System now supports HLSL shaders through DirectX Effect files.
+			</p>
+			<p>
+				The Jupiter System now supports wide character unicode fonts.
+			</p>
+			<p>
+				The Jupiter System now supports Maya 6.5, 7.0 and Max 7.0.
+			</p>
+		</blockquote>
+		<h3>
+			Documentation:
+		</h3>
+		<blockquote>
+			<p>
+				<b><font color="#ff0000">UPDATED&nbsp;</font></b> The <a href="JupiterDevGuide.chm">
+					Jupiter Development Guide</a> provides introductory, overview, and 
+				quickstart information for programmers and artists using the Jupiter System.
+			</p>
+			<p>
+				<b><font color="#ff0000">UPDATED&nbsp;</font></b> The <A HREF="JupiterPC_API.chm">Jupiter 
+					API Reference</A> provides documentation for classes and functions.
+			</p>
+			<P>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The <a href="WhitePapers%5CJupiter Engine Overview.doc">
+					Jupiter Engine Overview</a> whitepaper outlines the basic Jupiter Engine 
+				Architecture.</P>
+			<P>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The <a href="WhitePapers%5CLipSync.doc">
+					LipSync</a> whitepaper explains the basic lipsync pipeline in Jupiter.
+			</P>
+			<P>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The <a href="WhitePapers%5CVertex Blending in Max.doc">
+					Vertex Blending in Max</a> whitepaper provides documentation on vertex 
+				blending using 3D Studio Max.
+			</P>
+			<P>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The <a href="WhitePapers%5CJupiterEffectShaders.chm">
+					Jupiter EffectShaders</a> whitepaper provides documentation on the new 
+				EffectShader system in Jupiter.
+			</P>
+		</blockquote>
+		<h3>
+			Samples:
+		</h3>
+		<blockquote>
+			<p>
+				<b><font color="#ff0000">UPDATED&nbsp;</font></b> The \Samples\audio\sounds 
+				folder contains the updated <b>Sounds</b> sample. This sample now demonstrates 
+				3D picking when pressing right-click on the mouse.
+			</p>
+			<p>
+				<b><font color="#ff0000">UPDATED&nbsp;</font></b> The \Samples\graphics\fonts 
+				folder contains the updated <b>Fonts</b> sample. This sample now demonstrates 
+				the use of the new LTFontParams class to set the TTF font style to italic. Also 
+				shows wide character unicode support.
+			</p>
+			<p>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The \Samples\graphics\effects 
+				folder contains the <b>Effect Shader</b> sample. This sample demonstrates 
+				Jupiter's use of the new EffectShader system.
+			</p>
+			<p>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The \Samples\debugging\stacktrace 
+				folder contains the <b>StackTrace</b> sample. This sample demonstrates 
+				Jupiter's use of the new Stacktrace library.
+			</p>
+			<p>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The \Samples\models\obb folder 
+				contains the <b>ModelOBB</b> sample. This sample demonstrates Jupiter's use of 
+				ray to ModelOBB collision detection.
+			</p>
+			<p>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The \Samples\graphics\bump folder 
+				contains the <b>DOT3 Bump</b> sample. This sample demonstrates Jupiter's use of 
+				DOT3 bump maps.
+			</p>
+		</blockquote>
+		<h3>
+			Tools:
+		</h3>
+		<blockquote>
+			<p>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The <b>DTXOptimizer</b> command 
+				line tool was added. This tool allows you to quickly optimize texture mipmaps 
+				and compression types. (make backups before you run this tool!)
+			</p>
+			<p>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> <b>Photoshop DTX Plug-in</b> has 
+				been re-written.
+			</p>
+		</blockquote>
+		<h3>
+			Change List
+		</h3>
+		<blockquote>
+			<p>
+				Engine
+			</p>
+			<ul>
+				<li>
+				New EffectShader system: native support for DirectX Effect files. (HLSL)
+				<li>
+				Fixed render model skeletal meshes not resetting pixel or vertex shaders.
+				<li>
+				Removed several DX8 work arounds which were causing problems with DX9 and fog.
+				<li>
+				Sound: changed 3D buffer calls to deffered instead of immediate reducing amount 
+				of potential remixes. (remix every 10ms )
+				<li>
+				Added the ability to use sprites as skins for the LTBModel effects
+				<li>
+				Fixed shadows not working properly which was introduced in version 68
+				<li>
+				Added access to the D3DDevice from game code, through GetEngineHook()
+				<li>
+				ILTFontManager::CreateFont now takes a pointer to an LTFontParams class from 
+				true type fonts which allows developer to control some of the LogFont 
+				parameters.
+				<li>
+				Allow model vertex/pixel shaders to regress to software when not supported. ( 
+				pixel/vertex shader support is &lt; 1.0 )
+				<li>
+				Use the first renderpasses dynamic light on all passes console varible 
+				"MultiPassLightMatch" "0" ( turn off multipass light match by default)
+				<li>
+				Remove various potential sound system memory leaks
+				<li>
+				Reenable renderstyle specular highlights
+				<li>
+				Windowed mode was calculating window sizes incorrectly causing the final 
+				surface to render compressed by 1 pixel in x and y. ie 640x480 final render was 
+				compressed to 639x479.
+				<li>
+				Added console varibles to control filtering in 2doptimized mode. ( useful for 
+				pixel perfect interfaces ) 2Dbilinear - default is on and 2DAnisotropic - 
+				default is off&nbsp; NOTE: when 2Danisotropic is on it takes precedent over 
+				2Dbilinear
+				<li>
+				Engine now save render states after default states are set
+				<li>
+				Remove crash calling 0 if sound device doesn't exist on a machine. The 
+				application needs to handle the return value during InitSound()
+				<li>
+				Reimplemented text colors in the console display.
+				<li>
+				added CloseHandle() to directmusic thread shutdown - causing memory leak
+				<li>
+				memory allocations of zero bytes is now allocated as a valid pointer. This 
+				fixes several DirectX warnings and failures.
+				<li>
+				add to existing console error: ModelInstance::UpdateCachedTransforms failed for 
+				%s. "Possible missing weightset(s)" This could mean that a model has missing 
+				weightset for animations.
+				<li>
+				Fixed issue with DrawSurfaceMasked().
+				<li>
+				Wide character unicode support through ilttexturestring interface.
+				<li>
+				Fixed animation tracker out of sync reset issue when other tracker are updated.
+				<li>
+				Optimization: Updated packet class to do full memcpy copy instead of 32 bits at 
+				a time.
+				<li>
+				ModelOBB support fully re-enabled.
+				<li>
+				DOT3 Bump-map support using the fixed function pipeline.
+				<li>
+				Fixed GetVersionInfo and GetPerformanceInfo
+				<li>
+				Fixed DOS attack issue which caused network thread to exit, kicking all 
+				connected clients.
+			</ul>
+			<p>
+				Libs
+			</p>
+			<ul>
+				<li>
+				dtxmgr: Used for apps that need to manipulate DTX files easily.
+				<li>
+				ButeMgr: change save so exception isn't throwned causing destructors to be 
+				called when unloading object.lto
+				<li>
+					stacktrace: Added stacktrace library which provides an interface for runtime 
+					stack traces
+				</li>
+			</ul>
+			<p>
+				Tools
+			</p>
+			<ul>
+				<li>
+				FxED: Fixed the one time startup crash
+				<li>
+				WorldPacker: updated compiler optimizations for speed.
+				<li>
+				DEdit: modified error message when failed to load object.lto. Should give more 
+				info now.
+				<li>
+				DEdit: now passes the current project directory to winpacker.
+				<li>
+				DEdit: "Hollow" option is re-enabled. "Carve" option removed as it has been 
+				disabled for a while.
+				<li>
+				Don't allow Modeledit and Modelpacker to open world or renderstyles .lta's. 
+				These are not valid models and if they are opened with Modeledit etc it will 
+				crash.
+				<li>
+					ModelEdit: Fix Piece LOD generate so the LOD is viewable without saving and 
+					reloading the model
+				</li>
+				<li>
+					RenderStyle Editor:
+					<ul>
+						<li>
+						Fix ColorOp and AlphaOp for editor and packer. Remove PS2 options.
+						<li>
+						Fix incorrect colorop drop down ( not all options were displayed )
+						<li>
+						Fix some ColorOp's not being written to the lta file.
+						<li>
+						Add in COLOROP_MODULATETEXTUREALPHA ALPHAOP_MODULATETEXTUREALPHA. These were 
+						added to the engine but not the packer or editor.
+					</ul>
+				</li>
+				<li>
+					Plugins: Added support for Maya 6.5 & 7.0.</li>
+				<li>
+					Plugins: Added support for Max 7.0.</li>
+				<li>
+				Plugins: Max Model Exporter: Fixed 180 rotation problem.
+			</ul>
+			<p>
+				ClientFX
+			</p>
+			<ul>
+				<li>
+				LTBModel: can use sprite as skin now.
+				<li>
+				FX can use the new EffectShader system. (for applicable FX)
+			</ul>
+		</blockquote>
+		<h2><a name="68"></a>&nbsp;Build 68</h2>
+		<h3>
+			New Features
+		</h3>
+		<blockquote>
+			<p>
+				The Jupiter System now supports Visual C++ .NET 2003 (7.1). The Jupiter System 
+				still supports Visual C++ .NET 2002 (7.0). <i>Visual C++ 6 is, however, no longer 
+					supported due to requirements for DirectX 9.</i>
+			</p>
+			<p>
+				The Jupiter System engine, tools, and samples have been modified to use DirectX 
+				9.
+			</p>
+			<p>
+				The Jupiter System now supports Maya 6.0.
+			</p>
+			<p>
+				The Jupiter System now supports DirectShow for video playback.
+			</p>
+			<p>
+				Support for Linux has been added to the Jupiter System server library.
+			</p>
+		</blockquote>
+		<h3>
+			Documentation:
+		</h3>
+		<blockquote>
+			<p>
+				<b><font color="#ff0000">UPDATED&nbsp;</font></b> The <a href="JupiterDevGuide.chm">
+					Jupiter Development Guide</a> provides introductory, overview, and 
+				quickstart information for programmers and artists using the Jupiter System.
+			</p>
+			<p>
+				<b><font color="#ff0000">UPDATED&nbsp;</font></b> The <A HREF="JupiterPC_API.chm">Jupiter 
+					API Reference</A> provides documentation for classes and functions.
+			</p>
+			<p>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The <a href="WhitePapers%5CCollisionTypesInJupiter.doc">
+					Collision Types in Jupiter</a> whitepaper describes the different options 
+				for collision primitives in the Jupiter System.
+			</p>
+			<p>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The <a href="WhitePapers%5CGeneralDebugging101.doc">
+					General Debugging 101</a> whitepaper contains some useful techniques for 
+				debugging the Jupiter System for PC. Many of the techniques described may be of 
+				use outside of the Jupiter System.
+			</p>
+			<p>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The <a href="WhitePapers%5CImporting Custom LODs.doc">
+					Importing Custom LODs</a> whitepaper explains how to import model LODs 
+				(level-of-detail) made in 3D Studio Max or Maya into ModelEdit.
+			</p>
+			<p>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The <a href="WhitePapers%5CLinux Dedicated Server.doc">
+					Linux Dedicated Server</a> whitepaper explains how to build the Linux 
+				server library and dedicated server sample application.
+			</p>
+			<p>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The <a href="WhitePapers%5CRendererVisibilitySystem.doc">
+					Renderer Visibility System</a> whitepaper explains the details of the 
+				Jupiter occluder system.
+			</p>
+		</blockquote>
+		<h3>
+			Samples:
+		</h3>
+		<blockquote>
+			<p>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The \Samples\audio\music folder 
+				contains the <b>Music</b> sample. This sample demonstrates Jupiter's 
+				DirectMusic interface using music files from No One Lives Forever™ 2.
+			</p>
+			<p>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The \Samples\graphics\fonts\ 
+				folder contains the <b>Fonts</b> sample. This sample demonstrates the creation 
+				and display of vector (*.ttf) and bitmap (*.dtx) fonts.
+			</p>
+			<p>
+				<b><font color="#ff0000">UPDATED&nbsp;</font></b> The 
+				\Samples\graphics\shaders\ folder contains the <b>Shaders</b> sample. This 
+				sample demonstrates the use of vertex and pixel shaders on models using 
+				RenderStyles.
+			</p>
+			<p>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The \Samples\graphics\video 
+				folder contains the <b>Video</b> sample. This sample demonstrates the video 
+				playing functionality of Jupiter.
+			</p>
+			<p>
+				<b><font color="#ff0000">UPDATED&nbsp;</font></b> The 
+				\Samples\networking\sealhunter folder contains the <b>Seal Hunter</b> sample. 
+				This light humored sample implements a single player and networked multiplayer 
+				mini game with the following features:
+			</p>
+			<ul>
+				<li>
+				Single player or multiplayer game (supports up to 12 players in multiplayer)
+				<li>
+				Windows and Linux stand-alone server for hosting games
+				<li>
+				Scoring system, current score HUD, and ranking screen
+				<li>
+				Multiplayer chat
+				<li>
+				The world features environment mapping, translucency, dynamic lighting, 
+				shadows, and skybox
+				<li>
+				ClientFX particle systems, sprites, and polytrails are used for the effects
+				<li>
+				The character can attach 3 different weapons in multiplayer
+				<li>
+				Audio clips played randomly for player smack talk
+				<li>
+					Simple AI and collision for seals</li>
+			</ul>
+		</blockquote>
+		<h3>
+			Change List
+		</h3>
+		<blockquote>
+			<p>
+				Changes That Affect Multiple Systems
+			</p>
+			<ul>
+				<li>
+				Added support for Visual C++ .NET 2003 (7.1).
+				<li>
+				Removed all Visual C++ 6 projects and workspaces. Jupiter no longer supports 
+				Visual C++ 6, because of DirectX 9 requirements.
+				<li>
+				Modified Jupiter to use DirectX 9 interfaces.
+				<li>
+				Added support for Maya 6.0.
+				<li>
+				Added DirectShow video playback support.
+				<li>
+					Added Linux server support.</li>
+			</ul>
+			<p>
+				Engine
+			</p>
+			<ul>
+				<li>
+				UI: Fixed bitmap font support.
+				<li>
+				Renderer: Fixed a SkyBox rendering error when rendering to multiple cameras.
+				<li>
+				Renderer: Disabled fogging of shadows.
+				<li>
+				Renderer: Modified renderer to use DirectX 9 interfaces.
+				<li>
+				Server: Fixed various issues in game_serialize.
+				<li>
+				Server: Added Linux server support.
+				<li>
+				ClientFX: Fixed a particle system crash for particle systems that use 
+				"FlipRenderingOrder".
+				<li>
+				Kernel: Added IHAVEPURCHASEDBINK define around Bink specific sections of code. 
+				Also added comments about how to enable it if someone was to purchase it.
+				<li>
+				Kernel: Add direct show video manager. Allows playing of avi and asf wmv ( 
+				non-drm ).
+				<li>
+				Client: Fixed bug in bilinear filtering in the console. Was being set to 
+				D3DTEXF_POINT regardless of the validity of the current filter.
+				<li>
+					sdk/inc: Added ltcrashhandler class for creating MINIDUMPs on application 
+					crash.</li>
+			</ul>
+			<p>
+				Libs
+			</p>
+			<ul>
+				<li>
+				ButeMgr: Fixed crash in ButeMgr involving strstream.
+				<li>
+				zlib: Updated zlib to version 1.2.1.
+				<li>
+				stdlith: Added std::iostream interface to gzlib.
+				<li>
+				stdlith: Removed unused CompressedIO class.
+				<li>
+					STLport: Removed STLport library, because the Visual C++ .NET 2002 and 2003 
+					projects use the Microsoft STL.</li>
+			</ul>
+			<p>
+				Tools
+			</p>
+			<ul>
+				<li>
+				DtxShellEx: Added the DtxShellEx tool, which is a Windows Explorer extension 
+				for viewing DTX files.
+				<li>
+				DtxView: Added the DtxView tool, which can open a DTX file for viewing.
+				<li>
+				dtxutil: Modified dtxutil to include two new command line options: 
+				-dtxdirreport (Recursively report dtx file info in a directory tree) and 
+				-dtxdirdelim (Recursively report dtx file info to a comma delimited file).
+				<li>
+				DEdit: Added two new options to the Node View Menu: +Delete Empty Containers 
+				and +Delete Empty Container Cascade.
+				<li>
+				DEdit: Added more descriptive information for when an object.lto fails to load.
+				<li>
+				LithRez: Updated LithRez to allow multiple wildcards.
+				<li>
+				LithRez: Fixed ExtCheck() in LithRez to be case-insensitive.
+				<li>
+				3D Studio Max Exporter: Fixed exporting of native Max boned animations.
+				<li>
+				RenderStylesEditor: Fixed a save error in the RenderStylesEditor. The 
+				vertex/pixel shader information was only getting saved if a vertex shader was 
+				used.
+				<li>
+				vcvars: Added tool that returns the correct vcvars.bat call given a variable. 
+				Ex. vcvars 6 return call "x\x\x\vcvars.bat". Available params are 6 2002 2003. 
+				Call from a batch file like this before building: call vcvars 6 &gt; doit.bat
+				<li>
+				pscompiler: Removed the pscompiler tool. This tool is no longer valid. Use the 
+				DirectX 9 shader compilers instead.
+				<li>
+				Model_Packer: Fixed incorrect command line paramter passed to compiler.
+				<li>
+					Maya 6.0 Plugins: Added support for Maya 6.0.</li>
+			</ul>
+			<p>
+				Game (NOLF2 Code)
+			</p>
+			<ul>
+				<li>
+					UI: Fixed memory leak in ltguibutton.</li>
+			</ul>
+			<p>
+				Samples
+			</p>
+			<ul>
+				<li>
+				Fonts: Added new Font sample that displays True Type, proportional bitmap, and 
+				monospace bitmap fonts.
+				<li>
+				Music: Added new Music sample that demonstrates the DirectMusic interface in 
+				Jupiter.
+				<li>
+				Seal Hunter: Added PolyTrail effect to mallet.
+				<li>
+				Seal Hunter: Added dedicated server application for Windows and Linux.
+				<li>
+				Shaders: Update the Shaders sample to support DirectX 9 shaders. Added a toon 
+				shader and the ability to switch shaders.
+				<li>
+					Video: Added video playing sample application.</li>
+			</ul>
+		</blockquote>
+		<h2><a name="67"></a>&nbsp;Build 67</h2>
+		<h3>
+			Change List
+		</h3>
+		<blockquote>
+			<p>
+				Engine
+			</p>
+			<ul>
+				<li>
+				Fixed an engine crash caused by EnvBumpMap texture command strings.
+				<li>
+				Optimized the rendering of particle systems.
+				<li>
+				Added ModelLightingSkipRootNode console variable which allows the lighting 
+				consideration to use the root node's first child node position instead of the 
+				root node position. This is useful in cases where you have a model animation 
+				that translates very far from the root node (perhaps in a cut scene).
+				<li>
+				Added missing W values to lightmapped and gouraud shaders.
+				<li>
+				Changed default value of 32bittextures to 1.
+				<li>
+				Changed zbias values to fix an ATI problem with z-fighting for lightmapped 
+				surfaces.
+				<li>
+					Fixed memory leaks.</li>
+			</ul>
+			<p>
+				Tools
+			</p>
+			<ul>
+				<li>
+				DEdit: Fixed a crash in DEdit caused by loading invalid sprites.
+				<li>
+				DEdit/FxEd: Changed splash screens for DEdit and FxEd.
+				<li>
+				WorldPacker: Fixed issue with the way ambient light is handled. Now when local 
+				and global amients are added together, the value is clamped at 255.
+				<li>
+					Plugins: Added Max5, Max6, and CS4 support.</li>
+			</ul>
+			<p>
+				Game (NOLF2 Code)
+			</p>
+			<ul>
+				<li>
+					Fixed upper body rendering error caused by tracked node control.</li>
+			</ul>
+		</blockquote>
+		<h3>
+			3D Studio Max 6.0, 3D Studio Max 5.0, and Character Studio 4 Support
+		</h3>
+		<blockquote>
+			<p>
+				The Jupiter System now supports 3D Studio Max 6.0, 3D Studio Max 5.0, and 
+				Character Studio 4. 3D Studio Max 4.0 with Character Studio 3.1.2 and 3D Studio 
+				Max 3.0 with Character Studio 3.0.2 are still supported.
+			</p>
+		</blockquote>
+		<h3>
+			Documentation:
+		</h3>
+		<blockquote>
+			<p>
+				<b><font color="#ff0000">UPDATED&nbsp;</font></b> The <a href="JupiterDevGuide.chm">
+					Jupiter Development Guide</a> provides introductory, overview, and 
+				quickstart information for programmers and artists using the Jupiter System.
+			</p>
+			<p>
+				<b><font color="#ff0000">UPDATED&nbsp;</font></b> The <A HREF="JupiterPC_API.chm">Jupiter 
+					API Reference</A> provides documentation for classes and functions.
+			</p>
+		</blockquote>
+		<h3>
+			Samples:
+		</h3>
+		<blockquote>
+			<p>
+				<b><font color="#ff0000">NEW&nbsp;</font></b> The \Samples\graphics\renderdemo\ 
+				folder contains the <b>RenderDemo</b> sample. This sample demonstrates basic 
+				polygon throughput. Models can be added in rows and columns while the polygon 
+				count and frame rate are displayed.
+			</p>
+			<p>
+				<b><font color="#ff0000">UPDATED&nbsp;</font></b> The 
+				\Samples\graphics\shaders\ folder contains the <b>Shaders</b> sample. This 
+				sample demonstrates the use of vertex and pixel shaders on models using 
+				RenderStyles.
+			</p>
+		</blockquote>
+		<h2><a name="66"></a>&nbsp;Build 66</h2>
+		<h3>
+			Bug Fixes
+		</h3>
+		<blockquote>
+			<p>
+				There have been significant bug fixes to all areas of the Jupiter System 
+				(Engine, Libs, Game, and Tools).
+			</p>
+		</blockquote>
+		<h3>
+			Visual C++ 7.0 (.NET 2002) Support
+		</h3>
+		<blockquote>
+			<p>
+				Microsoft Visual C++ 7.0 (.NET 2002) is now supported for all projects in the 
+				Jupiter System. The Jupiter System will also continue to support Visual C++ 6.
+			</p>
+		</blockquote>
+		<h3>
+			Maya 5.0 and 4.5 Support
+		</h3>
+		<blockquote>
+			<p>
+				The Jupiter System now supports Maya 5.0 and Maya 4.5 in addition to Maya 4.0 
+				and Maya 3.0.
+			</p>
+		</blockquote>
+		<h3>
+			Documentation:
+		</h3>
+		<blockquote>
+			<p>
+				The <a href="WhitePapers%5CClientFxUsage.doc">Client FX Usage</a> whitepaper 
+				explains the engineer's responsibility for using the ClientFX system in your 
+				project.
+			</p>
+			<p>
+				The <a href="WhitePapers%5CCustomGameObjects.doc">Custom Game Objects</a> whitepaper 
+				serves as a technical reference for the object flags assoiciated with custom 
+				objects.
+			</p>
+			<p>
+				The <a href="WhitePapers%5CDEditForProgrammers.doc">DEdit for Programmers</a> whitepaper 
+				explains what game programmers can do to expose functionality to level 
+				designers.
+			</p>
+			<p>
+				The <a href="WhitePapers%5CModelOverView.doc">Model Overview</a> whitepaper 
+				explains the details behind the model format, and the features of the model and 
+				animation system.
+			</p>
+		</blockquote>
+		<h3>
+			Samples:
+		</h3>
+		<blockquote>
+			<p>
+				The \Samples\audio\sounds folder contains the <b>Sounds</b> sample. This sample 
+				allows developers to experiment with different sound settings for multiple 
+				sounds.
+			</p>
+			<p>
+				The \Samples\graphics\drawprim\ folder contains the <b>DrawPrim</b> sample. 
+				This sample demostrates the use of the DrawPrim interface as a means for 
+				creating procedural terrain. The height map data in this sample was created 
+				from USGS data.
+			</p>
+			<p>
+				The \Samples\networking\nettest folder contains the <b>NetTest</b> sample. This 
+				sample demonstrates a simple way to create an in-game LAN game browser.
+			</p>
+			<p>
+				The \Samples\networking\sealhunter folder contains the <b>Seal Hunter</b> sample. 
+				This light humored sample implements a single player and networked multiplayer 
+				mini game with the following features:
+			</p>
+			<ul>
+				<li>
+				Single player or multiplayer game (supports up to 12 players in multiplayer)
+				<li>
+				Scoring system, current score HUD, and ranking screen
+				<li>
+				Multiplayer chat
+				<li>
+				The world features environment mapping, translucency, dynamic lighting, 
+				shadows, and skybox
+				<li>
+				ClientFX systems are used for the effects
+				<li>
+				The character can attach 3 different weapons in multiplayer
+				<li>
+				Audio clips played randomly for player smack talk
+				<li>
+					Simple AI and collision for seals</li>
+			</ul>
+		</blockquote>
+		<h2><a name="65"></a>&nbsp;Build 65</h2>
+		<h3>
+			Engine:
+		</h3>
+		<blockquote>
+			<p>
+				Added vertex shader and pixel shader support for rigid, skeletal, and vertex 
+				animated models. Vertex and pixel shaders can now be applied to models using 
+				the RenderStylesEditor and loaded and activated through a new API.
+			</p>
+		</blockquote>
+		<h3>
+			Documentation:
+		</h3>
+		<blockquote>
+			<p>
+				The <A HREF="docs%5CUsing Vertex Shaders With Models.doc">Using Vertex Shaders With 
+					Models</A> whitepaper provides documentation on vertex shader support for 
+				models in Jupiter.
+			</p>
+			<p>
+				The <A HREF="docs%5CUsing Pixel Shaders With Models.doc">Using Pixel Shaders With 
+					Models</A> whitepaper provides documentation on pixel shader support for 
+				models in Jupiter.
+			</p>
+		</blockquote>
+		<h3>
+			Samples:
+		</h3>
+		<blockquote>
+			<p>
+				The \Samples\graphics\shaders\ folder contains the <b>Shaders</b> sample. This 
+				sample demonstrates the use of vertex and pixel shaders on models using 
+				RenderStyles.
+			</p>
+		</blockquote>
+		<h2><a name="64"></a>&nbsp;Build 64</h2>
+		<h3>
+			Documentation:
+		</h3>
+		<blockquote>
+			<p>
+				The <a href="5CJupiterHelp.chm">LithTech Jupiter Development Guide</a> online 
+				help document provide introductory, overview, and quickstart information for 
+				using the Jupiter System. You can access the <b>Jupiter Development Guide</b> from 
+				the <b>Start&gt;LithTech&gt;Docs</b> menu.
+			</p>
+			<p>
+				NOTE: All the past Jupiter build notes are now located in <a href="5Cjupiter_release_history.htm">
+					Jupiter_release_history.htm</a> in the following folder: <font face="Courier New, Courier, mono">
+					LithTech\LT_Jupiter_Src\Docs</font>
+			</p>
+			<p>
+				The <b>Creating Animations2</b> tutorial builds on the Creating Animations 
+				tutorial, and provides instructions for programmatically playing more advanced 
+				model animations in a multiplayer environment. The Creating Animations2 
+				tutorial is located in the Tutorials section of the Jupiter Development Guide.
+			</p>
+			<p>
+				The <b>Working With KeyFrames</b> section of DEdit provides instructions for 
+				using the KeyFramer object to animate WorldModels.
+			</p>
+			<p>
+				The <b>Working With Prefabs</b> section of DEdit provides instructions for 
+				creating and modifying prefabs.
+			</p>
+			<p>
+				The LithTech Jupiter engine <b>API Reference</b> is now included in the 
+				Development Guide in addition to existing as a separate online help system.
+			</p>
+			<p>
+				The DEdit &gt;Adding Sky to Your Level tutorial has been updated to include 
+				more current procedures for creating skyboxes.
+			</p>
+		</blockquote>
+		<h3>
+			Samples:
+		</h3>
+		<blockquote>
+			<p>
+				The \Samples\tutorials\animations2 folder contains the <b>animations2</b> sample. 
+				This sample is the same as the animations sample, but has been expanded to 
+				include code implementing more advanced model animations in a multiplayer 
+				environment.
+			</p>
+			<p>
+				The \Samples\tutorials\doors folder contains the <b>doors</b> sample. This 
+				sample shows how to create a simple door that opens when touched by the player 
+				or a projectile. It also allows placement of the door through the DEdit 
+				application.
+			</p>
+			<p>
+				The \Samples\tutorials\specialeffects1 folder contains the <b>specialeffects1</b>
+				sample. This sample combines the effects of the Animations2 tutorial and the 
+				clientFX sample.
+			</p>
+			<p>
+				The \Samples\base\attachments folder contains the <b>attachments</b> sample. 
+				This sample builds on the samplebase sample and shows how to make an 
+				attachment, break an attachment, and attach different objects to one socket.
+			</p>
+			<p>
+				The \Development\TO2\Game\Prefabs\Samples folder contains the <b>LightSample-Simple.lta</b>
+				and <b>LightSample-Fluorescent.lta</b> sample prefabs. These samples show how 
+				to create light prefabs you can turn on or off in a level. Documentation for 
+				both prefabs is available in the DEdit\Working With Prefabs section of the 
+				Jupiter Development Guide.
+			</p>
+		</blockquote>
+		<h2><a name="63"></a>&nbsp;Build 63</h2>
+		<h3>
+			Documentation:
+		</h3>
+		<blockquote>
+			<P>Updated the <a href="JupiterHelp.chm">LithTech Jupiter Help.chm</a> document 
+				with the following sections.You can access the <b>Jupiter Development Guide</b> 
+				from the <b>Start&gt;LithTech&gt;Docs</b>
+			menu.
+			<P>
+			The Creating Animations tutorial provides instructions for programmatically 
+			playing simple model animations in multiplayer environment.
+			<P>
+			The ClientFX section provides a detailed technical explanation of the required 
+			components and implementation efforts needed to successfully use the ClientFX 
+			system within your current project under the LithTech Jupiter Development 
+			System.
+			<P>
+				The Working With AI section provides descriptions of all the AI components 
+				necessary to implement NOLF 2 AI. It also includes a tutorial and sample level 
+				showing how to place and set up the various AI components.</P>
+		</blockquote>
+		<h3>
+			Samples:
+		</h3>
+		<blockquote>
+			<P>
+			The \Samples\tutorials\animations folder contains the new animations tutorial. 
+			This tutorial is the same as the projectiles tutorial, but has been expanded to 
+			include code implementing simple model animations in a multiplayer environment.
+			<P>
+			The \Samples\base\clientfx folder contains the new clientfx sample. This sample 
+			allows developers to browse and view effects created by artists. This sample 
+			reads through all of the effects in the current .fxf file and creates a 
+			graphical selection menu allowing you to scroll through and play any effects in 
+			that list.
+			<P>
+				The \Development\TO2\Game\Worlds\RetailSinglePlayer\ folder contains the 
+				Tut_AI.ltc sample. This sample shows how to implement NOLF 2 AI.</P>
+		</blockquote>
+		<h2><a name="62"></a>&nbsp;Build 62</h2>
+		<h3>
+			Game:
+		</h3>
+		<blockquote>
+			<p>
+			If you are using an earlier build of Jupiter, then due to changes in the game 
+			code you must reprocess all your models through ModelEdit after installing. 
+			Failure to reprocess your models will result in either incorrect model display, 
+			or failure of models to appear in the game.
+			<P><B>To reprocess your model textures</B>
+				<br>
+				1. Open the .LTA or .LTC model file to process.
+				<br>
+				2. On the File menu, click Save And Compile.
+				<br>
+				3. Specify the name of the .LTB file to replace, or type the name of the new 
+				.LTB file to create.
+				<br>
+				4. Click the Save button.</P>
+		</blockquote>
+		<h3>
+			Documentation:
+		</h3>
+		<blockquote>
+			<P><A HREF="..\specs\gamesystems\UntargetedCommands.doc">Untargeted Commands.doc</A>
+				. A list of default object targets for unspecified commands.</P>
+		</blockquote>
+		<h3>
+			Samples:
+		</h3>
+		<blockquote>
+			<P>
+			The \Samples\tutorials\pickups folder contains the new pickups sample. This 
+			tutorial is the same as simplephys, but has been expanded to include a box 
+			pickup. This tutorial shows how to create and implement code for pickups and 
+			powerups.
+			<P>
+			The \Samples\tutorials\projectiles folder contains the new projectiles sample. 
+			This tutorial is the same as pickups, but has been expanded to include the 
+			ability to throw and object. This tutorial shows how to create and implement 
+			code for projectiles.
+			<P>
+				Updated: The \Development\TO2\Game\Worlds\RetailSinglePlayer\ folder contains 
+				the new Tut_Lights.ltc sample. This sample shows various types of Gouraud, 
+				lightmapping, and texture effects.</P>
+		</blockquote>
+		<h2><a name="61"></a>&nbsp;Build 61</h2>
+		<h3>
+			Samples:
+		</h3>
+		<blockquote>
+			<p>The \Samples\tutorials\simplephys\ folder contains the new simplephys sample. 
+				This tutorial is the same as mpflycam, but has been expanded to include physics 
+				such as gravity and stair-stepping.</p>
+			<p>The \Development\TO2\Game\Worlds\RetailSinglePlayer\ folder contains the new 
+				Tut_Lights.ltc sample. This sample shows various types of Gouraud, 
+				lightmapping, and texture effects.</p>
+		</blockquote>
+		<h2><a name="60"></a>&nbsp;Build 60</h2>
+		<h3>
+			Documentation:
+		</h3>
+		<blockquote>
+			<p>Both the <A HREF="jupiterdevguide.pdf">Development Guide.pdf</A> and the <A HREF="JupiterHelp.chm">
+					LithTech Jupiter Help.chm</A> documents provide the same introductory, 
+				overview, and quickstart information for using the Jupiter System. You can 
+				access either document from the <B>Start&gt;LithTech&gt;Docs</B> menu.</p>
+			<p><A HREF="..\specs\gamesystems\liteobjects.doc">LiteObjects.doc</A>. A 
+				description of Lite Objects, a system for non-physical and non-graphical 
+				objects that reduce system overhead by reducing the amount of memory used and 
+				increasing game speed.</p>
+		</blockquote>
+		<h3>
+			Samples:
+		</h3>
+		<blockquote>
+			<p>The \Samples\tutorials\mpflycam\ folder contains the new mpflycam tutorial. This 
+				tutorial is the same as SampleBase but has been expanded to include the ability 
+				to play in multi-player server mode.</p>
+		</blockquote>
+		<h2><a name="59"></a>&nbsp;Build 59</h2>
+		<h3>
+			Engine:
+		</h3>
+		<blockquote>
+			<p>This build of Jupiter incorporates changes to the networking system. These 
+				changes are described in the <A HREF="..\specs\gamesystems\NetworkingChanges.doc">Networking 
+					Changes</A> document.</p>
+		</blockquote>
+		<h3>
+			Documenation:
+		</h3>
+		<blockquote>
+			<p>The BETA version of the <A HREF="LTJupiterAPIRefBETA.chm">API Reference</A> provides 
+				documentation for classes, functions, and so on.</p>
+		</blockquote>
+		<h3>
+			Samples:
+		</h3>
+		<blockquote>
+			<p>
+				The Development\Samples\Samplebase\ folder contains the SampleBase sample. This 
+				simple example of a project using Jupiter helps you get started understanding 
+				the Jupiter engine. This sample also shows how to use the new networking 
+				system.</p>
+		</blockquote>
+		<h2><a name="56"></a>&nbsp;Build 56</h2>
+		<h3>
+			Samples:
+		</h3>
+		<blockquote>
+			<p>The \development\samples\maya\ folder contains sample content from TO2 to aid 
+				content creators to make artwork that is easily usable with the Jupiter code. 
+				The TO2 team uses Maya for character models. Included are samples of character 
+				and player view models, properly rigged to work with the Jupiter code when 
+				exported to ModelEdit using the Maya 4.0 model exporter.</p>
+		</blockquote>
+		<h2>
+		</h2>
+		<p>
+			<font size="-1">©2005 Touchdown Entertainment, Inc. All rights reserved.</font>
+		</p>
+	</body>
+</HTML>

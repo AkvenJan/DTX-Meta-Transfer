@@ -1,0 +1,451 @@
+file,format,version,nodes,notes,status
+Models\Cha\AlchMaster.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Animals\bird.ltb,LTB raw|Model,Mesh v23,17,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Animals\pig.ltb,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Bertagnolio.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Fruitcakelady.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Madam.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Mafiaboss.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\Guardian.ltb,LTB raw|Model,Mesh v23,68,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\Leviathan.ltb,LTB raw|Model,Mesh v23,25,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\Mage.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\Pig.ltb,LTB raw|Model,Mesh v23,37,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\RottenVermin.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\Scuda.ltb,LTB raw|Model,Mesh v23,79,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\Teeth.ltb,LTB raw|Model,Mesh v23,60,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\TombDweller.ltb,LTB raw|Model,Mesh v23,48,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\Zulbehar.ltb,LTB raw|Model,Mesh v23,49,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\bumper.ltb,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\crab.ltb,LTB raw|Model,Mesh v23,34,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\crawler.ltb,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\gargoyle.ltb,LTB raw|Model,Mesh v23,41,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\ice_giant.ltb,LTB raw|Model,Mesh v23,39,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\mammoth.ltb,LTB raw|Model,Mesh v23,37,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\manta.ltb,LTB raw|Model,Mesh v23,28,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\plant.ltb,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\plant_spike.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\rat.ltb,LTB raw|Model,Mesh v23,17,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\scudaSpike.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\skeleton.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Monsters\waterman.ltb,LTB raw|Model,Mesh v23,51,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Ranger.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Rhiannion.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Sheriff.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Sophie.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Templar.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\Yfemale.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\alchApprentice.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\blacksmith.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\boy.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\commoner1.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\commoner2.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\courtisane.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\druid.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\dummy.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Cha\isador-nedela.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\isador.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\isador2.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\king.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\meanai.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\monk.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\nun.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\royal_guard.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\shavier.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Cha\thomas.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\DoorTypeA1_001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\DoorTypeA1_002.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\DoorTypeA1_003.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\DoorTypeA1_004.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\DoorTypeA1_005.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\DoorTypeA1_006.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\DoorTypeA1_007.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\DoorTypeA1_008.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\DoorTypeA1_009.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\DoorTypeB1_001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\Sign1.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\Sign2.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\Sign3.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\StreetLamp001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\StreetLamp002.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\StreetLamp003.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\Torch001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeA1_001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeA1_002.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeA1_003.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeA1_004.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeA1_005.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeA1_006.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeA1_007.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeA1_008.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeA1_009.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeB1_001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeB1_002.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeB1_003.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeB1_004.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeC1_001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeC1_002.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeC1_003.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\WindowTypeC1_004.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\flag1.ltb,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\grass1.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\grass2.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\grassB.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\grassC.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\grassD.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\roof1.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\roof2.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\tempdrevo.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\tent.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\treeA1.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\treeA2.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\treeA3.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\treeA4.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\treeA5.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\treeA6.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\treeA6a.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\treeA7.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\treeA7a.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\treeAron.ltb,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\treeK1.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Models\Props\Exterior\treeSnow1.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\ChourchBench001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\altair001_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\altair002_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\anibox001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\armchair002_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\bed004_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\bed004_02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\bookstore002_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\bookstore005_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\bookstore006_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\bookstore007_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\bookstore008_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\box002_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\box004_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\chair002_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\chair004_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\chair005_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\chair005_02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\chair007_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\chair008_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\chair009_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\chair009_02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\chair010_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\desk003_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\desk004_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\desk006_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\hanger002.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\kripta001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\lightFog1.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\luster001_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\luster002_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\mill.ltb,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\shelf001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\shelf001_02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\shelf001_03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\store002_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\store002_02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\store017_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\table001_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\table002_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\table003_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\table004_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\table005_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\table006_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\table007_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\table008_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\table009_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\table011_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\wardrobe001_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Interior\washstand001_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\LongSword01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\Maul01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\Nails002.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\Potion01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\PotionLarge01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\SmallShovel01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\UR_HERE.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\Wood01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\WoodFire01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\barrel001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\bell.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\book001_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\book001_02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\book001_03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\book002_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\book002_02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\book002_03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\book002_04.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\book003_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\book003_02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\bottle001_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\bottle001_02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\bottle001_03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\candle001_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\candle002_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\chest01.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\chup.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\coffin001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\coffin002.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\drakkar.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\drakkarStock.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\drakkar_a1.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\dummy2.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\fight_machine.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\glass001_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\glass001_02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\glass001_03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\glass001_04.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\hammer001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\handsaw001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\handsaw002.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\house_sign.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\jar001_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\jar001_02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\jar001_03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\kazipot.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\machine.ltb,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\machine3.ltb,LTB raw|Model,Mesh v23,16,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\nails001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\nakovalo001_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\nakovalo001_01_old.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\newspaper.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\newsstand.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\painting001_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\painting001_02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\painting001_03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\painting001_04.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\planks001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\rope.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\sheep.ltb,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\shrine.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\shrine2.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\shrine_anvil.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\submarine.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\teleport.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\telescop001_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\torch001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\trashcan01.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\trashcan02.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\ulica_sign.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\vesh.ltb,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\voz01.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\voz02.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\voz03.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\voz04.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\vozMali01.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\vozMali02.ltb,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\wheelchair.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Objects\wlamp001.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_AlchemicalCrystalLarge.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_BookLarge.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_BroadSword.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_Buckler.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_Dagger.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_FullHelm.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_Key01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_KiteShield.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_LeatherGlowes.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_LongSword.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_Maul.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_Maul2.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_Nails01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_OnebladedAxe.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_PlateBoots.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_PlateBracers.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_PotionHealthMedium00.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_PotionHealthMedium01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_PotionLarge.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_Ring_00.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_Ring_00_Gem_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_ScaleArmor.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_ShortBow.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_ShortSword.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_SmallShovel.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_TowerShield.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_TwobladedAxe.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_TwohandedSword.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_Warhammer.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_Warstaff.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_Wood01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_WoodStaff.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_compositeBow.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_compositeStaff.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\Props\Weapons\MDL_sabre.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+Models\_baseAnims\baseAnims.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\_baseAnims\baseAnimsIdle.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\_baseAnims\baseCombat.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\_baseAnims\baseCombatHand.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\_baseAnims\baseCombatOneHanded.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\_baseAnims\baseCombatStaff.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\_baseAnims\baseCombatTwoHanded.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+Models\highpolysphere.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+RenderStyles\Custom\gem.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\Custom\gem2.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\Custom\shield.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\Custom\solar.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\Custom\sword.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\Custom\wireframe.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\RS_ALPHABLEND_TEXALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\RS_ALPHABLEND_TFACTORALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\RS_ALPHATEST_GREATER.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\RS_DOT3BUMP_DIR_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\RS_HALO_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\RS_SPHEREENVMAP_ADD.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\RS_SPHEREENVMAP_MODTEXALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\RS_TOON_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\RS_TWOTEXTURE.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\RS_VERTEXSPECULAR.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\default.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_alpha.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_alpha_noculling.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_alphablend.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_alphablend_noculling.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_blurry_vs.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_brightness20.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_collider.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_fullbright.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_grass.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_grass2.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_grassB.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_grassC.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_grassC1.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_hair.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_halo_2pass_1texstage_vs.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_halo_vertandtexalpha_2pass_1texstage_vs.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_mill.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_motionblur_vs.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_motionfade_vs.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_noculling.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_node.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_props01_1tex.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_toon_2pass_1texstage_vs.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=517, keine 'Header'/'LTBHeader'-Sektion)"
+RenderStyles\rs_treeA3.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_treeK1.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_treeK1a.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_treeSnow1.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_twotexture_2pass_1texs1alphastage.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\rs_twotexture_modtfactor.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RenderStyles\sword.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=517, keine 'Header'/'LTBHeader'-Sektion)"
+RenderStyles\treeDBL.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+Worlds\arena\arena1.dat,DAT,v85,,DAT v85,OK
+Worlds\arena\arena2.dat,DAT,v85,,DAT v85,OK
+Worlds\arena\fleshland.dat,DAT,v85,,DAT v85,OK
+Worlds\arena\graveyard.dat,DAT,v85,,DAT v85,OK
+Worlds\arena\heaven.dat,DAT,v85,,DAT v85,OK
+Worlds\arena\petrified.dat,DAT,v85,,DAT v85,OK
+Worlds\arena\swamp.dat,DAT,v85,,DAT v85,OK
+Worlds\arena\underwater.dat,DAT,v85,,DAT v85,OK
+Worlds\arena\wasteland.dat,DAT,v85,,DAT v85,OK
+Worlds\arena\winter.dat,DAT,v85,,DAT v85,OK
+Worlds\e00_training\greece.dat,DAT,v85,,DAT v85,OK
+Worlds\e00_training\spain.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\blacksmith.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\catacombs.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\church.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\cityHall.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\dormitores.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\institute.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\mafia.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\military.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\monastery.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\pawn.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\phanteon.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\pharmacy.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\ponteRosso.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\rome.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\tavern.dat,DAT,v85,,DAT v85,OK
+Worlds\e01_rome\vatican_office.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\avignon.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\avignonArena.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\blacksmith.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\church.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\curio.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\library.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\monks.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\nuns.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\papal.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\pharma.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\tavern.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\templar.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\village.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\village_church.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\village_farm_house.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\village_farm_stable.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\village_house1.dat,DAT,v85,,DAT v85,OK
+Worlds\e02_avignon\village_tavern.dat,DAT,v85,,DAT v85,OK
+Worlds\e03_paris\bastille.dat,DAT,v85,,DAT v85,OK
+Worlds\e03_paris\blacksmith.dat,DAT,v85,,DAT v85,OK
+Worlds\e03_paris\catacombsP.dat,DAT,v85,,DAT v85,OK
+Worlds\e03_paris\church_hideout.dat,DAT,v85,,DAT v85,OK
+Worlds\e03_paris\court.dat,DAT,v85,,DAT v85,OK
+Worlds\e03_paris\garison.dat,DAT,v85,,DAT v85,OK
+Worlds\e03_paris\garison_weaponary.dat,DAT,v85,,DAT v85,OK
+Worlds\e03_paris\house2.dat,DAT,v85,,DAT v85,OK
+Worlds\e03_paris\nobles.dat,DAT,v85,,DAT v85,OK
+Worlds\e03_paris\nobles_hideout.dat,DAT,v85,,DAT v85,OK
+Worlds\e03_paris\notre.dat,DAT,v85,,DAT v85,OK
+Worlds\e03_paris\old_warehouse.dat,DAT,v85,,DAT v85,OK
+Worlds\e03_paris\paris.dat,DAT,v85,,DAT v85,OK
+Worlds\e03_paris\tavern.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\antwerpenN.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\arena_tombs.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\barber.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\bellringer01.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\bellringersHQ.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\blacksmith.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\curio.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\house1.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\house2.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\master.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\mayor.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\outskirts.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\saloon.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\sheriff.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\undertaker.dat,DAT,v85,,DAT v85,OK
+Worlds\e04_antwerpen\warmonument.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\Chatedral.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\arena_anglia.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\avalon.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\avalon_inside_bottom.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\avalon_inside_top.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\glastonbury.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\house1.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\house2.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\house3.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\house4.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\house5.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\house6.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\house7.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\house8.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\londonN.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\londonS.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\museum.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\pub1.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\pub2.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\pub3.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\temple.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\upscalehood.dat,DAT,v85,,DAT v85,OK
+Worlds\e05_london\village.dat,DAT,v85,,DAT v85,OK
+Worlds\e06_stockholm\Hammarskjold.dat,DAT,v85,,DAT v85,OK
+Worlds\e06_stockholm\IslandInside.dat,DAT,v85,,DAT v85,OK
+Worlds\e06_stockholm\academy.dat,DAT,v85,,DAT v85,OK
+Worlds\e06_stockholm\blacksmith.dat,DAT,v85,,DAT v85,OK
+Worlds\e06_stockholm\gostiona.dat,DAT,v85,,DAT v85,OK
+Worlds\e06_stockholm\island.dat,DAT,v85,,DAT v85,OK
+Worlds\e06_stockholm\island_master.dat,DAT,v85,,DAT v85,OK
+Worlds\e06_stockholm\katedrala.dat,DAT,v85,,DAT v85,OK
+Worlds\e06_stockholm\laboratory.dat,DAT,v85,,DAT v85,OK
+Worlds\e06_stockholm\meetingHall.dat,DAT,v85,,DAT v85,OK
+Worlds\e06_stockholm\sauna.dat,DAT,v85,,DAT v85,OK
+Worlds\e06_stockholm\stockholm.dat,DAT,v85,,DAT v85,OK
+Worlds\e06_stockholm\submarineInside.dat,DAT,v85,,DAT v85,OK
+Worlds\e06_stockholm\vlak.dat,DAT,v85,,DAT v85,OK
+Worlds\e07_riga\Riga.dat,DAT,v85,,DAT v85,OK
+Worlds\e07_riga\RigaHouse1.dat,DAT,v85,,DAT v85,OK
+Worlds\e07_riga\RigaMeanai.dat,DAT,v85,,DAT v85,OK
+Worlds\e07_riga\RigaPawnShop.dat,DAT,v85,,DAT v85,OK
+Worlds\e07_riga\RigaPub2.dat,DAT,v85,,DAT v85,OK
+Worlds\e07_riga\riga_garis_in.dat,DAT,v85,,DAT v85,OK
+Worlds\e08_krakow\city.dat,DAT,v85,,DAT v85,OK
+Worlds\e08_krakow\pretorians.dat,DAT,v85,,DAT v85,OK

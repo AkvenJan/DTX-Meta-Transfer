@@ -1,0 +1,77 @@
+file,format,version,nodes,notes,status
+Resources\Models\0_31l.ltb,LTB wrap|ABC,Body v13,2,wrap; Container=3; FileType=4,OK
+Resources\Models\0_31l_flip.ltb,LTB wrap|ABC,Body v13,2,wrap; Container=3; FileType=4,OK
+Resources\Models\0_31l_half.ltb,LTB wrap|ABC,Body v13,2,wrap; Container=3; FileType=4,OK
+Resources\Models\0_31l_half_flip.ltb,LTB wrap|ABC,Body v13,2,wrap; Container=3; FileType=4,OK
+Resources\Models\10_0_straight_dim.ltb,LTB wrap|ABC,Body v13,2,wrap; Container=3; FileType=4,OK
+Resources\Models\280_boxcar.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\280_caboose.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\280_coalcar.ltb,LTB wrap|ABC,Body v13,4,wrap; Container=3; FileType=4,OK
+Resources\Models\280_engine.ltb,LTB wrap|ABC,Body v13,5,wrap; Container=3; FileType=4,OK
+Resources\Models\280_tanker.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\3_5_straight_dim.ltb,LTB wrap|ABC,Body v13,2,wrap; Container=3; FileType=4,OK
+Resources\Models\460_engine.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\4_25_straight_dim.ltb,LTB wrap|ABC,Body v13,2,wrap; Container=3; FileType=4,OK
+Resources\Models\5_5_straight_dim.ltb,LTB wrap|ABC,Body v13,2,wrap; Container=3; FileType=4,OK
+Resources\Models\Accessories\WaterTower1.ltb,LTB wrap|D3D,Body v13,4,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\bush1.ltb,LTB wrap|D3D,Body v13,3,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\bush2.ltb,LTB wrap|D3D,Body v13,3,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\crossinggate1.ltb,LTB wrap|D3D,Body v13,4,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\crossinggate2.ltb,LTB wrap|D3D,Body v13,6,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\crossingsign1.ltb,LTB wrap|D3D,Body v13,4,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\crossingsign2.ltb,LTB wrap|D3D,Body v13,4,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\crossingsign3.ltb,LTB wrap|D3D,Body v13,4,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\farm1.ltb,LTB wrap|D3D,Body v13,4,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\farm2.ltb,LTB wrap|D3D,Body v13,4,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\forestlarge.ltb,LTB wrap|D3D,Body v13,8,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\forestmedium.ltb,LTB wrap|D3D,Body v13,8,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\forestsmall.ltb,LTB wrap|D3D,Body v13,8,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\house1.ltb,LTB wrap|D3D,Body v13,2,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\house2.ltb,LTB wrap|D3D,Body v13,4,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\house3.ltb,LTB wrap|D3D,Body v13,4,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\postoffice.ltb,LTB wrap|D3D,Body v13,4,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\shrub1.ltb,LTB wrap|D3D,Body v13,3,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\shrub2.ltb,LTB wrap|D3D,Body v13,3,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\shrub3.ltb,LTB wrap|D3D,Body v13,3,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\station1.ltb,LTB wrap|D3D,Body v13,4,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\station2.ltb,LTB wrap|D3D,Body v13,4,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\stopsignal1.ltb,LTB wrap|D3D,Body v13,4,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\stopsignal2.ltb,LTB wrap|D3D,Body v13,5,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\tree1.ltb,LTB wrap|D3D,Body v13,3,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\tree2.ltb,LTB wrap|D3D,Body v13,3,wrap; Container=3; FileType=1,OK
+Resources\Models\Accessories\watertower2.ltb,LTB wrap|D3D,Body v13,4,wrap; Container=3; FileType=1,OK
+Resources\Models\GS4_coach.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\GS4_dome.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\GS4_engine.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\GS4_obs.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\NW_engine.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\bluecomet_coach.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\bluecomet_coal.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\bluecomet_engine.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\bluecomet_obs.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\flag.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\nw_coal.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\ps2_bayhopper.ltb,LTB wrap|ABC,Body v13,4,wrap; Container=3; FileType=4,OK
+Resources\Models\ps2_engine.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\ps2_flatcar.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\ps2_flatcar_trailer.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\switch.ltb,LTB wrap|ABC,Body v13,2,wrap; Container=3; FileType=4,OK
+Resources\Models\switch_flip.ltb,LTB wrap|ABC,Body v13,2,wrap; Container=3; FileType=4,OK
+Resources\Models\warbonet_coach.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\warbonet_unit_a.ltb,LTB wrap|ABC,Body v13,4,wrap; Container=3; FileType=4,OK
+Resources\Models\warbonet_unit_b.ltb,LTB wrap|ABC,Body v13,4,wrap; Container=3; FileType=4,OK
+Resources\Models\zephyr_coach.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\zephyr_dinner.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\zephyr_engine.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Models\zephyr_obs.ABC,ABC,v13,3,,OK
+Resources\Models\zephyr_obs.ltb,LTB wrap|ABC,Body v13,3,wrap; Container=3; FileType=4,OK
+Resources\Worlds\mission_01.dat,DAT,v66,,DAT v66,OK
+Resources\Worlds\mission_02.dat,DAT,v66,,DAT v66,OK
+Resources\Worlds\mission_03.dat,DAT,v66,,DAT v66,OK
+Resources\Worlds\mission_04.dat,DAT,v66,,DAT v66,OK
+Resources\Worlds\mission_05.dat,DAT,v66,,DAT v66,OK
+Resources\Worlds\mission_06.dat,DAT,v66,,DAT v66,OK
+Resources\Worlds\mission_07.dat,DAT,v66,,DAT v66,OK
+Resources\Worlds\mission_08.dat,DAT,v66,,DAT v66,OK
+Resources\Worlds\mission_09.dat,DAT,v66,,DAT v66,OK
+Resources\Worlds\mission_10.dat,DAT,v66,,DAT v66,OK

@@ -1,0 +1,558 @@
+file,format,version,nodes,notes,status
+LightAttenuationPresets\Default.lta,LTA,-,,Lithtech Ascii,OK
+RENDERSTYLES\RS_ALPHABLEND_TEXALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_ALPHABLEND_TFACTORALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_ALPHATEST_GREATER.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_DOT3BUMP_DIR_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_HALO_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_SPHEREENVMAP_ADD.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_SPHEREENVMAP_MODTEXALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_TOON_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_TWOTEXTURE.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_VERTEXSPECULAR.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+models\Levelowe\agawa.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\autobus.ltb,LTB raw|Model,Mesh v23,15,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\automat do coli.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\automat do coli_broken.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\automat_kawa.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\automat_kawa_broken.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\barka.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\beczka.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\beczka2.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\beczka3.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\beczka_blacha.ltb,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\beczka_drewno.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\beczka_plyw.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\brama.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\brama1.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\butelka_rozwalona.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\butla_czerwona.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\butla_niebieska.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\buty.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\chinskie_zarcie.ltb,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\cmy.ltb,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\cutsceny\drugi_do_intra.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\cutsceny\drzwi_winda.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\cutsceny\glinowoz.ltb,LTB raw|Model,Mesh v23,17,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\czajnik.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\czapka_na_kolku.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\czapka_na_kolku_bucha.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\czapka_z_daszkiem1.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\czapka_z_daszkiem2.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\czapka_z_daszkiem3.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\czapka_z_daszkiem4.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\czapka_z_daszkiem5.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\czapka_z_daszkiem6.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\deski.ltb,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\drabina.ltb,LTB raw|Model,Mesh v23,14,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\drzewo1.ltb,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\drzwi_winda.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\dystrybutor.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\dziurkacz.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\fajki.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\flaga.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\garnek.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\garniec.ltb,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\gawron-lata.ltb,LTB raw|Model,Mesh v23,19,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\gazeta_lezaca0.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\gazeta_lezaca1.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\gazeta_lezaca2.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\gazeta_lezaca3.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\gazeta_lezaca4.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\glina.ltb,LTB raw|Model,Mesh v23,14,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\gornopluk.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\gornopluk_bucha.ltb,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\grabie.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\helikopter.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\helikopter_wiez.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kaloryfer.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kamera.ltb,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kamera_bucha.ltb,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kanapa_ladna.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kanapa_ladna2.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kanapa_ladna2_bucha.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kanapa_ladna_bucha.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kartka.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kartki_lezace_luzne.ltb,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\karton1.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\karton2.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\karton3.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\karty.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kasa.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\blacha01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\blacha02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\blacha03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\blacha04.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\blacha05.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\ceramika01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\ceramika02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\ceramika03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\ceramika04.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\deski_polamane01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\deski_polamane02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\deski_polamane03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\deski_polamane04.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\deski_polamane05.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\drewienko01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\drewienko02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\drewienko03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\flaszka_01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\flaszka_02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\flaszka_03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\flaszka_04.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\flaszka_05.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\flaszka_06.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\gruz01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\gruz02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\gruz03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\gruz04.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\lampa1_rozbita.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\lampa2_rozbita.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\lampa3_rozbita.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\lampa4_rozbita.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\miecho01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\miecho02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\miecho03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\papier01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\papier02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\papier03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\prety01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\prety02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\prety03.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\prety04.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kawalki\prety05.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\keg.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kinkiet.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kolko_do_krecenia.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\konserwa.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kosz.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kosz_bucha.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kran.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kratka.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\krzeslo01.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\krzeslo_bucha.ltb,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\krzeslo_ladne.ltb,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\krzeslo_ladne2.ltb,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\krzeslo_ladne2_bucha.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\krzeslo_ladne_bucha.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\ksiazka.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\ksiazki.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\ksiazki_bucha.ltb,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kubek.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kubel.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kurtka_na_kolku1.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kurtka_na_kolku2.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kurtka_na_kolku3.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kurtka_na_kolku4.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kurtka_na_kolku5.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kurtka_na_kolku6.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kwiat.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kwiat_czerwony.ltb,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\kwiat_czerwony_bucha.ltb,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lamb.ltb,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lamborghini.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lamborghini_bucha.ltb,LTB raw|Model,Mesh v23,14,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lamborghini_inne.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lamborghini_inne_bucha.ltb,LTB raw|Model,Mesh v23,14,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lampa_biurko.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lampa_sciana.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lampa_sciana_off.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lampa_stojaca.ltb,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lampa_wisz01.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lampa_wisz02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lampion.ltb,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lampka_abazur.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lezaca_kurtka1.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lezaca_kurtka2.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lezace_spodnie1.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lezace_spodnie2.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\limuzyna.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\limuzyna_bucha.ltb,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\limuzyna_prolog.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lotus-rh3normal.ltb,LTB raw|Model,Mesh v23,12,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lotus.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lotus_bucha.ltb,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\lustro.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\mikrowela.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\muchy.ltb,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\mur_bucha.ltb,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\mydlo.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\obrazek_pion.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\obrazek_pion01.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\obrazek_pion02.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\obrazek_pion03.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\obrazek_pion04.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\obrazek_pion05.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\obrazek_poziom.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\obrazek_poziom01.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\obrazek_poziom02.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\obrazek_poziom03.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\obrazek_poziom04.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\obrazek_poziom05.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\odkurzacz.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\opona.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\opony.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\pajeczyna.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\pala_po_glowie.ltb,LTB raw|Model,Mesh v23,100,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\palma.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\papier.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\papyrus.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\papyrus_bucha.ltb,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\para.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\pisuar.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\pisuar_bucha.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\pizza.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\plaszcz_na_kolku1.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\plaszcz_na_kolku2.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\plaszcz_na_kolku3.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\plaszcz_na_kolku4.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\plomien_kominek.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\popiolka.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\probowki.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\przelacznik.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\przelacznik2.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\przycisk.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\przycisk2.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\radio.ltb,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\ruski_obraz1.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\ruski_obraz2.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\ruski_obraz3.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\ruski_obraz4.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\ruski_obraz5.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\samochod_niebieski.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\samochod_niebieski_bucha.ltb,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\sedes.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\sedes_bucha.ltb,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\siatka.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia125_drewno.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia125_drewno_metal.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia15_drewno.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia15_drewno_metal.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia15_metal.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia2.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia25_metal1.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia25_metal2.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia3.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia4.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia5.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia6.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia7.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia8.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia_blacha.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\skrzynia_piwa.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\smietnik_duzy.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\smietnik_kwadratowy.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\smietnik_kwadratowy_bucha.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\smietnik_kwadratowy_pelny.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\smietnik_kwadratowy_pelny_bucha.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\spinacz.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\stolek_barowy.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\stoliczek_ladny.ltb,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\stoliczek_ladny2.ltb,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\stolik.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\sufit_wierzowiec.ltb,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\sufit_wierzowiec_off.ltb,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\sufit_wierzowiec_on.ltb,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\suszara.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\swaty.ltb,LTB raw|Model,Mesh v23,147,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\szachy.ltb,LTB raw|Model,Mesh v23,18,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\szczur_w_kole.ltb,LTB raw|Model,Mesh v23,29,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\szpula_duza.ltb,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\taczki.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\taczki_bucha.ltb,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\talerz.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\telefon_stolowy.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\telefon_wiszacy.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\telewizor.ltb,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\trabant_bezsrodka.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\trabant_bucha.ltb,LTB raw|Model,Mesh v23,12,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\trabant_flip.ltb,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\trabant_flip_bucha.ltb,LTB raw|Model,Mesh v23,12,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\trawa.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\truck.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\wajcha.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\wajcha2.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\wajcha3.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\walizka01.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\walizka02.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\wbieganie.ltb,LTB raw|Model,Mesh v23,187,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\wiatrak.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\wybielacz.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\zarowka.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\zegar.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\zegar2.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\zegar2_bucha.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\zlew.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\zlew_bucha.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\Levelowe\zyrandol.ltb,LTB raw|Model,Mesh v23,15,runtime-header; Container=9; FileType=1,OK
+models\bronie\fn_shotgun.ltb,LTB raw|Model,Mesh v23,57,runtime-header; Container=9; FileType=1,OK
+models\bronie\fnp90.ltb,LTB raw|Model,Mesh v23,61,runtime-header; Container=9; FileType=1,OK
+models\bronie\fnp90_stary.ltb,LTB raw|Model,Mesh v23,74,runtime-header; Container=9; FileType=1,OK
+models\bronie\glock22c.ltb,LTB raw|Model,Mesh v23,60,runtime-header; Container=9; FileType=1,OK
+models\bronie\granat.ltb,LTB raw|Model,Mesh v23,60,runtime-header; Container=9; FileType=1,OK
+models\bronie\hkg8.ltb,LTB raw|Model,Mesh v23,61,runtime-header; Container=9; FileType=1,OK
+models\bronie\ingram.ltb,LTB raw|Model,Mesh v23,63,runtime-header; Container=9; FileType=1,OK
+models\bronie\m14.ltb,LTB raw|Model,Mesh v23,62,runtime-header; Container=9; FileType=1,OK
+models\bronie\mossberg.ltb,LTB raw|Model,Mesh v23,73,runtime-header; Container=9; FileType=1,OK
+models\bronie\palka.ltb,LTB raw|Model,Mesh v23,56,runtime-header; Container=9; FileType=1,OK
+models\bronie\proximity_bomb.ltb,LTB raw|Model,Mesh v23,71,runtime-header; Container=9; FileType=1,OK
+models\bronie\sig.ltb,LTB raw|Model,Mesh v23,59,runtime-header; Container=9; FileType=1,OK
+models\bronie\snw.ltb,LTB raw|Model,Mesh v23,71,runtime-header; Container=9; FileType=1,OK
+models\bronie_post\M14_low.ltb,LTB wrap|D3D,Body v14,2,wrap; Container=9; FileType=1,OK
+models\bronie_post\M14_low3.1.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+models\bronie_post\glock_low.ltb,LTB wrap|D3D,Body v14,3,wrap; Container=9; FileType=1,OK
+models\bronie_post\glock_low3.1.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+models\bronie_post\mossberg_low.ltb,LTB wrap|D3D,Body v14,2,wrap; Container=9; FileType=1,OK
+models\bronie_post\mossberg_low3.1.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+models\bronie_post\sig_low.ltb,LTB wrap|D3D,Body v14,2,wrap; Container=9; FileType=1,OK
+models\bronie_post\sig_low3.1.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+models\bronie_post\smith&wesson_low.ltb,LTB wrap|D3D,Body v14,4,wrap; Container=9; FileType=1,OK
+models\bronie_post\smith&wesson_low3.1.ltb,LTB raw|Model,Mesh v18,4,runtime-header; Container=9; FileType=1,OK
+models\cutscenes\bar1.ltb,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+models\cutscenes\intro.ltb,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+models\cutscenes\intro1.ltb,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+models\cutscenes\korytarz.ltb,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+models\cutscenes\limuzyna.ltb,LTB raw|Model,Mesh v23,65,runtime-header; Container=9; FileType=1,OK
+models\cutscenes\marloni.ltb,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+models\cutscenes\outro.ltb,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+models\cutscenes\strych.ltb,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+models\cutscenes\wiezienie_ucieczka.ltb,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+models\misc\k1.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\misc\k2.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\misc\k3.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\misc\k4.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\misc\karalec.ltb,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+models\misc\krawat.ltb,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+models\misc\luska.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\misc\luska_do_obrzyna.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\misc\papieros.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\M14_low.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\bandage.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\burger.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\corn flakes.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\fnp90_ammo.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\fnp90_low.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\fnshotgun_low.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\gloc_low.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\pikapy\glock_ammo.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\glock_low.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\pikapy\granat_low.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\heli_bron.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\hkg8_ammo.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\hkg8_low.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\ingram_ammo.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\ingram_low.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\pikapy\japco.ltb,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+models\pikapy\kotek.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\lek1.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\lek2.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\pikapy\loopka_ammo.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\medpack.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\mossberg_low.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\obrzyn_low.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\palka_low.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\proximity_bomb_low.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\puszka coli.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\puszka piva.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\s&w_ammo.ltb,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+models\pikapy\schnickers.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\shells.ltb,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+models\pikapy\sig_ammo.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\sig_low.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\smith&wesson_low.ltb,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+models\pikapy\stek.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\szczykawa.ltb,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+models\pikapy\udko.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\pikapy\whiskey.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\pikapy\wino.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\pikapy\wuda.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\postacie\assault.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\assault_oficer.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\barman.ltb,LTB raw|Model,Mesh v23,52,runtime-header; Container=9; FileType=1,OK
+models\postacie\barman_glowa.ltb,LTB raw|Model,Mesh v23,30,runtime-header; Container=9; FileType=1,OK
+models\postacie\bohater.ltb,LTB raw|Model,Mesh v23,56,runtime-header; Container=9; FileType=1,OK
+models\postacie\bohater_dead.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+models\postacie\bohater_dead_w.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\bohater_glowa.ltb,LTB raw|Model,Mesh v23,23,runtime-header; Container=9; FileType=1,OK
+models\postacie\burmistrz.ltb,LTB raw|Model,Mesh v23,46,runtime-header; Container=9; FileType=1,OK
+models\postacie\burmistrz_glowa.ltb,LTB raw|Model,Mesh v23,19,runtime-header; Container=9; FileType=1,OK
+models\postacie\china_oficer.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\china_zolnierz.ltb,LTB raw|Model,Mesh v23,44,runtime-header; Container=9; FileType=1,OK
+models\postacie\china_zolnierz2.ltb,LTB raw|Model,Mesh v23,46,runtime-header; Container=9; FileType=1,OK
+models\postacie\china_zolnierz3.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\assault1_outro.ltb,LTB raw|Model,Mesh v23,51,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\assault2_outro.ltb,LTB raw|Model,Mesh v23,51,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\assault3_outro.ltb,LTB raw|Model,Mesh v23,51,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\autobus_ucieka.ltb,LTB raw|Model,Mesh v23,63,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\autobus_ucieka_pusty.ltb,LTB raw|Model,Mesh v23,14,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\bohater_glowa_outro.ltb,LTB raw|Model,Mesh v23,23,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\bohater_intro.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\bohater_intro1.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\bohater_outro.ltb,LTB raw|Model,Mesh v23,57,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\doktor.ltb,LTB raw|Model,Mesh v23,50,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\donmario_outro.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\glinowoz.ltb,LTB raw|Model,Mesh v23,63,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\glock_outro.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\ingram_outro.ltb,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\konserwa.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\laska_glowa_outro.ltb,LTB raw|Model,Mesh v23,21,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\laska_outro.ltb,LTB raw|Model,Mesh v23,57,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\laska_outro_glowa.ltb,LTB raw|Model,Mesh v23,21,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\laska_outro_stara.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\limuzyna.ltb,LTB raw|Model,Mesh v23,65,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\policjant.ltb,LTB raw|Model,Mesh v23,50,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\policjant_bity.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\policjant_intro.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\policjant_lewa_egzekucja.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\policjant_prawa_egzekucja.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\policjant_z_pala.ltb,LTB raw|Model,Mesh v23,51,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\policjant_zabija.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\przechodzien.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\straznik_na_klatce.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\straznik_przy_celi.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\strzykawa.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\wiezien_bije.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\wiezien_egzekucja.ltb,LTB raw|Model,Mesh v23,51,runtime-header; Container=9; FileType=1,OK
+models\postacie\cutsceny\wiezien_intro1.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cywil1.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cywil1_parasol.ltb,LTB raw|Model,Mesh v23,48,runtime-header; Container=9; FileType=1,OK
+models\postacie\cywil2.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cywil3.ltb,LTB raw|Model,Mesh v23,41,runtime-header; Container=9; FileType=1,OK
+models\postacie\cywil4.ltb,LTB raw|Model,Mesh v23,41,runtime-header; Container=9; FileType=1,OK
+models\postacie\cywil5.ltb,LTB raw|Model,Mesh v23,41,runtime-header; Container=9; FileType=1,OK
+models\postacie\cywil6.ltb,LTB raw|Model,Mesh v23,41,runtime-header; Container=9; FileType=1,OK
+models\postacie\cywil7.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\cywil8.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\donmario.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\donvasyl.ltb,LTB raw|Model,Mesh v23,46,runtime-header; Container=9; FileType=1,OK
+models\postacie\donvasyl_glowa.ltb,LTB raw|Model,Mesh v23,19,runtime-header; Container=9; FileType=1,OK
+models\postacie\dziwka_kibel.ltb,LTB raw|Model,Mesh v23,83,runtime-header; Container=9; FileType=1,OK
+models\postacie\gajer.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\gajer_p90.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\gazeta.ltb,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+models\postacie\heli_lata.ltb,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+models\postacie\karalec.ltb,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+models\postacie\laska.ltb,LTB raw|Model,Mesh v23,69,runtime-header; Container=9; FileType=1,OK
+models\postacie\laska_czapel.ltb,LTB raw|Model,Mesh v23,53,runtime-header; Container=9; FileType=1,OK
+models\postacie\laska_czapel_glowa.ltb,LTB raw|Model,Mesh v23,21,runtime-header; Container=9; FileType=1,OK
+models\postacie\laska_glowa.ltb,LTB raw|Model,Mesh v23,21,runtime-header; Container=9; FileType=1,OK
+models\postacie\pijak.ltb,LTB raw|Model,Mesh v23,72,runtime-header; Container=9; FileType=1,OK
+models\postacie\pijak_podloga.ltb,LTB raw|Model,Mesh v23,70,runtime-header; Container=9; FileType=1,OK
+models\postacie\policjant.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\policjant_slaby.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\policjant_stoi.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\policjant_z_pala.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\policjant_z_shotem.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\pospolite_ruszenie1.ltb,LTB raw|Model,Mesh v23,41,runtime-header; Container=9; FileType=1,OK
+models\postacie\qra.ltb,LTB raw|Model,Mesh v23,25,runtime-header; Container=9; FileType=1,OK
+models\postacie\ruski_oficer.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\ruski_zolnierz1.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\ruski_zolnierz2.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\ruski_zolnierz3.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\sniper.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\stara_dziwka.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\stara_dziwka_glowa.ltb,LTB raw|Model,Mesh v23,37,runtime-header; Container=9; FileType=1,OK
+models\postacie\szalony_doktor.ltb,LTB raw|Model,Mesh v23,41,runtime-header; Container=9; FileType=1,OK
+models\postacie\szczur.ltb,LTB raw|Model,Mesh v23,27,runtime-header; Container=9; FileType=1,OK
+models\postacie\szczur_c.ltb,LTB raw|Model,Mesh v23,27,runtime-header; Container=9; FileType=1,OK
+models\postacie\szczur_gruby.ltb,LTB raw|Model,Mesh v23,27,runtime-header; Container=9; FileType=1,OK
+models\postacie\szef_policji.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\tongpo.ltb,LTB raw|Model,Mesh v23,58,runtime-header; Container=9; FileType=1,OK
+models\postacie\wiezien.ltb,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+models\postacie\wiezien1.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\wiezien10.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\wiezien2.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\wiezien3.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\wiezien4.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\wiezien5.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\wiezien6.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\wiezien7.ltb,LTB raw|Model,Mesh v23,51,runtime-header; Container=9; FileType=1,OK
+models\postacie\wiezien8.ltb,LTB raw|Model,Mesh v23,52,runtime-header; Container=9; FileType=1,OK
+models\postacie\wiezien9.ltb,LTB raw|Model,Mesh v23,50,runtime-header; Container=9; FileType=1,OK
+models\postacie\wiezien_kuchnia.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\wiezien_stolowka.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\wiezien_trup1.ltb,LTB raw|Model,Mesh v23,42,runtime-header; Container=9; FileType=1,OK
+models\postacie\wloski_oficer.ltb,LTB raw|Model,Mesh v23,41,runtime-header; Container=9; FileType=1,OK
+models\postacie\wloski_sierzant.ltb,LTB raw|Model,Mesh v23,44,runtime-header; Container=9; FileType=1,OK
+models\postacie\wloski_sierzant_glowa.ltb,LTB raw|Model,Mesh v23,31,runtime-header; Container=9; FileType=1,OK
+models\postacie\wloski_sniper.ltb,LTB raw|Model,Mesh v23,41,runtime-header; Container=9; FileType=1,OK
+models\postacie\wloski_zolnierz.ltb,LTB raw|Model,Mesh v23,41,runtime-header; Container=9; FileType=1,OK
+models\postacie\wloski_zolnierz2.ltb,LTB raw|Model,Mesh v23,41,runtime-header; Container=9; FileType=1,OK
+models\postacie\wloski_zolnierz_sig.ltb,LTB raw|Model,Mesh v23,41,runtime-header; Container=9; FileType=1,OK
+models\postacie\wloski_zolnierz_stoi.ltb,LTB raw|Model,Mesh v23,41,runtime-header; Container=9; FileType=1,OK
+rs\additive.lta,LTA,-,,Lithtech Ascii,OK
+rs\additive.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+rs\automat_cola.lta,LTA,-,,Lithtech Ascii,OK
+rs\automat_cola.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+rs\cien.lta,LTA,-,,Lithtech Ascii,OK
+rs\cien.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+rs\do_ganow.lta,LTA,-,,Lithtech Ascii,OK
+rs\do_ganow.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+rs\metal_z_maska.lta,LTA,-,,Lithtech Ascii,OK
+rs\metal_z_maska.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+rs\okulary.lta,LTA,-,,Lithtech Ascii,OK
+rs\okulary.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+rs\przez_z_maska.lta,LTA,-,,Lithtech Ascii,OK
+rs\przez_z_maska.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+rs\przez_z_maska1.lta,LTA,-,,Lithtech Ascii,OK
+rs\przez_z_maska1.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+rs\przez_z_maska_plomien.lta,LTA,-,,Lithtech Ascii,OK
+rs\przez_z_maska_plomien.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+rs\rs_alphablend_texalpha_1tex.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_alphablend_tfactoralpha_1tex.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_alphablend_vertandtexalpha_1tex.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_alphablend_vertandtexalpha_attaddblend_1tex.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_alphatest_greater_1pass_1texstage.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_dot3bump_dir_2pass_2texstage_vs.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_fullbright.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_fullbright_basetexmask.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_halo_2pass_1texstage_vs.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_halo_vertandtexalpha_2pass_1texstage_vs.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_sphereenvmap_add_1pass_2texstage.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_sphereenvmap_add_2pass_1texstage.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_sphereenvmap_modtexalpha_1pass_2texstage.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_toon_2pass_1texstage_vs.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_twotexture_1pass_2texstage.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_twotexture_2pass_1texstage.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_vertexspecular_1tex.lta,LTA,-,,Lithtech Ascii,OK
+rs\rs_vertexspecular_1tex.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+rs\soczewka.lta,LTA,-,,Lithtech Ascii,OK
+rs\soczewka.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+rs\specular.lta,LTA,-,,Lithtech Ascii,OK
+rs\specular.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+rs\szklotex.lta,LTA,-,,Lithtech Ascii,OK
+rs\szklotex.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+rs\szyby_z_metal.lta,LTA,-,,Lithtech Ascii,OK
+rs\szyby_z_metal.ltb,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+worlds\RH9-fabryka.dat,DAT,v85,,DAT v85,OK
+worlds\Rh7a-Tunele.dat,DAT,v85,,DAT v85,OK
+worlds\burmistrz1.dat,DAT,v85,,DAT v85,OK
+worlds\burmistrz2.dat,DAT,v85,,DAT v85,OK
+worlds\chapel_mniejszy.dat,DAT,v85,,DAT v85,OK
+worlds\chinatown.dat,DAT,v83,,unbekannte DAT-Version,OK
+worlds\chinatown2.dat,DAT,v85,,DAT v85,OK
+worlds\katscena.dat,DAT,v70,,DAT v70,OK
+worlds\knajpa.dat,DAT,v85,,DAT v85,OK
+worlds\nic.dat,DAT,v85,,DAT v85,OK
+worlds\outro.dat,DAT,v83,,unbekannte DAT-Version,OK
+worlds\podziemia1.dat,DAT,v85,,DAT v85,OK
+worlds\podziemia1a.dat,DAT,v85,,DAT v85,OK
+worlds\podziemia1b.dat,DAT,v85,,DAT v85,OK
+worlds\podziemia1c.dat,DAT,v85,,DAT v85,OK
+worlds\rh1-wiezienie1.dat,DAT,v85,,DAT v85,OK
+worlds\rh1-wiezienie2.dat,DAT,v85,,DAT v85,OK
+worlds\rh1-wiezienie3.dat,DAT,v85,,DAT v85,OK
+worlds\rh10-wiezowiec1.dat,DAT,v85,,DAT v85,OK
+worlds\rh10-wiezowiec2.dat,DAT,v85,,DAT v85,OK
+worlds\rh10-wiezowiec3.dat,DAT,v85,,DAT v85,OK
+worlds\rh12-lab1.dat,DAT,v85,,DAT v85,OK
+worlds\rh12-lab2.dat,DAT,v85,,DAT v85,OK
+worlds\rh2-wiezienie1.dat,DAT,v85,,DAT v85,OK
+worlds\rh2-wiezienie2.dat,DAT,v85,,DAT v85,OK
+worlds\rh3-miasteczko0.dat,DAT,v85,,DAT v85,OK
+worlds\rh3-miasteczko1.dat,DAT,v85,,DAT v85,OK
+worlds\rh3-miasteczko2.dat,DAT,v85,,DAT v85,OK
+worlds\wiez_wn1.dat,DAT,v85,,DAT v85,OK
+worlds\wiez_wn2.dat,DAT,v85,,DAT v85,OK
+worlds\wiez_wn3.dat,DAT,v85,,DAT v85,OK

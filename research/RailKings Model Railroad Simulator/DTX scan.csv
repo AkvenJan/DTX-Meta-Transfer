@@ -1,0 +1,279 @@
+Datei;Version;Breite;Hoehe;BPP;Mipmaps;UIMipOffset;UIMipSkala;NonS3TCOffset;TexGroup;Flags;CommandString;Groesse(Bytes)
+"Resources\CONSOLE\CONSOLE_FONT.DTX";"DTX v2 (2.x/Jupiter)";128;128;"32";1;0;"voll";0;0;"FULLBRITE";"";65700
+"Resources\Textures\280_boxcar.dtx";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"Resources\Textures\280_caboose.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\280_coalcar.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\280_engine.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\280_tanker.dtx";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"Resources\Textures\280map.dtx";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"Resources\Textures\280whls.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\460_engine.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\Bush1.dtx";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";5604
+"Resources\Textures\Accessories\Bush2.dtx";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";5604
+"Resources\Textures\Accessories\cactus1.dtx";"DTX v2 (2.x/Jupiter)";128;256;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";43684
+"Resources\Textures\Accessories\cactus2.dtx";"DTX v2 (2.x/Jupiter)";64;256;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";21924
+"Resources\Textures\Accessories\cactus3.dtx";"DTX v2 (2.x/Jupiter)";128;256;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";43684
+"Resources\Textures\Accessories\cactus4.dtx";"DTX v2 (2.x/Jupiter)";64;256;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";21924
+"Resources\Textures\Accessories\Cactus5.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";87204
+"Resources\Textures\Accessories\crossing_gate.dtx";"DTX v2 (2.x/Jupiter)";128;256;"S3TC DXT5";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\crossing_gate_22.dtx";"DTX v2 (2.x/Jupiter)";128;256;"S3TC DXT5";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\CrossingGate1.dtx";"DTX v2 (2.x/Jupiter)";128;256;"S3TC DXT5";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\CrossingGate2.dtx";"DTX v2 (2.x/Jupiter)";128;256;"S3TC DXT5";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\crossingsign1.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\Accessories\CrossingSign2.dtx";"DTX v2 (2.x/Jupiter)";128;256;"S3TC DXT5";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\crossingsign3.dtx";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;0;"";"";2884
+"Resources\Textures\Accessories\farm1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\farm2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\ForestLargea.dtx";"DTX v2 (2.x/Jupiter)";64;128;"32";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\ForestLargeb.dtx";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"Resources\Textures\Accessories\ForestLargec.dtx";"DTX v2 (2.x/Jupiter)";64;128;"32";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\ForestMediuma.dtx";"DTX v2 (2.x/Jupiter)";64;128;"32";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\ForestMediumb.dtx";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"Resources\Textures\Accessories\ForestMediumc.dtx";"DTX v2 (2.x/Jupiter)";64;128;"32";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\ForestSmalla.dtx";"DTX v2 (2.x/Jupiter)";64;128;"32";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\ForestSmallb.dtx";"DTX v2 (2.x/Jupiter)";64;64;"32";4;0;"voll";0;0;"";"";21924
+"Resources\Textures\Accessories\ForestSmallc.dtx";"DTX v2 (2.x/Jupiter)";64;128;"32";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\house1.dtx";"DTX v2 (2.x/Jupiter)";128;256;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"Resources\Textures\Accessories\house2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\house3.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\pine.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";87204
+"Resources\Textures\Accessories\pine_1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 96";87204
+"Resources\Textures\Accessories\postoffice.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\Shrub1.dtx";"DTX v2 (2.x/Jupiter)";64;128;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";11044
+"Resources\Textures\Accessories\shrub2.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";21924
+"Resources\Textures\Accessories\shrub3.dtx";"DTX v2 (2.x/Jupiter)";64;128;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";11044
+"Resources\Textures\Accessories\station1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\station2.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\Accessories\stopsignal1.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\Accessories\stopsignal2.dtx";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;0;"";"";2884
+"Resources\Textures\Accessories\stopsingal2.dtx";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;0;"";"";2884
+"Resources\Textures\Accessories\tree1.dtx";"DTX v2 (2.x/Jupiter)";64;128;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";11044
+"Resources\Textures\Accessories\tree2.dtx";"DTX v2 (2.x/Jupiter)";64;128;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";11044
+"Resources\Textures\Accessories\tree3.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";21924
+"Resources\Textures\Accessories\tree4.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";87204
+"Resources\Textures\Accessories\tree5.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";87204
+"Resources\Textures\Accessories\tree6.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";21924
+"Resources\Textures\Accessories\tree7.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 128";87204
+"Resources\Textures\Accessories\water tower_256x256 1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"";87204
+"Resources\Textures\Accessories\watertower1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Accessories\watertower2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\bank_front.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\bank_side.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\barn_roof.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\barn_side.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\barrel.dtx";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;0;"";"";2884
+"Resources\Textures\barrel_top.dtx";"DTX v2 (2.x/Jupiter)";32;32;"S3TC DXT1";4;0;"voll";0;0;"";"";844
+"Resources\Textures\bluecomet_coach.dtx";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"Resources\Textures\bluecomet_coal.dtx";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"Resources\Textures\bluecomet_engine.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\bluecomet_obs.dtx";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"Resources\Textures\bluesky.dtx";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;0;"";"";2884
+"Resources\Textures\boxcar.dtx";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"Resources\Textures\brick1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\brick2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\bushes.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 96";87204
+"Resources\Textures\cablecar_front.dtx";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;0;"";"";2884
+"Resources\Textures\cablecar_side.dtx";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;0;"";"";2884
+"Resources\Textures\cablecar_top.dtx";"DTX v2 (2.x/Jupiter)";32;32;"S3TC DXT1";4;0;"voll";0;0;"";"";844
+"Resources\Textures\caboose.dtx";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"Resources\Textures\cactus.dtx";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;0;"";"";2884
+"Resources\Textures\cactus_1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"";87204
+"Resources\Textures\cactus_2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"";87204
+"Resources\Textures\car_1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\car_2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\card_A.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\card_B.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\card_C.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\chalet_roof.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\chalet_side.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\chalet_snow.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\clouds.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\coalcar.dtx";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"Resources\Textures\crete1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\crete2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\crete3.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\crete34a.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\crete34b.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\crete4.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\d_ground_1.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\dirt.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\dirt_2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Dirttype01.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Dirttype05.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\dock.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\dock_side.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\drymud1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\drymud2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\envmap_building.dtx";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;0;"";"";2884
+"Resources\Textures\envmap_familyroom.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\f-house.dtx";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"Resources\Textures\f-truck.dtx";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"Resources\Textures\factory.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\farmhouse_roof.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\farmhouse_side.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\flag_green.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\flag_red.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\flag_yellow.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\france2houseside1.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\france2houseside2.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\francebrickware1.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\francebrickware2.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\francebrickware4.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\grass01.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\grass_detail.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\grass_dirt01.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\grass_light.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Grasstype05.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\gravel.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\ground_detail.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\ground_detail_2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\gs4_coach.dtx";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"Resources\Textures\gs4_dome.dtx";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"Resources\Textures\gs4_engine.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\gs4_obs.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\invisible.dtx";"DTX v2 (2.x/Jupiter)";32;32;"S3TC DXT1";4;0;"voll";0;0;"";"";844
+"Resources\Textures\metal_base.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\misison_1.dtx";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"Resources\Textures\mission10_1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission10_2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission10_3.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission10_4.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission11_1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission11_2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission11_3.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission11_4.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission3_01.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission3_02.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission3_03.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission3_04.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission3_1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission3_2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission3_3.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission3_4.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission3_a.dtx";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"Resources\Textures\mission3x.dtx";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"Resources\Textures\mission7_1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission7_2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission7_3.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission7_4.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission9_1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission9_2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission9_3.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission9_4.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission_1_a.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission_1_b.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission_1_c.dtx";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"Resources\Textures\mission_1_d.dtx";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"";348324
+"Resources\Textures\mission_1_detail.dtx";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"alpharef 96";348324
+"Resources\Textures\mission_1_detail_1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"0";348324
+"Resources\Textures\mission_1_detail_2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"32";4;0;"voll";0;0;"";"alpharef 96";348324
+"Resources\Textures\mission_1_detail_3.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"alpharef 96";43684
+"Resources\Textures\mission_8_a.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission_8_b.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission_8_c.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission_8_d.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mission_detail.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"alpharef 96";43684
+"Resources\Textures\mission_detail_1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"alpharef 96";43684
+"Resources\Textures\model_2_a.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\model_2_b.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\model_2_c.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\model_2_d.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\model_5_a.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\model_5_b.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\model_5_c.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\model_5_d.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\model_6_a.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\model_6_b.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\model_6_c.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\model_6_d.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\mud_grass.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\newgrass.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\NW_coal.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\NW_engine.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\old_smoke.dtx";"DTX v2 (2.x/Jupiter)";32;32;"S3TC DXT1";4;0;"voll";0;0;"FULLBRITE";"";844
+"Resources\Textures\oldstucco2_front.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\oldstucco2_side.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\oldstucco_front.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\oldstucco_side.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\orangehouse_front.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\orangehouse_side.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\orannge_bricks.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\pine_1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 96";87204
+"Resources\Textures\ps2_bay_hopper.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\ps2_engine.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\ps2_flatcar.dtx";"DTX v2 (2.x/Jupiter)";256;128;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"Resources\Textures\ps2_flatcar_trailer.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\road.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\road_2.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\rock01.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\rock_1.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\rock_dirt01.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\rock_grass01.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\rock_mud.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_1_BK.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_1_DN.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_1_FR.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_1_LF.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_1_RT.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_1_UP.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_2_BK.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_2_DN.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_2_FR.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_2_LF.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_2_RT.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_2_UP.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_3_BK.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_3_DN.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_3_FR.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_3_LF.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_3_RT.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\room_3_UP.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\rustwall8.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\rustwall8b.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\santa.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\seawater.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\shingleroof.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\ship_side.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\silo_side.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\ski_lift.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\sky_1_BK.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\sky_1_DN.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\sky_1_FR.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\sky_1_LF.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\sky_1_RT.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\sky_1_UP.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\skyscraper_1.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\skyscraper_2.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\skyscraper_3.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"envmap textures\envmap_building.dtx";43684
+"Resources\Textures\skyscraper_4.dtx";"DTX v2 (2.x/Jupiter)";128;256;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"Resources\Textures\skyscraper_5.dtx";"DTX v2 (2.x/Jupiter)";128;256;"S3TC DXT1";4;0;"voll";0;0;"";"envmap textures\envmap_building.dtx";21924
+"Resources\Textures\skyscraper_6.dtx";"DTX v2 (2.x/Jupiter)";128;256;"S3TC DXT1";4;0;"voll";0;0;"";"envmapalpha textures\envmap_building.dtx";21924
+"Resources\Textures\skyscraper_roof.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\smoke.dtx";"DTX v2 (2.x/Jupiter)";32;32;"8P (paletted)";4;0;"voll";0;0;"FULLBRITE";"";5604
+"Resources\Textures\snow_detail.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\ST0152.DTX";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;1;"";"Detailtex Tex\DetailTex\Dtl0010.dtx";11044
+"Resources\Textures\steam.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\table.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\tanker-cabin.dtx";"DTX v2 (2.x/Jupiter)";32;32;"S3TC DXT1";4;0;"voll";0;0;"";"";844
+"Resources\Textures\tanker.dtx";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;0;"";"";174244
+"Resources\Textures\tanker_2.dtx";"DTX v2 (2.x/Jupiter)";128;256;"S3TC DXT1";4;0;"voll";0;0;"";"";21924
+"Resources\Textures\tanker_side.dtx";"DTX v2 (2.x/Jupiter)";64;64;"S3TC DXT1";4;0;"voll";0;0;"";"";2884
+"Resources\Textures\tavern.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\TR0138.DTX";"DTX v2 (2.x/Jupiter)";512;512;"S3TC DXT1";4;0;"voll";0;1;"";"Detailtex Tex\DetailTex\Dtl0025.dtx;";174244
+"Resources\Textures\track.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\tree_1.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 96";21924
+"Resources\Textures\tree_3.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 96";87204
+"Resources\Textures\tree_4.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 96";87204
+"Resources\Textures\tree_5.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 96";21924
+"Resources\Textures\tree_6.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"alpharef 96";87204
+"Resources\Textures\truck.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"";87204
+"Resources\Textures\Warbonet_coach.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"";87204
+"Resources\Textures\Warbonet_unit_a.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT5";4;0;"voll";0;0;"";"";87204
+"Resources\Textures\Warbonet_unit_B.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\Water.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"PREFER4444";"";11044
+"Resources\Textures\water01.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"envmap textures\envmap_familyroom.dtx";43684
+"Resources\Textures\white_bricks.dtx";"DTX v2 (2.x/Jupiter)";128;128;"S3TC DXT1";4;0;"voll";0;0;"";"";11044
+"Resources\Textures\zephyr_coach.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\zephyr_dinner.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\zephyr_engine.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684
+"Resources\Textures\zephyr_obs.dtx";"DTX v2 (2.x/Jupiter)";256;256;"S3TC DXT1";4;0;"voll";0;0;"";"";43684

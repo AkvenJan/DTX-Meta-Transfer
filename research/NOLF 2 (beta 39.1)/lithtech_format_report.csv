@@ -1,0 +1,1994 @@
+file,format,version,nodes,notes,status
+Game\Chars\models\Banerjee.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Banerjee.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Barnes.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Barnes.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Barnes_Ch10.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Barnes_Ch10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Barnes_Ch2.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Barnes_Ch2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Barnes_Ch3.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Barnes_Ch3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Barnes_Ch5.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Barnes_Ch5.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Barnes_Ch9.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Barnes_Ch9.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Cate_Ch1.ltb,LTB raw|Model,Mesh v18,36,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Cate_Ch1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Cate_Ch2.ltb,LTB raw|Model,Mesh v18,36,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Cate_Ch2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Cate_Ch3.ltb,LTB raw|Model,Mesh v18,36,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Cate_Ch3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Cate_Ch4.ltb,LTB raw|Model,Mesh v18,36,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Cate_Ch4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Cate_Ch5.ltb,LTB raw|Model,Mesh v18,36,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Cate_Ch5.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Cate_Ch6.ltb,LTB raw|Model,Mesh v18,36,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Cate_Ch6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Cate_Ch7.ltb,LTB raw|Model,Mesh v18,36,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Cate_Ch7.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Cate_Ch8.ltb,LTB raw|Model,Mesh v18,36,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Cate_Ch8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Cate_Ch9.ltb,LTB raw|Model,Mesh v18,36,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Cate_Ch9.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\DeathBase.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\DeathBase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Dir_Ch3.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Dir_Ch3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Director_Ch2.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Director_Ch2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Director_Ch3.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Director_Ch3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Director_Ch5.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\EAHARMIndia.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\EAHARMIndia.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Gen_Ch04.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Gen_Ch04.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Gen_Ch1.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Gen_Ch1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Gen_Ch5.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Gen_Ch5.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Gen_Ch6.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Gen_Ch6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Gen_Ch8.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Gen_Ch8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\HARMGuard.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\HARMGuard.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\HARMGuard2.ltb,LTB wrap|D3D,Body v15,44,wrap; Container=9; FileType=1,OK
+Game\Chars\models\HARMGuard2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\HARMIndia.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\HARMIndia.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\HARMIndiaXXXX.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\HARMIndiaXXXX.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\HARMIndia_Ch04.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\HARMIndia_Ch04.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\HARM_cin.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\HARM_cin.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\HARMbase.ltb,LTB wrap|D3D,Body v17,35,wrap; Container=9; FileType=1,OK
+Game\Chars\models\HARMbase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Harij.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Harij.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Hawkins.ltb,LTB raw|Model,Mesh v18,37,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Hawkins.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Hawkins_Ch2.ltb,LTB raw|Model,Mesh v18,37,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Hawkins_Ch2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Hawkins_Ch3.ltb,LTB raw|Model,Mesh v18,37,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Hawkins_Ch3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Isako.ltb,LTB raw|Model,Mesh v18,39,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Isako.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Isako_Ch1.ltb,LTB raw|Model,Mesh v18,39,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Isako_Ch1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Isako_Ch2.ltb,LTB raw|Model,Mesh v18,39,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Isako_Ch2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Isako_Ch3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Isako_Ch9.ltb,LTB raw|Model,Mesh v18,39,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Isako_Ch9.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Jones_Ch10.ltb,LTB raw|Model,Mesh v18,34,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Kamal.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Kamal.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\MimeBase.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\MimeBase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\MiscBase.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\MiscBase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Multi\HARMGuard_multi.ltb,LTB wrap|D3D,Body v15,25,wrap; Container=9; FileType=1,OK
+Game\Chars\models\Multi\HARMGuard_multi.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Multi\deathbase.ltb,LTB wrap|D3D,Body v15,25,wrap; Container=9; FileType=1,OK
+Game\Chars\models\Multi\deathbase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Multi\multibase.ltb,LTB wrap|D3D,Body v15,25,wrap; Container=9; FileType=1,OK
+Game\Chars\models\Multi\multibase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Pierre.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Pierre.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Pilot.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Pilot.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\RifleBase.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\RifleBase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Rogue_Ch5.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\SSLeut.ltb,LTB wrap|D3D,Body v15,27,wrap; Container=9; FileType=1,OK
+Game\Chars\models\SSLeut.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\SSLtbase.ltb,LTB raw|Model,Mesh v18,28,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\SSLtbase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\SSRogueLaser.ltb,LTB raw|Model,Mesh v18,28,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\SSRogueLaser.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\SSbase.ltb,LTB raw|Model,Mesh v18,29,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\SSbase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\SSoldierLt.ltb,LTB raw|Model,Mesh v18,28,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\SSoldierLt.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\SSoldierLt_Ch10.ltb,LTB raw|Model,Mesh v18,28,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\SSoldierLt_Ch10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\SSoldierLt_Ch6.ltb,LTB raw|Model,Mesh v18,28,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\SSoldierLt_Ch6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Schnkr_Ch2.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Schnkr_Ch2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\Shady.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\Shady.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\SoldrSov.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\SoldrSov.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\SoldrWntr.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\SovOfficer.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\SovOfficer.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\UNITYAgent.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\UNITYAgent.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\armstrong.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\armstrong.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\armstrong_Ch10.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\armstrong_Ch10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\armstrong_Ch3.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\armstrong_Ch3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\armstrong_Ch4.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\armstrong_Ch4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\armstrong_Ch5.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\armstrong_Ch5.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\armstrong_Ch8.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\armstrong_Ch8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\armstrong_Ch9.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\armstrong_Ch9.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\barnes_anim.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\barnes_anim.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\bruno.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\bruno.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\bruno_Ch10.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\bruno_Ch10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\bruno_Ch2.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\bruno_Ch2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\bruno_Ch3.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\bruno_Ch3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\bruno_Ch6.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\bruno_Ch6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\bruno_Ch9.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\bruno_Ch9.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\bruno_anim.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\bruno_anim.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\bystander.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\bystander.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\cate_Ch10.ltb,LTB raw|Model,Mesh v18,36,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\cate_Ch10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\director.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\director.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\director_Ch1.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\director_Ch1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\director_Ch10.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\director_Ch10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\director_Ch5.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\director_Ch7.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\director_Ch7.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\director_Ch9.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\director_Ch9.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\femResearcher.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\femResearcher.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\fembase.ltb,LTB raw|Model,Mesh v18,25,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\fembase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\goalBase.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\goalBase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\hawkins_Ch10.ltb,LTB raw|Model,Mesh v18,37,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\hawkins_Ch10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\hawkins_Ch5.ltb,LTB raw|Model,Mesh v18,37,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\hawkins_Ch5.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\hawkins_Ch7.ltb,LTB raw|Model,Mesh v18,37,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\hawkins_Ch7.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\hawkins_Ch9.ltb,LTB raw|Model,Mesh v18,37,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\hawkins_Ch9.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\hawkins_anim.ltb,LTB raw|Model,Mesh v18,37,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\hawkins_anim.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\hero_Oldaction.ltb,LTB wrap|D3D,Body v15,36,wrap; Container=9; FileType=1,OK
+Game\Chars\models\hero_Oldaction.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\hero_action.ltb,LTB raw|Model,Mesh v18,36,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\hero_action.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\hero_casual.ltb,LTB raw|Model,Mesh v18,36,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\hero_casual.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\hero_casual17.ltb,LTB wrap|D3D,Body v15,36,wrap; Container=9; FileType=1,OK
+Game\Chars\models\hero_casual17.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\hero_winter.ltb,LTB raw|Model,Mesh v18,39,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\hero_winter.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\isako_Ch3.ltb,LTB raw|Model,Mesh v18,39,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\jones.ltb,LTB raw|Model,Mesh v18,34,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\jones.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\jones_Ch10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\jones_Ch2.ltb,LTB raw|Model,Mesh v18,34,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\jones_Ch2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\jones_anim.ltb,LTB raw|Model,Mesh v18,34,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\jones_anim.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\malpani.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\malpani.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\mime.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\mime.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\mime_Ch4.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\mime_Ch4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\ninja.ltb,LTB raw|Model,Mesh v18,39,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\ninja.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\ninjaBase.ltb,LTB raw|Model,Mesh v18,39,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\ninjaBase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\player_action.ltb,LTB raw|Model,Mesh v18,24,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\player_action.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\playerbase.ltb,LTB raw|Model,Mesh v18,25,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\playerbase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\police.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\police.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\police_Ch4.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\police_Ch4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\researcher.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\researcher.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\rogue_Ch10.ltb,LTB raw|Model,Mesh v18,27,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\rogue_Ch10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\rogue_Ch5.ltb,LTB raw|Model,Mesh v18,27,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\rogue_Ch8.ltb,LTB raw|Model,Mesh v18,27,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\rogue_Ch8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\schenk_Ch3.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\schenk_Ch3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\schenker.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\schenker.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\schenker_Ch7.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\schenker_Ch7.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\schenker_Ch9.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\schenker_Ch9.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\schnkr_anim.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\schnkr_anim.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\soldrWntr.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\sweetshop.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\sweetshop.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\tulwarBase.ltb,LTB raw|Model,Mesh v18,35,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\tulwarBase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Chars\models\volkov.ltb,LTB raw|Model,Mesh v18,31,runtime-header; Container=9; FileType=1,OK
+Game\Chars\models\volkov.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\FX\264.ltb,LTB wrap|D3D,Body v15,2,wrap; Container=9; FileType=1,OK
+Game\FX\Debris\Models\glass_01a.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\FX\Debris\Models\glass_01a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\FX\Debris\Models\glass_01b.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\FX\Debris\Models\glass_01b.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\FX\Debris\Models\glass_01c.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\FX\Debris\Models\glass_01c.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\FX\Debris\Models\glass_01d.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\FX\Debris\Models\glass_01d.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\FX\Debris\Models\glass_01e.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\FX\Debris\Models\glass_01e.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\FX\Debris\Models\glass_02a.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\FX\Debris\Models\glass_02a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\FX\Debris\Models\glass_02b.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\FX\Debris\Models\glass_02b.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\FX\Debris\Models\glass_02c.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\FX\Debris\Models\glass_02c.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\FX\Debris\Models\glass_02d.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\FX\Debris\Models\glass_02d.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\FX\Debris\Models\glass_02e.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\FX\Debris\Models\glass_02e.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\FX\Test\MotionTest1.lta,LTA,-,,Lithtech Ascii,OK
+Game\FX\Test\Motiontest1.ltb,LTB wrap|ABC,Body v13,5,wrap; Container=8; FileType=4,OK
+Game\FX\Test\Path_fuel.ltb,LTB wrap|ABC,Body v13,5,wrap; Container=8; FileType=4,OK
+Game\FX\Test\Ring.ltb,LTB wrap|ABC,Body v13,7,wrap; Container=8; FileType=4,OK
+Game\FX\Test\RingTest1.lta,LTA,-,,Lithtech Ascii,OK
+Game\FX\Test\Ring_Cam.lta,LTA,-,,Lithtech Ascii,OK
+Game\FX\Test\Ring_Cam.ltb,LTB wrap|ABC,Body v13,7,wrap; Container=8; FileType=4,OK
+Game\FX\Test\Ring_Cam500.lta,LTA,-,,Lithtech Ascii,OK
+Game\FX\Test\Ring_Cam500.ltb,LTB wrap|ABC,Body v13,7,wrap; Container=8; FileType=4,OK
+Game\FX\Tor_ring1.lta,LTA,-,,Lithtech Ascii,OK
+Game\FX\Tor_ring2.lta,LTA,-,,Lithtech Ascii,OK
+Game\FX\TornadoRing1.ltb,LTB wrap|D3D,Body v15,1,wrap; Container=9; FileType=1,OK
+Game\FX\TornadoRing2.ltb,LTB wrap|D3D,Body v15,1,wrap; Container=9; FileType=1,OK
+Game\FX\Waterfall1.lta,LTA,-,,Lithtech Ascii,OK
+Game\FX\Waterfall1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\Waterfall2.lta,,,,,Fehler: Datei zu kurz / leer
+Game\FX\Waterfall2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\FX\flaremodel_3a.ltb,LTB wrap|D3D,Body v17,17,wrap; Container=9; FileType=1,OK
+Game\FX\flaremodel_3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\FX\sky_frame.lta,,,,,Fehler: Datei zu kurz / leer
+Game\FX\skyframe.ltb,LTB wrap|PS2,cont v3,,wrap; Container=3; FileType=2; PS2 Model File,OK
+Game\Interface\Menu\models\CateInt.ltb,LTB wrap|D3D,Body v17,19,wrap; Container=9; FileType=1,OK
+Game\Interface\Menu\models\CateInt.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Interface\Menu\models\CateInterface.lta,LTA,-,,Lithtech Ascii,OK
+Game\Interface\Menu\models\MainBack.ltb,LTB wrap|D3D,Body v17,1,wrap; Container=9; FileType=1,OK
+Game\Interface\Menu\models\MainBack.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Interface\Menu\models\MainBkgrnd.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Interface\Menu\models\MainFront.ltb,LTB wrap|D3D,Body v17,6,wrap; Container=9; FileType=1,OK
+Game\Interface\Menu\models\MainFront.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Interface\Menu\models\MainMenu.ltb,LTB wrap|D3D,Body v16,11,wrap; Container=9; FileType=1,OK
+Game\Interface\Menu\models\MainMenu.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Interface\Menu\models\MainMenuIntro.ltb,LTB wrap|D3D,Body v17,6,wrap; Container=9; FileType=1,OK
+Game\Interface\Menu\models\MainMenuIntro.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Interface\Menu\models\MainMiddle.ltb,LTB wrap|D3D,Body v17,1,wrap; Container=9; FileType=1,OK
+Game\Interface\Menu\models\MainMiddle.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Interface\Menu\models\boxb.abc,ABC,v12,1,,OK
+Game\Interface\Menu\models\boxf.abc,ABC,v12,1,,OK
+Game\Interface\Menu\models\circle1.abc,ABC,v12,1,,OK
+Game\Interface\Menu\models\circle2.abc,ABC,v12,1,,OK
+Game\Interface\Menu\models\cylinder.abc,ABC,v12,1,,OK
+Game\Interface\Menu\models\flower.abc,ABC,v12,1,,OK
+Game\Interface\Menu\models\horzbarb.abc,ABC,v12,1,,OK
+Game\Interface\Menu\models\horzbart.abc,ABC,v12,1,,OK
+Game\Interface\Menu\models\oval1.abc,ABC,v12,1,,OK
+Game\Interface\Menu\models\oval2.abc,ABC,v12,1,,OK
+Game\Interface\Menu\models\square1.abc,ABC,v12,1,,OK
+Game\Interface\Menu\models\staticbox1.abc,ABC,v12,1,,OK
+Game\Interface\Menu\models\vertbarl.abc,ABC,v12,1,,OK
+Game\Interface\Menu\models\vertbarr.abc,ABC,v12,1,,OK
+Game\Interface\models\35mm.abc,ABC,v12,4,,OK
+Game\Interface\models\35mm.lta,LTA,-,,Lithtech Ascii,OK
+Game\Interface\models\blueprint.abc,ABC,v12,1,,OK
+Game\Interface\models\blueprint.lta,LTA,-,,Lithtech Ascii,OK
+Game\Interface\models\briefcase.abc,ABC,v12,4,,OK
+Game\Interface\models\briefcase.lta,LTA,-,,Lithtech Ascii,OK
+Game\Interface\models\captainslog.abc,ABC,v12,5,,OK
+Game\Interface\models\captainslog.lta,LTA,-,,Lithtech Ascii,OK
+Game\Interface\models\dossier.abc,ABC,v12,2,,OK
+Game\Interface\models\dossier.lta,LTA,-,,Lithtech Ascii,OK
+Game\Interface\models\letter_01.abc,ABC,v12,2,,OK
+Game\Interface\models\letter_01.lta,LTA,-,,Lithtech Ascii,OK
+Game\Interface\models\loosefiles_01.abc,ABC,v12,3,,OK
+Game\Interface\models\loosefiles_01.lta,LTA,-,,Lithtech Ascii,OK
+Game\Interface\models\manifest.abc,ABC,v12,3,,OK
+Game\Interface\models\manifest.lta,LTA,-,,Lithtech Ascii,OK
+Game\Interface\models\menvelope.abc,ABC,v12,2,,OK
+Game\Interface\models\menvelope.lta,LTA,-,,Lithtech Ascii,OK
+Game\Interface\models\note.abc,ABC,v12,1,,OK
+Game\Interface\models\note.lta,LTA,-,,Lithtech Ascii,OK
+Game\Interface\models\reeltoreel.abc,ABC,v12,9,,OK
+Game\Interface\models\reeltoreel.lta,LTA,-,,Lithtech Ascii,OK
+Game\Interface\models\roster.abc,ABC,v12,3,,OK
+Game\Interface\models\roster.lta,LTA,-,,Lithtech Ascii,OK
+Game\Interface\models\securitypass.abc,ABC,v12,2,,OK
+Game\Interface\models\securitypass.lta,LTA,-,,Lithtech Ascii,OK
+Game\Interface\models\ticket.abc,ABC,v12,2,,OK
+Game\Interface\models\ticket.lta,LTA,-,,Lithtech Ascii,OK
+Game\KFAnimations\c02s09\spool02Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c02s09\spool1and2Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c02s09\tape1Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c02s09\tape2Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c02s09\tape3Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c02s09\tape4Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c02s09\tape5Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c02s09\tape6Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c03s03\awning1_east2Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c03s03\awning1_eastKeys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c03s03\awning1_northKeys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c03s03\awning1_westKeys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c03s03\awning2_north1Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c03s03\awning3_west1Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c03s03\awning4_nw1Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c03s03\awning4_south1Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c03s03\awning4_west1Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c04s07\awning1Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c04s07\awning2Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c04s07\awning3Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c04s07\awning4Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c06s02\kamalladder1Keys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\KFAnimations\c06s02\scaffoldingKeys.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Antarctica\AcetyTank_16x90x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Antarctica\CabinetDoor01_6x46x42.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Antarctica\Door01Frame_128x64x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Antarctica\Door01Locked_128x64x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Antarctica\Door01_128x64x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Antarctica\LightEmergency01_12x18x36.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Antarctica\Outlet01_8x12x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Cinematics\DeathTrapRoom.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Cinematics\DirectorsOffice.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Cinematics\HARMTrainingRoom.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Cinematics\JonesOffice.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Cinematics\PubExterior.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Cinematics\PubInterior.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Cinematics\UNITYHospital1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Cinematics\UNITYHospital2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Cinematics\UNITYWarRoom.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Cinematics\VolkovsRoom.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Cinematics\VolkovsRoomCorridor.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\AlarmButton2_12x12x12.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\AlarmButton_12x12x12.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\AnimalCrow_12x12x12.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\AnimalPigeon_12x12x12.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\AnimalRat_6x12x12.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\AnimalRoach_1x2x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Antenna1_Tall_6x188x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Antenna2_Small_6x121x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Antenna3_Medium_6x154x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Ashtray_Clean_10x1x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Ashtray_Dirty1_10x1x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Ashtray_Dirty2_10x1x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Bathtub1_36x47x96.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Beaker_12x14x12.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Book01_12x18x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Book02_12x18x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Book03_14x20x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Box_Cardboard_16x16x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Box_Cardboard_24x24x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Broom_Push_30x96x30.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Can_Tomato_14x18x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Ceiling_Fan01_28x107x107.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Chair_Metal_24x58x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Chair_Wood_24x58x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Cheese1_Wheel_34x16x34.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Cheese2_Wedge_13x16x13.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Cheese3_SlicedOut_34x16x34.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\CigButt1_1x1x1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\CigButt2_1x1x1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\CigaretteBox_6x2x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Cleaver_8x2x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Clipboard_24x2x38.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Cobweb01_32x32x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Cobweb02_32x32x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Cobweb03_32x32x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Cocktail_8x8x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Couch01_36x40x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Couch02_36x40x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Dandelion2_4x22x22.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Dandelion_29x13x13.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\DinnerTray_20x4x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\DixieCup1_Dblue_6x7x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\DixieCup1_Pink_6x7x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\DixieCup2_Stack_Blue_6x25x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\DixieCup2_Stack_Dblue_6x25x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\DixieCup2_Stack_Pink_6x25x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Dixiecup1_Blue_6x7x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Doorknob01_Bronze_Left_3x18x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Doorknob01_Bronze_Right_3x18x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Doorknob01_Gold_Left_3x18x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Doorknob01_Gold_Right_3x18x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Doorknob01_Silver_Left_3x18x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Doorknob01_Silver_Right_3x18x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Doorknob02_Bronze_Left_3x18x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Doorknob02_Bronze_Right_3x18x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Doorknob02_Gold_Left_3x18x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Doorknob02_Gold_Right_3x18x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Doorknob02_Silver_Left_3x18x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Doorknob02_Silver_Right_3x18x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Dumpster_94x80x66.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\FencePost_Metal01.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\FencePost_Metal02.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\FencePost_Metal03.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\FencePost_Metalclasp.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\FilingPaper_18x13x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\FireExtinguisher_32x8x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Firehose_10x48x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Flashlight1_8x8x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Flatware_8x1x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Flour_32x48x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\FlowerVase1_4x31x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\FlowerVase2_4x31x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Fluorescent_Bulb01_4x4x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Fork_2x1x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\FrozenMeat_24x76x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Goggles_14x6x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Grass1_22x54x22.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Grass2_16x54x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Grass3_10x52x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\GreasePan_30x6x30.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\GtSafe_72x44x42.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\JntrSink_63x51x38.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Knife1_2x1x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Knife2_Big_4x1x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Labcoat_8x58x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\LampFloor01_40x152x30.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\Global\LightBulb01off_a14x8x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\LightSimple01a_13x11x13.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\LightSimple01b_13x11x13.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\LightSimple02a_13x11x13.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\LightSimple02b_13x11x13.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Lunchbox_10x13x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Martini_12x14x12.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Matchbox2_Open_4x3x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Matchbox_4x1x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Money1_Big_8x3x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Money1_Med_8x4x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Money2_Big_8x3x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Money2_Med_8x4x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Mug_14x13x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Mug_Green_14x13x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Mug_Yellow_14x13x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Mynah_Bird_20x16x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\OfficeTray1_Blue_18x8x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\OfficeTray2_Green_18x8x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Onion_6x6x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Pallet_64x8x80.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Pallet_Loaded01_66x81x80.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Pallet_Loaded02_64x84x80.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Pallet_Loaded03_64x84x80.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Pallet_Loaded04_64x84x80.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Pan1_Copper_24x6x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Pan1_Iron_24x6x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Pan2_Copper_24x43x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Pan2_Iron_24x43x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Phone_Blue_18x11x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Phone_Green_18x11x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Phone_Pink_18x11x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Phone_Red_18x11x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Photo_Frame_18x24x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Pillow_Bluedot_28x11x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Pillow_Greendot_28x11x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Pillow_White_28x11x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\PlantHang01_47x20x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\PlantPotted01_94x74x74.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\PlantVine_32x128x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Plate_Blue_18x2x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Plate_Blue_Halfstack_18x12x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Plate_Blue_Stack_18x20x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Plate_Yellow_18x2x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Plate_Yellow_Halfstack_18x12x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Plate_Yellow_Stack_18x20x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Pot_Copper_Small_10x10x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Sink01_50x40x35.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Spatula_5x2x5.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\SpeakerPhone_Green_26x7x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\SpeakerPhone_Red_26x7x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Spoon_3x1x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Spotlight_BROKEN_25x24x25.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Spotlight_OFF_25x24x25.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Spotlight_ON_25x24x25.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\StackedPapers01_18x2x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tenderizer_6x3x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Testube_8x18x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Thermos_4x16x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Toilet01_53x33x44.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Toilet02_101x33x44.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tomato1_Single_8x8x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tomato2_Two_8x7x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Trashpaper1_8x6x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Trashpaper2_8x6x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1b_458x345x377.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1b_Anima.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1b_Large.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1b_Med.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1b_Small.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1g_458x345x377.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1g_Anima.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1g_Large.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1g_Med.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1g_Small.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1n_458x345x377.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1n_Anima.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1n_Large.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1n_Med.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1n_Small.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1r_458x345x377.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1r_Anima.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1r_Large.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1r_Med.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Tree1r_Small.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\TreeDec01_560x40x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\TreePalm01_564x40x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Typewriter1_Gray_22x8x22.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Typewriter2_Red_22x8x22.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Urinal01_42x22x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Valve1_Silver_32x32x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Valve2_Gold_32x32x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Valve3_Bronze_32x32x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\WineGlass_White_6x14x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Wine_Red_8x28x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Wine_White_8x28x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Wrench_Crescent_16x1x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\Wrench_Plumber_18x1x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\trunk01_80x32x50.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\ushelf01_128x128x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Global\ushelf02_64x128x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bag_Spice_Green_24x32x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bag_Spice_Green_Logo_24x32x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bag_Spice_Orange_24x32x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bag_Spice_Orange_Logo_24x32x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bag_Spice_Red_24x32x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bag_Spice_Red_Logo_24x32x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bag_Spice_White_24x32x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bag_Spice_White_Logo_24x32x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bag_Spice_Yellow_24x32x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bag_Spice_Yellow_Logo_24x32x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Basket1_Orange_36x17x36.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Basket1_White_36x17x36.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Basket2_Dark_36x17x36.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Basket2_Light_36x17x36.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bicycle_32x62x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bowl_Spice1_Green_26x8x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bowl_Spice1_Orange_26x8x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bowl_Spice1_Red_26x8x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bowl_Spice1_White_26x8x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bowl_Spice1_Yellow_26x8x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bowl_Spice2_Green_26x8x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bowl_Spice2_Orange_26x8x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bowl_Spice2_Red_26x8x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bowl_Spice2_White_26x8x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Bowl_Spice2_Yellow_26x8x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Box_cardboard_16x16x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Box_cardboard_24x24x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\BroomCloset_46x144x88.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\CDoor01_70x180x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\CDoor02_70x180x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\CDoor03_70x180x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\CDoor04_92x188x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\CDoor05_140x180x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\CDoor06_140x204x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Carnation1_Red_20x6x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Carnation2_Red_10x34x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Carnation2_White_10x34x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\CarnivalDoor01_70x131x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\CarnivalDoor02_70x131x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\CarnivalDoorEXT01_70x131x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\CarnivalSconce01_8x22x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\CeilingLight_16x4x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Chair01_24x60x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Cloth_Roof1_10x160x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\ClothsRack_40x104x128.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\DoorEXT01_72x132x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\EACeilingLight_48x18x44.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\EAHangLight_16x32x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\EALightCeilingHat_DEAD_48x20x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\EALightCeilingHat_OFF_48x20x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\EALightCeilingHat_ON_48x20x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\EASpotlight_54x36x36.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\EAWallLight_30x26x56.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\EAarch01_208x184x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\EAcolumnhalf01_48x192x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\EAdoor01_80x136x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\EAdoor02Locked_80x136x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\EAdoor02_80x136x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\EAwindow01_128x216x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\EAwindow02_128x216x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\FileCabinet01_76_24_33.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\FileCabinet02_76_24_33.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\FileCabinet03_76_24_33.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\FileCabinet04AIUse_76_24_33.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\FilmCanisterSide_24x8x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\FilmCanisterStand_22x24x22.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVCeilingLight_48x18x44.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVWallLight01.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVarch01_128x72x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVarch02_120x212x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVarch03_128x72x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVarch04_224x92x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVarchcorner01_132x72x132.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVarchcorner02_96x128x96.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVbookshelf01_112x192x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVcolumn01_24x120x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVcolumn02_48x440x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVcolumn03_48x216x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVdesk01_128x52x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVdoor01_96x152x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVdoor02_80x136x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVpicture01_32x64x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVpicture02_32x64x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVpicture03_32x64x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVpicture04_96x96x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVrug01_192x1x288.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVrug02_128x1x192.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVrug03_96x1x144.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVwindow01_128x192x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVwindow02_128x192x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVwindow03_160x192x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\HVwindow04_160x192x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Hookah_Pipe1_14x30x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Maple_Leaf_Fall1_24x10x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\MirrorLightBulb_13x11x13.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\MirrorLight_80x112x29.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Monkey_16x16x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\MovieProjector_40x56x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\NewspaperBox_32x68x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\SandBag01_16x24x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\SeatTh_61x30x37.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\SeatTh_61x32x37.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\SeatTh_Arm_3x47x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Sky_Sunny.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\StackedPapers01_18x2x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Temple_Arch2_192x224x36.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Temple_Arch_192x224x98.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Temple_Arch_Door_32x224x156.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Temple_Arch__Spacer_96x224x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Temple_Lamp_64x96x101.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\Wanted_Poster_4x27x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\WindowEXT01_48x104x0.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\WindowEXT02_68x140x0.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\WindowEXT03_88x104x12.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\WorkLight_68x29x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\WorkLight_Standing_16x64x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\bed01_68x132x38.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\coffeetable_96x16x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\couch01_128x48x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\detail_inset_104x184x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\doorwhite_8x134x76.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\interior_screen_4x224x128.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\kitchen01_144x56x96.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\rug01_96x160x1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\table01_72x50x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\India\table02_72x50x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Island\Bush1_55x79x79.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Island\Bush2_46x78x74.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Island\Bush_Small_64x26x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\AlarmPost_64x180x46.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Alarm_28x30x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Bottle01_a29x26x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Bush01_52x60x60.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Carps_4x52x52.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Chime_58x14x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\CrateB_20x32x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\CrateBottle_20x5x5.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\CrateR_20x32x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\CrateY_20x32x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Cushion01_40x3x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Cushion02_40x3x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Door01_64x128x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Door02_64x128x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\DoorExt01_64x128x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\DoorExt02_64x128x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\EDoor01_64x128x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\EDoor02_64x128x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\EDoorShed01_64x128x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\EFancyKnob01_11x14x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\ELanternGroundOn_20x36x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\ELanternMountedOn_20x20x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\ELightHanging01Off_20x40x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\ELightHanging01On_20x40x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\ELightWall01Off_29x9x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\ELightWall01On_29x9x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\ELightWall02Off_16x16x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\ELightWall02On_16x16x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\EShoeCloset01_96x136x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\EWindowShed01_112x88x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\EWindowShed02_112x88x46.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Futon01_96x8x144.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Gate01_704x324x320.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Hotpot_23x152x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\JpStnLantnOff_40x36x31.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\JpStnLantnOn_40x36x31.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\JpVMachine2_64x116x49.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\JpVMachine3_52x116x51.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\JpVMachine_116x64x50.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Lantern01Off_28x33x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Lantern01_28x33x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Lantern02Off_40x74x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LanternNight01_26x32x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LanternNight02_26x32x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LanternNight03_26x32x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LanternNight04_26x32x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LanternNight05_24x48x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LanternRndBlOff_32x26x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LanternRndOrOff_32x26x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LanternRndPuOff_32x26x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LanternRndRdOff_32x26x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LanternTallOff_48x24x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Lantern_Hand_11x22x11.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LeavesMapleBlow_154x52x52.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LightHung01Off_42x24x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LightHung01On_42x24x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LightHungNight01_42x24x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LightLair01_12x18x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LightSimple01a_13x11x13.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LightStreet01Off_336x8x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\LightStreet01On_336x8x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Maple_Leaf_Fall1_24x10x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\MarketStand_96x82x80.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Orchid01_36x44x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Orchid02_36x44x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\PlantBox_72x40x68.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Post_90x26x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Sake02_34x34x34.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Sandals_Female_16x5x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Sandals_Male_18x6x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Scroll01_48x128x1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Scroll02_48x128x1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Scroll03_48x128x1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\SignHgSweet_56x24x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\SignStnd01_a66x28x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Sign_Hanging_2x84x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Sign_Wall02_2x64x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Sign_Wall03_2x64x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Sign_Wall_2x64x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Sky_Night.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Sky_Sunset.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Spotlight01Off_23x36x36.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\StLightNight01_8x336x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\StLightNight02_8x336x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\StLightOn_8x336x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\TreeMaple_240x24x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\TreeMatsu_146x120x120.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\VDoor01_64x128x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\VDoor02_64x128x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\VElectricBox01_18x30x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\VRack01_104x102x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\VRack02_132x102x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\VSideShed01_76x124x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\VSignStand01_64x180x46.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\VSignStand02_64x192x74.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\VSignStand03_144x160x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\VWindow01_66x66x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\VWindowQuad01_120x64x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\VWindowQuad02_144x68x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\VWindowQuad03_160x48x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Vase_Large1_30x40x30.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Vase_Small2_14x26x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Vase_Small_Green2_14x26x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Vase_Small_Red2_14x26x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt01_52x128x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt02_52x128x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt03_52x128x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt04_52x32x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt05_52x128x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt06_52x128x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt07_208x160x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt08_100x128x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt09_52x128x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt10_156x128x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt11_152x160x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt12_106x128x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt13_102x128x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt14_52x128x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt15_98x128x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WallExt16_32x128x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Window01A_96x96x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Window01_96x96x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Window02_96x96x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Window03_20x80x80.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Window04_4x80x208.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Window05A_96x60x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Window05B_96x60x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Window05_96x60x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Window06A_96x32x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\Window06_96x32x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WindowExt01_52x72x12.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\WindowExt02_100x72x12.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Japan\chest01_48x72x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Battery1_8x4x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Battery2_8x7x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Bed_110x62x148.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\BigDresser_108x50x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\BookcaseShort_32x48x128.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Car01_78x108x108.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\CeilingLampGroovy_48x71x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\CeilingLampOrange_48x71x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\CeilingLight_38x11x38.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\ChairLawnGr_60x32x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\ChairLawnPk_60x32x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\ClothesTree_98x68x68.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Curtains_2x40x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\DoorHandle01_7x7x5.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Dryer_70x48x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\EndTable_32x34x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Fridge01_48x96x50.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Garage_Opener_15x6x15.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Grill_68x36x36.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Hubcap_40x6x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Lamp_32x104x34.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\LightBulbB_40x46x13.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\LightBulb_40x46x13.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\LightPull01_OFF16x8x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\LightSwitch01_OFF16x8x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\LightSwitch01_ON16x8x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\MediumDresser_86x50x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\MelvinDoor_98x144x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\NightStand_56x50x39.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\ParkLight_34x100x36.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\PicnicTable01_144x48x112.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\PinwheelBl_37x4x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\PinwheelPk_37x4x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\PinwheelYw_37x4x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\PwrPole01_16x420x56.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\PwrPole02_16x420x56.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Recliner1_55x52x43.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Sky_Stormy.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Sofa1_56x128x43.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\StLight1off_366x21x83.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\StLight1on_366x21x83.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\StereoContained_32x55x128.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Stereo_196x66x37.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\Ohio\Stove01_48x60x50.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\StoveVent01_48x12x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Television_80x48x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Tire1_16x62x60.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Trailer01.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Trailer02.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Vacuum01_74x72x72.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Vacuum02_27x54x54.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Vacuum03_58x60x60.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Vacuum04_20x70x70.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Wall_Lamp_Short_39x40x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Wall_Lamp_Tall_39x42x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\Washer_70x48x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\bathtub_64x56x144.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\coffeetable_48x22x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\diningtable_144x78x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\tablelampOFF_19x60x19.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\tablelamp_40x47x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Ohio\tablesmall_48x50x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\AirPlane_720x256x1024.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Alarm01_20x30x12.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Alarm02_12x12x12.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Antlers_38x32x38.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Bag_of_Sugar_12x15x12.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Barrel01_50x34x34.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Barrel2_50x34x34.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\BarrelFire01_50x34x34.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\BarrelSnow01_50x34x34.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\BarrelSnow2_54x34x34.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Bench_21x26x149.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Boots1_RightLean_18x14x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Boots2_Messy_18x12x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Boots3_LeftLean_18x14x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Bottle01_a29x26x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Box_cardboard_32x32x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Bunk02_72x48x132.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Bunk_72x48x132.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Chair01_64x32x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Chair_Metal01_64x32x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Chalkboard_96x128x2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\ChanlinkGate_70x134x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\ChanlinkGate_Locked_70x134x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Computer01_32x160x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Computer02_32x160x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Computer03_32x160x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Computer04_192x160x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\ComputerDesk01_63x78x132.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\ComputerDesk01b_63x78x132.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\ComputerShort01_40x80x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\ComputerShort02_56x80x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Computer_SideMount_19x32x41.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Credenza01_48x128x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Credenza02_48x128x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Credenza03_48x128x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Crossbeam_64x32x192.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Cup01_6x6x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Dacha_Door01_64x128x4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Dacha_Doorframe01_80x136x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Dacha_Window01_96x128x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Desk01Writing_48x128x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Desk01_48x128x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Desk02_48x128x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Desk03_48x128x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Desk04_48x128x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Desk05_48x128x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Door01FrameDbl_144x138x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Door01Frame_140x76x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Door01_140x76x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Door02Locked_140x76x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Door02_140x76x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Door03_118x156x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Door04Locked_76x138x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Door04_76x138x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Door05Locked_140x76x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Door05_140x76x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Door06Dbl_144x138x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Door07Dbl_144x192x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Door08_Dacha_140x76x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Door08_Dacha_Locked_140x76x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Door09_76x138x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Dumpster01_124x92x92.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\ElectBox01_38x140x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\ElectBox02_38x108x34.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\ElectBox03_74x106x42.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\ElectBox04_34x44x28.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\ElectBox05_38x60x34.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\ElectBox06_286x154x42.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\FencePost01_10x190x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\FencePost02_10x190x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\FencePostBarbed_Light_24x73x70.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\FencePostBarbed_NoLight_24x73x70.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\FileCabinet01_76_24_33.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\FileCabinet02_76_24_33.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\FileCabinet03_76_24_33.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\FileCabinet04AIUse_76_24_33.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Foliage\PineSmSnow_564x337x337.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Foliage\PineSm_564x337x337.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Foliage\PineSnow_810x442x442.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Foliage\PineSnow_915x407x430.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Foliage\Pine_810x442x442.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Foliage\Pine_915x407x430.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Foliage\Tree1_ShortA.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Foliage\Tree1_ShortB.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Foliage\Tree2_TallA.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\FootLocker01_32x34x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\FootLocker02_32x34x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\FootLocker03Open_64x34x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\FootLocker03_64x34x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\FootLocker03_Locked_64x34x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\GasCan_18x35x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\GateBig_290x156x6.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Gate_288x304x22.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Generator01_88x148x92.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Generator02_88x162x80.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Lamp01Off_26x9x9.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Lamp01On_26x9x9.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LampSimple_32x8x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Lamp_Desk01DEAD_41x18x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Lamp_Desk01OFF_41x18x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Lamp_Desk01_41x18x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightCeilingHatBasket_DEAD_48x24x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightCeilingHatBasket_OFF_48x24x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightCeilingHatBasket_ON_48x24x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightCeilingHat_DEAD_48x20x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightCeilingHat_OFF_48x20x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightCeilingHat_ON_48x20x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightCeilingHat_a20x48x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightCylinder_14x11x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightFlourescent01DEAD_96x14x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightFlourescent01OFF_96x14x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightFlourescent01ON_96x14x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightFlourescent_Indust_OFF_96x14x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightFlourescent_Indust_ON_96x14x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightPole01DEAD_123x448x52.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightPole01OFF_123x448x52.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightPole01ON_123x448x52.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightSimple01DEAD_13x11x13.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightSimple01OFF_13x11x13.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightSimple01ON_13x11x13.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightSimple02ON_32x8x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightSwitch01_a16x8x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightSwitch01_b16x8x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightYardOff_58x104x104.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\LightYardOn_58x104x104.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Light_Flourescent_Basket_Dead_96x9x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Light_Flourescent_Basket_Off_96x9x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Light_Flourescent_Basket_On_96x9x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Mattress01_60x8x124.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Mattress02_64x8x126.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\MessHTable_112x49x149.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\MessHTable_No_Bench_61x49x146.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\PingPong1_1x13x13.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\PingPong2_1x17x17.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Pipe01_90Elbow_16x40x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Pipe01_Cleanout_16x40x25.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Pipe01_Straight_16x128x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Pipe01_Straight_16x64x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Pipe01_T_16x40x25.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Pipe01_bracket01_40x16x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Pipe01_bracket02_16x30x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Pipe01_bracket_40x16x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Pipe_Painted_Vert_26x192x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Pipe_Painted_Vert_Elbow_40x232x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Pot01_18x20x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Pot02_18x20x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Pot03small_10x14x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\PotCoffee_16x10x10.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Pump01_34x46x42.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\PwrPole03_16x420x56.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\PwrResistor_40x240x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Radiator_Heater_17x64x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Radio01_34x16x34.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\SecurityGate01_4x256x192.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Shelf_Wall01_128x24x17.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\Siberia\Shelf_Wall01_80x24x17.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Sky_Night.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\StackedPapers01_18x2x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Stove_78x40x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Table_96x48x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor01_S_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor02_E_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor02_N_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor02_S_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor02_W_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor03_E_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor03_N_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor03_S_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor03_W_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor04_E_4x4a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor04_N_4x4a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor04_S_4x4a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor04_W_4x4a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor05_E_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor05_N_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor05_S_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor05_W_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor06_E_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor06_N_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor06_S_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor06_W_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor07_E_4x4a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor07_N_4x4a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor07_S_4x4a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerFloor07_W_4x4a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallCorner01_NE_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallCorner01_NW_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallCorner01_SE_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallCorner01_SW_2x2a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallCorner02_NE_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallCorner02_NW_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallCorner02_SE_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallCorner02_SW_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSeg01_E_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSeg01_N_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSeg01_S_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSeg01_W_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSeg02_E_2x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSeg02_N_2x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSeg02_S_2x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSeg02_W_2x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSeg03_N_4x3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope01L_E_1x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope01L_N_1x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope01L_S_1x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope01L_W_1x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope01R_E_1x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope01R_N_1x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope01R_S_1x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope01R_W_1x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope01_E_2x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope01_N_2x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope01_S_2x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope01_W_2x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope02_E_2x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope02_N_2x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope02_S_2x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerWallSlope02_W_2x3a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerrWallCorner03_NE_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerrWallCorner03_NW_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerrWallCorner03_SE_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Terrain\TerrWallCorner03_SW_1x1a.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\TreePine01_770x300x300.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Truck_164x492x152.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\UtilityCabinet_49x144x88.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Vent01_32x24x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Wastebasket01_32x24x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Window01_104x56x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Window02_104x56x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Window03_56x38x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Window04_56x104x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\WindowOpen01_56x104x18.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Window_Cabin_16x96x96.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\Window_Datcha_16x128x96.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\shelf01_79x144x140.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Siberia\shelf02_79x144x140.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\AirBag_68x156x65.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\BedLamp_16x2x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\BenchUWB_21x26x149.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\BildgePump_128x320x247.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Cargo_Container_128 x128x128.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Cart_101x62x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\CeilingLight01Dead_80x8x80.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\CeilingLight01_80x8x80.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\CeilingLight02_42x8x42.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\CeilingLight03Dead_7x95x7.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\CeilingLight03_7x95x7.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Chair01_28x62x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Chair2g_64x76x38.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Chair2p_64x76x38.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Chair3_62x31x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Chair_Egg_70x96x88.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\CofeeTable01_64x24x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\ComTerminal01_49x24x36.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\ComputerDesk_Floor01_63x78x132.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Computer_Big01_44x176x106.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Computer_CeilingMount02_61x158x57.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\Computer_CeilingMount02s_61x158x57.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\Computer_FloorlMount01_61x80x128.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\Computer_FloorlMount02_61x80x57.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\Computer_WallMount01_61x52x128.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Computer_WallMount02_61x52x64.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\Computer_WallMount03_53x94x148.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Computer_WallMount04_42x96x96.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\DeskLampDead_80x14x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\DeskLamp_80x14x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\DeskUWB01_120x48x60.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\DeskUWB02_48x128x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\DeskUWB03_120x48x60.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\DeskUWB04_120x48x60.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Divider_54x130x12.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Door01_80x136x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Door01b_80x136x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Door01c_80x136x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Door02_80x136x64.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\Door02b_80x136x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Door03_80x136x64.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\Door03b_80x136x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Door04_80x136x64.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\Door04b_80x136x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Door05Open_64x136x128.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Door05_64x136x128.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Door05b_64x136x128.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\Door05c_64x136x128.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\Door05d_64x136x128.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\DoorAxialR1_122x192x34.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\DoorAxialR2_188x192x70.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\DoorAxialR3_148x192x66.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\DoorAxialR4_202x192x256.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\DoorRadialR1_224x192x168.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\DoorRadialR2_225x192x138.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\DoorRadialR3_227x192x191.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\DoorRadialR4_296x320x259.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\FencePost_8x192x8.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Guage01L_5x21x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Guage01R_5x21x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\HallAxialEndCap_22x192x180.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\HallAxialSpacerBevel_64x192x176.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\HallAxialSpacer_64x192x180.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\HallAxial_192x192x188.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\HallAxial_SideDoor_192x192x200.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\HallDoorAxial_160x192x180.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\HallRadialR1_42x192x224.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\HallRadialR2_69x192x227.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\HallRadialR3_96x192x228.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\HallRadialR4_130x320x297.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Hoist_64x92x48.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\LadderHole_128x128x128.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\LadderHole_128x64x128.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\LadderShoot_140x343x128.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\LadderShoot_140x407x128.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Ladder_40x184x30.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\LightFlourescentUWB_ON_96x14x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Light_HangIndDead_70x134x70.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\Light_HangIndustrial_70x134x70.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Light_Wall01_4x25x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Light_Wall02_7x23x20.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Lights_R4Grate_16x16x174.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Pipe01_16x160x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\PipeBroke01_19x6116.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\PipeBroke02_22x62x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Pipe_Vert_35x192x34.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Pipes_R4Grate_119x62x120.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\PortWindow_R3eye_24x68x164.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\PortWindow_R4eye_24x68x164.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\R2-R3Window01_33x112x96.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\R2-R3Window02_42x112x168.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\R3-R4Window01_33x112x112.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\R3-R4Window02_43x112x211.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\R3_PortWindow_209x192x192.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\R4Grate_190x4x123.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\R4_PortWindow_259x80x30.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\Shelf_Wall02_96x24x17.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\UnderwaterBase\Shelf_Wall_128x24x17.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\WallAxialR1L_38x192x222.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\WallAxialR1R_38x192x222.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\WallAxialR2L_65x192x225.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\WallAxialR2R_65x192x225.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\WallAxialR3L_92x192x227.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\WallAxialR3R_92x192x227.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\WallAxialR4L_112x320x296.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\WallAxialR4R_112x320x296.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\WallLight02_20x16x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\UnderwaterBase\WallLight_12x16x7.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Ashtray01_16x32x16.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\Unity\Bench01_128x24x32.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\Unity\Bookshelf01_72x96x24.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\Unity\Bookshelf02_72x96x24.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\Unity\Bookshelf03_72x96x24.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\Unity\Chair01_64x32x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Desk01Writing_48x128x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Desk01_48x128x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Desk02_48x128x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Desk03_48x128x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Desk04_48x128x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Door01_7x128x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Facade.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\FileCabinet01_76_24_33.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\FileCabinet02_76_24_33.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\FileCabinet03_76_24_33.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\FileCabinet04AIUse_76_24_33.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Lamp_Desk01DEAD_41x18x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Lamp_Desk01OFF_41x18x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Lamp_Desk01_41x18x40.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\RoundTable01_80x48x80.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\Unity\Sofa01_54x56x136.lta,LTA,-,,Lithtech Ascii,OK
+Game\Prefabs\Unity\UnChair1Gr_26x52x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\UnChair1Or_26x52x26.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\UnChair2Bl_42x56x42.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\UnSecurity_Door_192x184x16.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\UnSofa1Bl_40x64x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\UnSofa1Gr_40x64x64.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Unity_Light1_Off_24x6x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Unity_Light1_On_24x6x24.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Unity_Light2_Off_14x32x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Unity_Light2_On_14x32x14.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Prefabs\Unity\Wastebasket01_32x24x32.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\RS\Additive.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\Additive.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=517, keine 'Header'/'LTBHeader'-Sektion)"
+Game\RS\Additive_4.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\Additive_4.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\Glow.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\Glow.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\NinjaTranslucent.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\NinjaTranslucent.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=517, keine 'Header'/'LTBHeader'-Sektion)"
+Game\RS\Translucent.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\Translucent.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=517, keine 'Header'/'LTBHeader'-Sektion)"
+Game\RS\Translucent_nodiffuse.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\Translucent_nodiffuse.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=517, keine 'Header'/'LTBHeader'-Sektion)"
+Game\RS\Translucent_nolight.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\Translucent_nolight.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=517, keine 'Header'/'LTBHeader'-Sektion)"
+Game\RS\cell.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\cell.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=517, keine 'Header'/'LTBHeader'-Sektion)"
+Game\RS\default.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\default.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\envmap.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\envmap.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\glass.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\glass.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\glass2.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\glass2.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\hotcoals.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\hotcoals.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\interface_back.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\interface_back.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\interface_front.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\interface_front.ltb,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=517, keine 'Header'/'LTBHeader'-Sektion)"
+Game\RS\pv_Keychain.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\pv_Keychain.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\pv_envmap.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\pv_envmap.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\RS\transparent.lta,LTA,-,,Lithtech Ascii,OK
+Game\RS\transparent.ltb,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+Game\Worlds\RetailSinglePlayer\BoxSample.dat,DAT,v81,,unbekannte DAT-Version,OK
+Game\Worlds\RetailSinglePlayer\BoxSample.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Worlds\RetailSinglePlayer\C02s01.dat,DAT,v81,,unbekannte DAT-Version,OK
+Game\Worlds\RetailSinglePlayer\C02s01.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Worlds\RetailSinglePlayer\C03s01.dat,DAT,v81,,unbekannte DAT-Version,OK
+Game\Worlds\RetailSinglePlayer\C03s01.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Worlds\RetailSinglePlayer\C06s02.dat,DAT,v81,,unbekannte DAT-Version,OK
+Game\Worlds\RetailSinglePlayer\C06s02.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\Worlds\RetailSinglePlayer\c01s01.dat,DAT,v81,,unbekannte DAT-Version,OK
+Game\Worlds\RetailSinglePlayer\c01s01.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\HARMHelmet.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\Lantern.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\Lantern.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\SSLtMask.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\SSLtMask.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\SSLtTank.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\SSLtTank.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\beret.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\beret.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\binocular.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\binocular.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\cigarette.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\cigarette.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\clipboard.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\clipboard.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\cloakFly.ltb,LTB raw|Model,Mesh v18,6,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\cloakFly.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\cloakthrown.ltb,LTB raw|Model,Mesh v18,6,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\cloakthrown.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\coffecup.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\coffecup.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\coffepot.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\coffepot.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\deadSSLtTank.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\deadSSLtTank.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\fedora.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\fedora.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\femglasses.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\femglasses.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\glasses.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\glasses.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\harmhelmet.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\light.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\light.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\policecap.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\policecap.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\rogueTank.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\rogueTank.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\schenkglasses.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\schenkglasses.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\shades.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\shades.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\sovietcap.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\sovietcap.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\sovwntrhat.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\sovwntrhat.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\suitcase.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\suitcase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\turban.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\turban.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\umbrellaAnim.ltb,LTB raw|Model,Mesh v18,19,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\umbrellaAnim.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\umbrellaClosed.ltb,LTB raw|Model,Mesh v18,19,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\umbrellaClosed.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\umbrellaOpen.ltb,LTB raw|Model,Mesh v18,19,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\umbrellaOpen.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\attachments\models\wrench.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\attachments\models\wrench.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_hh\BearTrap.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_hh\BearTrap.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_hh\Bug.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_hh\SSCannon.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_hh\SSCannon.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_hh\Tulwar.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_hh\ak47.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_hh\ak47.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_hh\beretta.ltb,LTB wrap|D3D,Body v15,6,wrap; Container=9; FileType=1,OK
+Game\guns\models_hh\billyclub.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_hh\billyclub.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_hh\bug.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_hh\camera.ltb,LTB wrap|D3D,Body v15,6,wrap; Container=9; FileType=1,OK
+Game\guns\models_hh\cameradis_hh.ltb,LTB wrap|D3D,Body v15,1,wrap; Container=9; FileType=1,OK
+Game\guns\models_hh\codebreaker.ltb,LTB wrap|D3D,Body v15,6,wrap; Container=9; FileType=1,OK
+Game\guns\models_hh\coin.ltb,LTB wrap|D3D,Body v15,6,wrap; Container=9; FileType=1,OK
+Game\guns\models_hh\coin_hh.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_hh\coin_hh.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_hh\crossbow.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_hh\crossbow.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_hh\grenade.ltb,LTB wrap|D3D,Body v17,1,wrap; Container=9; FileType=1,OK
+Game\guns\models_hh\katana.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_hh\katana.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_hh\kitty.ltb,LTB raw|Model,Mesh v18,7,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_hh\kitty.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_hh\launcher.ltb,LTB wrap|D3D,Body v15,6,wrap; Container=9; FileType=1,OK
+Game\guns\models_hh\lockpick.ltb,LTB wrap|D3D,Body v17,1,wrap; Container=9; FileType=1,OK
+Game\guns\models_hh\perfume.ltb,LTB wrap|D3D,Body v15,6,wrap; Container=9; FileType=1,OK
+Game\guns\models_hh\purse.ltb,LTB wrap|D3D,Body v15,6,wrap; Container=9; FileType=1,OK
+Game\guns\models_hh\shotgun.ltb,LTB wrap|D3D,Body v15,6,wrap; Container=9; FileType=1,OK
+Game\guns\models_hh\shuriken.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_hh\shuriken.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_hh\sniper.ltb,LTB wrap|D3D,Body v15,6,wrap; Container=9; FileType=1,OK
+Game\guns\models_hh\sterling.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_hh\sterling.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_hh\tazer.ltb,LTB wrap|D3D,Body v15,6,wrap; Container=9; FileType=1,OK
+Game\guns\models_hh\timebomb.ltb,LTB wrap|D3D,Body v15,6,wrap; Container=9; FileType=1,OK
+Game\guns\models_hh\tommygun.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_hh\tommygun.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_hh\tulwar.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_hh\walther_hh.ltb,LTB raw|Model,Mesh v18,6,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_hh\walther_hh.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_hh\welder.ltb,LTB wrap|D3D,Body v15,6,wrap; Container=9; FileType=1,OK
+Game\guns\models_pv\Tulwar.ltb,LTB raw|Model,Mesh v18,48,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\ak47.ltb,LTB raw|Model,Mesh v18,50,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\ak47.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\beartrap.ltb,LTB raw|Model,Mesh v18,50,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\beartrap.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\beretta.ltb,LTB raw|Model,Mesh v18,51,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\beretta.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\bug.ltb,LTB raw|Model,Mesh v18,52,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\bug.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\camera.ltb,LTB raw|Model,Mesh v18,53,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\camera.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\codebreaker.ltb,LTB raw|Model,Mesh v18,53,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\codebreaker.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\coin.ltb,LTB raw|Model,Mesh v18,48,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\coin.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\crossbow.ltb,LTB raw|Model,Mesh v18,59,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\crossbow.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\grenade.ltb,LTB raw|Model,Mesh v18,50,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\grenade.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\karatechop_pv.ltb,LTB raw|Model,Mesh v18,45,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\karatechop_pv.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\katana.ltb,LTB raw|Model,Mesh v18,48,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\katana.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\keychain.ltb,LTB raw|Model,Mesh v18,52,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\keychain.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\kitty.ltb,LTB raw|Model,Mesh v18,57,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\kitty.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\launcher.ltb,LTB raw|Model,Mesh v18,49,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\launcher.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\lockpick.ltb,LTB raw|Model,Mesh v18,52,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\lockpick.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\perfume.ltb,LTB raw|Model,Mesh v18,50,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\perfume.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\purse.ltb,LTB raw|Model,Mesh v18,59,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\purse.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\scope.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\scope.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\shotgun.ltb,LTB raw|Model,Mesh v18,49,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\shotgun.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\shuriken.ltb,LTB raw|Model,Mesh v18,48,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\shuriken.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\silencer.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\silencer.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\sniper.ltb,LTB raw|Model,Mesh v18,51,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\sniper.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\snowmobile.ltb,LTB raw|Model,Mesh v18,51,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\snowmobile.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\sterling.ltb,LTB raw|Model,Mesh v18,50,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\sterling.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\tazer.ltb,LTB raw|Model,Mesh v18,55,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\tazer.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\timebomb.ltb,LTB raw|Model,Mesh v18,51,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\timebomb.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\tommygun.lta,LTA,-,,Lithtech Ascii,OK
+Game\guns\models_pv\tommygun.ltb,LTB raw|Model,Mesh v18,50,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\tommygun.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\tulwar.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\models_pv\welder.ltb,LTB raw|Model,Mesh v18,55,runtime-header; Container=9; FileType=1,OK
+Game\guns\models_pv\welder.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\projectiles\models\bolt.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\guns\projectiles\models\bolt.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\projectiles\models\coin_hh.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\projectiles\models\coinproj.ltb,LTB wrap|D3D,Body v16,1,wrap; Container=9; FileType=1,OK
+Game\guns\projectiles\models\grenade.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\guns\projectiles\models\grenade.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\projectiles\models\rocket.ltb,LTB wrap|D3D,Body v17,1,wrap; Container=9; FileType=1,OK
+Game\guns\projectiles\models\shurikenproj.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\guns\projectiles\models\shurikenproj.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\projectiles\models\timebomb.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\guns\projectiles\models\timebomb.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\guns\shellcasings\models\shell.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\guns\shellcasings\models\shell.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\models\1x1_square.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\models\1x1_square.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\models\default.ltb,LTB raw|Model,Mesh v18,4,runtime-header; Container=9; FileType=1,OK
+Game\models\default.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\AnAcetyTank.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\AnAcetyTank.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\CateInterface.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\CateInterface.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\CiBinocular.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\CiBinocular.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\CiSuitcase.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\CiSuitcase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenAlarm.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenAlarm.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenAntenna1.ltb,LTB raw|Model,Mesh v18,29,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenAntenna1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenAntenna2.ltb,LTB raw|Model,Mesh v18,10,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenAntenna2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenAntenna3.ltb,LTB raw|Model,Mesh v18,29,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenAntenna3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenAshtray.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenAshtray.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenBeaker.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenBeaker.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenBottle.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenBottle.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenBroom.ltb,LTB raw|Model,Mesh v18,4,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenBroom.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenBulb.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenBulb.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCan.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCan.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCar1.ltb,LTB raw|Model,Mesh v18,9,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCar1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCelngFan1.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCelngFan1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenChairWd.ltb,LTB raw|Model,Mesh v18,11,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenChairWd.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCheese1.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCheese1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCheese2.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCheese2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCheese3.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCheese3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCigBox.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCigBox.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCigBut1.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCigBut1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCigBut2.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCigBut2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCleaver.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCleaver.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenClipbrd.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenClipbrd.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCobweb1.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCobweb1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCobweb2.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCobweb2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCobweb2b.ltb,LTB raw|Model,Mesh v18,5,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCobweb2b.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCobweb3.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCobweb3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCocktail.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCocktail.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCouch1.ltb,LTB raw|Model,Mesh v18,7,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCouch1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCouch1b.ltb,LTB raw|Model,Mesh v18,8,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCouch1b.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenCrow.ltb,LTB raw|Model,Mesh v18,18,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenCrow.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenDandelion.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenDandelion.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenDandelion2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenDandelion2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenDinTray.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenDinTray.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenDixieCup1.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenDixieCup1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenDixieCup2.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenDixieCup2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenDorKnob1L.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenDorKnob1L.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenDorKnob1R.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenDorKnob1R.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenDorKnob2L.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenDorKnob2L.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenDorKnob2R.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenDorKnob2R.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenEWire1.ltb,LTB raw|Model,Mesh v18,17,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenEWire1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenFLight1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenFLight1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenFilgPaper.ltb,LTB raw|Model,Mesh v18,5,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenFilgPaper.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenFireEx.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenFireEx.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenFirehose.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenFirehose.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenFirepit_Embers.ltb,LTB wrap|D3D,Body v15,2,wrap; Container=9; FileType=1,OK
+Game\props\models\GenFlatware.ltb,LTB raw|Model,Mesh v18,5,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenFlatware.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenFlctBulb1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenFlctBulb1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenFlour.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenFlour.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenFlwrVase.ltb,LTB raw|Model,Mesh v18,6,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenFlwrVase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenFork.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenFork.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenFrame.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenFrame.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenFrznMeat.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenFrznMeat.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenGoggles.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenGoggles.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenGrass1.ltb,LTB raw|Model,Mesh v18,6,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenGrass1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenGrass2.ltb,LTB raw|Model,Mesh v18,6,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenGrass2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenGrass3.ltb,LTB raw|Model,Mesh v18,5,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenGrass3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenGreasepan.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenGreasepan.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenKnife1.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenKnife1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenKnife2.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenKnife2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenLabCoat.ltb,LTB raw|Model,Mesh v18,4,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenLabCoat.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenLeafFall1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenLeafFall1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenLunchBox.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenLunchBox.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenMartini.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenMartini.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenMatchbook1.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenMatchbook1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenMatchbook2.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenMatchbook2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenMicroscope.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenMicroscope.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenMoney1.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenMoney1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenMoney2.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenMoney2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenMug.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenMug.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenMynahB.ltb,LTB raw|Model,Mesh v18,4,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenMynahB.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenOfficeTray.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenOfficeTray.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenOnion.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenOnion.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenPalm1.ltb,LTB raw|Model,Mesh v18,29,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenPalm1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenPan1.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenPan1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenPan2.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenPan2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenPhone.ltb,LTB raw|Model,Mesh v18,7,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenPhone.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenPigeon.ltb,LTB raw|Model,Mesh v18,18,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenPigeon.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenPillow.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenPillow.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenPlantHang1.ltb,LTB raw|Model,Mesh v18,16,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenPlantHang1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenPlantPot.ltb,LTB raw|Model,Mesh v18,11,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenPlantPot.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenPlate.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenPlate.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenPlates1.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenPlates1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenPlates2.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenPlates2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenPot.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenPot.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenRat.ltb,LTB raw|Model,Mesh v18,10,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenRat.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenRoach.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenRoach.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenSpatula.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenSpatula.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenSpkrPhone.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenSpkrPhone.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenSpoon.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenSpoon.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenSptlight.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenSptlight.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenSptlighto.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenSptlighto.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenStkdPaper.ltb,LTB raw|Model,Mesh v18,9,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenStkdPaper.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenTenderizer.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenTenderizer.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenTestube.ltb,LTB raw|Model,Mesh v18,10,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenTestube.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenThermos.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenThermos.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenToiletpaper.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenToiletpaper.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenTomato1.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenTomato1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenTomato2.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenTomato2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenTrashPaper.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenTrashPaper.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenTree1.ltb,LTB raw|Model,Mesh v18,11,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenTree1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenTreeD01.ltb,LTB raw|Model,Mesh v18,27,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenTreeD01.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenTypewrtr.ltb,LTB raw|Model,Mesh v18,6,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenTypewrtr.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenValve.ltb,LTB raw|Model,Mesh v18,7,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenValve.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenVinePotted.ltb,LTB raw|Model,Mesh v18,16,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenVinePotted.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenWine.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenWine.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenWineGlass.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenWineGlass.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenWrenchC.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenWrenchC.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GenWrenchP.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GenWrenchP.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GtCard.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GtCard.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GtCardReader.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GtCardReader.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GtComboLock1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GtComboLock1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GtComboLock1b.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GtComboLock1b.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GtComboLock2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GtComboLock2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GtComboLock2b.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GtComboLock2b.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GtHinge.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GtHinge.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GtKeyPad.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GtKeyPad.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GtPadLock.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GtPadLock.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GtPadLock2b.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GtPadLock2b.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GtSecrtyCam.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GtSecrtyCam.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\GtTarget.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\GtTarget.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\IIBriefcase.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\IIBriefcase.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\IIDossier.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\IIDossier.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\IIFileFolder1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\IIFileFolder1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\IIKeyRing1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\IIKeyRing1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\IIKeyRing2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\IIKeyRing2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\IILetter1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\IILetter1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\IINote.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\IINote.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InBagSpice1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InBagSpice1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InBasket1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InBasket1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InBasket2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InBasket2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InBicycle.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InBicycle.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InBowlSpice1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InBowlSpice1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InBowlSpice2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InBowlSpice2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InCarnation1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InCarnation1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InCarnation2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InCarnation2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InCloth1.ltb,LTB raw|Model,Mesh v18,5,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InCloth1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InFilmCanstr1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InFilmCanstr1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InFilmCanstr2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InFilmCanstr2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InHukaPipe1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InHukaPipe1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InMProjector.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InMProjector.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InMunkey.ltb,LTB raw|Model,Mesh v18,17,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InMunkey.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InPBadge.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InPBadge.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InPitcher1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InPitcher1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InSandBag1.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InSandBag1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InVase1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InVase1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InVase2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InVase2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\InWPoster.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\InWPoster.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\IsBush.ltb,LTB raw|Model,Mesh v18,13,runtime-header; Container=9; FileType=1,OK
+Game\props\models\IsBush.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\IsDeadSS.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\IsDeadSS.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\IsFlag.ltb,LTB raw|Model,Mesh v18,4,runtime-header; Container=9; FileType=1,OK
+Game\props\models\IsFlag.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\IsParachute.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\IsParachute.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\IsRogueTank.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\IsRogueTank.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpAlarm.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpAlarm.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpBush1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpBush1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpCarp.ltb,LTB raw|Model,Mesh v18,9,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpCarp.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpChime.ltb,LTB raw|Model,Mesh v18,4,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpChime.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpLanternHnd.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpLanternHnd.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpLanternRnd.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpLanternRnd.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpLanternRnd1o.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpLanternRnd1o.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpLanternTall.ltb,LTB raw|Model,Mesh v18,5,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpLanternTall.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpLanternTall1o.ltb,LTB raw|Model,Mesh v18,5,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpLanternTall1o.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpLightHang.ltb,LTB raw|Model,Mesh v18,10,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpLightHang.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpLightHang1o.ltb,LTB raw|Model,Mesh v18,10,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpLightHang1o.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpMapleLf.ltb,LTB raw|Model,Mesh v18,5,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpMapleLf.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpMapleTr.ltb,LTB raw|Model,Mesh v18,12,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpMapleTr.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpMatsu1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpMatsu1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpPost.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpPost.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpSake2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpSake2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpSandals1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpSandals1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpSandals2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpSandals2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpSignHang1.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpSignHang1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpSignStnd.ltb,LTB raw|Model,Mesh v18,9,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpSignStnd.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpStLight.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpStLight.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpStLight1o.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpStLight1o.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpVase1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpVase1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\JpVase2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\JpVase2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhBattery1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhBattery1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhBattery2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhBattery2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhClothTree.ltb,LTB raw|Model,Mesh v18,12,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhClothTree.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhCurtains1.ltb,LTB raw|Model,Mesh v18,10,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhCurtains1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhDryer1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhDryer1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhGOpener.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhGOpener.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhGrill.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhGrill.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhHubcap.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhHubcap.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhLawnChair.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhLawnChair.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhPinwheel.ltb,LTB raw|Model,Mesh v18,2,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhPinwheel.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhSconce1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhSconce1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhSconce1o.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhSconce1o.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhTblLamp1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhTblLamp1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhTblLamp1o.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhTblLamp1o.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhVacumC1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhVacumC1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhVacumC2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhVacumC2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhVacumC3.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhVacumC3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhVacumC4.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhVacumC4.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\OhWasher1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\OhWasher1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\PuAmmoBox.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\PuAmmoBox.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\PuArmor.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\PuArmor.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\PuEarMuffs.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\PuEarMuffs.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\PuFirstAid.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\PuFirstAid.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\PuJar.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\PuJar.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\PuSerum.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\PuSerum.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\PuSlippers.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\PuSlippers.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiAntlers.ltb,LTB raw|Model,Mesh v18,15,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiAntlers.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiBoots1.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiBoots1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiBoots2.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiBoots2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiBoots3.ltb,LTB raw|Model,Mesh v18,3,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiBoots3.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiBush.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiBush.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiBush2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiBush2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiChair1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiChair1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiCofePot1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiCofePot1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiCup1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiCup1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiDrum1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiDrum1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiDrum1s.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiDrum1s.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiGascan.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiGascan.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiLamp1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiLamp1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiLamp1o.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiLamp1o.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiPine1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiPine1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiPingPong1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiPingPong1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiPingPong2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiPingPong2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiPot1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiPot1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiPot2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiPot2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiRadio1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiRadio1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiStove.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiStove.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiSugar1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiSugar1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiYLight1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiYLight1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\SiYLight1o.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\SiYLight1o.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\Something.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\Something.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\UbLight1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\UbLight1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\UbLight1o.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\UbLight1o.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\UbLight2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\UbLight2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\UbLight2o.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\UbLight2o.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\UnChair1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\UnChair1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\UnChair2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\UnChair2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\UnLight1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\UnLight1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\UnLight1o.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\UnLight1o.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\UnLight2.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\UnLight2.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\UnLight2o.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\UnLight2o.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\UnSofa1.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\UnSofa1.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+Game\props\models\snowmobile.ltb,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+Game\props\models\snowmobile.ltc,LTC,v0,,Compressed LTA; adaptive Huffman,OK
+RENDERSTYLES\RS_ALPHABLEND_TEXALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_ALPHABLEND_TFACTORALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_ALPHATEST_GREATER.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_DOT3BUMP_DIR_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_HALO_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_SPHEREENVMAP_ADD.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_SPHEREENVMAP_MODTEXALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_TOON_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_TWOTEXTURE.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_VERTEXSPECULAR.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK

@@ -1,0 +1,138 @@
+file,format,version,nodes,notes,status
+CHARS\MODELS\ANIMS\CHAIR.LTB,LTB raw|Model,Mesh v23,46,runtime-header; Container=9; FileType=1,OK
+CHARS\MODELS\CIVALWARINFANTRY.LTB,LTB raw|Model,Mesh v23,46,runtime-header; Container=9; FileType=1,OK
+CHARS\MODELS\CIVALWARSOLDIER.LTB,LTB raw|Model,Mesh v23,46,runtime-header; Container=9; FileType=1,OK
+CHARS\MODELS\FISTS_BASE.LTB,LTB raw|Model,Mesh v23,46,runtime-header; Container=9; FileType=1,OK
+CHARS\MODELS\MUSKET_BASE.LTB,LTB raw|Model,Mesh v23,46,runtime-header; Container=9; FileType=1,OK
+CHARS\MODELS\SOLDRSOV.LTB,LTB raw|Model,Mesh v23,35,runtime-header; Container=9; FileType=1,OK
+CHARS\MODELS\SWORD_BASE.LTB,LTB raw|Model,Mesh v23,46,runtime-header; Container=9; FileType=1,OK
+FX\264.LTB,LTB wrap|D3D,Body v15,2,wrap; Container=9; FileType=1,OK
+FX\BEAMS\HEADLIGHTBEAM.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+FX\BEAMS\SPOTLIGHTBEAM.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+FX\DEBRIS\MODELS\LEAF1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\DEBRIS\MODELS\LEAF2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\DEBRIS\MODELS\LEAF3.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\DEBRIS\MODELS\MACHINERY_01A.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\DEBRIS\MODELS\MACHINERY_01B.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\DEBRIS\MODELS\MACHINERY_01C.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\DEBRIS\MODELS\MACHINERY_01D.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\DEBRIS\MODELS\MACHINERY_01E.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\DEBRIS\MODELS\WOOD1A.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\DEBRIS\MODELS\WOOD1B.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\DEBRIS\MODELS\WOOD1C.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\DEBRIS\MODELS\WOOD1D.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\DEBRIS\MODELS\WOOD1E.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\FLAREMODEL_3A.LTB,LTB raw|Model,Mesh v23,17,runtime-header; Container=9; FileType=1,OK
+FX\GLUE\GLUE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\GLUE\GLUE2.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+FX\GLUE\GLUESPLAT.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+FX\RIGS\NUKERIG1.LTB,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+FX\RIGS\NUKERIG2.LTB,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+FX\RIGS\TRAILEMITTER1.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+FX\SKYFRAME.LTB,LTB wrap|PS2,cont v3,,wrap; Container=3; FileType=2; PS2 Model File,OK
+FX\TEST\FXRIG01.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+FX\TEST\MOTIONTEST1.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+FX\TEST\PATH_FUEL.LTB,LTB wrap|ABC,Body v13,5,wrap; Container=8; FileType=4,OK
+FX\TEST\RING.LTB,LTB wrap|ABC,Body v13,7,wrap; Container=8; FileType=4,OK
+FX\TEST\RING_CAM.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+FX\TEST\RING_CAM500.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+FX\TORNADORING1.LTB,LTB wrap|D3D,Body v15,1,wrap; Container=9; FileType=1,OK
+FX\TORNADORING2.LTB,LTB wrap|D3D,Body v15,1,wrap; Container=9; FileType=1,OK
+FX\TORNADO\TORNADO.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+FX\TORNADO\TORNADOTOP.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+FX\TORNADO\TORNADO_INNER.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+FX\WATERFALL1.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+FX\WATERFALL2.LTB,LTB raw|Model,Mesh v18,1,runtime-header; Container=9; FileType=1,OK
+GUNS\MODELS_HH\BAYONET.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+GUNS\MODELS_HH\GRENADE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+GUNS\MODELS_HH\KNIFE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+GUNS\MODELS_HH\MUSKET.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+GUNS\MODELS_HH\PISTOL.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+GUNS\MODELS_HH\ROD.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+GUNS\MODELS_HH\SNIPERMUSKET.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+GUNS\MODELS_HH\SWORD.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+GUNS\MODELS_HH\SWORD3.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+GUNS\MODELS_PV\GRENADE.LTB,LTB raw|Model,Mesh v23,52,runtime-header; Container=9; FileType=1,OK
+GUNS\MODELS_PV\KNIFE.LTB,LTB raw|Model,Mesh v23,52,runtime-header; Container=9; FileType=1,OK
+GUNS\MODELS_PV\MUSKET.LTB,LTB raw|Model,Mesh v23,52,runtime-header; Container=9; FileType=1,OK
+GUNS\MODELS_PV\PISTOL.LTB,LTB raw|Model,Mesh v23,52,runtime-header; Container=9; FileType=1,OK
+GUNS\MODELS_PV\SNIPERMUSKET.LTB,LTB raw|Model,Mesh v23,52,runtime-header; Container=9; FileType=1,OK
+GUNS\MODELS_PV\SWORD.LTB,LTB raw|Model,Mesh v23,52,runtime-header; Container=9; FileType=1,OK
+GUNS\PROJECTILES\MODELS\GRENADE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+GUNS\PROJECTILES\MODELS\KNIFE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MENU\MODELS\CATEINT.LTB,LTB raw|Model,Mesh v23,19,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MENU\MODELS\CINTERFACE.LTB,LTB raw|Model,Mesh v23,37,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MENU\MODELS\LOAD.LTB,LTB raw|Model,Mesh v23,25,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MENU\MODELS\LOADBACK.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MENU\MODELS\LOADING.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MENU\MODELS\LOADTEXT.LTB,LTB raw|Model,Mesh v23,25,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MENU\MODELS\MAINBACK.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MENU\MODELS\MAINFRONT.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MENU\MODELS\MAINMENU.LTB,LTB raw|Model,Mesh v23,11,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MENU\MODELS\MAINMENUINTRO.LTB,LTB raw|Model,Mesh v23,6,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MENU\MODELS\MAINMIDDLE.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+MODELS\1X1_SQUARE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DEFAULT.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+MODELS\KEYPADLIGHT.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+MODELS\SPHERE.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+PROPS\MODELS\AMMOBOX1.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\MODELS\ARMOR.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\MODELS\FIRSTAID.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\MODELS\FUSE POUCH.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\MODELS\LETTER.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\MODELS\LETTERBOX.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+RENDERSTYLES\RS_ALPHABLEND_TEXALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_ALPHABLEND_TFACTORALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_ALPHATEST_GREATER.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_DOT3BUMP_DIR_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_HALO_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_SPHEREENVMAP_ADD.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_SPHEREENVMAP_MODTEXALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_TOON_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_TWOTEXTURE.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_VERTEXSPECULAR.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\ADDITIVE.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\ADDITIVE_4.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\BLACK.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\BODYREMOVER.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\BOMBTARGET2.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\CELL.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\DEFAULT.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\ENVBUMPMAP.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\ENVBUMPMAP1PASSADD.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\ENVBUMPMAP1PASSMULT.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\ENVMAP.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\FURFINS.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\FURSHELL.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\FURSHELL2.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\FURSHELL3.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\GLASS.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\GLASS2.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\GLOW.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\GLUE.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\HOTCOALS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\INTERFACE_BACK.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\INTERFACE_FRONT.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\NINJATRANSLUCENT.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\PV_ENVMAP.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\PV_ENVMAP_ALPHAREF250.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\PV_GLASS.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\PV_KEYCHAIN.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\SPOTLIGHTFALLOFFSATURATE.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\TORNADOFALLOFFSATURATE.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\TRANSLUCENT.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\TRANSLUCENTZBUFFEREDSAT.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\TRANSLUCENTZBUFFEREDSATNOCULL.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\TRANSLUCENT_NODIFFUSE.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\TRANSLUCENT_NOLIGHT.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\TRANSPARENT.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+WORLDS\RETAILSINGLEPLAYER\APPROACH1TEMP.DAT,DAT,v85,,DAT v85,OK
+WORLDS\RETAILSINGLEPLAYER\CM01S01.DAT,DAT,v85,,DAT v85,OK
+WORLDS\RETAILSINGLEPLAYER\CM02S01.DAT,DAT,v85,,DAT v85,OK
+WORLDS\RETAILSINGLEPLAYER\CM03S01.DAT,DAT,v85,,DAT v85,OK
+WORLDS\RETAILSINGLEPLAYER\CM04S01.DAT,DAT,v85,,DAT v85,OK
+WORLDS\RETAILSINGLEPLAYER\CM09S01.DAT,DAT,v85,,DAT v85,OK
+WORLDS\RETAILSINGLEPLAYER\CM09S02.DAT,DAT,v85,,DAT v85,OK
+WORLDS\RETAILSINGLEPLAYER\CM09S03.DAT,DAT,v85,,DAT v85,OK
+WORLDS\RETAILSINGLEPLAYER\CM09S04.DAT,DAT,v85,,DAT v85,OK
+WORLDS\RETAILSINGLEPLAYER\CM09S05.DAT,DAT,v85,,DAT v85,OK

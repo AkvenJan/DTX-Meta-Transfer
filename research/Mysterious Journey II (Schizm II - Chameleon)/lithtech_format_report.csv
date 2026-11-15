@@ -1,0 +1,319 @@
+file,format,version,nodes,notes,status
+CHARACTERS\ANSAVILLA\MODELS\ANSAVILLA.LTB,LTB raw|Model,Mesh v23,82,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ANSAVILLA\MODELS\CS_09_ANSAVILLA.LTB,LTB raw|Model,Mesh v23,82,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ANSAVILLA\MODELS\CS_28_ANSAVILLA.LTB,LTB raw|Model,Mesh v23,82,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ANSAVILLA\MODELS\CS_30_ANSAVILLA.LTB,LTB raw|Model,Mesh v23,82,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ARKO\ATTACHMENTS\MODELS\FAJA.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ARKO\MODELS\ARKO.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ARKO\MODELS\CS_15_1_ARKO_1.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ARKO\MODELS\CS_15_1_ARKO_2.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ARKO\MODELS\CS_15_1_ARKO_3.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ARKO\MODELS\CS_15_2_ARKO_1.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ARKO\MODELS\CS_15_2_ARKO_2.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ARKO\MODELS\CS_15_2_ARKO_3.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ARKO\MODELS\CS_15_3_ARKO_1.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ARKO\MODELS\CS_15_3_ARKO_2.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ARKO\MODELS\CS_42_1_ARKO.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ARKO\MODELS\CS_42_2_ARKO.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\ARKO\MODELS\CS_42_3_ARKO.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\BARRACK\MODELS\BARRACK.LTB,LTB raw|Model,Mesh v23,92,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\BARRACK\MODELS\CS_11_BARRACK.LTB,LTB raw|Model,Mesh v23,92,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\BARRACK\MODELS\CS_31_1_BARRACK.LTB,LTB raw|Model,Mesh v23,94,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\BARRACK\MODELS\CS_31_2_BARRACK.LTB,LTB raw|Model,Mesh v23,94,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\BARRACK\MODELS\CS_45_BARRACK.LTB,LTB raw|Model,Mesh v23,92,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\CARLUEN\MODELS\CARLUEN.LTB,LTB raw|Model,Mesh v23,89,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\CARLUEN\MODELS\CS_21_CARLUEN.LTB,LTB raw|Model,Mesh v23,89,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\CARLUEN\MODELS\CS_22_CARLUEN.LTB,LTB raw|Model,Mesh v23,89,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\CARLUEN\MODELS\CS_23_CARLUEN.LTB,LTB raw|Model,Mesh v23,89,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\CARLUEN\MODELS\CS_42_1_CARLUEN.LTB,LTB raw|Model,Mesh v23,89,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\CARLUEN\MODELS\CS_42_2_CARLUEN.LTB,LTB raw|Model,Mesh v23,89,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\CARLUEN\MODELS\CS_42_3_CARLUEN.LTB,LTB raw|Model,Mesh v23,89,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\CARLUEN\MODELS\CS_45_0_CARLUEN.LTB,LTB raw|Model,Mesh v23,89,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\CARLUEN\MODELS\CS_45_CARLUEN.LTB,LTB raw|Model,Mesh v23,89,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\CHEMAY\MODELS\CHEMAY.LTB,LTB raw|Model,Mesh v23,83,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\CHEMAY\MODELS\CS_44_CHEMAY.LTB,LTB raw|Model,Mesh v23,83,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\CHEMAY\MODELS\CS_45_CHEMAY.LTB,LTB raw|Model,Mesh v23,83,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\DARI\MODELS\CS_20_AIRFIELD_DARI_1.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\DARI\MODELS\CS_20_AIRFIELD_DARI_2.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\DARI\MODELS\CS_20_AIRFIELD_DARI_3.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\DARI\MODELS\CS_20_CRASHED_DARI_0.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\DARI\MODELS\CS_20_CRASHED_DARI_1.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\DARI\MODELS\CS_20_CRASHED_DARI_2.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\DARI\MODELS\CS_21_DARI.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\DARI\MODELS\CS_24_1_DARI.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\DARI\MODELS\CS_24_2_DARI.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\DARI\MODELS\CS_45_DARI.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\DARI\MODELS\DARI.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\GUARD\ATTACHMENTS\MODELS\PISTOLET.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\GUARD\MODELS\CS_07_GUARD.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\GUARD\MODELS\CS_11_GUARD.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\GUARD\MODELS\CS_11_GUARD_SBK.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\GUARD\MODELS\CS_19_1_GUARD.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\GUARD\MODELS\CS_45_GUARD.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\GUARD\MODELS\GUARD.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\HERO\MODELS\HERO.LTB,LTB raw|Model,Mesh v23,41,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JANOOSH\MODELS\CS_28_JANOOSH.LTB,LTB raw|Model,Mesh v23,55,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JANOOSH\MODELS\CS_30_JANOOSH1.LTB,LTB raw|Model,Mesh v23,55,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JANOOSH\MODELS\CS_30_JANOOSH2.LTB,LTB raw|Model,Mesh v23,55,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JANOOSH\MODELS\CS_32_JANOOSH1.LTB,LTB raw|Model,Mesh v23,55,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JANOOSH\MODELS\CS_32_JANOOSH2.LTB,LTB raw|Model,Mesh v23,55,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JANOOSH\MODELS\CS_32_JANOOSH3.LTB,LTB raw|Model,Mesh v23,55,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JANOOSH\MODELS\CS_34_JANOOSH.LTB,LTB raw|Model,Mesh v23,55,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JANOOSH\MODELS\CS_35_JANOOSH.LTB,LTB raw|Model,Mesh v23,55,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JANOOSH\MODELS\JANOOSH.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JIMI\ATTACHMENTS\MODELS\CS_11_TARCZA.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JIMI\MODELS\CS_07_JIMI.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JIMI\MODELS\CS_11_JIMI.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JIMI\MODELS\CS_19_1_JIMI.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JIMI\MODELS\CS_45_JIMI.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JIMI\MODELS\JIMI.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JULIA\MODELS\CS_30_JULIA.LTB,LTB raw|Model,Mesh v23,83,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\JULIA\MODELS\JULIA.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\LOREANN\MODELS\CS_30_LOREANN.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\LOREANN\MODELS\CS_31_1_LOREANN.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\LOREANN\MODELS\CS_31_2_LOREANN.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\LOREANN\MODELS\CS_33_LOREANN.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\LOREANN\MODELS\CS_42_1_LOREANN.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\LOREANN\MODELS\CS_42_2_LOREANN.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\LOREANN\MODELS\CS_42_3_LOREANN.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\LOREANN\MODELS\CS_45_0_LOREANN.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\LOREANN\MODELS\CS_45_LOREANN.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\LOREANN\MODELS\LOREANN.LTB,LTB raw|Model,Mesh v23,90,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\LOSAN\ATTACHMENTS\MODELS\STICK.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\LOSAN\MODELS\CS_30_LOSAN.LTB,LTB raw|Model,Mesh v23,96,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\LOSAN\MODELS\CS_34_LOSAN.LTB,LTB raw|Model,Mesh v23,96,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\LOSAN\MODELS\CS_45_LOSAN.LTB,LTB raw|Model,Mesh v23,96,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\LOSAN\MODELS\LOSAN.LTB,LTB raw|Model,Mesh v23,96,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\MOKRI\MODELS\CS_19_2_MOKRI.LTB,LTB raw|Model,Mesh v23,82,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\MOKRI\MODELS\CS_25_MOKRI.LTB,LTB raw|Model,Mesh v23,82,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\MOKRI\MODELS\CS_45_MOKRI.LTB,LTB raw|Model,Mesh v23,82,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\MOKRI\MODELS\MOKRI.LTB,LTB raw|Model,Mesh v23,82,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\REBUS\MODELS\CS_30_REBUS.LTB,LTB raw|Model,Mesh v23,85,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\REBUS\MODELS\CS_34_REBUS.LTB,LTB raw|Model,Mesh v23,85,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\REBUS\MODELS\CS_45_REBUS.LTB,LTB raw|Model,Mesh v23,85,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\REBUS\MODELS\REBUS.LTB,LTB raw|Model,Mesh v23,85,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SAKU\MODELS\CS_09_SAKU.LTB,LTB raw|Model,Mesh v23,87,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SAKU\MODELS\CS_11_SAKU.LTB,LTB raw|Model,Mesh v23,87,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SAKU\MODELS\CS_11_SAKU_SBK.LTB,LTB raw|Model,Mesh v23,87,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SAKU\MODELS\CS_28_SAKU.LTB,LTB raw|Model,Mesh v23,87,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SAKU\MODELS\CS_34_SAKU.LTB,LTB raw|Model,Mesh v23,87,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SAKU\MODELS\CS_45_SAKU.LTB,LTB raw|Model,Mesh v23,87,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SAKU\MODELS\SAKU.LTB,LTB raw|Model,Mesh v23,87,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\ATTACHMENTS\MODELS\NAUSZNIKI.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_01_SEN_1.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_01_SEN_2.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_01_SEN_3.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_02_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_03_1_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_03_2_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_04_SEN_1.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_04_SEN_2.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_04_SEN_3.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_05_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_07_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_08_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_09_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_10_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_11_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_12_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_13_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_14_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_15_1_SEN_1.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_15_1_SEN_2.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_15_1_SEN_3.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_15_2_SEN_1.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_15_2_SEN_2.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_15_2_SEN_3.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_15_3_SEN_1.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_15_3_SEN_2.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_15_3_SEN_3.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_16_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_18_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_19_1_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_19_2_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_20_AIRFIELD_SEN_1.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_20_AIRFIELD_SEN_2.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_20_AIRFIELD_SEN_3.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_20_CRASHED_SEN_0.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_20_CRASHED_SEN_1.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_20_CRASHED_SEN_2.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_21_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_22_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_23_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_24_1_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_24_2_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_25_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_26_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_27_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_28_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_30_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_31_1_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_31_2_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_32_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_33_2_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_33_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_34_SEN_1.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_34_SEN_2.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_35_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_35_SEN_1.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_36_1_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_36_2_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_37_SEN_1.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_37_SEN_2.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_37_SEN_3.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_38_1_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_38_2_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_39_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_39_SEN_1.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_39_SEN_2.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_39_SEN_3.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_40_1_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_40_2_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_41_2_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_42_1_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_42_2_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_42_3_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_42_4_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_43_SEN_1.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_43_SEN_2.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_44_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\CS_45_SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\SEN\MODELS\SEN.LTB,LTB raw|Model,Mesh v23,86,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\TENNA\MODELS\CS_28_TENNA.LTB,LTB raw|Model,Mesh v23,88,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\TENNA\MODELS\CS_45_TENNA.LTB,LTB raw|Model,Mesh v23,88,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\TENNA\MODELS\TENNA.LTB,LTB raw|Model,Mesh v23,88,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\TENSA\MODELS\CS_01_TENSA.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\TENSA\MODELS\TENSA.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\TRIGA\MODELS\CS_34_TRIGA.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\TRIGA\MODELS\CS_45_TRIGA.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\TRIGA\MODELS\TRIGA.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\TVILLAGER\MODELS\CS_07_TVILLAGER.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\TVILLAGER\MODELS\CS_19_1_TVILLAGER.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\TVILLAGER\MODELS\CS_45_TVILLAGER.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\TVILLAGER\MODELS\TVILLAGER.LTB,LTB raw|Model,Mesh v23,81,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\USEF\MODELS\CS_19_2_USEF.LTB,LTB raw|Model,Mesh v23,84,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\USEF\MODELS\CS_25_USEF.LTB,LTB raw|Model,Mesh v23,84,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\USEF\MODELS\CS_45_USEF.LTB,LTB raw|Model,Mesh v23,84,runtime-header; Container=9; FileType=1,OK
+CHARACTERS\USEF\MODELS\USEF.LTB,LTB raw|Model,Mesh v23,84,runtime-header; Container=9; FileType=1,OK
+INTERFACE\MENU\MODELS\LOADBACK.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+MODELS\1X1_SQUARE.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+MODELS\DEFAULT.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+MODELS\KEYPADLIGHT.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+MODELS\SPHERE.LTB,LTB raw|Model,Mesh v23,1,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\CS28_ROSLINKADUZA.LTB,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\CS28_ROSLINKAMALA.LTB,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\DRZEWA_UR_1_.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\DRZEWA_UR_2_.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\DRZEWA_UR_3_.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\DRZEWA_UR_4_.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\DRZEWA_UR_5_.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\LINA.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\OBRAZ_ANIM.LTB,LTB raw|Model,Mesh v23,17,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\ROSLINA_UR_1_.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\ROSLINA_UR_2_.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\ROSLINA_UR_3_.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\ROSLINA_UR_4_.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\ROSLINA_UR_5_.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\ROSLINA_UR_6_.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\ROSLINA_UR_7_.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MODELS\ROSLINA_UR_8_.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\ANSALA\MUSEUM\POMNIK\MODELS\POMNIK.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\CRASHEDSPACESHIP\MODELS\SMIGLO_WENTYLATORA.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\CRASHEDSPACESHIP\MODELS\WYROCZNIA.LTB,LTB raw|Model,Mesh v23,18,runtime-header; Container=9; FileType=1,OK
+PROPS\GELLEASWRECKS\MODELS\CS32_GLUT.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+PROPS\GELLEASWRECKS\MODELS\CS32_GLUTFINAL.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+PROPS\INSECTS\M_MOTYL.LTB,LTB raw|Model,Mesh v23,8,runtime-header; Container=9; FileType=1,OK
+PROPS\KEYITEMS\MODELS\T_TARCZA.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\KEYITEMS\MODELS\W_KULA_CZERWONA.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\KEYITEMS\MODELS\W_KULA_ZIELONA.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\KEYITEMS\MODELS\W_KULA_ZIEL_CZERW.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\NEUTRALZONE\MODELS\CS06_WYBUCH.LTB,LTB raw|Model,Mesh v23,15,runtime-header; Container=9; FileType=1,OK
+PROPS\NEUTRALZONE\MODELS\CS11_WYBUCH.LTB,LTB raw|Model,Mesh v23,15,runtime-header; Container=9; FileType=1,OK
+PROPS\NEUTRALZONE\MODELS\CS45_STACJA.LTB,LTB raw|Model,Mesh v23,15,runtime-header; Container=9; FileType=1,OK
+PROPS\NEUTRALZONE\MODELS\CS_45_SILAWPOLU.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\NEUTRALZONE\MODELS\KRECIOLKATOMEK.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\NEUTRALZONE\MODELS\KWIATEK_P27.LTB,LTB raw|Model,Mesh v23,27,runtime-header; Container=9; FileType=1,OK
+PROPS\NEUTRALZONE\MODELS\KWIATEK_P27_TEST.LTB,LTB raw|Model,Mesh v23,27,runtime-header; Container=9; FileType=1,OK
+PROPS\NEUTRALZONE\MODELS\P02_1.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+PROPS\NEUTRALZONE\MODELS\P02_2.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+PROPS\NEUTRALZONE\MODELS\P02_3.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+PROPS\NEUTRALZONE\MODELS\P02_4.LTB,LTB raw|Model,Mesh v23,7,runtime-header; Container=9; FileType=1,OK
+PROPS\NEUTRALZONE\MODELS\P27_MOST.LTB,LTB raw|Model,Mesh v23,27,runtime-header; Container=9; FileType=1,OK
+PROPS\NEUTRALZONE\MODELS\TRAWA1.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+PROPS\NEUTRALZONE\MODELS\TRAWA2.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+PROPS\NEUTRALZONE\MODELS\TRAWA3.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+PROPS\SPACESTATION\MODELS\CS01_BUTY.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\SPACESTATION\MODELS\CS01_HOLOGRAM.LTB,LTB raw|Model,Mesh v23,29,runtime-header; Container=9; FileType=1,OK
+PROPS\SPACESTATION\MODELS\CS01_KOMBINEZON.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\SPACESTATION\MODELS\KLUCZ.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\SPACESTATION\MODELS\KOBOT.LTB,LTB raw|Model,Mesh v23,2,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\M_DRZEWO_DOROLANDA.LTB,LTB raw|Model,Mesh v23,22,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\M_DRZEWO_DOROLANDA2.LTB,LTB raw|Model,Mesh v23,26,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\M_DRZEWO_OGULNE.LTB,LTB raw|Model,Mesh v23,26,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\M_DRZEWO_OGULNE2.LTB,LTB raw|Model,Mesh v23,22,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\M_KRECIOLA_1.LTB,LTB raw|Model,Mesh v23,4,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\M_KRECIOLA_2.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\PAPROTKA_D.LTB,LTB raw|Model,Mesh v23,25,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\PAPROTKA_D2.LTB,LTB raw|Model,Mesh v23,25,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\PAPROTKA_D3.LTB,LTB raw|Model,Mesh v23,25,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\PAPROTKA_M.LTB,LTB raw|Model,Mesh v23,25,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\WIATRAKI.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\WIATRAKIAIR.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\WIATRAKIAIRPOZIOMY.LTB,LTB raw|Model,Mesh v23,3,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\WIATRAKIDUZE.LTB,LTB raw|Model,Mesh v23,5,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\WISI2.LTB,LTB raw|Model,Mesh v23,10,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\WISI3.LTB,LTB raw|Model,Mesh v23,15,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\WISI4.LTB,LTB raw|Model,Mesh v23,18,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\WISIMALE2.LTB,LTB raw|Model,Mesh v23,9,runtime-header; Container=9; FileType=1,OK
+PROPS\TRANSAI\MODELS\WISIMALE3.LTB,LTB raw|Model,Mesh v23,13,runtime-header; Container=9; FileType=1,OK
+RENDERSTYLES\ADDITIVE_AMBLAT.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\ADDITIVE_CS11TARCZA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\ADDITIVE_WAVE.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\CARLUEN_BODY.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\DEFAULT.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\HOLOGRAM.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\OCZY.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\ODBICIA.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RENDERSTYLES\P18KULA.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_ALPHABLEND_TEXALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_ALPHABLEND_TFACTORALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_ALPHATEST_GREATER.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_DOT3BUMP_DIR_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_HALO_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_SPHEREENVMAP_ADD.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_SPHEREENVMAP_MODTEXALPHA.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_TOON_VS.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_TWOTEXTURE.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\RS_VERTEXSPECULAR.LTB,LTB raw|Style,v2,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\SEN_BODY.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\TRANSLUCENT.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RENDERSTYLES\WIATRAK.LTB,LTB raw|Style,v3,,runtime-header; D3D RenderStyle; FileType=5,OK
+RS\DEFAULT.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+RS\GLASS.LTB,,,,,"Fehler: Kein bekanntes LithTech-Format erkannt (FileType/uint16=62469, keine 'Header'/'LTBHeader'-Sektion)"
+WORLDS\AIRFIELD.DAT,DAT,v85,,DAT v85,OK
+WORLDS\ANSALAVILLAGE.DAT,DAT,v85,,DAT v85,OK
+WORLDS\ANSALAVILLAGE_NIGHT.DAT,DAT,v85,,DAT v85,OK
+WORLDS\BEACH.DAT,DAT,v85,,DAT v85,OK
+WORLDS\CHEMAYSCABIN.DAT,DAT,v85,,DAT v85,OK
+WORLDS\CRASHEDSPACESHIP.DAT,DAT,v85,,DAT v85,OK
+WORLDS\CRASHEDSPACESHIPEXTERIOR.DAT,DAT,v85,,DAT v85,OK
+WORLDS\EMPTYORACLEROOM.DAT,DAT,v85,,DAT v85,OK
+WORLDS\GALEASWRECKSLOWER.DAT,DAT,v85,,DAT v85,OK
+WORLDS\GALEASWRECKSUPPER.DAT,DAT,v85,,DAT v85,OK
+WORLDS\INTRO.DAT,DAT,v85,,DAT v85,OK
+WORLDS\MUSEUM.DAT,DAT,v85,,DAT v85,OK
+WORLDS\NEUTRALZONE.DAT,DAT,v85,,DAT v85,OK
+WORLDS\NEUTRALZONE_SUNSET.DAT,DAT,v85,,DAT v85,OK
+WORLDS\NOMAD.DAT,DAT,v85,,DAT v85,OK
+WORLDS\ORACLEDECOY.DAT,DAT,v85,,DAT v85,OK
+WORLDS\OUTRO.DAT,DAT,v85,,DAT v85,OK
+WORLDS\OVERRIDECHAMBER.DAT,DAT,v85,,DAT v85,OK
+WORLDS\PRISON.DAT,DAT,v85,,DAT v85,OK
+WORLDS\PROMENADE.DAT,DAT,v85,,DAT v85,OK
+WORLDS\SHUTTLEBAY.DAT,DAT,v85,,DAT v85,OK
+WORLDS\TRANSAITOWER.DAT,DAT,v85,,DAT v85,OK
+WORLDS\TRANSAIVILLAGE.DAT,DAT,v85,,DAT v85,OK
+WORLDS\UNDERWATERPORT.DAT,DAT,v85,,DAT v85,OK
+WORLDS\WINDMILLS.DAT,DAT,v85,,DAT v85,OK
+WORLDS\WINDYLABYRINTH.DAT,DAT,v85,,DAT v85,OK
+WORLDS\WOODS.DAT,DAT,v85,,DAT v85,OK
