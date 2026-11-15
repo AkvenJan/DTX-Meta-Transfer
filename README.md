@@ -91,10 +91,8 @@ Research on rare DTX v1 with Master Palette by Amphos from LithFAQ discord serve
 Research on DAT files for various versions of LithTech engine for 010 Editor  
 https://github.com/haekb/godot-dat-reader/tree/master/Research
 
-Predefined Surface Types for various games (I also trying to put Surface Flags Types into research folder)  
-NOLF  
-https://github.com/jsj2008/lithtech/blob/master/NOLF/Shared/SurfaceDefs.h  
-[https://github.com/AkvenJan/DTX-Meta-Transfer/blob/main/research/Surface Flags - NOLF.TXT](<https://github.com/AkvenJan/DTX-Meta-Transfer/blob/main/research/Surface Flags - NOLF.TXT>)
+Research on ABC and LTB models format  
+https://github.com/haekb/io_scene_lithtech/tree/master/research
 
 Other games  
 https://github.com/jsj2008/lithtech/blob/master/Blood2/Shared/SharedDefs.h  
@@ -103,42 +101,10 @@ https://github.com/jsj2008/lithtech/blob/master/NOLF2/Shared/SurfaceDefs.h
 https://github.com/jsj2008/lithtech/blob/master/Shogo/Shared/SurfaceTypes.h  
 
 # LithTech versions
+Research for all games here: https://github.com/AkvenJan/DTX-Meta-Transfer/tree/main/research
+
 Full list of LithTech games and file versions (constantly updated):  
-https://docs.google.com/spreadsheets/d/1fm3vFc-qXiR5H2AYXzZlYu3q8DAfHz0I4PVrXrVfroA/edit?usp=sharing
-
-Previous imperfect version (a lot of info was updated since):  
-    Lithtech 1.0 (DAT v56), uses DTX v1
-    	Shogo: Mobile Armor Division
-    	Blood II: The Chosen
-		Sanity: Aiken's Artifact (had some Lithtech 2.0 enhancements)
-
-	Lithtech 1.0 (DAT v57), uses DTX v1
-		TNN Outdoors Pro Hunter 2
-    	
-    Kiss Psycho Circus (Custom 1.5) (DAT v127), uses DTX v1.5
-    	KISS: Psycho Circus: The Nightmare Child 
-	
-	Lithtech 1.5 (DAT v66), uses DTX v2  
-    The engine is 1.5 but textures and levels are packed as LithTech 2x resourсes
-    	Might and Magic IX
-
-    Lithtech 2.x (DAT v66), uses DTX v2
-    	NOLF1
-    	Legends of Might and Magic
-    	Die Hard: Nakatomi Plaza
-
-    Lithtech PS2 (LTB v66), uses DTX v2 (mainly 32palletized)
-    	NOLF1 (PS2)
-
-    Lithtech Talon (DAT v70), uses DTX v2
-    	Aliens versus Predator 2
-
-    Lithtech Jupiter (DAT v85), uses DTX v2
-    	No One Lives Forever 2: A Spy In H.A.R.M.'s Way
-		Contract J.A.C.K.
-    	Tron 2.0
-
-
+https://docs.google.com/spreadsheets/d/1fm3vFc-qXiR5H2AYXzZlYu3q8DAfHz0I4PVrXrVfroA/edit?usp=sharing  
 | Game | Developer | Release Date | Engine | Version | Worlds | Models | Textures | DirectX | Comment |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Shogo: Mobile Armor Division | Monolith Productions | 30.09.1998 | LithTech 1.0 | V1 | DAT v56 | ABC v6 | DTX v1 | 6 | |
@@ -236,3 +202,6 @@ Previous imperfect version (a lot of info was updated since):
 | F.E.A.R. Online | Inplay Interactive | 17.10.2014 | LithTech Jupiter Ex V5 | V5 | | | | | Not alalyzing games past LithTech Jupiter |
 | Middle-earth: Shadow of Mordor | Monolith Productions | 30.09.2014 | LithTech Jupiter Ex V6 | V6 | | | | | Not alalyzing games past LithTech Jupiter |
 | Middle-earth: Shadow of War | Monolith Productions | 10.10.2017 | Firebird Engine | V7 | | | | | Not alalyzing games past LithTech Jupiter |
+
+# Special thanks
+Goes to https://github.com/StenApp for a lot of info on LithTech versions and differencies. Also for file scanner and templates for different files
