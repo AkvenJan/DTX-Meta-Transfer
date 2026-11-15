@@ -1,0 +1,93 @@
+file,format,version,nodes,notes,status
+MYPROJ\Audio\Sounds\atlantis_sndlsts.dat,,,,,Fehler: Unplausible DAT-Version 589505315
+MYPROJ\CacheFiles\atlantis_cachelst.dat,,,,,Fehler: Unplausible DAT-Version 589505315
+MYPROJ\CacheFiles\cachelst.dat,,,,,Fehler: Unplausible DAT-Version 589505315
+MYPROJ\Dat\chatbinds.dat,,,,,Fehler: Unplausible DAT-Version 589505315
+MYPROJ\Dat\clips.dat,,,,,Fehler: Unplausible DAT-Version 589505315
+MYPROJ\Dat\levelpathsequences.dat,,,,,Fehler: Unplausible DAT-Version 1953392956
+MYPROJ\Dat\levels.dat,,,,,Fehler: Unplausible DAT-Version 589505315
+MYPROJ\Dat\pkups.dat,,,,,Fehler: Unplausible DAT-Version 1128878140
+MYPROJ\Dat\tooleffects.dat,,,,,Fehler: Unplausible DAT-Version 589505315
+MYPROJ\Dat\toolproperties.dat,,,,,Fehler: Unplausible DAT-Version 589505315
+MYPROJ\Dat\typeref.dat,,,,,Fehler: Unplausible DAT-Version 1634607907
+MYPROJ\Models\BALL.ABC,ABC,v10,2,,OK
+MYPROJ\Models\Characters\Atl_alf_keeper.ABC,ABC,v13,35,,OK
+MYPROJ\Models\Characters\Atl_alf_warrior.ABC,ABC,v13,49,,OK
+MYPROJ\Models\Characters\Atl_alm_keeper.ABC,ABC,v13,47,,OK
+MYPROJ\Models\Characters\Atl_alm_keeper_small.ABC,ABC,v13,30,,OK
+MYPROJ\Models\Characters\atl_alm_warrior.ABC,ABC,v13,47,,OK
+MYPROJ\Models\Characters\atl_d_bug.ABC,ABC,v13,65,,OK
+MYPROJ\Models\Characters\atl_d_lizard.ABC,ABC,v13,56,,OK
+MYPROJ\Models\Characters\atl_d_morlock.ABC,ABC,v13,54,,OK
+MYPROJ\Models\Characters\atl_d_stone.ABC,ABC,v13,27,,OK
+MYPROJ\Models\Characters\atl_ehf_trooper.ABC,ABC,v13,35,,OK
+MYPROJ\Models\Characters\atl_ehm_trooper.ABC,ABC,v13,35,,OK
+MYPROJ\Models\Characters\atl_elf_trooper.ABC,ABC,v13,35,,OK
+MYPROJ\Models\Characters\atl_elm_air.abc,ABC,v13,3,,OK
+MYPROJ\Models\Characters\atl_elm_air_trooper.abc,ABC,v13,4,,OK
+MYPROJ\Models\Characters\atl_elm_trooper.abc,ABC,v13,35,,OK
+MYPROJ\Models\Characters\atl_elm_trooper.ltb,LTB wrap|ABC,Body v13,35,wrap; Container=3; FileType=4,OK
+MYPROJ\Models\Characters\atl_elv_air.ABC,ABC,v13,3,,OK
+MYPROJ\Models\Characters\atlantis_girl.ABC,ABC,v13,50,,OK
+MYPROJ\Models\Characters\propeller.ABC,ABC,v13,3,,OK
+MYPROJ\Models\Characters\staff_female.ABC,ABC,v13,8,,OK
+MYPROJ\Models\Characters\staff_male.ABC,ABC,v13,8,,OK
+MYPROJ\Models\Flags\atl_ctf_flag.ABC,ABC,v13,3,,OK
+MYPROJ\Models\Pickups\armor.ABC,ABC,v12,2,,OK
+MYPROJ\Models\Pickups\atl_journal_piece.ABC,ABC,v13,2,,OK
+MYPROJ\Models\Pickups\atl_king_armor.ABC,ABC,v13,2,,OK
+MYPROJ\Models\Pickups\atl_king_bouncer.ABC,ABC,v13,3,,OK
+MYPROJ\Models\Pickups\atl_king_energy.ABC,ABC,v13,2,,OK
+MYPROJ\Models\Pickups\atl_king_froster.ABC,ABC,v13,3,,OK
+MYPROJ\Models\Pickups\atl_king_goober.ABC,ABC,v13,3,,OK
+MYPROJ\Models\Pickups\atl_king_powershot.ABC,ABC,v13,2,,OK
+MYPROJ\Models\Pickups\atl_king_puffer.ABC,ABC,v13,3,,OK
+MYPROJ\Models\Pickups\atl_king_quickshot.ABC,ABC,v13,2,,OK
+MYPROJ\Models\Pickups\atl_king_shield.ABC,ABC,v13,2,,OK
+MYPROJ\Models\Pickups\atl_king_spinner.ABC,ABC,v13,3,,OK
+MYPROJ\Models\Pickups\atl_king_squincher.ABC,ABC,v13,3,,OK
+MYPROJ\Models\Pickups\atl_king_tingler.ABC,ABC,v13,8,,OK
+MYPROJ\Models\Pickups\atl_king_zoomer.ABC,ABC,v13,3,,OK
+MYPROJ\Models\Pickups\pkups.dat,,,,,Fehler: Unplausible DAT-Version 1128878140
+MYPROJ\Models\Vehicles\atl_elm_ground_body.abc,ABC,v13,8,,OK
+MYPROJ\Models\Vehicles\atl_elm_ground_spokes.abc,ABC,v13,8,,OK
+MYPROJ\Models\Vehicles\atl_elm_ground_wheel.ABC,ABC,v13,8,,OK
+MYPROJ\Models\Vehicles\atl_exp_light_water.ABC,ABC,v13,2,,OK
+MYPROJ\Models\Weapons\atl_alf_keeper_staff.abc,ABC,v13,8,,OK
+MYPROJ\Models\Weapons\atl_alm_keeper_staff.abc,ABC,v13,11,,OK
+MYPROJ\Models\Weapons\atl_elm_trooper_gun.ABC,ABC,v13,2,,OK
+MYPROJ\Models\Weapons\atl_pro_bouncer.ABC,ABC,v13,14,,OK
+MYPROJ\Models\Weapons\atl_pro_spinner.ABC,ABC,v13,5,,OK
+MYPROJ\Models\Weapons\ball.ABC,ABC,v13,4,,OK
+MYPROJ\Models\Weapons\gun.abc,ABC,v13,4,,OK
+MYPROJ\Models\Weapons\snow.abc,ABC,v13,2,,OK
+MYPROJ\Models\Weapons\torus.ABC,ABC,v13,2,,OK
+MYPROJ\Models\WorldObjects\BEDROLL.ABC,ABC,v13,2,,OK
+MYPROJ\Models\WorldObjects\LANTERN.ABC,ABC,v13,2,,OK
+MYPROJ\Models\WorldObjects\WASHPAN.ABC,ABC,v13,2,,OK
+MYPROJ\Models\WorldObjects\alt_prop_tent.ABC,ABC,v13,2,,OK
+MYPROJ\Models\WorldObjects\atl_prop_basiccrate.ABC,ABC,v13,2,,OK
+MYPROJ\Models\WorldObjects\atl_prop_bedroll.ABC,ABC,v13,2,,OK
+MYPROJ\Models\WorldObjects\atl_prop_lantern.ABC,ABC,v13,2,,OK
+MYPROJ\Models\WorldObjects\atl_prop_tnt.ABC,ABC,v13,2,,OK
+MYPROJ\Models\WorldObjects\atl_prop_washpan.ABC,ABC,v13,2,,OK
+MYPROJ\Models\atl_journal_a.abc,ABC,v13,2,,OK
+MYPROJ\Models\atl_journal_air.ABC,ABC,v13,2,,OK
+MYPROJ\Models\atl_journal_book.ABC,ABC,v13,2,,OK
+MYPROJ\Models\atl_journal_e.abc,ABC,v13,2,,OK
+MYPROJ\Models\atl_journal_earth.ABC,ABC,v13,2,,OK
+MYPROJ\Models\atl_journal_f.abc,ABC,v13,2,,OK
+MYPROJ\Models\atl_journal_fire.ABC,ABC,v13,2,,OK
+MYPROJ\Models\atl_journal_stone.ABC,ABC,v13,3,,OK
+MYPROJ\Models\atl_journal_w.abc,ABC,v13,2,,OK
+MYPROJ\Models\atl_journal_water.ABC,ABC,v13,2,,OK
+MYPROJ\Models\atl_snowball.ABC,ABC,v13,4,,OK
+MYPROJ\Models\ice_panel.ABC,ABC,v13,2,,OK
+MYPROJ\Models\sphere_1.ABC,ABC,v13,2,,OK
+MYPROJ\Worlds\grotto.dat,DAT,v66,,DAT v66,OK
+MYPROJ\Worlds\intro.dat,DAT,v66,,DAT v66,OK
+MYPROJ\Worlds\journal.dat,DAT,v66,,DAT v66,OK
+MYPROJ\Worlds\keep.dat,DAT,v66,,DAT v66,OK
+MYPROJ\Worlds\mp_ctf.dat,DAT,v66,,DAT v66,OK
+MYPROJ\Worlds\mp_tournament.dat,DAT,v66,,DAT v66,OK
+MYPROJ\Worlds\valley.dat,DAT,v66,,DAT v66,OK

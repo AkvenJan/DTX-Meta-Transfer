@@ -1,0 +1,9 @@
+file,format,version,nodes,notes,status
+filmplay\Models\ozhead.abc,ABCv6,v6,,,OK
+filmplay\Models\ozlegs.abc,ABCv6,v6,,,OK
+filmplay\Models\plaque.abc,ABCv6,v6,,,OK
+filmplay\Models\sandplinth.abc,ABCv6,v6,,,OK
+filmplay\Models\shelley2.abc,ABCv6,v6,,,OK
+filmplay\Models\wipehand.abc,ABCv6,v6,,,OK
+filmplay\Worlds\desertver3boxver3.dat,DAT,v57,,DAT v57,OK
+lfp.dat,,,,,Fehler: Unplausible DAT-Version 4217430994
